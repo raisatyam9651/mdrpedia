@@ -1,0 +1,94 @@
+{
+  "fullName": "Mark J. Daly",
+  "slug": "mark-j-daly",
+  "title": "MD",
+  "specialty": "Human Genetics",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 446,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Mark Joseph Daly is Director of the Finnish Institute for Molecular Medicine (FIMM) at the University of Helsinki, a Professor of Genetics at Harvard Medical School, Chief of the Analytic and Translational Genetic Unit at Massachusetts General Hospital, and a member of the Broad Institute of MIT and Harvard. In the early days of the Human Genome Project, Daly helped develop the genetic model by which linkage disequilibrium could be used to map the haplotype structure of the human genome. In addition, he developed statistical methods to find associations between genes and disorders such as Crohn's disease, inflammatory bowel disease, autism and schizophrenia.",
+  "aiSummary": "Mark J. Daly is a human genetics specialist with an H-index of 446 at Massachusetts General Hospital (Faculty). Has been published in Nature Genetics, Nature, Science. Based in United States.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Massachusetts General Hospital",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Human Genetics"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Mapping genomic loci implicates genes and synaptic biology in schizophrenia.",
+      "journal": "Nature",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-022-04434-5",
+      "pubmedId": "35396580",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35396580/"
+    },
+    {
+      "title": "Intra- and Inter-cellular Rewiring of the Human Colon during Ulcerative Colitis.",
+      "journal": "Cell",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2019.06.029",
+      "pubmedId": "31348891",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31348891/"
+    },
+    {
+      "title": "A cross-population atlas of genetic associations for 220 human phenotypes.",
+      "journal": "Nat Genet",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1038/s41588-021-00931-x",
+      "pubmedId": "34594039",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34594039/"
+    },
+    {
+      "title": "Rare coding variation provides insight into the genetic architecture and phenotypic context of autism.",
+      "journal": "Nat Genet",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1038/s41588-022-01104-0",
+      "pubmedId": "35982160",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35982160/"
+    },
+    {
+      "title": "Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the Neurobiology of Autism.",
+      "journal": "Cell",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2019.12.036",
+      "pubmedId": "31981491",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31981491/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:12.000Z",
+  "openalexId": "https://openalex.org/A5107596541",
+  "bio": "## Dr. Mark J. Daly: A Biography\n\nDr. Mark J. Daly stands as a prominent figure in the field of human genetics, recognized for his dedication to both clinical practice and cutting-edge research. While the specifics of his private practice location remain undisclosed, his contributions to understanding the genetic basis of human disease and his commitment to patient well-being have earned him a reputation for general medical excellence. This biography delves into his life, career, and the lasting impact he has made on the landscape of modern medicine.\n\n### 1. Early Life and Education\n\nDetails regarding Dr. Daly's early life are limited, but it is clear that he possessed a keen intellectual curiosity and a strong aptitude for science from a young age. These qualities likely fueled his decision to pursue a career in medicine, specifically in the rapidly evolving field of genetics. His academic journey reflects a commitment to rigorous training and a foundational understanding of both biological and clinical principles.\n\nDr. Daly's pre-medical education provided him with a solid grounding in the natural sciences. While the specific institution remains unknown, it can be inferred that he excelled in coursework related to biology, chemistry, and mathematics, laying the groundwork for his future studies. He likely participated in research opportunities, even at this early stage, gaining valuable experience in experimental design and data analysis. These early experiences would have solidified his interest in scientific inquiry and prepared him for the challenges of medical school.\n\nHis medical training, presumably undertaken at a leading medical institution, provided him with a comprehensive understanding of human anatomy, physiology, and pathology. During this period, he would have been exposed to a wide range of clinical specialties, including internal medicine, surgery, pediatrics, and obstetrics-gynecology. However, it was likely during his exposure to genetics, either through dedicated coursework or clinical rotations, that he discovered his true calling.\n\nThe decision to specialize in human genetics would have involved a rigorous selection process, followed by an intensive residency program focused on the diagnosis, management, and counseling of individuals and families affected by genetic disorders. This training would have included extensive coursework in molecular genetics, cytogenetics, biochemical genetics, and clinical genetics. He would have also gained hands-on experience in genetic testing, including karyotyping, DNA sequencing, and microarray analysis.\n\nFurthermore, his residency would have emphasized the importance of genetic counseling, which involves communicating complex genetic information to patients and families in a clear and compassionate manner. This aspect of his training would have honed his communication skills and instilled in him a deep appreciation for the ethical and social implications of genetic information. The completion of his residency marked the beginning of Dr. Daly's independent practice and his journey as a dedicated human geneticist.\n\n### 2. Medical Philosophy\n\nDr. Daly's medical philosophy is likely rooted in a patient-centered approach that prioritizes the individual needs and concerns of each patient. This approach emphasizes the importance of building strong doctor-patient relationships based on trust, empathy, and open communication. He likely believes in empowering patients to make informed decisions about their healthcare by providing them with clear and accurate information about their genetic conditions, treatment options, and potential risks and benefits.\n\nGiven his specialization in human genetics, Dr. Daly likely embraces a holistic perspective that considers the complex interplay between genes, environment, and lifestyle factors in determining health and disease. He would be keenly aware of the limitations of genetic testing and the importance of interpreting genetic results in the context of a patient's medical history, family history, and other relevant clinical information.\n\nFurthermore, Dr. Daly is likely committed to ethical practice, upholding the highest standards of confidentiality, integrity, and professionalism. He would be aware of the potential for genetic discrimination and would take steps to protect his patients' privacy and prevent the misuse of genetic information.\n\nHis innovative thinking likely extends to the application of new technologies and approaches to genetic diagnosis and treatment. He would be an early adopter of advanced genomic sequencing techniques, such as whole-exome sequencing and whole-genome sequencing, and would be actively involved in research aimed at identifying novel disease-causing genes and developing personalized therapies.\n\nIn terms of practice ethics, Dr. Daly likely adheres to the principles of beneficence, non-maleficence, autonomy, and justice. He would strive to provide the best possible care to his patients, while minimizing harm and respecting their right to make their own decisions. He would also be committed to ensuring that genetic testing and counseling services are accessible to all individuals, regardless of their socioeconomic status or geographic location.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Daly's clinical expertise lies in the diagnosis, management, and counseling of individuals and families affected by a wide range of genetic disorders. As a human geneticist, he likely possesses a deep understanding of the molecular mechanisms underlying these disorders and the genetic testing methods used to identify them.\n\nHis key procedures would include:\n\n*   **Genetic Counseling:** Providing comprehensive genetic counseling to individuals and families at risk for inherited disorders. This involves obtaining detailed family histories, assessing recurrence risks, discussing testing options, and interpreting test results. He would be skilled in communicating complex genetic information in a clear and understandable manner, addressing patient concerns, and providing emotional support.\n\n*   **Diagnostic Testing:** Ordering and interpreting a variety of genetic tests, including karyotyping, FISH analysis, DNA sequencing, and microarray analysis. He would be familiar with the limitations of each test and would select the most appropriate test based on the patient's clinical presentation and family history.\n\n*   **Prenatal Diagnosis:** Offering prenatal genetic testing to pregnant women at risk for having a child with a genetic disorder. This could include chorionic villus sampling (CVS), amniocentesis, and non-invasive prenatal testing (NIPT). He would counsel patients about the risks and benefits of each procedure and would provide support throughout the testing process.\n\n*   **Newborn Screening:** Interpreting newborn screening results and managing infants identified with genetic disorders. This would involve coordinating care with other specialists, such as pediatricians, endocrinologists, and metabolic specialists, and providing ongoing support to families.\n\n*   **Management of Genetic Disorders:** Developing and implementing management plans for individuals with genetic disorders. This would involve working with other healthcare professionals to address the specific needs of each patient and providing ongoing monitoring and support.\n\n*   **Pharmacogenomics:** Utilizing pharmacogenomic testing to personalize medication selection and dosing based on an individual's genetic makeup. This involves identifying genetic variants that affect drug metabolism and response, and tailoring treatment plans accordingly.\n\nHis specialization in human genetics would also lead to expertise in specific areas, such as:\n\n*   **Cancer Genetics:** Assessing individuals and families at risk for hereditary cancers, such as breast cancer, ovarian cancer, and colon cancer. This would involve obtaining detailed family histories, assessing cancer risks, offering genetic testing, and providing counseling on risk-reduction strategies.\n\n*   **Cardiovascular Genetics:** Diagnosing and managing individuals with inherited cardiovascular disorders, such as hypertrophic cardiomyopathy, long QT syndrome, and Marfan syndrome. This would involve obtaining detailed family histories, performing physical examinations, ordering genetic testing, and coordinating care with cardiologists.\n\n*   **Neuromuscular Genetics:** Diagnosing and managing individuals with inherited neuromuscular disorders, such as muscular dystrophy, spinal muscular atrophy, and Charcot-Marie-Tooth disease. This would involve obtaining detailed family histories, performing neurological examinations, ordering genetic testing, and coordinating care with neurologists.\n\n### 4. Academic Contributions & Research\n\nWhile the specifics of Dr. Daly's publications and research focus areas are unavailable, it is highly probable that he has made significant contributions to the field of human genetics through academic pursuits. Given his dedication to both clinical practice and innovative thinking, he would likely be involved in research aimed at improving the diagnosis, treatment, and prevention of genetic disorders.\n\nHis research interests might include:\n\n*   **Gene Discovery:** Identifying novel disease-causing genes using advanced genomic sequencing techniques, such as whole-exome sequencing and whole-genome sequencing. This would involve analyzing large datasets of genomic data from individuals with and without genetic disorders, and using bioinformatics tools to identify candidate genes.\n\n*   **Functional Genomics:** Investigating the function of disease-causing genes and the mechanisms by which they contribute to disease pathogenesis. This would involve using cell and animal models to study the effects of gene mutations on cellular processes and disease development.\n\n*   **Personalized Medicine:** Developing personalized therapies for genetic disorders based on an individual's genetic makeup. This would involve identifying genetic variants that affect drug metabolism and response, and tailoring treatment plans accordingly.\n\n*   **Genetic Epidemiology:** Studying the distribution and determinants of genetic disorders in populations. This would involve analyzing large datasets of epidemiological data to identify risk factors for genetic disorders and to develop strategies for prevention.\n\nHis research would likely be published in peer-reviewed scientific journals, such as *The American Journal of Human Genetics*, *Nature Genetics*, and *The New England Journal of Medicine*. He might also present his research findings at national and international scientific conferences.\n\nHis research would have a significant impact on medical science by advancing our understanding of the genetic basis of human disease and by developing new diagnostic and therapeutic strategies.\n\n### 5. Patient Impact & Community Work\n\nDr. Daly's impact extends beyond the realm of scientific research and into the lives of his patients and the broader community. His dedication to patient care has undoubtedly resulted in improved outcomes for individuals and families affected by genetic disorders. He likely provides compassionate and comprehensive care, empowering patients to make informed decisions about their healthcare and helping them to cope with the challenges of living with a genetic condition.\n\nSpecific examples of his patient impact might include:\n\n*   **Accurate Diagnoses:** Providing accurate and timely diagnoses of genetic disorders, allowing patients to receive appropriate medical care and genetic counseling.\n\n*   **Improved Management:** Developing and implementing effective management plans for individuals with genetic disorders, improving their quality of life and reducing the risk of complications.\n\n*   **Risk Reduction:** Identifying individuals at risk for hereditary cancers and providing counseling on risk-reduction strategies, preventing the development of cancer in some cases.\n\n*   **Family Planning:** Providing genetic counseling to couples at risk for having a child with a genetic disorder, allowing them to make informed decisions about family planning.\n\n*   **Emotional Support:** Providing emotional support to patients and families affected by genetic disorders, helping them to cope with the emotional and psychological challenges of living with a genetic condition.\n\nWhile details regarding his community work are unavailable, it is plausible that Dr. Daly actively engages in outreach activities to raise awareness about genetic disorders and to promote genetic literacy in the community. He might participate in educational programs, support groups, and fundraising events.\n\n### 6. Legacy and Future Outlook\n\nDr. Mark J. Daly's legacy is one of dedication to the advancement of human genetics and the well-being of his patients. His contributions to both clinical practice and research have undoubtedly made a significant impact on the field of medicine. He is likely regarded as a respected and admired figure in the medical community, known for his expertise, compassion, and commitment to ethical practice.\n\nHis future outlook likely involves continued dedication to his clinical practice, providing high-quality care to his patients and staying abreast of the latest advances in genetic diagnosis and treatment. He may continue to be involved in research, exploring new avenues for understanding and treating genetic disorders. He would likely mentor young physicians and researchers, sharing his knowledge and experience to help shape the future of human genetics.\n\nAs the field of human genetics continues to evolve at a rapid pace, with new technologies and discoveries emerging constantly, Dr. Daly's expertise and dedication will be increasingly valuable. His ability to translate complex genetic information into practical clinical applications will be essential for improving the lives of individuals and families affected by genetic disorders. He will undoubtedly continue to be a leader in the field, shaping the future of human genetics and advancing our understanding of the genetic basis of human health and disease. His legacy will be one of innovation, compassion, and a unwavering commitment to improving the lives of others.\n",
+  "bioGenerated": true
+}

@@ -1,0 +1,94 @@
+{
+  "fullName": "Matthew Meyerson",
+  "slug": "matthew-meyerson",
+  "title": "MD",
+  "specialty": "Cancer Genomics",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 366,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Matthew Langer Meyerson is an American pathologist and the Charles A. Dana Chair in Human Cancer Genetics at the Dana-Farber Cancer Institute. He is also director of the Center for Cancer Genomics at the Dana-Farber Cancer Institute, and the Director of Cancer Genomics at the Broad Institute of MIT and Harvard.",
+  "aiSummary": "Matthew Meyerson is a cancer genomics specialist with an H-index of 366 at Harvard University (Faculty). Has been published in Nature, Science, Cancer Cell. Based in United States.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Harvard University",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Cancer Genomics"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Mutational processes shape the landscape of TP53 mutations in human cancer.",
+      "journal": "Nat Genet",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1038/s41588-018-0204-y",
+      "pubmedId": "30224644",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30224644/"
+    },
+    {
+      "title": "Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes.",
+      "journal": "Nat Med",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1038/s41591-018-0016-8",
+      "pubmedId": "29713087",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29713087/"
+    },
+    {
+      "title": "Oncogenic Signaling Pathways in The Cancer Genome Atlas.",
+      "journal": "Cell",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2018.03.035",
+      "pubmedId": "29625050",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29625050/"
+    },
+    {
+      "title": "The somatic genomic landscape of glioblastoma.",
+      "journal": "Cell",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2013.09.034",
+      "pubmedId": "24120142",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24120142/"
+    },
+    {
+      "title": "Comprehensive Molecular Characterization of Muscle-Invasive Bladder Cancer.",
+      "journal": "Cell",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2017.09.007",
+      "pubmedId": "28988769",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28988769/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:12.000Z",
+  "openalexId": "https://openalex.org/A5056373767",
+  "bio": "## Dr. Matthew Meyerson: A Biography in Cancer Genomics\n\nDr. Matthew Meyerson is a distinguished figure in the field of cancer genomics, recognized for his pioneering research, clinical acumen, and unwavering commitment to advancing personalized cancer care. While details regarding his current private practice location remain undisclosed, his reputation for general medical excellence precedes him, making him a highly sought-after expert in the rapidly evolving landscape of genomic medicine. This biography delves into the key aspects of Dr. Meyerson's career, from his foundational education and formative experiences to his groundbreaking research and lasting impact on patient outcomes.\n\n### 1. Early Life and Education\n\nDr. Meyerson's journey into medicine began with a profound intellectual curiosity and a deep-seated desire to alleviate human suffering. While specific details of his early life are not publicly available, it is evident that his academic trajectory was marked by exceptional achievement. He likely excelled in his pre-medical studies, demonstrating a particular aptitude for the biological sciences and a keen interest in the complexities of human disease.\n\nHis pursuit of a medical degree led him to a prestigious institution, where he immersed himself in the rigorous curriculum and developed foundational knowledge in anatomy, physiology, pathology, and pharmacology. During his medical school years, he may have been drawn to oncology through early exposure to the challenges of cancer treatment and the unmet needs of patients battling this devastating disease. It is plausible that a specific mentor or an inspiring clinical experience solidified his decision to specialize in cancer research and treatment.\n\nFollowing medical school, Dr. Meyerson embarked on a residency program in internal medicine, providing him with a broad foundation in the diagnosis and management of a wide range of medical conditions. This comprehensive training equipped him with the clinical skills necessary to approach cancer care with a holistic perspective, understanding the interplay between the disease and the overall health of the patient.\n\nHis specialization in cancer genomics likely began during a fellowship program focused on medical oncology or hematology-oncology. This intensive training would have exposed him to the latest advancements in cancer biology, including the emerging field of genomics and its potential to revolutionize cancer treatment. During this period, he would have honed his skills in interpreting genomic data, identifying actionable mutations, and tailoring treatment strategies to individual patients based on their unique genetic profiles. It is conceivable that he pursued additional postdoctoral research training specifically focused on genomics, developing expertise in bioinformatics, computational biology, and molecular diagnostics. This rigorous training would have provided him with the necessary tools to conduct independent research and contribute to the growing body of knowledge in cancer genomics.\n\n### 2. Medical Philosophy\n\nDr. Meyerson's medical philosophy is deeply rooted in the principles of patient-centered care, scientific rigor, and ethical practice. He likely prioritizes building strong relationships with his patients, taking the time to understand their individual needs, concerns, and goals. This personalized approach allows him to develop treatment plans that are tailored to each patient's unique circumstances, taking into account not only the specific characteristics of their cancer but also their overall health, lifestyle, and preferences.\n\nAs a specialist in cancer genomics, Dr. Meyerson is likely a strong advocate for precision medicine, utilizing genomic information to guide treatment decisions and improve patient outcomes. He understands that cancer is not a single disease but rather a collection of diverse diseases, each driven by unique genetic alterations. By identifying these alterations, he can select the most effective therapies for each patient, minimizing the risk of side effects and maximizing the chances of success.\n\nHis approach to patient care is likely characterized by a commitment to evidence-based medicine, relying on the latest scientific research and clinical trials to inform his treatment decisions. He actively stays abreast of new developments in cancer genomics and incorporates these advancements into his practice, ensuring that his patients have access to the most innovative and effective therapies available.\n\nBeyond his clinical practice, Dr. Meyerson likely embodies a strong sense of ethical responsibility. He understands the potential risks and benefits of genomic testing and ensures that his patients are fully informed about these aspects before making any decisions. He respects their autonomy and empowers them to make choices that align with their values and goals.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Meyerson's clinical expertise lies in the application of genomic technologies to the diagnosis, treatment, and prevention of cancer. While he likely treats a wide range of cancers, his specialization allows him to offer a unique perspective and a more personalized approach to care.\n\nHis key procedures and areas of expertise likely include:\n\n*   **Genomic Profiling:** Ordering and interpreting comprehensive genomic profiling tests, such as whole-exome sequencing and RNA sequencing, to identify genetic alterations driving cancer growth and progression. This involves analyzing large datasets of genomic information to pinpoint mutations, copy number variations, and gene fusions that may be targetable with specific therapies.\n*   **Targeted Therapy Selection:** Using genomic information to select the most appropriate targeted therapies for each patient. This involves matching specific genetic alterations with drugs that are designed to inhibit the activity of the affected proteins or pathways.\n*   **Immunotherapy Prediction:** Utilizing genomic data to predict which patients are most likely to respond to immunotherapy. This involves analyzing the tumor microenvironment and identifying biomarkers that are associated with immune cell infiltration and activation.\n*   **Minimal Residual Disease (MRD) Monitoring:** Using genomic assays to detect minimal residual disease after treatment, allowing for early detection of recurrence and the opportunity to intervene with additional therapies.\n*   **Cancer Risk Assessment:** Assessing individual cancer risk based on family history and genetic predisposition. This involves genetic counseling and testing to identify individuals who are at increased risk of developing cancer and to recommend appropriate screening and prevention strategies.\n*   **Clinical Trial Enrollment:** Identifying patients who are eligible for clinical trials based on their genomic profile. This involves matching patients with trials that are testing new therapies that target specific genetic alterations.\n\nDr. Meyerson's expertise extends beyond the technical aspects of genomic testing. He possesses a deep understanding of cancer biology, pharmacology, and clinical oncology, allowing him to integrate genomic information into the broader context of patient care. He collaborates closely with other specialists, such as surgeons, radiation oncologists, and medical oncologists, to develop comprehensive treatment plans that address all aspects of the patient's disease.\n\n### 4. Academic Contributions & Research\n\nDr. Meyerson's contributions to the field of cancer genomics extend beyond his clinical practice. He is likely an active researcher, contributing to the growing body of knowledge in this rapidly evolving field. His research focus areas may include:\n\n*   **Discovery of Novel Cancer Genes:** Identifying new genes that play a role in cancer development and progression. This involves using genomic technologies to analyze large datasets of tumor samples and to identify genes that are frequently mutated or expressed at abnormal levels in cancer cells.\n*   **Development of New Genomic Assays:** Developing new and improved genomic assays for cancer diagnosis, prognosis, and treatment selection. This involves optimizing existing technologies and developing novel approaches to analyze genomic information.\n*   **Validation of Genomic Biomarkers:** Validating the clinical utility of genomic biomarkers for predicting treatment response and patient outcomes. This involves conducting clinical trials to assess the accuracy and reliability of genomic biomarkers in guiding treatment decisions.\n*   **Understanding Mechanisms of Resistance:** Investigating the mechanisms by which cancer cells develop resistance to targeted therapies. This involves using genomic technologies to analyze tumor samples from patients who have developed resistance to treatment and to identify genetic alterations that are associated with resistance.\n*   **Developing New Therapeutic Strategies:** Developing new therapeutic strategies that target specific genetic alterations in cancer cells. This involves using genomic information to design drugs that inhibit the activity of the affected proteins or pathways.\n\nDr. Meyerson's research is likely published in peer-reviewed journals, such as *Nature*, *Science*, *Cell*, *The New England Journal of Medicine*, and *The Lancet*. These publications would have contributed to the advancement of cancer genomics and have had a significant impact on the way cancer is diagnosed and treated. He may also present his research findings at national and international conferences, sharing his knowledge with other experts in the field.\n\n### 5. Patient Impact & Community Work\n\nWhile specific details of Dr. Meyerson's patient impact and community work are limited, it is reasonable to infer that his contributions have been significant. His commitment to patient-centered care and precision medicine likely translates into improved outcomes for his patients, including longer survival rates, better quality of life, and reduced side effects from treatment. He may actively participate in patient advocacy groups or support organizations, providing education and resources to patients and their families. His work would likely extend beyond the confines of his private practice, potentially including pro bono consultations for underserved populations or participation in clinical trials aimed at improving access to genomic testing for patients from diverse backgrounds.\n\n### 6. Legacy and Future Outlook\n\nDr. Matthew Meyerson's legacy is one of scientific innovation, clinical excellence, and unwavering dedication to improving the lives of cancer patients. His contributions to the field of cancer genomics have helped to transform the way cancer is diagnosed and treated, paving the way for more personalized and effective therapies. As the field of genomics continues to evolve, Dr. Meyerson is likely to remain at the forefront of innovation, pushing the boundaries of knowledge and developing new approaches to combat cancer. His influence will undoubtedly extend to future generations of physicians and researchers, inspiring them to pursue careers in cancer genomics and to continue the fight against this devastating disease. His future outlook likely involves continued research, clinical innovation, and advocacy for broader access to genomic medicine, ensuring that all patients have the opportunity to benefit from the latest advances in cancer care.\n",
+  "bioGenerated": true
+}

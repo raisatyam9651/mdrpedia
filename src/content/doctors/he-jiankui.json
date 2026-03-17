@@ -1,0 +1,97 @@
+{
+  "fullName": "He Jiankui",
+  "slug": "he-jiankui",
+  "title": "MD",
+  "specialty": "Genetics(Controversial case)First claimed CRISPR-edited embryos",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "UNRANKED",
+  "rankingScore": 22.6,
+  "hIndex": 10,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "He Jiankui  is a Chinese biophysicist known for his controversial first use of genome editing in humans in 2018. He was listed as one of Time's 100 most influential people of 2019, in the section \"Pioneers\". At the same time, he was widely condemned as a mad scientist.",
+  "aiSummary": "He Jiankui is a genetics(controversial case)first claimed crispr-edited embryos specialist with an H-index of 10 at SUSTech (Member). Has been published in Science Translational Medicine, Interdisciplinary Sciences Computational Life Sciences. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "SUSTech"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "SUSTech",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Genetics(Controversial case)First claimed CRISPR-edited embryos"
+  ],
+  "knowsAbout": [
+    "Gene editing ethics"
+  ],
+  "citations": [
+    {
+      "title": "Personalized clinical data screening: Special issue on health informatics.",
+      "journal": "Comput Biol Med",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1016/j.compbiomed.2015.04.005",
+      "pubmedId": "25921697",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25921697/"
+    },
+    {
+      "title": "Long range haplotyping of paired-homologous chromosomes by single-chromosome sequencing of a single cell.",
+      "journal": "Sci Rep",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1038/s41598-018-20069-x",
+      "pubmedId": "29374225",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29374225/"
+    },
+    {
+      "title": "Current challenges in the bioinformatics of single cell genomics.",
+      "journal": "Front Oncol",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.3389/fonc.2014.00007",
+      "pubmedId": "24478987",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24478987/"
+    },
+    {
+      "title": "Virtual Pharmacist: A Platform for Pharmacogenomics.",
+      "journal": "PLoS One",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1371/journal.pone.0141105",
+      "pubmedId": "26496198",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26496198/"
+    },
+    {
+      "title": "Hierarchical evolution of animal body plans.",
+      "journal": "Dev Biol",
+      "year": 2010,
+      "citationCount": 0,
+      "doi": "10.1016/j.ydbio.2009.09.038",
+      "pubmedId": "19799894",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/19799894/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/He_Jiankui_%28cropped%29.jpg/330px-He_Jiankui_%28cropped%29.jpg",
+  "openalexId": "https://openalex.org/A5109382677",
+  "bio": "## Biography of Dr. He Jiankui\n\nDr. He Jiankui, a name now inextricably linked with the ethical and scientific complexities of human genome editing, is a geneticist whose career trajectory took a dramatic and controversial turn. While initially recognized within academic circles for his work in gene sequencing and non-coding RNA, he is primarily known for his unprecedented and globally condemned claim of creating the first CRISPR-edited babies. His actions sparked a firestorm of ethical debate and scientific scrutiny, fundamentally altering the landscape of gene editing research. This biography aims to provide a comprehensive overview of his background, research, and the events that led to his notoriety, while acknowledging the profound ethical implications of his work.\n\n### 1. Early Life and Education\n\nBorn in Yongzhou, Hunan province, China, in 1984, He Jiankui displayed an early aptitude for science. He excelled in his studies, culminating in a Bachelor of Science degree in physics from the University of Science and Technology of China (USTC) in 2006. This initial focus on physics, while seemingly disparate from his later pursuits, provided him with a strong foundation in quantitative analysis and experimental design, skills that would prove valuable in his subsequent genetic research.\n\nFollowing his undergraduate studies, Dr. He Jiankui pursued further education in the United States. He earned a Master of Science degree in physics from Rice University in 2007. However, his academic interests shifted towards the burgeoning field of genetics, leading him to pursue a Doctor of Philosophy (PhD) in biophysics at Rice University under the supervision of Professor Michael Deem. His doctoral research focused on protein evolution and statistical analysis of genomic data. This period marked a crucial transition in his academic path, solidifying his expertise in genomics and laying the groundwork for his later work in gene editing.\n\nAfter completing his PhD in 2010, Dr. He Jiankui undertook postdoctoral research at Stanford University under the guidance of Professor Stephen Quake, a renowned bioengineer and pioneer in single-cell analysis and microfluidics. This experience exposed him to cutting-edge technologies and methodologies in genomics, further honing his skills in gene sequencing and analysis. His research at Stanford focused on developing novel technologies for DNA sequencing and early cancer detection. It was during this period that he likely gained exposure to the CRISPR-Cas9 gene editing technology, which was rapidly gaining prominence in the scientific community.\n\nThe combination of his diverse educational background, spanning physics, biophysics, and bioengineering, equipped Dr. He Jiankui with a unique skillset that allowed him to approach genetic research from a multidisciplinary perspective. This interdisciplinary training likely contributed to his innovative thinking and his willingness to explore unconventional applications of gene editing technology.\n\n### 2. Medical Philosophy\n\nWhile Dr. He Jiankui's actions are now viewed through the lens of the controversy surrounding his CRISPR-edited babies, understanding his stated medical philosophy is crucial for comprehending his motivations. He publicly framed his work as an attempt to prevent HIV transmission from parents to their children, portraying himself as a champion of public health. He argued that his research was aimed at developing a preventative measure against a devastating disease, particularly in populations where HIV prevalence is high.\n\nHowever, this stated rationale has been widely criticized. Critics argue that existing methods of preventing HIV transmission, such as antiretroviral therapy and pre-exposure prophylaxis (PrEP), are highly effective and ethically sound. Furthermore, the specific gene he targeted, CCR5, is not essential for survival and targeting it carries potential risks of off-target effects and unforeseen consequences.\n\nDr. He Jiankui's actions also revealed a disregard for established ethical guidelines and regulatory frameworks governing human gene editing research. He bypassed standard peer review processes, failed to obtain proper informed consent from the participants in his study, and conducted his research in secrecy, raising serious concerns about transparency and accountability. His apparent willingness to prioritize scientific advancement over ethical considerations and patient safety has been a central point of criticism.\n\nHis approach to patient care, as evidenced by the lack of transparency and informed consent, can be characterized as paternalistic and lacking in respect for patient autonomy. He appears to have believed that his scientific expertise justified overriding ethical norms and regulatory requirements. This disregard for ethical principles ultimately undermined the potential benefits of his research and led to widespread condemnation.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. He Jiankui's primary technical expertise revolved around gene sequencing and gene editing, particularly utilizing the CRISPR-Cas9 system. He possessed a strong understanding of molecular biology, genomics, and bioinformatics, allowing him to design and execute complex gene editing experiments.\n\nHis claimed clinical procedure involved the following key steps:\n\n1.  **In vitro fertilization (IVF):** Eggs were retrieved from the mother and fertilized with sperm from the father in a laboratory setting.\n2.  **CRISPR-Cas9 editing:** The CRISPR-Cas9 system was introduced into the fertilized eggs, with the aim of disrupting the CCR5 gene. The CCR5 gene encodes a protein that HIV uses to enter cells.\n3.  **Embryo implantation:** The edited embryos were implanted into the mother's uterus in an attempt to establish a pregnancy.\n\nThe effectiveness and safety of this procedure have been heavily questioned. The editing process is prone to off-target effects, meaning that the CRISPR-Cas9 system can inadvertently edit other genes besides the intended target. This can lead to unintended mutations and potentially harmful consequences for the developing embryo. Furthermore, the mosaicism, where some cells are edited and others are not, was observed in the edited embryos, raising further concerns about the long-term effects of the gene editing.\n\nDr. He Jiankui's claimed expertise in clinical application of CRISPR was challenged by the fact that he was not a medical doctor and lacked clinical experience in reproductive medicine. The ethical concerns were compounded by the fact that the procedure was performed in secrecy, without proper oversight or regulatory approval.\n\n### 4. Academic Contributions & Research\n\nPrior to the CRISPR controversy, Dr. He Jiankui had a relatively modest, albeit respectable, academic record. His research focused primarily on gene sequencing and non-coding RNA. He published several papers in peer-reviewed journals, including *Nature Biotechnology* and *Genome Research*, on topics such as developing new DNA sequencing technologies and analyzing the function of non-coding RNAs.\n\nHis research at Stanford University focused on developing new technologies for DNA sequencing and early cancer detection, contributing to the advancement of genomic technologies. He also founded several biotech companies in China, focusing on developing diagnostic tools and genetic testing services.\n\nHowever, his academic contributions are now overshadowed by the ethical implications of his CRISPR-edited babies experiment. The scientific community has largely distanced itself from his work, and his publications are viewed with skepticism due to the lack of transparency and ethical oversight in his research.\n\nHis research on gene editing, while technically advanced, lacked the rigorous ethical and scientific scrutiny required for human application. His failure to adhere to established ethical guidelines and regulatory frameworks has damaged the reputation of the entire field of gene editing and has raised serious concerns about the responsible development and application of this powerful technology.\n\n### 5. Patient Impact & Community Work\n\nThe direct patient impact of Dr. He Jiankui's work is limited to the twin girls who were born as a result of his CRISPR-edited embryos. The long-term health consequences for these children are unknown, and they will require lifelong monitoring to assess the impact of the gene editing on their development and well-being. The secrecy surrounding the project also makes it difficult to assess the full impact on the families involved.\n\nBeyond the immediate impact on the children and their families, Dr. He Jiankui's actions have had a significant impact on the wider scientific community and the public perception of gene editing. His actions have sparked a global debate about the ethical boundaries of human gene editing and the need for stricter regulation and oversight.\n\nHis work has also led to increased public awareness of the potential risks and benefits of gene editing technology. While some view gene editing as a promising tool for treating and preventing diseases, others are concerned about the potential for misuse and the ethical implications of altering the human genome.\n\n### 6. Legacy and Future Outlook\n\nDr. He Jiankui's legacy is undeniably controversial. He is now primarily known for his ethically questionable experiment involving CRISPR-edited babies, an act that has been widely condemned by the scientific community and has resulted in his imprisonment in China. His actions have raised profound ethical questions about the responsible use of gene editing technology and have highlighted the need for stricter regulations and oversight.\n\nHis future outlook is uncertain. He was released from prison in 2022. While he has expressed interest in resuming research, his scientific credibility has been severely damaged, and it is unlikely that he will be able to regain the trust of the scientific community. His case serves as a cautionary tale about the dangers of unchecked scientific ambition and the importance of adhering to ethical principles in research.\n\nHis actions have had a lasting impact on the field of gene editing, prompting increased scrutiny and regulation of human germline editing research. The scientific community is now more aware of the ethical risks associated with gene editing and is working to develop guidelines and frameworks to ensure that this powerful technology is used responsibly and ethically. The shadow of his actions will likely loom large over the field of gene editing for years to come, serving as a constant reminder of the potential consequences of ethical lapses and the importance of responsible innovation.\n",
+  "bioGenerated": true
+}

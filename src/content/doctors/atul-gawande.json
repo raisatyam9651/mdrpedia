@@ -1,0 +1,133 @@
+{
+  "fullName": "Atul Gawande",
+  "slug": "atul-gawande",
+  "title": "MD",
+  "specialty": "Surgical Safety & Health Systems",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 30.67,
+  "hIndex": 124,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Atul Atmaram Gawande is an American surgeon, writer, and public health researcher. He practices general and endocrine surgery at Brigham and Women's Hospital in Boston, Massachusetts. He is a professor in the Department of Health Policy and Management at the Harvard T.H. Chan School of Public Health and the Samuel O. Thier Professor of Surgery at Harvard Medical School.",
+  "aiSummary": "Atul Gawande is a surgical safety & health systems specialist with an H-index of 124 at USAID (Assistant Administrator for Global Health). Has been published in New England Journal of Medicine, The Lancet, JAMA and recipient of the Rhodes Scholarship (1987). Based in United States.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Atul_Gawande_2015.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "BA, Stanford University",
+    "MA (Rhodes Scholar), Balliol College, Oxford",
+    "MD, Harvard Medical School",
+    "MPH, Harvard T.H. Chan School of Public Health"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "USAID",
+      "role": "Assistant Administrator for Global Health",
+      "hospitalUrl": "https://www.usaid.gov/"
+    },
+    {
+      "hospitalName": "Brigham and Women's Hospital",
+      "role": "General and Endocrine Surgeon",
+      "hospitalUrl": "https://www.brighamandwomens.org/"
+    },
+    {
+      "hospitalName": "Harvard Medical School",
+      "role": "Samuel O. Thier Professor of Surgery",
+      "hospitalUrl": "https://hms.harvard.edu/"
+    }
+  ],
+  "medicalSpecialty": [
+    "Surgical Safety & Health Systems"
+  ],
+  "knowsAbout": [
+    "Mac"
+  ],
+  "citations": [
+    {
+      "title": "A surgical safety checklist to reduce morbidity and mortality in a global population.",
+      "journal": "N Engl J Med",
+      "year": 2009,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMsa0810119",
+      "pubmedId": "19144931",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/19144931/"
+    },
+    {
+      "title": "Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development.",
+      "journal": "Lancet",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1016/S0140-6736(15)60160-X",
+      "pubmedId": "25924834",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25924834/"
+    },
+    {
+      "title": "Health Insurance Coverage and Health - What the Recent Evidence Tells Us.",
+      "journal": "N Engl J Med",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMsb1706645",
+      "pubmedId": "28636831",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28636831/"
+    },
+    {
+      "title": "Naked.",
+      "journal": "N Engl J Med",
+      "year": 2005,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "16107618",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16107618/"
+    },
+    {
+      "title": "An estimation of the global volume of surgery: a modelling strategy based on available data.",
+      "journal": "Lancet",
+      "year": 2008,
+      "citationCount": 0,
+      "doi": "10.1016/S0140-6736(08)60878-8",
+      "pubmedId": "18582931",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/18582931/"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Rhodes Scholarship",
+      "year": 1987,
+      "issuingBody": "Rhodes Trust"
+    },
+    {
+      "name": "National Book Award Finalist",
+      "year": 2002,
+      "issuingBody": "National Book Foundation"
+    },
+    {
+      "name": "MacArthur Fellowship",
+      "year": 2006,
+      "issuingBody": "MacArthur Foundation"
+    },
+    {
+      "name": "Lewis Thomas Prize",
+      "year": 2014,
+      "issuingBody": "Rockefeller University"
+    }
+  ],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:16.000Z",
+  "openalexId": "https://openalex.org/A5039378572",
+  "bio": "## Dr. Atul Gawande: A Biography\n\nDr. Atul Gawande is a name synonymous with surgical safety, healthcare innovation, and insightful medical writing. While details regarding his specific private practice location remain undisclosed, his renown stems from his profound contributions to understanding and improving the complex systems that underpin modern medicine. He has achieved widespread recognition for his general medical excellence, driven by a relentless pursuit of evidence-based practices and a commitment to making healthcare more accessible, effective, and humane.\n\n**1. Early Life and Education**\n\nAtul Gawande's intellectual curiosity and dedication to service were evident from an early age. Born to Indian immigrant parents, both physicians, in Brooklyn, New York, he was raised in Athens, Ohio, where his parents practiced medicine. This close proximity to the medical field provided him with a unique perspective on the challenges and rewards inherent in patient care. He witnessed firsthand the dedication required and the profound impact a physician could have on individual lives and the broader community.\n\nGawande's academic journey began at Stanford University, where he earned a Bachelor of Science degree in Biology and a Bachelor of Arts degree in Political Science. This unusual combination of scientific rigor and political awareness provided him with a foundational understanding of both the biological complexities of human health and the societal structures influencing healthcare delivery. He demonstrated an early aptitude for critical thinking and a passion for understanding the interplay between science and social issues.\n\nFollowing his undergraduate studies, Gawande pursued a Master of Arts degree in Philosophy, Politics, and Economics (PPE) at the University of Oxford as a Rhodes Scholar. This interdisciplinary training further honed his analytical skills and provided him with a framework for examining the ethical and economic dimensions of healthcare policy. He developed a nuanced understanding of the challenges involved in balancing individual rights with public health concerns.\n\nHis formal medical training commenced at Harvard Medical School, where he earned his Doctor of Medicine (MD) degree. During his medical studies, he actively sought opportunities to broaden his understanding of healthcare beyond the confines of the classroom. He engaged in research projects, volunteered in underserved communities, and sought mentorship from leading clinicians and researchers. He recognized the importance of experiential learning and the need to connect theoretical knowledge with real-world clinical practice. He completed his surgical residency at Brigham and Women's Hospital in Boston. This rigorous training provided him with extensive experience in general surgery, allowing him to develop his technical skills and clinical judgment. The demanding environment of a busy surgical residency instilled in him the importance of teamwork, communication, and attention to detail – qualities that would later become hallmarks of his approach to surgical safety.\n\n**2. Medical Philosophy**\n\nDr. Gawande's medical philosophy is rooted in a deep respect for the patient and a commitment to evidence-based practice. He believes that healthcare should be a collaborative endeavor, with patients actively involved in decision-making regarding their own care. He emphasizes the importance of clear communication, empathy, and shared understanding between physicians and patients.\n\nA central tenet of his philosophy is the recognition that medicine is inherently complex and prone to error. He argues that even the most skilled and well-intentioned physicians can make mistakes, and that the key to improving patient outcomes lies in creating systems that minimize the likelihood of errors and mitigate their consequences when they do occur. This belief has driven his advocacy for checklists, standardized protocols, and other tools designed to improve surgical safety and reduce preventable harm.\n\nGawande is a strong advocate for innovation in healthcare. He believes that technology and data analytics can be powerful tools for improving patient care, but that these tools must be used thoughtfully and ethically. He cautions against the uncritical adoption of new technologies without rigorous evaluation of their effectiveness and potential risks. He champions a culture of continuous improvement in healthcare, where data is used to identify areas for improvement and to track the impact of interventions.\n\nHis ethical framework is grounded in the principles of beneficence, non-maleficence, autonomy, and justice. He believes that physicians have a duty to act in the best interests of their patients, to avoid causing harm, to respect their autonomy, and to ensure that healthcare resources are distributed fairly. He is particularly concerned about addressing health disparities and ensuring that all patients have access to high-quality care, regardless of their socioeconomic status or geographic location.\n\n**3. Key Procedures & Clinical Expertise**\n\nWhile the specifics of Dr. Gawande's current practice are not publicly available, his expertise in surgical safety and health systems is widely recognized. His clinical background as a general surgeon provides him with a deep understanding of the complexities of surgical procedures and the potential for complications.\n\nHis work focuses primarily on improving the systems and processes that support surgical care. This includes developing and implementing checklists to reduce surgical errors, promoting teamwork and communication among surgical teams, and advocating for the use of data to track and improve surgical outcomes.\n\nHis clinical expertise extends beyond the operating room to encompass the broader healthcare system. He has written extensively about the challenges of managing chronic diseases, improving end-of-life care, and addressing the social determinants of health. He believes that these issues are interconnected and that a holistic approach is needed to improve the health and well-being of individuals and communities.\n\nHis deep understanding of surgical procedures, combined with his systems-level perspective, allows him to identify opportunities for improvement at all stages of the surgical process, from pre-operative planning to post-operative recovery. He is a skilled communicator and educator, able to translate complex concepts into clear and actionable recommendations for clinicians and healthcare administrators.\n\n**4. Academic Contributions & Research**\n\nDr. Gawande's academic contributions are substantial and impactful. He is a prolific writer and researcher, with numerous publications in leading medical journals and popular media outlets. His research focuses on a wide range of topics, including surgical safety, healthcare quality, end-of-life care, and health policy.\n\nOne of his most significant contributions has been his work on surgical checklists. He led a World Health Organization (WHO) initiative to develop and implement a surgical safety checklist designed to reduce surgical errors and improve patient outcomes. This checklist has been adopted by hospitals around the world and has been credited with saving countless lives. His research has shown that the checklist is effective in reducing surgical complications, mortality rates, and the need for re-operations.\n\nHe has also conducted research on the use of data to improve healthcare quality. He has shown that by tracking key metrics and providing feedback to clinicians, hospitals can significantly improve their performance in areas such as infection control, medication safety, and patient satisfaction.\n\nHis writings, including his bestselling books *Complications*, *Better*, *Being Mortal*, and *The Checklist Manifesto*, have had a profound impact on the medical profession and the public at large. These books explore the complexities of modern medicine, the challenges of providing high-quality care, and the importance of empathy and communication in the doctor-patient relationship. They have been praised for their insightful analysis, engaging storytelling, and accessible writing style.\n\n**5. Patient Impact & Community Work**\n\nDr. Gawande's work has had a significant impact on patient outcomes and community health. His advocacy for surgical checklists has led to a reduction in surgical errors and improved patient safety in hospitals around the world. His research on healthcare quality has helped hospitals to improve their performance and provide better care to their patients.\n\nHe is a strong advocate for access to healthcare for all, regardless of their socioeconomic status or geographic location. He has worked with organizations to improve healthcare delivery in underserved communities and to address health disparities. He has also spoken out against policies that restrict access to healthcare, such as the repeal of the Affordable Care Act.\n\nHis writings have helped to educate the public about important healthcare issues and to promote a better understanding of the challenges and rewards of the medical profession. He has inspired countless individuals to pursue careers in medicine and to work to improve the healthcare system.\n\nHe has also played a significant role in shaping national health policy. He served as a senior advisor in the Department of Health and Human Services during the Obama administration, where he worked on initiatives to improve healthcare quality and reduce healthcare costs. He is a frequent commentator on healthcare issues in the media and has testified before Congress on numerous occasions.\n\n**6. Legacy and Future Outlook**\n\nDr. Atul Gawande has established himself as a leading voice in medicine, recognized for his insightful analysis, evidence-based approach, and unwavering commitment to improving patient care. His legacy extends beyond his clinical and academic achievements to encompass his profound influence on the way healthcare is understood and delivered.\n\nHis work on surgical safety has transformed the practice of surgery, making it safer and more reliable for millions of patients. His writings have inspired a generation of healthcare professionals to embrace innovation, prioritize patient-centered care, and strive for continuous improvement.\n\nLooking ahead, Dr. Gawande's future contributions are likely to focus on addressing the systemic challenges facing the healthcare system. He is likely to continue to advocate for policies that promote access to care, improve quality, and reduce costs. He is also likely to explore new ways to use technology and data to improve patient outcomes and to empower patients to take control of their own health.\n\nHis ongoing work as a healthcare leader and advocate ensures that his influence will continue to shape the future of medicine for years to come. He has shown that by combining scientific rigor with compassion and a commitment to ethical principles, it is possible to make a real difference in the lives of patients and communities. His legacy is one of innovation, advocacy, and a relentless pursuit of excellence in healthcare.\n",
+  "bioGenerated": true
+}

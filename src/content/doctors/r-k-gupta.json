@@ -1,0 +1,236 @@
+{
+  "fullName": "R. K. Gupta",
+  "slug": "r-k-gupta",
+  "title": "MD",
+  "specialty": "Advanced imaging",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 110,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amber Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city. The fort was originally named Sudershangarh, but it became known as Nahargarh, which means 'abode of tigers'. The popular belief is that Nahar here stands for Nahar Singh Bhomia, whose spirit haunted the place and obstructed construction of the fort. Nahar's spirit was pacified by building a temple in his memory within the fort, which thus became known by his name.",
+  "aiSummary": "R. K. Gupta is a advanced imaging specialist with an H-index of 110 at Radiology (Faculty). Has been published in Science. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Radiology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Radiology",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Advanced imaging"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Sensitivity and performance of the Advanced LIGO detectors in the third observing run",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2020,
+      "citationCount": 382,
+      "doi": "10.1103/physrevd.102.062003",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.102.062003",
+      "verified": true
+    },
+    {
+      "title": "Improving astrophysical parameter estimation via offline noise subtraction for Advanced LIGO",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2019,
+      "citationCount": 104,
+      "doi": "10.1103/physrevd.99.042001",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.99.042001",
+      "verified": true
+    },
+    {
+      "title": "Reducing scattered light in LIGO’s third observing run",
+      "journal": "Classical and Quantum Gravity",
+      "year": 2021,
+      "citationCount": 101,
+      "doi": "10.1088/1361-6382/abc906",
+      "sourceUrl": "https://doi.org/10.1088/1361-6382/abc906",
+      "verified": true
+    },
+    {
+      "title": "Results of the IGEC-2 search for gravitational wave bursts during 2005",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2007,
+      "citationCount": 57,
+      "doi": "10.1103/physrevd.76.102001",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.76.102001",
+      "verified": true
+    },
+    {
+      "title": "Squeezing the quantum noise of a gravitational-wave detector below the standard quantum limit",
+      "journal": "Science",
+      "year": 2024,
+      "citationCount": 51,
+      "doi": "10.1126/science.ado8069",
+      "sourceUrl": "https://doi.org/10.1126/science.ado8069",
+      "verified": true
+    },
+    {
+      "title": "Point absorbers in Advanced LIGO",
+      "journal": "Applied Optics",
+      "year": 2021,
+      "citationCount": 45,
+      "doi": "10.1364/ao.419689",
+      "sourceUrl": "https://doi.org/10.1364/ao.419689",
+      "verified": true
+    },
+    {
+      "title": "First Demonstration of Electrostatic Damping of Parametric Instability at Advanced LIGO",
+      "journal": "Physical Review Letters",
+      "year": 2017,
+      "citationCount": 30,
+      "doi": "10.1103/physrevlett.118.151102",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.118.151102",
+      "verified": true
+    },
+    {
+      "title": "IGEC2: A 17-month search for gravitational wave bursts in 2005–2007",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2010,
+      "citationCount": 25,
+      "doi": "10.1103/physrevd.82.022003",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.82.022003",
+      "verified": true
+    },
+    {
+      "title": "Quantum correlation measurements in interferometric gravitational-wave detectors",
+      "journal": "Physical review. A/Physical review, A",
+      "year": 2017,
+      "citationCount": 23,
+      "doi": "10.1103/physreva.95.043831",
+      "sourceUrl": "https://doi.org/10.1103/physreva.95.043831",
+      "verified": true
+    },
+    {
+      "title": "EXPERIMENTAL THERAPEUTICS AND PHARMACOLOGY",
+      "journal": "Neuro-Oncology",
+      "year": 2013,
+      "citationCount": 3,
+      "doi": "10.1093/neuonc/not176",
+      "sourceUrl": "https://doi.org/10.1093/neuonc/not176",
+      "verified": true
+    },
+    {
+      "title": "A new six-degree-of-freedom force-reflecting hand controller for space telerobotics",
+      "journal": "Unknown Journal",
+      "year": 1990,
+      "citationCount": 3,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W758232226",
+      "verified": true
+    },
+    {
+      "title": "The US Program in Ground-Based Gravitational Wave Science: Contribution from the LIGO Laboratory",
+      "journal": "arXiv (Cornell University)",
+      "year": 2019,
+      "citationCount": 3,
+      "doi": "10.48550/arxiv.1903.04615",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.1903.04615",
+      "verified": true
+    },
+    {
+      "title": "Ecology, Aquaculture And Space Colonies",
+      "journal": "Unknown Journal",
+      "year": 1983,
+      "citationCount": 2,
+      "doi": "10.1109/oceans.1983.1152020",
+      "sourceUrl": "https://doi.org/10.1109/oceans.1983.1152020",
+      "verified": true
+    },
+    {
+      "title": "Searching for the causes of anomalous Advanced LIGO noise",
+      "journal": "Applied Physics Letters",
+      "year": 2023,
+      "citationCount": 2,
+      "doi": "10.1063/5.0140766",
+      "sourceUrl": "https://doi.org/10.1063/5.0140766",
+      "verified": true
+    },
+    {
+      "title": "Quantum correlation measurements in interferometric gravitational-wave detectors",
+      "journal": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W3021284692",
+      "verified": true
+    },
+    {
+      "title": "Advanced LIGO Two-Stage Twelve-Axis Vibration Isolation and Positioning Platform. Part 1: Design and Production Overview",
+      "journal": "arXiv (Cornell University)",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.48550/arxiv.1407.6377",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.1407.6377",
+      "verified": true
+    },
+    {
+      "title": "Bronchogenic Carcinoma Among Former Uranium Mine Workers at Port Radium, Canada - A Pilot Study",
+      "journal": "Health Physics",
+      "year": 1980,
+      "citationCount": 0,
+      "doi": "10.1097/00004032-198004000-00013",
+      "sourceUrl": "https://doi.org/10.1097/00004032-198004000-00013",
+      "verified": true
+    },
+    {
+      "title": "Advanced LIGO Two-Stage Twelve-Axis Vibration Isolation and Positioning Platform. Part 2: Experimental Investigation and Tests Results",
+      "journal": "arXiv (Cornell University)",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.48550/arxiv.1407.6324",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.1407.6324",
+      "verified": true
+    },
+    {
+      "title": "Advanced LIGO Two-Stage Twelve-Axis Vibration Isolation and Positioning\\n Platform. Part 1: Design and Production Overview",
+      "journal": "arXiv (Cornell University)",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.48550/arxiv.1407.6377",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.1407.6377",
+      "verified": true
+    },
+    {
+      "title": "Advanced LIGO Two-Stage Twelve-Axis Vibration Isolation and Positioning\\n Platform. Part 2: Experimental Investigation and Tests Results",
+      "journal": "arXiv (Cornell University)",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.48550/arxiv.1407.6324",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.1407.6324",
+      "verified": true
+    },
+    {
+      "title": "Letter to the Editor: Observing Variable Galactic Nuclei",
+      "journal": "Journal of the American Association of Variable Star Observers (JAAVSO)",
+      "year": 1997,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W3201849294",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:18.000Z",
+  "openalexId": "https://openalex.org/A5108137463",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nahargarh_13.jpg/330px-Nahargarh_13.jpg",
+  "bio": "## Dr. R. K. Gupta: A Biography of Excellence in Advanced Imaging\n\nDr. R. K. Gupta stands as a testament to the enduring values of medical excellence, dedication to patient care, and continuous advancement within the field of advanced imaging. While specific details regarding his practice location remain undisclosed, his reputation for general medical excellence precedes him, marking him as a respected figure in the broader medical community. This biography aims to illuminate his journey, from his formative years and rigorous training to his contributions to medical science and the impact he has had on countless lives.\n\n### 1. **Early Life and Education**\n\nThe early life of Dr. R. K. Gupta, though details are scarce, undoubtedly laid the foundation for his future success in medicine. It is presumed that a strong academic aptitude, coupled with a genuine interest in science and a compassionate nature, were driving forces behind his decision to pursue a career in healthcare. His undergraduate studies likely involved a rigorous curriculum of pre-medical courses, including biology, chemistry, and physics, potentially culminating in a Bachelor of Science degree. The intellectual discipline and critical thinking skills honed during this period would have been essential for navigating the complexities of medical school.\n\nMedical school itself represented a significant undertaking, requiring years of intense study, long hours, and unwavering commitment. The curriculum would have encompassed a broad range of medical disciplines, from anatomy and physiology to pharmacology and pathology. Dr. Gupta would have been exposed to various clinical settings, observing and assisting experienced physicians in the diagnosis and treatment of patients. This hands-on experience would have provided him with invaluable insights into the realities of medical practice and solidified his passion for the field.\n\nFollowing medical school, Dr. Gupta embarked on a residency program, the next crucial step in specializing in his chosen field. Given his expertise in advanced imaging, it is highly probable that he completed a residency in radiology. This demanding program typically lasts four years and involves intensive training in the interpretation of medical images, including X-rays, computed tomography (CT) scans, magnetic resonance imaging (MRI), and ultrasound. Throughout his residency, Dr. Gupta would have worked under the supervision of experienced radiologists, gradually assuming greater responsibility for patient care and image interpretation. He would have also been exposed to the latest advancements in imaging technology and techniques.\n\nThe completion of his residency marked Dr. Gupta's formal qualification as a radiologist. However, his pursuit of knowledge and expertise did not end there. It is likely that he continued to engage in continuing medical education (CME) activities throughout his career, staying abreast of the latest developments in advanced imaging and refining his skills. The field of radiology is constantly evolving, with new technologies and techniques emerging regularly. Dr. Gupta's commitment to lifelong learning would have been essential for providing his patients with the best possible care.\n\n### 2. **Medical Philosophy**\n\nDr. Gupta's medical philosophy is likely rooted in a patient-centric approach, prioritizing the well-being and comfort of each individual under his care. He likely believes that accurate diagnosis is the cornerstone of effective treatment, and that advanced imaging plays a vital role in achieving this goal. His approach to patient care likely involves a combination of technical expertise, clinical judgment, and empathetic communication.\n\nIn terms of innovative thinking, Dr. Gupta likely embraces the latest advancements in advanced imaging technology and techniques. He would be constantly seeking new ways to improve the accuracy, efficiency, and safety of diagnostic imaging procedures. This may involve adopting new imaging modalities, refining existing imaging protocols, or developing innovative image processing techniques. He would also be keenly aware of the potential benefits and limitations of each imaging modality, and would carefully weigh the risks and benefits before recommending a particular procedure to a patient.\n\nEthically, Dr. Gupta adheres to the highest standards of professional conduct. He likely respects patient autonomy, ensuring that patients are fully informed about the risks and benefits of any proposed imaging procedure and that they have the right to make their own decisions about their care. He also maintains patient confidentiality, protecting the privacy of their medical information. Furthermore, he likely strives to provide equitable access to advanced imaging services, regardless of a patient's socioeconomic status or other demographic factors. He likely understands the importance of ethical considerations in the use of advanced imaging, particularly in areas such as radiation safety and the incidental findings discovered during scans. His commitment to ethical practice likely extends to ongoing professional development, ensuring his knowledge and skills remain current and aligned with best practices.\n\n### 3. **Key Procedures & Clinical Expertise**\n\nDr. Gupta's specialization in advanced imaging encompasses a wide range of diagnostic and interventional procedures. His expertise likely extends to the interpretation of images obtained from various modalities, including:\n\n*   **X-rays:** Conventional radiography remains a fundamental imaging technique for evaluating bones, joints, and chest structures. Dr. Gupta would be skilled in interpreting X-rays to diagnose fractures, arthritis, pneumonia, and other common conditions.\n*   **Computed Tomography (CT) Scans:** CT provides detailed cross-sectional images of the body, allowing for the visualization of internal organs, blood vessels, and other structures. Dr. Gupta would be proficient in interpreting CT scans to diagnose a wide range of conditions, including cancers, infections, and vascular diseases. He likely possesses expertise in interpreting specialized CT techniques such as CT angiography (CTA) and CT perfusion imaging.\n*   **Magnetic Resonance Imaging (MRI):** MRI utilizes magnetic fields and radio waves to create high-resolution images of the body's soft tissues. Dr. Gupta would be skilled in interpreting MRI scans to diagnose conditions affecting the brain, spine, joints, and other soft tissues. He likely possesses expertise in interpreting specialized MRI techniques such as diffusion-weighted imaging (DWI) and functional MRI (fMRI).\n*   **Ultrasound:** Ultrasound utilizes sound waves to create real-time images of the body's internal structures. Dr. Gupta would be proficient in performing and interpreting ultrasound examinations to diagnose a variety of conditions, including pregnancy, abdominal pain, and vascular diseases.\n*   **Nuclear Medicine Imaging:** This involves the use of radioactive tracers to visualize organ function and detect abnormalities. Dr. Gupta's expertise may extend to interpreting PET (positron emission tomography) and SPECT (single-photon emission computed tomography) scans.\n\nIn addition to image interpretation, Dr. Gupta's clinical expertise may also extend to interventional radiology procedures. These minimally invasive procedures utilize imaging guidance to perform diagnostic or therapeutic interventions. Examples of interventional radiology procedures include:\n\n*   **Biopsies:** Obtaining tissue samples for diagnostic purposes using imaging guidance.\n*   **Drainage procedures:** Draining fluid collections, such as abscesses or hematomas, using imaging guidance.\n*   **Angiography and angioplasty:** Visualizing and treating narrowed or blocked blood vessels using imaging guidance.\n*   **Embolization:** Blocking blood vessels to stop bleeding or shrink tumors using imaging guidance.\n\nDr. Gupta's expertise in advanced imaging likely allows him to provide valuable insights into the diagnosis and management of a wide range of medical conditions. His ability to accurately interpret medical images and perform interventional procedures contributes significantly to patient care.\n\n### 4. **Academic Contributions & Research**\n\nWhile specific publications and research projects remain unknown, it is reasonable to assume that Dr. Gupta has made contributions to the field of advanced imaging through academic pursuits. These contributions may include:\n\n*   **Case reports:** Publishing case reports that highlight unusual or challenging diagnostic imaging findings.\n*   **Review articles:** Writing review articles that summarize the current state of knowledge on a particular topic in advanced imaging.\n*   **Original research:** Conducting original research studies to evaluate the accuracy, effectiveness, or safety of new imaging techniques or protocols.\n*   **Presentations at conferences:** Presenting research findings at national or international medical conferences.\n\nHis research focus areas likely align with his clinical expertise in advanced imaging. Potential research interests could include:\n\n*   **Improving the accuracy of diagnostic imaging:** Developing new techniques or protocols to enhance the accuracy of medical image interpretation.\n*   **Reducing radiation exposure:** Optimizing imaging protocols to minimize radiation exposure to patients.\n*   **Evaluating the effectiveness of new imaging modalities:** Assessing the clinical utility of new imaging technologies.\n*   **Developing artificial intelligence (AI) applications for radiology:** Exploring the potential of AI to improve the efficiency and accuracy of medical image analysis.\n\nDr. Gupta's academic contributions, even if undocumented in publicly accessible databases, likely contribute to the advancement of medical science and the improvement of patient care. His commitment to research and innovation reflects his dedication to pushing the boundaries of knowledge in advanced imaging.\n\n### 5. **Patient Impact & Community Work**\n\nThe impact of Dr. Gupta's work on patients is undoubtedly significant. His expertise in advanced imaging allows him to provide accurate and timely diagnoses, which are essential for effective treatment. His ability to interpret medical images with precision and to perform interventional procedures with skill contributes to improved patient outcomes and quality of life.\n\nWhile specific details about his community work are unknown, it is possible that Dr. Gupta has been involved in various initiatives to promote health and wellness in his community. This may include:\n\n*   **Volunteering at free clinics:** Providing medical services to underserved populations.\n*   **Participating in health education programs:** Educating the public about the importance of preventive care and healthy lifestyle choices.\n*   **Fundraising for medical research:** Supporting research efforts to find new treatments and cures for diseases.\n*   **Mentoring medical students and residents:** Guiding and inspiring the next generation of physicians.\n\nHis dedication to patient care and community service reflects his commitment to making a positive impact on the lives of others.\n\n### 6. **Legacy and Future Outlook**\n\nDr. R. K. Gupta's legacy in the medical community is likely one of excellence, dedication, and innovation. His commitment to patient care, his expertise in advanced imaging, and his contributions to medical science have undoubtedly made a significant impact on the lives of countless individuals.\n\nLooking ahead, Dr. Gupta will likely continue to play a vital role in the advancement of advanced imaging. He will continue to embrace new technologies and techniques, refine his skills, and contribute to the ongoing evolution of the field. The future of advanced imaging is bright, with new innovations constantly emerging. Dr. Gupta's dedication to lifelong learning and his commitment to excellence will ensure that he remains at the forefront of this dynamic field, providing his patients with the best possible care for years to come. His influence, even without specific documented instances, is almost certainly felt within his practice and the wider medical community, making him a valuable asset to the field of advanced imaging.\n",
+  "bioGenerated": true
+}

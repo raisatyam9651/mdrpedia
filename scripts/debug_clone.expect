@@ -1,0 +1,21 @@
+#!/usr/bin/expect -f
+
+set timeout 30
+set ip $env(SERVER_IP)
+set user $env(SERVER_USER)
+set password $env(SERVER_PASSWORD)
+set repo_url $env(REPO_URL)
+
+spawn ssh -o StrictHostKeyChecking=no $user@$ip
+
+expect {
+    "password:" {
+        send "$password\r"
+    }
+}
+
+expect "#"
+send "git clone $repo_url mdrpedia_debug\r"
+expect "#"
+send "exit\r"
+expect eof

@@ -1,0 +1,97 @@
+{
+  "fullName": "John Ioannidis",
+  "slug": "john-ioannidis",
+  "title": "MD",
+  "specialty": "Epidemiology",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 224,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "John P. A. Ioannidis is a Greek-American physician-scientist, writer and Stanford University professor who has made contributions to evidence-based medicine, epidemiology, and clinical research. Ioannidis studies scientific research itself – in other words, meta-research – primarily in clinical medicine and the social sciences.",
+  "aiSummary": "John Ioannidis is a epidemiology specialist with an H-index of 224 at Stanford University (Member). Has been published in BMJ, Nature reviews. Neuroscience, Nature Human Behaviour. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Stanford University"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Stanford University",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Epidemiology"
+  ],
+  "knowsAbout": [
+    "Einstein Foundation Award"
+  ],
+  "citations": [
+    {
+      "title": "Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis.",
+      "journal": "Lancet",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1016/S0140-6736(17)32802-7",
+      "pubmedId": "29477251",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29477251/"
+    },
+    {
+      "title": "CONSORT 2025 statement: updated guideline for reporting randomised trials.",
+      "journal": "BMJ",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1136/bmj-2024-081123",
+      "pubmedId": "40228833",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40228833/"
+    },
+    {
+      "title": "Randomised controlled trials evaluating artificial intelligence in clinical practice: a scoping review.",
+      "journal": "Lancet Digit Health",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1016/S2589-7500(24)00047-5",
+      "pubmedId": "38670745",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38670745/"
+    },
+    {
+      "title": "Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial.",
+      "journal": "JAMA",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1001/jama.2018.0245",
+      "pubmedId": "29466592",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29466592/"
+    },
+    {
+      "title": "Balancing risks and benefits of cannabis use: umbrella review of meta-analyses of randomised controlled trials and observational studies.",
+      "journal": "BMJ",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1136/bmj-2022-072348",
+      "pubmedId": "37648266",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37648266/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5070446713",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/John_Ioannidis_2015_00.21_%28crop%29.jpg/330px-John_Ioannidis_2015_00.21_%28crop%29.jpg",
+  "bio": "## **Dr. John Ioannidis: A Biography**\n\nDr. John Ioannidis is a highly esteemed epidemiologist known for his groundbreaking research on the reliability and reproducibility of scientific studies. While details of his private practice remain less publicly available, his academic contributions have fundamentally reshaped the landscape of medical research and have challenged conventional wisdom across numerous fields. His work has prompted critical self-reflection within the scientific community and has spurred efforts to improve research methodologies and data reporting.\n\n### 1. **Early Life and Education**\n\nBorn in Athens, Greece, John Ioannidis displayed an early aptitude for both scientific inquiry and philosophical reasoning. This dual interest would later become a hallmark of his career, allowing him to approach complex medical questions with both rigorous empiricism and a critical awareness of the limitations inherent in any research endeavor. He pursued his undergraduate studies at the University of Athens, excelling in biology and mathematics, laying a strong foundation for his subsequent medical training.\n\nHe then enrolled in medical school at the same institution, demonstrating a particular interest in the principles of public health and disease prevention. Even during his medical training, Ioannidis exhibited a keen awareness of the statistical and methodological challenges involved in drawing firm conclusions from observational studies and clinical trials. He questioned the uncritical acceptance of published research findings and began to develop a critical perspective on the evidence base underpinning medical practice.\n\nUpon completing his medical degree, Ioannidis pursued further specialized training in internal medicine and infectious diseases. This clinical experience provided him with firsthand exposure to the complexities of patient care and the limitations of existing diagnostic and therapeutic approaches. It solidified his commitment to improving the quality and reliability of medical evidence, recognizing that ultimately, the well-being of patients depends on the accuracy of the information guiding clinical decision-making.\n\nRecognizing the need for advanced training in quantitative methods, Ioannidis pursued a doctorate in Biometry from the University of Oxford. Oxford's rigorous academic environment and its emphasis on statistical rigor provided the ideal setting for him to hone his skills in statistical modeling, data analysis, and research methodology. During his doctoral studies, he began to develop the statistical tools and conceptual frameworks that would later underpin his groundbreaking research on the credibility of published findings. His doctoral work focused on the development of novel statistical methods for meta-analysis and for assessing the impact of bias on research results.\n\n### 2. **Medical Philosophy**\n\nDr. Ioannidis's medical philosophy is rooted in a deep commitment to evidence-based medicine, but with a crucial caveat: a healthy skepticism towards the prevailing evidence. He advocates for a rigorous and critical evaluation of all research findings, recognizing that publication in a peer-reviewed journal is not, in itself, a guarantee of validity. His approach to patient care, while not widely documented due to the nature of his work, is likely informed by this same principle: a careful consideration of the available evidence, tempered by an awareness of its potential limitations and biases.\n\nHe believes that clinicians have a responsibility to stay abreast of the latest research findings, but also to critically assess the quality and relevance of that research to their specific patient population. This requires a deep understanding of research methodology, statistical principles, and the potential sources of bias that can distort research results.\n\nIoannidis's innovative thinking lies in his ability to apply sophisticated statistical techniques to identify and quantify the biases that can undermine the validity of scientific research. He has developed metrics and models for assessing the \"credibility\" of research findings, taking into account factors such as sample size, statistical power, effect size, and the presence of conflicts of interest. He emphasizes the importance of transparency in research reporting and the need for independent replication of key findings.\n\nHis practice ethics are grounded in a commitment to intellectual honesty and scientific integrity. He has been a vocal advocate for greater transparency in research reporting and for stricter accountability for researchers who engage in questionable research practices. He believes that the scientific community has a responsibility to police itself and to ensure that research is conducted in a rigorous and ethical manner.\n\n### 3. **Key Procedures & Clinical Expertise**\n\nWhile Dr. Ioannidis does not appear to have a traditional clinical practice, his expertise in epidemiology translates into a unique form of \"clinical\" assessment at the population level. He specializes in the design and analysis of epidemiological studies, with a particular focus on meta-analysis and systematic reviews. These techniques allow him to synthesize the findings of multiple studies to provide a more comprehensive and reliable estimate of the true effect of a particular intervention or exposure.\n\nHis key procedures include:\n\n*   **Meta-Analysis:** He is renowned for his ability to conduct rigorous and unbiased meta-analyses, which involve statistically combining the results of multiple independent studies to arrive at a more precise and reliable estimate of the overall effect. He has developed innovative statistical methods for addressing the challenges of heterogeneity and publication bias in meta-analysis.\n*   **Systematic Reviews:** He is a strong proponent of systematic reviews, which involve a comprehensive and unbiased search for all relevant studies on a particular topic, followed by a critical appraisal of the quality of those studies. He has developed guidelines for conducting high-quality systematic reviews and for minimizing the risk of bias.\n*   **Study Design and Evaluation:** He possesses a deep understanding of study design principles and is able to critically evaluate the strengths and limitations of different study designs, including randomized controlled trials, observational studies, and diagnostic accuracy studies.\n*   **Statistical Modeling:** He is proficient in a wide range of statistical modeling techniques, including regression analysis, survival analysis, and Bayesian methods. He uses these techniques to analyze complex datasets and to identify patterns and relationships that might not be apparent from simple descriptive statistics.\n*   **Bias Assessment:** A core element of his expertise is identifying and quantifying biases in research. He has developed methods to detect publication bias, selective reporting bias, and other forms of bias that can distort research findings.\n\n### 4. **Academic Contributions & Research**\n\nDr. Ioannidis's academic contributions are extensive and have had a profound impact on the field of medical research. He has published hundreds of peer-reviewed articles in leading medical journals, including *The Lancet*, *JAMA*, and *PLOS Medicine*. His research has focused on a wide range of topics, including the reliability of scientific studies, the impact of bias on research findings, and the effectiveness of medical interventions.\n\nOne of his most influential papers, \"Why Most Published Research Findings Are False,\" published in *PLOS Medicine* in 2005, has been cited thousands of times and has sparked a global debate about the reproducibility of scientific research. In this paper, he argued that a combination of factors, including small sample sizes, flexible research designs, and publication bias, can lead to a high proportion of false positive findings in the published literature. He demonstrated mathematically how these factors can interact to generate misleading results, even when the underlying research is conducted in good faith.\n\nHis research focus areas include:\n\n*   **Meta-Research:** Ioannidis is considered a pioneer in the field of meta-research, which involves studying the research process itself, identifying sources of bias, and developing strategies to improve the quality and reliability of research findings.\n*   **Reproducibility of Research:** He is a leading advocate for greater reproducibility in research and has developed methods for assessing the reproducibility of scientific studies. He has shown that many published findings cannot be replicated when subjected to independent verification.\n*   **Bias in Research:** He has extensively studied the impact of bias on research findings, including publication bias, selective reporting bias, and funding bias. He has developed methods for detecting and quantifying these biases.\n*   **Evidence-Based Medicine:** He is a strong proponent of evidence-based medicine, but with a critical awareness of the limitations of the evidence base. He advocates for a more nuanced and critical approach to the interpretation of research findings.\n*   **Large-Scale Data Analysis:** He has expertise in analyzing large-scale datasets, including electronic health records and genomic databases. He uses these datasets to identify risk factors for disease and to evaluate the effectiveness of medical interventions.\n\nHis research has had a significant impact on medical science by forcing researchers to critically examine their own methods and assumptions. It has led to calls for greater transparency in research reporting, for stricter accountability for researchers who engage in questionable research practices, and for a greater emphasis on independent replication of key findings.\n\n### 5. **Patient Impact & Community Work**\n\nWhile Dr. Ioannidis is not directly involved in patient care in a traditional sense, his work has a profound impact on patient outcomes indirectly. By improving the quality and reliability of medical research, he helps to ensure that clinicians are making decisions based on the best available evidence. This ultimately leads to better diagnoses, more effective treatments, and improved patient outcomes.\n\nHis community work primarily revolves around advocating for greater transparency and accountability in research. He frequently speaks at conferences and workshops, educating researchers and clinicians about the importance of rigorous methodology and the potential pitfalls of bias. He also serves on advisory boards and committees, providing guidance on research policy and funding priorities.\n\nHe has been a vocal critic of conflicts of interest in research and has advocated for stricter regulations to prevent industry influence from distorting research findings. He believes that the public has a right to know who is funding medical research and what potential biases might be at play.\n\n### 6. **Legacy and Future Outlook**\n\nDr. John Ioannidis has established himself as a towering figure in the field of epidemiology and medical research. His work has challenged conventional wisdom, sparked critical self-reflection within the scientific community, and prompted efforts to improve research methodologies and data reporting. His legacy lies in his unwavering commitment to intellectual honesty and scientific integrity, and in his ability to apply rigorous quantitative methods to expose the limitations and biases that can undermine the validity of scientific research.\n\nHis influence is likely to grow in the coming years as the scientific community grapples with the challenges of reproducibility and the increasing complexity of medical research. His work provides a valuable framework for critically evaluating research findings and for ensuring that clinical decisions are based on the best available evidence. He is likely to continue to be a leading voice in the effort to improve the quality and reliability of medical research, and to ensure that scientific findings are used to benefit patients and the public. His future contributions will likely focus on developing new methods for assessing the credibility of research findings, for promoting transparency in research reporting, and for fostering a culture of intellectual honesty and scientific integrity within the scientific community. He will continue to push the boundaries of meta-research and to challenge the status quo, ensuring that medical research is conducted in a rigorous, ethical, and transparent manner.\n",
+  "bioGenerated": true
+}

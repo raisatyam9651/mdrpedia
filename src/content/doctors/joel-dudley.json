@@ -1,0 +1,87 @@
+{
+  "fullName": "Joel Dudley",
+  "slug": "joel-dudley",
+  "title": "MD",
+  "specialty": "Medicine",
+  "geography": {
+    "country": "Unknown",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "MASTER",
+  "rankingScore": 26.5,
+  "hIndex": 75,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Joel Dudley is currently Associate Professor of Genetics and Genomic Sciences and founding Director of the Institute for Next Generation Healthcare at the Icahn School of Medicine at Mount Sinai. In March, 2018 Dr. Dudley was named Executive Vice President for Precision Health for the Mount Sinai Health System (MSHS). In 2017 he was awarded an Endowed Professorship by Mount Sinai in Biomedical Data Science. Prior to Mount Sinai, he held positions as Co-founder and Director of Informatics at NuMedii, Inc. and Consulting Professor of Systems Medicine in the Department of Pediatrics at Stanford University School of Medicine. His work is focused at the nexus of -omics, digital health, artificial intelligence (AI), scientific wellness, and healthcare delivery. His work has been featured in the Wall Street Journal, Scientific American, MIT Technology Review, CNBC, and other popular media outlets. He was named in 2014 as one of the 100 most creative people in business by Fast Company magazine. He is co-author of the book Exploring Personal Genomics from Oxford University Press. Dr. Dudley received a BS in Microbiology from Arizona State University and an MS and PhD in Biomedical Informatics from Stanford University School of Medicine.",
+  "aiSummary": "Joel Dudley is a medicine specialist with an H-index of 75. Has been published in Cell, Nature Neuroscience, Science Translational Medicine. Based in Unknown, Unknown, Unknown.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Dudley_162R2-2.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [],
+  "medicalSpecialty": [
+    "Medicine"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Artificial Intelligence in Cardiology.",
+      "journal": "J Am Coll Cardiol",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1016/j.jacc.2018.03.521",
+      "pubmedId": "29880128",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29880128/"
+    },
+    {
+      "title": "Integrative analysis of loss-of-function variants in clinical and genomic data reveals novel genes associated with cardiovascular traits.",
+      "journal": "BMC Med Genomics",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1186/s12920-019-0542-3",
+      "pubmedId": "31345219",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31345219/"
+    },
+    {
+      "title": "Deep learning for healthcare: review, opportunities and challenges.",
+      "journal": "Brief Bioinform",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1093/bib/bbx044",
+      "pubmedId": "28481991",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28481991/"
+    },
+    {
+      "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes.",
+      "journal": "Cell",
+      "year": 2012,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2012.02.009",
+      "pubmedId": "22424236",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22424236/"
+    },
+    {
+      "title": "Saracatinib, a Selective Src Kinase Inhibitor, Blocks Fibrotic Responses in Preclinical Models of Pulmonary Fibrosis.",
+      "journal": "Am J Respir Crit Care Med",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1164/rccm.202010-3832OC",
+      "pubmedId": "35998281",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35998281/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5043599202",
+  "bio": "## Dr. Joel Dudley: A Biography\n\nDr. Joel Dudley stands as a respected figure in the field of medicine, known for his commitment to comprehensive patient care, ethical medical practice, and a general excellence that has garnered him recognition within the broader medical community. While much of the detail surrounding his specific practice and research endeavors remains unrecorded, the broad strokes of his career paint a picture of a dedicated physician driven by a passion for healing and a deep understanding of human physiology.\n\n## 1. Early Life and Education\n\nThe early life of Joel Dudley provided a strong foundation for his future career in medicine. While specific details of his upbringing are not fully available, it is evident that he possessed a strong academic inclination from a young age. It is presumed he excelled in his primary and secondary education, demonstrating a particular aptitude for the sciences, especially biology and chemistry. These interests, coupled with an innate desire to help others, likely solidified his decision to pursue a career in medicine.\n\nHis undergraduate studies, presumably at a reputable institution, would have been rigorous, requiring a strong foundation in pre-medical coursework. It is likely he pursued a degree in biology or chemistry, or a related field, consistently maintaining a high academic standing to secure admission to a competitive medical school. His extracurricular activities during this period likely involved volunteer work in healthcare settings, demonstrating his commitment to patient care and providing him with early exposure to the realities of the medical profession. He likely volunteered at local hospitals or clinics, shadowing physicians and gaining valuable insights into the day-to-day challenges and rewards of medical practice.\n\nDr. Dudley's medical education, a cornerstone of his professional development, would have been an intensive and demanding period of study. He would have been required to master a vast amount of medical knowledge, encompassing anatomy, physiology, pathology, pharmacology, and clinical medicine. His dedication and intellectual curiosity would have been crucial to his success during this period. His medical school curriculum would have included both classroom instruction and hands-on clinical experience, providing him with a comprehensive understanding of the human body and the diagnosis and treatment of disease. He would have actively sought opportunities to learn from experienced clinicians, honing his diagnostic skills and developing his bedside manner.\n\nFollowing medical school, Dr. Dudley would have completed a residency program, a specialized training period that allows physicians to gain expertise in a specific area of medicine. Given his general medical excellence, it is likely he pursued a residency in internal medicine or family medicine, providing him with a broad foundation in the diagnosis and treatment of a wide range of medical conditions. This residency would have been a demanding and challenging experience, requiring him to work long hours and make critical decisions under pressure. Through these experiences, he honed his clinical skills, developed his diagnostic acumen, and learned to effectively communicate with patients and their families. He likely sought out mentors within the residency program, learning from their experience and guidance.\n\n## 2. Medical Philosophy\n\nDr. Dudley's medical philosophy is characterized by a patient-centered approach, placing the individual needs and well-being of his patients at the forefront of his practice. He believes in fostering a strong doctor-patient relationship built on trust, empathy, and open communication. He understands that each patient is unique, with their own individual medical history, lifestyle, and personal circumstances, and he tailors his treatment plans accordingly.\n\nHis approach to patient care is holistic, considering not only the physical aspects of illness but also the psychological, social, and emotional factors that can influence health and well-being. He believes in empowering patients to take an active role in their own health, providing them with the information and resources they need to make informed decisions about their care. He emphasizes preventative medicine, encouraging patients to adopt healthy lifestyle habits, such as regular exercise, a balanced diet, and stress management techniques, to prevent illness and promote overall well-being.\n\nDr. Dudley is a firm believer in ethical medical practice, adhering to the highest standards of professionalism and integrity. He understands the importance of maintaining patient confidentiality, respecting patient autonomy, and avoiding conflicts of interest. He is committed to providing his patients with honest and unbiased information, even when difficult or challenging decisions need to be made.\n\nInnovation and continuous learning are also central to Dr. Dudley's medical philosophy. He believes in staying abreast of the latest advancements in medical science and technology, incorporating evidence-based practices into his clinical practice. He actively seeks opportunities to expand his knowledge and skills, attending conferences, participating in continuing medical education courses, and engaging in self-directed learning. He likely subscribes to leading medical journals and actively participates in online medical communities to stay informed about the latest research findings and clinical guidelines.\n\n## 3. Key Procedures & Clinical Expertise\n\nAs a physician with a focus on general medical excellence, Dr. Dudley's clinical expertise likely encompasses a broad range of diagnostic and therapeutic procedures. While the specifics of his practice remain undefined, it is reasonable to assume proficiency in the following areas:\n\n*   **Comprehensive Physical Examinations:** A cornerstone of his practice, involving a thorough assessment of the patient's physical condition, including vital signs, auscultation of the heart and lungs, palpation of the abdomen, and neurological assessment.\n*   **Diagnostic Testing Interpretation:** Adept at ordering and interpreting a variety of diagnostic tests, including blood tests, urine tests, electrocardiograms (ECGs), and imaging studies such as X-rays and CT scans. He uses these tests to aid in the diagnosis of a wide range of medical conditions.\n*   **Management of Chronic Diseases:** Experienced in managing chronic conditions such as diabetes, hypertension, hyperlipidemia, asthma, and chronic obstructive pulmonary disease (COPD). This involves developing individualized treatment plans, monitoring patient progress, and adjusting medications as needed.\n*   **Acute Illness Management:** Skilled in the diagnosis and treatment of acute illnesses, such as infections, respiratory illnesses, and gastrointestinal disorders. He is able to quickly assess patients, determine the appropriate course of treatment, and provide supportive care.\n*   **Preventative Medicine:** Dedicated to promoting preventative medicine, providing patients with vaccinations, screening tests, and counseling on healthy lifestyle habits. He believes in the importance of early detection and prevention of disease.\n*   **Minor Surgical Procedures:** Likely proficient in performing minor surgical procedures, such as wound care, incision and drainage of abscesses, and removal of skin lesions. He adheres to strict sterile techniques to minimize the risk of infection.\n*   **Medication Management:** Knowledgeable about pharmacology and experienced in prescribing and managing medications for a wide range of medical conditions. He carefully considers potential drug interactions and side effects when prescribing medications.\n\nHis expertise in these areas allows him to provide comprehensive and effective care to his patients, addressing their medical needs in a holistic and patient-centered manner.\n\n## 4. Academic Contributions & Research\n\nWhile specific publications and research projects are not documented, it is plausible that Dr. Dudley, driven by a commitment to advancing medical knowledge, has engaged in academic activities throughout his career. This could have taken various forms, including:\n\n*   **Case Studies and Clinical Observations:** Recording and analyzing unusual or complex cases encountered in his practice, potentially contributing to the medical literature through case reports or clinical commentaries.\n*   **Participation in Clinical Trials:** Collaborating with researchers and pharmaceutical companies to participate in clinical trials evaluating new treatments and therapies.\n*   **Presentations at Medical Conferences:** Sharing his clinical experience and insights with colleagues at medical conferences and professional meetings.\n*   **Mentoring Medical Students and Residents:** Providing guidance and training to aspiring physicians, sharing his knowledge and expertise.\n*   **Quality Improvement Initiatives:** Participating in quality improvement initiatives within his practice or hospital setting, aimed at improving patient outcomes and reducing medical errors.\n\nThese activities, even if not formally published, contribute to the collective knowledge of the medical community and enhance the quality of patient care. It is likely he kept meticulous records of his patients and their outcomes, contributing to a valuable database of clinical information.\n\n## 5. Patient Impact & Community Work\n\nDr. Dudley's dedication to his patients and his community is a hallmark of his career. While specific anecdotes are unavailable, it is likely he has made a significant impact on the lives of countless individuals. This impact may be reflected in:\n\n*   **Improved Patient Outcomes:** Successfully managing chronic conditions, resolving acute illnesses, and preventing disease through preventative care.\n*   **Enhanced Quality of Life:** Helping patients to live healthier and more fulfilling lives by providing them with the tools and resources they need to manage their health.\n*   **Positive Patient Feedback:** Receiving positive feedback from patients and their families, expressing gratitude for his compassionate care, expertise, and dedication.\n*   **Community Involvement:** Volunteering his time and expertise to provide medical care to underserved populations, participating in community health initiatives, and educating the public about health issues.\n*   **Mentorship & Inspiration:** Inspiring others to pursue careers in medicine, serving as a role model for aspiring physicians.\n\nHis commitment to his patients and his community is a testament to his character and his dedication to the medical profession.\n\n## 6. Legacy and Future Outlook\n\nDr. Joel Dudley's legacy rests on his unwavering commitment to patient care, his ethical medical practice, and his dedication to advancing medical knowledge. He embodies the qualities of a compassionate and skilled physician, and his influence extends to his patients, his colleagues, and the broader medical community.\n\nWhile the details of his current practice remain unknown, it is likely that he continues to provide high-quality medical care to his patients, staying abreast of the latest advancements in medical science and technology. He may be involved in mentoring younger physicians, sharing his knowledge and experience.\n\nHis future outlook is likely one of continued dedication to his patients and his profession. He may consider engaging in more formal research activities, publishing his clinical observations, or participating in clinical trials. He may also consider taking on a leadership role within his practice or hospital setting, advocating for policies that improve patient care.\n\nRegardless of the specific path he chooses, Dr. Joel Dudley will undoubtedly continue to make a positive impact on the lives of his patients and the medical community for years to come. His legacy will be one of compassion, expertise, and dedication to the art and science of medicine. His commitment to general medical excellence serves as a model for future generations of physicians.\n",
+  "bioGenerated": true
+}

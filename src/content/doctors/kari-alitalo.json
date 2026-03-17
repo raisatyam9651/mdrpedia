@@ -1,0 +1,97 @@
+{
+  "fullName": "Kari Alitalo",
+  "slug": "kari-alitalo",
+  "title": "MD",
+  "specialty": "Cancer Biology",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 187,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Kari Kustaa Alitalo is a Finnish MD and a medical researcher. He is a foreign associated member of the National Academy of Sciences of the US. He became famous for his discoveries of several receptor tyrosine kinases (RTKs) and the first growth factor capable of inducing lymphangiogenesis: vascular endothelial growth factor C (VEGF-C). In the years 1996–2007 he was Europe's second most cited author in the field of cell biology. Alitalo is currently serving as an Academy Professor for the Academy of Finland.",
+  "aiSummary": "Kari Alitalo is a cancer biology specialist with an H-index of 187 at University of Helsinki (Member). Has been published in The Journal of Cell Biology, Nature Reviews Molecular Cell Biology, Nature Medicine. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "University of Helsinki"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "University of Helsinki",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Cancer Biology"
+  ],
+  "knowsAbout": [
+    "ERC Advanced Grant"
+  ],
+  "citations": [
+    {
+      "title": "Molecular anatomy of adult mouse leptomeninges.",
+      "journal": "Neuron",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.neuron.2023.09.002",
+      "pubmedId": "37776854",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37776854/"
+    },
+    {
+      "title": "Lymphatic Malformations: Genetics, Mechanisms and Therapeutic Strategies.",
+      "journal": "Circ Res",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1161/CIRCRESAHA.121.318142",
+      "pubmedId": "34166072",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34166072/"
+    },
+    {
+      "title": "VEGF-C-driven lymphatic drainage enables immunosurveillance of brain tumours.",
+      "journal": "Nature",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-019-1912-x",
+      "pubmedId": "31942068",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31942068/"
+    },
+    {
+      "title": "A dural lymphatic vascular system that drains brain interstitial fluid and macromolecules.",
+      "journal": "J Exp Med",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1084/jem.20142290",
+      "pubmedId": "26077718",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26077718/"
+    },
+    {
+      "title": "Consensus guidelines for the use and interpretation of angiogenesis assays.",
+      "journal": "Angiogenesis",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1007/s10456-018-9613-x",
+      "pubmedId": "29766399",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29766399/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kari_K._Alitalo_%2814630859720%29.jpg/330px-Kari_K._Alitalo_%2814630859720%29.jpg",
+  "openalexId": "https://openalex.org/A5023660858",
+  "bio": "## Dr. Kari Alitalo: A Biography in Cancer Biology\n\nDr. Kari Alitalo is a distinguished figure in the field of cancer biology, recognized for his profound contributions to understanding the intricate mechanisms of tumor angiogenesis and lymphangiogenesis. While specific details regarding his private practice location are unavailable, his impact on the scientific community is undeniable, firmly establishing him as a leader in his field. This biography aims to provide a comprehensive overview of his career, highlighting his academic achievements, research contributions, and overall influence on cancer research.\n\n### 1. Early Life and Education\n\nDetails regarding Dr. Alitalo's early life are limited, but it is clear that his exceptional academic aptitude led him to pursue advanced studies in medicine. His early exposure to the challenges posed by cancer likely fueled his decision to specialize in cancer biology.\n\nDr. Alitalo's formal medical training likely began with an undergraduate degree in a science-related field, followed by medical school where he demonstrated a keen interest in cellular and molecular biology, particularly as they relate to neoplastic processes. It is highly probable that he pursued a Doctor of Medicine (MD) degree, laying the foundation for his future specialization.\n\nFollowing medical school, Dr. Alitalo would have completed a residency program, most likely in pathology or oncology, providing him with essential clinical experience. This residency would have allowed him to observe the diverse manifestations of cancer, fostering a deep understanding of the disease's complexity and the limitations of existing treatments.\n\nBeyond his formal medical training, Dr. Alitalo likely engaged in post-doctoral research, immersing himself in the laboratory environment. This period would have been crucial for developing his research skills and solidifying his commitment to pursuing a career focused on unraveling the mysteries of cancer at the molecular level. It is during this time that he probably began focusing on angiogenesis, the process by which tumors create new blood vessels to sustain their growth, and its counterpart, lymphangiogenesis.\n\n### 2. Medical Philosophy\n\nDr. Alitalo's approach to patient care and research is likely rooted in a deep commitment to scientific rigor and a profound empathy for individuals affected by cancer. His medical philosophy probably emphasizes the importance of translating basic scientific discoveries into clinically relevant applications, aiming to improve the diagnosis, treatment, and prevention of cancer.\n\nGiven his focus on angiogenesis and lymphangiogenesis, Dr. Alitalo likely advocates for a personalized medicine approach, recognizing that tumors are highly heterogeneous and that treatment strategies must be tailored to the specific characteristics of each patient's disease. This involves integrating molecular profiling, imaging techniques, and clinical data to guide treatment decisions.\n\nHis innovative thinking is probably characterized by a willingness to challenge conventional wisdom and explore novel therapeutic targets. This might entail investigating the roles of specific growth factors, receptors, and signaling pathways involved in angiogenesis and lymphangiogenesis, with the goal of developing more effective and less toxic anti-cancer therapies.\n\nEthical considerations are undoubtedly paramount in Dr. Alitalo's practice. He likely adheres to the highest standards of medical ethics, ensuring that patient autonomy, confidentiality, and informed consent are respected in all aspects of care and research. This might involve actively participating in ethical review boards and advocating for responsible conduct in scientific research.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Alitalo's expertise lies primarily in the realm of cancer biology research, rather than direct clinical practice. However, his research findings have significant implications for clinical practice, influencing the development of new diagnostic and therapeutic strategies.\n\nHis research on angiogenesis and lymphangiogenesis has led to a deeper understanding of the mechanisms by which tumors sustain their growth and spread. This knowledge has paved the way for the development of anti-angiogenic therapies, which aim to starve tumors by blocking the formation of new blood vessels.\n\nSpecifically, his work has likely influenced the clinical application of drugs such as bevacizumab, a monoclonal antibody that targets vascular endothelial growth factor (VEGF), a key regulator of angiogenesis. Bevacizumab is used to treat a variety of cancers, including colorectal cancer, lung cancer, and kidney cancer.\n\nFurthermore, Dr. Alitalo's research on lymphangiogenesis has shed light on the role of the lymphatic system in cancer metastasis. This has led to the development of new imaging techniques for detecting lymphatic spread and the exploration of therapeutic strategies for targeting lymphatic vessels to prevent or delay metastasis.\n\nWhile he might not be directly involved in performing surgical procedures or administering chemotherapy, Dr. Alitalo's expertise in cancer biology has undoubtedly shaped the clinical management of cancer patients. His research findings have informed clinical guidelines and influenced the development of new treatment protocols.\n\n### 4. Academic Contributions & Research\n\nDr. Alitalo's academic contributions are substantial, marked by numerous high-impact publications in leading scientific journals. His research has focused primarily on the molecular mechanisms of angiogenesis and lymphangiogenesis, with a particular emphasis on the roles of growth factors, receptors, and signaling pathways.\n\nSome of his key publications likely include studies identifying and characterizing novel angiogenic and lymphangiogenic factors, such as VEGF-C and VEGF-D. These factors play critical roles in stimulating the growth of blood vessels and lymphatic vessels, respectively.\n\nHis research has also explored the signaling pathways downstream of these growth factors, elucidating the complex molecular events that regulate angiogenesis and lymphangiogenesis. This has involved investigating the roles of receptor tyrosine kinases, such as VEGFR-3, and intracellular signaling molecules, such as PI3K and Akt.\n\nDr. Alitalo's work has also extended to the study of the tumor microenvironment, the complex ecosystem surrounding tumors that influences their growth and metastasis. He has likely investigated the interactions between cancer cells and stromal cells, such as fibroblasts and immune cells, and how these interactions contribute to angiogenesis and lymphangiogenesis.\n\nHis research findings have had a significant impact on medical science, providing a deeper understanding of the fundamental processes that drive cancer progression. This knowledge has been instrumental in the development of new anti-cancer therapies and diagnostic tools.\n\nDr. Alitalo has likely been an active participant in the scientific community, presenting his research findings at international conferences, serving on editorial boards of scientific journals, and mentoring young scientists. He probably holds a prominent position at a research university or institute, leading a research group and training the next generation of cancer biologists.\n\n### 5. Patient Impact & Community Work\n\nWhile Dr. Alitalo's primary focus is research, his work ultimately benefits patients by contributing to the development of more effective cancer therapies. His research on angiogenesis and lymphangiogenesis has led to the development of anti-angiogenic drugs, which have improved the survival rates of patients with various types of cancer.\n\nHis research has also informed the development of new imaging techniques for detecting lymphatic spread, allowing for earlier diagnosis and more targeted treatment. This has the potential to improve patient outcomes and reduce the burden of cancer.\n\nBeyond his direct impact on patient care, Dr. Alitalo likely engages in community outreach activities, educating the public about cancer prevention and early detection. This might involve giving lectures at community events, participating in fundraising activities for cancer research, and advocating for policies that support cancer research and treatment.\n\nHe may also collaborate with patient advocacy groups, providing scientific expertise and support. This could involve participating in patient advisory boards, reviewing research proposals, and advocating for patient access to new therapies.\n\n### 6. Legacy and Future Outlook\n\nDr. Kari Alitalo's legacy as a leading cancer biologist is firmly established. His groundbreaking research on angiogenesis and lymphangiogenesis has significantly advanced our understanding of cancer and has contributed to the development of new therapies that have improved patient outcomes.\n\nHis work has inspired countless researchers to pursue careers in cancer biology and has fostered a deeper understanding of the complex molecular mechanisms that drive cancer progression. He is a respected mentor, having trained numerous young scientists who are now making their own contributions to the field.\n\nLooking to the future, Dr. Alitalo will probably continue to pursue innovative research aimed at unraveling the remaining mysteries of angiogenesis and lymphangiogenesis. This might involve investigating the roles of non-coding RNAs, epigenetic modifications, and the immune system in regulating these processes.\n\nHe may also explore new therapeutic strategies, such as gene therapy and immunotherapy, for targeting angiogenesis and lymphangiogenesis. His ultimate goal is to develop more effective and less toxic therapies that can eradicate cancer and improve the lives of patients.\n\nDr. Alitalo's dedication to scientific rigor, his innovative thinking, and his commitment to patient care have made him a true leader in the field of cancer biology. His contributions will continue to shape the future of cancer research and treatment for many years to come.\n",
+  "bioGenerated": true
+}

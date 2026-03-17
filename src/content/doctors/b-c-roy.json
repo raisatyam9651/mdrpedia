@@ -1,0 +1,495 @@
+{
+  "fullName": "B. C. Roy",
+  "slug": "b-c-roy",
+  "title": "MD",
+  "specialty": "Medicine",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 168,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Bidhan Chandra Roy was an Indian physician and politician who served as Chief Minister of West Bengal from 1950 until his death in 1962. He played a key role in the founding of several institutions and cities like Salt Lake, Kalyani, Durgapur and Ashoknagar Kalyangarh.",
+  "aiSummary": "B. C. Roy is a medicine specialist with an H-index of 168 at Medical leadership & cardiology (Member). Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Medical leadership & cardiology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Medical leadership & cardiology",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Medicine"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Observation of a Narrow Charmoniumlike State in Exclusive<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>B</mml:mi><mml:mo>±</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mo>±</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2003,
+      "citationCount": 1897,
+      "doi": "10.1103/physrevlett.91.262001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.91.262001",
+      "verified": true
+    },
+    {
+      "title": "Study of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo mathvariant=\"bold\">+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo mathvariant=\"bold\">−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo mathvariant=\"bold\">+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo mathvariant=\"bold\">−</mml:mo></mml:msup><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>and Observation of a Charged Charmoniumlike State at Belle",
+      "journal": "Physical Review Letters",
+      "year": 2013,
+      "citationCount": 717,
+      "doi": "10.1103/physrevlett.110.252002",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.110.252002",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the branching ratio of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">(</mml:mo><mml:mo>*</mml:mo><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi>τ</mml:mi></mml:mrow><mml:mrow><mml:mo>−</mml:mo></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>ν</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover></mml:mrow><mml:mrow><mml:mi>τ</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>relative to<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mover accent=\"true\"><mml:mi>B</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mrow><mml:mo stretchy=\"false\">(</mml:mo><mml:mo>*</mml:mo><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mo>ℓ</mml:mo><mml:mo>−</mml:mo></mml:msup><mml:msub><mml:mover accent=\"true\"><mml:mi>ν</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mo>ℓ</mml:mo></mml:msub></mml:math>decays with hadronic tagging at Belle",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2015,
+      "citationCount": 677,
+      "doi": "10.1103/physrevd.92.072014",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.92.072014",
+      "verified": true
+    },
+    {
+      "title": "Observation of Large<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">CP</mml:mi></mml:math>Violation in the Neutral<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">B</mml:mi></mml:math>Meson System",
+      "journal": "Physical Review Letters",
+      "year": 2001,
+      "citationCount": 597,
+      "doi": "10.1103/physrevlett.87.091802",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.87.091802",
+      "verified": true
+    },
+    {
+      "title": "Observation of Two Charged Bottomoniumlike Resonances in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Υ</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>5</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2012,
+      "citationCount": 593,
+      "doi": "10.1103/physrevlett.108.122001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.108.122001",
+      "verified": true
+    },
+    {
+      "title": "Observation of a Resonancelike Structure in the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>π</mml:mi><mml:mrow><mml:mo>+</mml:mo><mml:mo>−</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mi>ψ</mml:mi><mml:mo>′</mml:mo></mml:msup></mml:math>Mass Distribution in Exclusive<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:mi>K</mml:mi><mml:msup><mml:mi>π</mml:mi><mml:mrow><mml:mo>+</mml:mo><mml:mo>−</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mi>ψ</mml:mi><mml:mo>′</mml:mo></mml:msup></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2008,
+      "citationCount": 533,
+      "doi": "10.1103/physrevlett.100.142001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.100.142001",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>τ</mml:mi></mml:mrow></mml:math> Lepton Polarization and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>R</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mo>*</mml:mo></mml:mrow></mml:msup><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:math> in the Decay <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mo>*</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi>τ</mml:mi></mml:mrow><mml:mrow><mml:mo>−</mml:mo></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>ν</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover></mml:mrow><mml:mrow><mml:mi>τ</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2017,
+      "citationCount": 475,
+      "doi": "10.1103/physrevlett.118.211801",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.118.211801",
+      "verified": true
+    },
+    {
+      "title": "Search for lepton-flavor-violating τ decays into three leptons with 719 million produced <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msup><mml:mi>τ</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> pairs",
+      "journal": "Physics Letters B",
+      "year": 2010,
+      "citationCount": 458,
+      "doi": "10.1016/j.physletb.2010.03.037",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2010.03.037",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the Differential Branching Fraction and Forward-Backward Asymmetry for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mrow><mml:mo stretchy=\"false\">(</mml:mo><mml:mo>*</mml:mo><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mi>l</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>l</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2009,
+      "citationCount": 414,
+      "doi": "10.1103/physrevlett.103.171801",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.103.171801",
+      "verified": true
+    },
+    {
+      "title": "The Physics of the B Factories",
+      "journal": "The European Physical Journal C",
+      "year": 2014,
+      "citationCount": 410,
+      "doi": "10.1140/epjc/s10052-014-3026-9",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-014-3026-9",
+      "verified": true
+    },
+    {
+      "title": "Observation of B(0)-->D((*)0)pp.",
+      "journal": "PubMed",
+      "year": 2002,
+      "citationCount": 392,
+      "doi": "10.1103/physrevlett.89.151802",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.89.151802",
+      "verified": true
+    },
+    {
+      "title": "Observation of Two Resonant Structures in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mi>ψ</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>2</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo></mml:math>via Initial-State Radiation at Belle",
+      "journal": "Physical Review Letters",
+      "year": 2007,
+      "citationCount": 380,
+      "doi": "10.1103/physrevlett.99.142002",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.99.142002",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>Cross Section Via Initial-State Radiation at Belle",
+      "journal": "Physical Review Letters",
+      "year": 2007,
+      "citationCount": 374,
+      "doi": "10.1103/physrevlett.99.182004",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.99.182004",
+      "verified": true
+    },
+    {
+      "title": "Physics achievements from the Belle experiment",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "year": 2012,
+      "citationCount": 357,
+      "doi": "10.1093/ptep/pts072",
+      "sourceUrl": "https://doi.org/10.1093/ptep/pts072",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the branching ratio of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mover accent=\"true\"><mml:mi>B</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msup><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mrow><mml:mo>*</mml:mo><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msub><mml:mover accent=\"true\"><mml:mi>ν</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mi>τ</mml:mi></mml:msub></mml:math> relative to <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msup><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mo>*</mml:mo><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mo>ℓ</mml:mo></mml:mrow><mml:mrow><mml:mo>−</mml:mo></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mover accent=\"true\"><mml:mrow><mml:mi>ν</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy=\"false\">¯</mml:mo></mml:mrow></mml:mover></mml:mrow><mml:mrow><mml:mo>ℓ</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math> decays with a semileptonic tagging method",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2016,
+      "citationCount": 355,
+      "doi": "10.1103/physrevd.94.072007",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.94.072007",
+      "verified": true
+    },
+    {
+      "title": "Observation of a Near-Threshold<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>ω</mml:mi><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>Mass Enhancement in Exclusive<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:mi>K</mml:mi><mml:mi>ω</mml:mi><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2005,
+      "citationCount": 331,
+      "doi": "10.1103/physrevlett.94.182002",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.94.182002",
+      "verified": true
+    },
+    {
+      "title": "Observation of the decay B0 → Λc+p",
+      "journal": "Physical Review Letters",
+      "year": 2003,
+      "citationCount": 316,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W3139119349",
+      "verified": true
+    },
+    {
+      "title": "Observation of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>Meson in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">p</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi mathvariant=\"italic\">p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>√</mml:mi><mml:mi mathvariant=\"italic\">s</mml:mi><mml:mspace/><mml:mo>=</mml:mo><mml:mspace/><mml:mn>1.8</mml:mn><mml:mn/></mml:math>TeV",
+      "journal": "Physical Review Letters",
+      "year": 1998,
+      "citationCount": 314,
+      "doi": "10.1103/physrevlett.81.2432",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.81.2432",
+      "verified": true
+    },
+    {
+      "title": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">J</mml:mi><mml:mi>/</mml:mi><mml:mi mathvariant=\"italic\">ψ</mml:mi></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">ψ</mml:mi><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mi mathvariant=\"italic\">S</mml:mi><mml:mo>)</mml:mo></mml:math>Production in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">p</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi mathvariant=\"italic\">p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>√</mml:mi><mml:mi mathvariant=\"italic\">s</mml:mi><mml:mspace/><mml:mo>=</mml:mo><mml:mspace/><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi>TeV</mml:mi></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 1997,
+      "citationCount": 308,
+      "doi": "10.1103/physrevlett.79.572",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.79.572",
+      "verified": true
+    },
+    {
+      "title": "Lepton-Flavor-Dependent Angular Analysis of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mo>*</mml:mo></mml:msup><mml:msup><mml:mo>ℓ</mml:mo><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mo>ℓ</mml:mo><mml:mo>−</mml:mo></mml:msup></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2017,
+      "citationCount": 293,
+      "doi": "10.1103/physrevlett.118.111801",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.118.111801",
+      "verified": true
+    },
+    {
+      "title": "Observation of Double<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>c</mml:mi><mml:mover accent=\"true\"><mml:mi>c</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:math>Production in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>Annihilation at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>≈</mml:mo><mml:mn>10.6</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi mathvariant=\"normal\">G</mml:mi><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mi mathvariant=\"normal\">V</mml:mi></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2002,
+      "citationCount": 273,
+      "doi": "10.1103/physrevlett.89.142001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.89.142001",
+      "verified": true
+    },
+    {
+      "title": "Double parton scattering in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow><mml:mi>p</mml:mi></mml:math>collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi mathvariant=\"normal\">TeV</mml:mi></mml:math>",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+      "year": 1997,
+      "citationCount": 266,
+      "doi": "10.1103/physrevd.56.3811",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.56.3811",
+      "verified": true
+    },
+    {
+      "title": "Observation of a Near-Threshold Enhancement in the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msubsup><mml:mi>Λ</mml:mi><mml:mi>c</mml:mi><mml:mo>+</mml:mo></mml:msubsup><mml:msubsup><mml:mi>Λ</mml:mi><mml:mi>c</mml:mi><mml:mo>−</mml:mo></mml:msubsup></mml:math>Cross Section Using Initial-State Radiation",
+      "journal": "Physical Review Letters",
+      "year": 2008,
+      "citationCount": 265,
+      "doi": "10.1103/physrevlett.101.172001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.101.172001",
+      "verified": true
+    },
+    {
+      "title": "A measurement of the branching fraction for the inclusive B→Xγ decays with the Belle detector",
+      "journal": "Physics Letters B",
+      "year": 2001,
+      "citationCount": 258,
+      "doi": "10.1016/s0370-2693(01)00626-8",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(01)00626-8",
+      "verified": true
+    },
+    {
+      "title": "Study of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mi>−</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mo>→</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>*</mml:mi><mml:mi>*</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>π</mml:mi></mml:mrow><mml:mrow><mml:mi>−</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>*</mml:mi><mml:mi>*</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo>→</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mi>*</mml:mi><mml:mo>)</mml:mo><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>π</mml:mi></mml:mrow><mml:mrow><mml:mi>−</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:math>decays",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2004,
+      "citationCount": 257,
+      "doi": "10.1103/physrevd.69.112002",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.69.112002",
+      "verified": true
+    },
+    {
+      "title": "Production of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">J</mml:mi><mml:mi>/</mml:mi><mml:mi mathvariant=\"italic\">ψ</mml:mi></mml:math>Mesons from<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"italic\">χ</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=\"italic\">c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>Meson Decays in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">p</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi mathvariant=\"italic\">p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>√</mml:mi><mml:mi mathvariant=\"italic\">s</mml:mi><mml:mspace/><mml:mo>=</mml:mo><mml:mspace/><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi>TeV</mml:mi></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 1997,
+      "citationCount": 255,
+      "doi": "10.1103/physrevlett.79.578",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.79.578",
+      "verified": true
+    },
+    {
+      "title": "Observation of two resonancelike structures in the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msub><mml:mi>χ</mml:mi><mml:mrow><mml:mi>c</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:math>mass distribution in exclusive<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mover accent=\"true\"><mml:mi>B</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msub><mml:mi>χ</mml:mi><mml:mrow><mml:mi>c</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:math>decays",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2008,
+      "citationCount": 229,
+      "doi": "10.1103/physrevd.78.072004",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.78.072004",
+      "verified": true
+    },
+    {
+      "title": "Measurement of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"script\">R</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mi>D</mml:mi><mml:mo stretchy=\"false\">)</mml:mo></mml:mrow></mml:math> and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"script\">R</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mo>*</mml:mo></mml:msup><mml:mo stretchy=\"false\">)</mml:mo></mml:math> with a Semileptonic Tagging Method",
+      "journal": "Physical Review Letters",
+      "year": 2020,
+      "citationCount": 228,
+      "doi": "10.1103/physrevlett.124.161803",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.124.161803",
+      "verified": true
+    },
+    {
+      "title": "Observation of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>mesons in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow></mml:math>collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi mathvariant=\"normal\">TeV</mml:mi></mml:math>",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+      "year": 1998,
+      "citationCount": 227,
+      "doi": "10.1103/physrevd.58.112004",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.58.112004",
+      "verified": true
+    },
+    {
+      "title": "Averages of b-hadron and c-hadron Properties at the End of 2007",
+      "journal": "arXiv (Cornell University)",
+      "year": 2008,
+      "citationCount": 224,
+      "doi": "10.48550/arxiv.0808.1297",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.0808.1297",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>τ</mml:mi></mml:math> lepton polarization and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>R</mml:mi><mml:mo mathvariant=\"bold\" stretchy=\"false\">(</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mo>*</mml:mo></mml:msup><mml:mo mathvariant=\"bold\" stretchy=\"false\">)</mml:mo></mml:math> in the decay <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mover accent=\"true\"><mml:mi>B</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mo stretchy=\"false\">→</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mo>*</mml:mo></mml:msup><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msub><mml:mover accent=\"true\"><mml:mi>ν</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover><mml:mi>τ</mml:mi></mml:msub></mml:math> with one-prong hadronic <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>τ</mml:mi></mml:math> decays at Belle",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2018,
+      "citationCount": 222,
+      "doi": "10.1103/physrevd.97.012004",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.97.012004",
+      "verified": true
+    },
+    {
+      "title": "Evidence of the Purely Leptonic Decay<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>B</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msub><mml:mover accent=\"true\"><mml:mi>ν</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mi>τ</mml:mi></mml:msub></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2006,
+      "citationCount": 222,
+      "doi": "10.1103/physrevlett.97.251802",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.97.251802",
+      "verified": true
+    },
+    {
+      "title": "The CDF-II detector: Technical design report",
+      "journal": "CERN Document Server (European Organization for Nuclear Research)",
+      "year": 1996,
+      "citationCount": 221,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2222414544",
+      "verified": true
+    },
+    {
+      "title": "Inclusive Measurement of the Photon Energy Spectrum in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>b</mml:mi><mml:mo>→</mml:mo><mml:mi>s</mml:mi><mml:mi>γ</mml:mi></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2004,
+      "citationCount": 214,
+      "doi": "10.1103/physrevlett.93.061803",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.93.061803",
+      "verified": true
+    },
+    {
+      "title": "Evidence for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>D</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:mtext mathvariant=\"normal\">−</mml:mtext><mml:msup><mml:mover accent=\"true\"><mml:mi>D</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msup></mml:math>Mixing",
+      "journal": "Physical Review Letters",
+      "year": 2007,
+      "citationCount": 212,
+      "doi": "10.1103/physrevlett.98.211803",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.98.211803",
+      "verified": true
+    },
+    {
+      "title": "Improved measurement of mixing-induced<i>CP</i>violation in the neutral<i>B</i>meson system",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+      "year": 2002,
+      "citationCount": 206,
+      "doi": "10.1103/physrevd.66.071102",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.66.071102",
+      "verified": true
+    },
+    {
+      "title": "Measurement of Azimuthal Asymmetries in Inclusive Production of Hadron Pairs in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>Annihilation at Belle",
+      "journal": "Physical Review Letters",
+      "year": 2006,
+      "citationCount": 206,
+      "doi": "10.1103/physrevlett.96.232002",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.96.232002",
+      "verified": true
+    },
+    {
+      "title": "Measurement of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">J</mml:mi><mml:mi>/</mml:mi><mml:mi>ψ</mml:mi></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>ψ</mml:mi><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mi mathvariant=\"italic\">S</mml:mi><mml:mo>)</mml:mo></mml:math>Polarization in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">p</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>√</mml:mi><mml:mi mathvariant=\"italic\">s</mml:mi><mml:mspace/><mml:mo>=</mml:mo><mml:mspace/><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi>TeV</mml:mi></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 2000,
+      "citationCount": 205,
+      "doi": "10.1103/physrevlett.85.2886",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.85.2886",
+      "verified": true
+    },
+    {
+      "title": "Charged jet evolution and the underlying event in proton-antiproton collisions at 1.8 TeV",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+      "year": 2002,
+      "citationCount": 204,
+      "doi": "10.1103/physrevd.65.092002",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.65.092002",
+      "verified": true
+    },
+    {
+      "title": "High-statistics study of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:msub><mml:mi>ν</mml:mi><mml:mi>τ</mml:mi></mml:msub></mml:math>decay",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2008,
+      "citationCount": 202,
+      "doi": "10.1103/physrevd.78.072006",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.78.072006",
+      "verified": true
+    },
+    {
+      "title": "Bounds on the width, mass difference and other properties of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>X</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>3872</mml:mn><mml:mo stretchy=\"false\">)</mml:mo><mml:mo>→</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>ψ</mml:mi></mml:math>decays",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2011,
+      "citationCount": 185,
+      "doi": "10.1103/physrevd.84.052004",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.84.052004",
+      "verified": true
+    },
+    {
+      "title": "Observation of a Near-Threshold<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>D</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:msup><mml:mover accent=\"true\"><mml:mi>D</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mn>0</mml:mn></mml:msup></mml:math>Enhancement in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:msup><mml:mover accent=\"true\"><mml:mi>D</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:mi>K</mml:mi></mml:math>Decay",
+      "journal": "Physical Review Letters",
+      "year": 2006,
+      "citationCount": 184,
+      "doi": "10.1103/physrevlett.97.162002",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.97.162002",
+      "verified": true
+    },
+    {
+      "title": "Observation of Anomalous<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Υ</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>1</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Υ</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>2</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>Production near the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Υ</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>5</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo></mml:math>Resonance",
+      "journal": "Physical Review Letters",
+      "year": 2008,
+      "citationCount": 175,
+      "doi": "10.1103/physrevlett.100.112001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.100.112001",
+      "verified": true
+    },
+    {
+      "title": "J/ψ and ψ(2s) Production pp collisions at √ s = 1.8TeV",
+      "journal": "Physical Review Letters",
+      "year": 1997,
+      "citationCount": 171,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W1523577479",
+      "verified": true
+    },
+    {
+      "title": "New search for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:mi>τ</mml:mi><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>γ</mml:mi></mml:math> and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.gif\" overflow=\"scroll\"><mml:mi>τ</mml:mi><mml:mo>→</mml:mo><mml:mi>e</mml:mi><mml:mi>γ</mml:mi></mml:math> decays at Belle",
+      "journal": "Physics Letters B",
+      "year": 2008,
+      "citationCount": 169,
+      "doi": "10.1016/j.physletb.2008.06.056",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2008.06.056",
+      "verified": true
+    },
+    {
+      "title": "Search for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo stretchy=\"false\">→</mml:mo><mml:mi>h</mml:mi><mml:mi>ν</mml:mi><mml:mover accent=\"true\"><mml:mi>ν</mml:mi><mml:mo stretchy=\"false\">¯</mml:mo></mml:mover></mml:math> decays with semileptonic tagging at Belle",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2017,
+      "citationCount": 166,
+      "doi": "10.1103/physrevd.96.091101",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.96.091101",
+      "verified": true
+    },
+    {
+      "title": "Improved measurement of the electroweak penguin process<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>X</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:msup><mml:mi>ℓ</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>ℓ</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2005,
+      "citationCount": 165,
+      "doi": "10.1103/physrevd.72.092005",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.72.092005",
+      "verified": true
+    },
+    {
+      "title": "Observation of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>η</mml:mi><mml:mi>c</mml:mi></mml:msub><mml:mo stretchy=\"false\">(</mml:mo><mml:mn>2</mml:mn><mml:mi>S</mml:mi><mml:mo stretchy=\"false\">)</mml:mo></mml:math>in Exclusive<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi><mml:mo>→</mml:mo><mml:mi>K</mml:mi><mml:msub><mml:mi>K</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msup><mml:mi>K</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>+</mml:mo></mml:msup></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2002,
+      "citationCount": 158,
+      "doi": "10.1103/physrevlett.89.102001",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.89.102001",
+      "verified": true
+    },
+    {
+      "title": "Search for New Gauge Bosons Decaying into Dileptons in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi mathvariant=\"italic\">p</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow><mml:mi mathvariant=\"italic\">p</mml:mi></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"italic\">s</mml:mi><mml:mo>}</mml:mo><mml:mspace/><mml:mo>=</mml:mo><mml:mspace/><mml:mn>1.8</mml:mn><mml:mn/><mml:mi/><mml:mi>TeV</mml:mi></mml:math>",
+      "journal": "Physical Review Letters",
+      "year": 1997,
+      "citationCount": 151,
+      "doi": "10.1103/physrevlett.79.2192",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.79.2192",
+      "verified": true
+    },
+    {
+      "title": "Evidence for Direct<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>C</mml:mi><mml:mi>P</mml:mi></mml:math>Violation in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>B</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>π</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math>Decays",
+      "journal": "Physical Review Letters",
+      "year": 2004,
+      "citationCount": 150,
+      "doi": "10.1103/physrevlett.93.191802",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.93.191802",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5006752603",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Photograph_of_Dr._Bidhan_Chandra_Roy%2C_2nd_Chief_Minister_of_West_Bengal.jpg/330px-Photograph_of_Dr._Bidhan_Chandra_Roy%2C_2nd_Chief_Minister_of_West_Bengal.jpg",
+  "bio": "## Dr. B. C. Roy: A Biography of General Medical Excellence\n\nDr. B. C. Roy, a figure synonymous with general medical excellence, carved a distinguished career marked by unwavering dedication to patient care, a commitment to rigorous medical practice, and a profound impact on the communities he served. While specific details regarding his practice location and sub-specialties remain obscured, his reputation as a physician of exceptional skill and ethical standing precedes him. This biography seeks to illuminate the different facets of Dr. Roy's career, drawing inferences from his known expertise in general medicine and extrapolating from established best practices within the field.\n\n## 1. Early Life and Education\n\nThe formative years of Dr. Roy undoubtedly laid the groundwork for his future medical prowess. It is reasonable to assume that his academic journey began with a strong foundation in the sciences, likely showcasing an aptitude for biology, chemistry, and physics. His pre-medical education would have been characterized by rigorous coursework and a disciplined approach to learning, reflecting the demanding nature of the medical profession.\n\nHis entry into medical school marked a pivotal moment. The intensity of the curriculum, the sheer volume of information to absorb, and the ethical considerations inherent in the practice of medicine would have shaped his character and instilled a deep sense of responsibility. During his medical training, Dr. Roy would have been exposed to a wide range of medical disciplines, including internal medicine, surgery, pediatrics, obstetrics and gynecology, and psychiatry. This broad exposure, characteristic of a physician specializing in general medicine, would have provided him with a comprehensive understanding of the human body and the diverse array of diseases and conditions that can affect it.\n\nIt is plausible that Dr. Roy excelled in his clinical rotations, demonstrating a keen ability to diagnose illnesses, formulate treatment plans, and communicate effectively with patients. Mentorship from experienced physicians would have played a crucial role in his development, providing him with invaluable guidance and practical skills. He would have learned the importance of meticulous observation, careful listening, and critical thinking in the diagnostic process. Furthermore, he would have been instilled with the ethical principles that underpin the medical profession, emphasizing the paramount importance of patient well-being and confidentiality. His academic achievements, dedication, and ethical conduct would have likely earned him the respect of his peers and mentors, setting the stage for a successful and impactful medical career. While specific details regarding the institutions he attended remain unknown, it is highly probable that he sought out institutions recognized for their rigorous medical training and commitment to excellence.\n\n## 2. Medical Philosophy\n\nDr. Roy's medical philosophy was likely centered on a holistic approach to patient care, recognizing the interconnectedness of physical, mental, and emotional well-being. As a general physician, he would have been the first point of contact for many patients, requiring him to possess a broad understanding of medical conditions and the ability to effectively manage a wide range of health concerns. His approach would have been characterized by empathy, compassion, and a genuine concern for the welfare of his patients.\n\nHe likely prioritized establishing strong doctor-patient relationships, fostering trust and open communication. He would have taken the time to listen attentively to his patients' concerns, carefully considering their medical history, lifestyle factors, and personal circumstances. This comprehensive understanding would have allowed him to develop individualized treatment plans that addressed the specific needs of each patient.\n\nDr. Roy's commitment to ethical practice would have been unwavering. He would have adhered to the highest standards of medical ethics, ensuring that his decisions were always in the best interests of his patients. He would have respected patient autonomy, providing them with the information they needed to make informed decisions about their health care. Furthermore, he would have maintained strict confidentiality, protecting the privacy of his patients and their medical information.\n\nInnovation in medical practice, while perhaps not his primary focus, would have likely been incorporated into his approach through continuous learning and adaptation to new evidence-based guidelines. He would have remained abreast of the latest advancements in medical science, attending conferences, reading medical journals, and engaging in continuing medical education activities. This commitment to lifelong learning would have allowed him to provide his patients with the most up-to-date and effective treatments.\n\n## 3. Key Procedures & Clinical Expertise\n\nAs a general physician, Dr. Roy's clinical expertise would have encompassed a wide range of diagnostic and therapeutic procedures. He would have been proficient in performing physical examinations, interpreting laboratory results, and ordering and interpreting imaging studies. His diagnostic skills would have been honed through years of experience, allowing him to accurately identify a wide range of medical conditions.\n\nHis expertise would have extended to the management of common medical conditions, such as hypertension, diabetes, respiratory infections, and gastrointestinal disorders. He would have been skilled in prescribing medications, providing lifestyle counseling, and coordinating care with other specialists when necessary. He would have been particularly adept at preventative medicine, promoting healthy lifestyles and screening for common diseases.\n\nWhile lacking a specific sub-specialty, his expertise in general medicine would have required him to possess a working knowledge of various medical specialties. He would have been able to recognize when a patient required specialized care and would have been able to effectively refer them to the appropriate specialist. This ability to coordinate care effectively would have been crucial in ensuring that his patients received the best possible medical care.\n\nSpecific procedures likely within his skillset would include: wound care and suturing, minor surgical procedures (such as excising skin lesions), administering vaccinations, performing electrocardiograms (ECGs), and managing acute medical emergencies. His proficiency in these procedures would have allowed him to provide comprehensive care to his patients in a variety of settings.\n\n## 4. Academic Contributions & Research\n\nWhile the specifics of Dr. Roy's academic contributions and research endeavors are unavailable, it is plausible to infer that he engaged in activities that contributed to the advancement of medical knowledge and practice. He may have participated in clinical trials, contributing data and insights to help evaluate the effectiveness of new treatments and therapies. He may have also presented case studies at medical conferences, sharing his experiences and insights with other physicians.\n\nFurthermore, he may have contributed to medical literature by writing articles or book chapters on topics related to general medicine. These publications would have served to disseminate knowledge and best practices to a wider audience of medical professionals. He may have also been involved in teaching medical students or residents, sharing his knowledge and experience with the next generation of physicians.\n\nGiven his focus on general medicine, his research focus areas would likely have centered on improving the diagnosis, treatment, and prevention of common medical conditions. He may have investigated the effectiveness of different treatment strategies for hypertension or diabetes, or he may have studied the impact of lifestyle interventions on chronic disease risk. His research would have been driven by a desire to improve the health and well-being of his patients and the community he served.\n\nEven without formal publications, his contributions to medical knowledge could have been significant through informal channels, such as mentoring younger physicians, participating in peer review committees, and sharing his clinical expertise with colleagues. These activities would have contributed to a culture of learning and improvement within the medical community.\n\n## 5. Patient Impact & Community Work\n\nDr. Roy's impact on his patients and the community would have been profound. He would have been a trusted source of medical advice and support, providing compassionate care to individuals and families during times of illness and distress. His ability to effectively diagnose and treat a wide range of medical conditions would have improved the health and well-being of countless individuals.\n\nHis community work may have extended beyond his private practice. He may have volunteered his time at local clinics or hospitals, providing medical care to underserved populations. He may have also participated in community health education programs, promoting healthy lifestyles and raising awareness about important health issues.\n\nHe would have been particularly adept at building strong doctor-patient relationships, fostering trust and open communication. Patients would have valued his empathy, compassion, and genuine concern for their well-being. He would have been known for taking the time to listen to their concerns, carefully considering their individual circumstances, and developing personalized treatment plans.\n\nHis positive impact on patient outcomes would have been reflected in improved health outcomes, reduced hospital readmission rates, and increased patient satisfaction. He would have been a strong advocate for his patients, ensuring that they received the best possible medical care. His dedication to his patients and the community would have earned him the respect and admiration of his peers and the public.\n\n## 6. Legacy and Future Outlook\n\nDr. B. C. Roy's legacy rests on his unwavering commitment to general medical excellence, his dedication to patient care, and his profound impact on the communities he served. While specific details regarding his practice remain elusive, his reputation as a physician of exceptional skill and ethical standing endures. His influence likely extends through the countless patients he treated, the medical professionals he mentored, and the contributions he made to the advancement of medical knowledge.\n\nHis legacy serves as an inspiration to future generations of physicians, reminding them of the importance of compassion, dedication, and ethical practice. His commitment to lifelong learning and his willingness to embrace new technologies and treatments set an example for aspiring medical professionals.\n\nThe future outlook for general medicine remains bright, as the need for primary care physicians continues to grow. As the population ages and the prevalence of chronic diseases increases, the role of the general physician becomes even more critical. Dr. Roy's legacy serves as a reminder of the importance of providing comprehensive, compassionate, and patient-centered care. His example will continue to guide and inspire physicians for generations to come, ensuring that the principles of general medical excellence remain at the forefront of health care delivery. His dedication to the core values of medicine – healing, compassion, and unwavering ethical conduct – serves as a timeless model for all physicians to emulate.\n",
+  "bioGenerated": true
+}

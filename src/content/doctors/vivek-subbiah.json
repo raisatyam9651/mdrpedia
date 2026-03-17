@@ -1,0 +1,96 @@
+{
+  "fullName": "Vivek Subbiah",
+  "slug": "vivek-subbiah",
+  "title": "MD",
+  "specialty": "Precision Oncology - Rare cancer trials",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 110,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Andrea A. Hayes Dixon is an American surgeon. She was the first pediatric surgeon to perform a high-risk, life-saving procedure in children with a rare form of cancer and developed the first orthotropic xenograft model of metastatic Ewing's sarcoma. In 2002, she became the first African American female pediatric surgeon board-certified in the United States.",
+  "aiSummary": "Vivek Subbiah is a precision oncology - rare cancer trials specialist with an H-index of 110 at MD Anderson (India-origin) (Faculty). Has been published in New England Journal of Medicine, The Lancet Oncology, Nature Medicine. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Precision Oncology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "MD Anderson (India-origin)",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Precision Oncology - Rare cancer trials"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "The next generation of evidence-based medicine.",
+      "journal": "Nat Med",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1038/s41591-022-02160-z",
+      "pubmedId": "36646803",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36646803/"
+    },
+    {
+      "title": "Lurbinectedin as second-line treatment for patients with small-cell lung cancer: a single-arm, open-label, phase 2 basket trial.",
+      "journal": "Lancet Oncol",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1016/S1470-2045(20)30068-1",
+      "pubmedId": "32224306",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32224306/"
+    },
+    {
+      "title": "Variant allele frequency: a decision-making tool in precision oncology?",
+      "journal": "Trends Cancer",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.trecan.2023.08.011",
+      "pubmedId": "37704501",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37704501/"
+    },
+    {
+      "title": "Dabrafenib plus trametinib in BRAFV600E-mutated rare cancers: the phase 2 ROAR trial.",
+      "journal": "Nat Med",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1038/s41591-023-02321-8",
+      "pubmedId": "37059834",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37059834/"
+    },
+    {
+      "title": "Tumour-agnostic efficacy and safety of selpercatinib in patients with RET fusion-positive solid tumours other than lung or thyroid tumours (LIBRETTO-001): a phase 1/2, open-label, basket trial.",
+      "journal": "Lancet Oncol",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/S1470-2045(22)00541-1",
+      "pubmedId": "36108661",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36108661/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:17.000Z",
+  "openalexId": "https://openalex.org/A5043675371",
+  "bio": "## Dr. Vivek Subbiah: A Biography in Precision Oncology\n\nDr. Vivek Subbiah stands as a prominent figure in the rapidly evolving field of precision oncology, particularly renowned for his dedication to rare cancer trials. While details of his current practice location remain unspecified, his expertise and contributions resonate widely within the medical community. This biography delves into his journey, exploring his academic foundations, medical philosophy, clinical expertise, research endeavors, and the significant impact he has made on patients and the broader scientific landscape.\n\n### 1. Early Life and Education\n\nThe formative years of Dr. Subbiah likely instilled within him a deep-seated curiosity and a commitment to rigorous scientific inquiry. Although specific details regarding his early life remain private, it is reasonable to infer that his academic path was marked by exceptional performance in science and mathematics, leading him to pursue a career in medicine. His undergraduate education likely focused on pre-medical studies, providing a strong foundation in biology, chemistry, and physics.\n\nThe next crucial step involved acceptance into a highly competitive medical school, where he would have undergone extensive training in basic medical sciences like anatomy, physiology, pathology, and pharmacology. During this period, he would have been exposed to various medical specialties, potentially sparking his initial interest in oncology. The complex and often devastating nature of cancer, coupled with the emerging possibilities of targeted therapies, likely resonated with his desire to make a meaningful difference in patients' lives.\n\nFollowing medical school, Dr. Subbiah would have embarked on a residency program, most likely in internal medicine or a related field. This rigorous, hands-on training would have provided him with a broad understanding of medical diagnosis and treatment, preparing him for a subsequent fellowship in medical oncology. During his oncology fellowship, he would have received specialized training in the diagnosis, treatment, and management of various types of cancer. This period would have been critical in shaping his understanding of cancer biology, chemotherapy, radiation therapy, and other treatment modalities.\n\nIt is during his fellowship that Dr. Subbiah likely developed a particular interest in precision oncology and rare cancer trials. He may have been drawn to the challenge of treating cancers that are often understudied and lack established treatment protocols. This specialization would have required him to acquire expertise in molecular profiling, genomics, and targeted therapies. He likely sought out mentorship from leading experts in the field, further honing his skills and knowledge. His academic background, complemented by rigorous medical training, laid the groundwork for his future contributions to precision oncology.\n\n### 2. Medical Philosophy\n\nDr. Subbiah's medical philosophy is likely rooted in a patient-centric approach, emphasizing individualized treatment plans based on a comprehensive understanding of each patient's unique cancer biology. In the realm of precision oncology, this translates to a deep commitment to molecular profiling, identifying specific genetic alterations that drive tumor growth and development. His approach is likely characterized by the following key principles:\n\n*   **Personalized Medicine:** He likely believes that cancer treatment should be tailored to the individual patient, taking into account the specific characteristics of their tumor, their genetic makeup, and their overall health status. This requires a thorough understanding of molecular profiling and the ability to interpret complex genomic data.\n\n*   **Data-Driven Decision Making:** Dr. Subbiah likely emphasizes the importance of using data from clinical trials, genomic analyses, and other sources to inform treatment decisions. He likely stays abreast of the latest research findings and incorporates them into his clinical practice.\n\n*   **Ethical Considerations:** Given the complexities of precision oncology and rare cancer trials, he likely adheres to the highest ethical standards, ensuring that patients are fully informed about the potential risks and benefits of treatment options. He probably prioritizes patient autonomy and shared decision-making.\n\n*   **Innovation and Collaboration:** He likely fosters a culture of innovation, constantly seeking new ways to improve cancer treatment. He likely collaborates with other researchers, clinicians, and pharmaceutical companies to advance the field of precision oncology.\n\n*   **Hope and Empathy:** Despite the challenges of treating rare cancers, Dr. Subbiah likely offers his patients hope and support. He likely understands the emotional toll that cancer takes on patients and their families and strives to provide compassionate care.\n\nHis commitment to ethical practice extends to ensuring equitable access to advanced diagnostics and therapies, regardless of a patient's socioeconomic background. He likely advocates for policies that promote broader access to precision oncology services.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Subbiah's clinical expertise lies primarily in the realm of precision oncology, with a specific focus on rare cancer trials. This specialization requires a deep understanding of various procedures and techniques, including:\n\n*   **Molecular Profiling:** This involves analyzing tumor tissue or blood samples to identify specific genetic mutations, gene amplifications, and other molecular alterations that are driving the cancer's growth. He likely utilizes various molecular profiling techniques, such as next-generation sequencing (NGS), immunohistochemistry (IHC), and fluorescence in situ hybridization (FISH).\n\n*   **Clinical Trial Design and Implementation:** Given his focus on rare cancer trials, Dr. Subbiah likely possesses expertise in designing and implementing clinical trials that are tailored to the specific needs of patients with rare cancers. This involves identifying appropriate patient populations, developing treatment protocols, and managing data collection and analysis.\n\n*   **Targeted Therapy Administration and Management:** Based on the results of molecular profiling, Dr. Subbiah likely prescribes targeted therapies that are designed to specifically attack the identified genetic alterations. He likely has extensive experience in managing the side effects of these therapies and adjusting dosages as needed.\n\n*   **Immunotherapy:** In addition to targeted therapies, he probably utilizes immunotherapy agents that stimulate the patient's own immune system to fight the cancer. He likely understands the mechanisms of action of these agents and can effectively manage immune-related adverse events.\n\n*   **Radiological Interpretation:** He likely possesses a strong understanding of radiological imaging techniques, such as CT scans, MRI scans, and PET scans, and can interpret these images to assess the extent of the cancer and monitor its response to treatment.\n\n*   **Multidisciplinary Team Collaboration:** Treating rare cancers often requires a multidisciplinary approach, involving collaboration with surgeons, radiation oncologists, pathologists, and other specialists. Dr. Subbiah likely excels at leading and coordinating these teams to provide comprehensive care to his patients.\n\nHis expertise extends to the application of cutting-edge technologies, such as liquid biopsies for real-time monitoring of treatment response and minimal residual disease. He likely embraces innovative approaches to drug development, including basket trials that evaluate the efficacy of targeted therapies across multiple cancer types with the same genetic alteration.\n\n### 4. Academic Contributions & Research\n\nDr. Subbiah's contributions to medical science likely extend beyond his clinical practice, encompassing significant academic and research endeavors. His research focus likely centers on identifying novel therapeutic targets in rare cancers and developing new strategies for personalizing cancer treatment.\n\n*   **Publications in Peer-Reviewed Journals:** He probably has authored or co-authored numerous articles in leading medical journals, disseminating his research findings to the broader scientific community. These publications likely cover topics such as the molecular characterization of rare cancers, the development of new targeted therapies, and the results of clinical trials.\n\n*   **Presentations at National and International Conferences:** He likely presents his research findings at major medical conferences, sharing his expertise with other clinicians and researchers. These presentations provide a platform for him to engage in discussions with colleagues and stay abreast of the latest advances in the field.\n\n*   **Participation in Clinical Trials:** As a specialist in rare cancer trials, he likely actively participates in clinical trials, both as a principal investigator and as a co-investigator. He likely contributes to the design of these trials and helps to enroll patients and collect data.\n\n*   **Grant Funding:** He likely secures grant funding from government agencies, foundations, and pharmaceutical companies to support his research efforts. This funding enables him to conduct innovative studies and develop new therapies for rare cancers.\n\n*   **Mentorship of Students and Fellows:** He likely mentors medical students, residents, and fellows, training the next generation of oncologists and researchers. He likely provides guidance and support to these trainees, helping them to develop their skills and knowledge.\n\nHis research likely involves the use of advanced technologies, such as genomics, proteomics, and bioinformatics, to understand the complex biology of rare cancers. He probably collaborates with researchers in other disciplines, such as genetics, immunology, and pharmacology, to accelerate the development of new therapies. His work is likely driven by a desire to translate basic research findings into clinical applications, ultimately improving the lives of patients with rare cancers.\n\n### 5. Patient Impact & Community Work\n\nDr. Subbiah's impact extends beyond the scientific realm, profoundly affecting the lives of his patients and the broader community. His dedication to providing compassionate and personalized care likely earns him the trust and respect of his patients.\n\n*   **Improved Patient Outcomes:** His expertise in precision oncology and rare cancer trials likely translates to improved outcomes for his patients. By tailoring treatment plans to the specific characteristics of each patient's tumor, he likely increases the chances of achieving remission or prolonging survival.\n\n*   **Enhanced Quality of Life:** He likely focuses not only on treating the cancer but also on improving the quality of life for his patients. He likely works with patients to manage side effects, address emotional concerns, and maintain their overall well-being.\n\n*   **Patient Advocacy:** He likely advocates for his patients, ensuring that they have access to the best possible care and that their voices are heard. He likely works with patient advocacy groups to raise awareness of rare cancers and promote research funding.\n\n*   **Community Outreach:** He likely participates in community outreach activities, educating the public about cancer prevention, early detection, and treatment. He likely speaks at community events, writes articles for local publications, and participates in fundraising activities.\n\n*   **Philanthropy:** He may support charitable organizations that are dedicated to cancer research and patient care. He likely donates his time and resources to these organizations, helping them to achieve their missions.\n\nHis commitment to patient care likely extends to providing support to families and caregivers. He probably recognizes the emotional challenges that families face when a loved one is diagnosed with cancer and strives to provide them with resources and guidance.\n\n### 6. Legacy and Future Outlook\n\nDr. Vivek Subbiah’s legacy is likely one of unwavering dedication to precision oncology, particularly in the challenging landscape of rare cancers. His contributions to research, clinical practice, and patient advocacy position him as a leader in the field.\n\nHis future outlook is promising, with the potential for continued advancements in personalized cancer treatment. He will likely remain at the forefront of these developments, contributing to the discovery of new therapeutic targets, the development of innovative clinical trials, and the improvement of patient outcomes.\n\nHis lasting influence will likely be seen in the growing number of patients with rare cancers who are able to benefit from precision oncology approaches. His work will likely inspire future generations of oncologists and researchers to pursue careers in this field, further accelerating the pace of progress. He will likely be remembered as a compassionate physician, a skilled researcher, and a tireless advocate for patients with cancer. His dedication to advancing the field of precision oncology is likely to have a lasting impact on the lives of countless individuals.\n",
+  "bioGenerated": true
+}

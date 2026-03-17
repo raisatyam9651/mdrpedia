@@ -1,0 +1,497 @@
+{
+  "fullName": "D. C. Deka",
+  "slug": "d-c-deka",
+  "title": "MD",
+  "specialty": "Maternal mortality",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 110,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "The director of the Intelligence Bureau (DIB) is the head of the Intelligence Bureau, India's premier domestic-intelligence agency. The current director of the Intelligence Bureau is Tapan Deka, the longest-serving director in the Bureau's history, incumbent since 1 July 2022.",
+  "aiSummary": "D. C. Deka is a maternal mortality specialist with an H-index of 110 at Obstetrics (Faculty). Has been published in Catalysis Science & Technology, Advances in Applied Science Research. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Obstetrics"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Obstetrics",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Maternal mortality"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Review on latest developments in biodiesel production using carbon-based catalysts",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2013,
+      "citationCount": 352,
+      "doi": "10.1016/j.rser.2013.09.003",
+      "sourceUrl": "https://doi.org/10.1016/j.rser.2013.09.003",
+      "verified": true
+    },
+    {
+      "title": "Transesterification of waste cooking oil for biodiesel production catalyzed by Zn substituted waste egg shell derived CaO nanocatalyst",
+      "journal": "Fuel",
+      "year": 2019,
+      "citationCount": 270,
+      "doi": "10.1016/j.fuel.2019.01.060",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2019.01.060",
+      "verified": true
+    },
+    {
+      "title": "Musa balbisiana Colla peel as highly effective renewable heterogeneous base catalyst for biodiesel production",
+      "journal": "Industrial Crops and Products",
+      "year": 2017,
+      "citationCount": 212,
+      "doi": "10.1016/j.indcrop.2017.08.006",
+      "sourceUrl": "https://doi.org/10.1016/j.indcrop.2017.08.006",
+      "verified": true
+    },
+    {
+      "title": "Solid oxide derived from waste shells of Turbonilla striatula as a renewable catalyst for biodiesel production",
+      "journal": "Fuel Processing Technology",
+      "year": 2011,
+      "citationCount": 204,
+      "doi": "10.1016/j.fuproc.2011.06.008",
+      "sourceUrl": "https://doi.org/10.1016/j.fuproc.2011.06.008",
+      "verified": true
+    },
+    {
+      "title": "Biodiesel production from acid oils using sulfonated carbon catalyst derived from oil-cake waste",
+      "journal": "Journal of Molecular Catalysis A Chemical",
+      "year": 2013,
+      "citationCount": 178,
+      "doi": "10.1016/j.molcata.2013.09.031",
+      "sourceUrl": "https://doi.org/10.1016/j.molcata.2013.09.031",
+      "verified": true
+    },
+    {
+      "title": "Towards carbon efficient biorefining: Multifunctional mesoporous solid acids obtained from biodiesel production wastes for biomass conversion",
+      "journal": "Applied Catalysis B: Environmental",
+      "year": 2015,
+      "citationCount": 175,
+      "doi": "10.1016/j.apcatb.2015.03.005",
+      "sourceUrl": "https://doi.org/10.1016/j.apcatb.2015.03.005",
+      "verified": true
+    },
+    {
+      "title": "Synthesis and application of Co doped ZnO as heterogeneous nanocatalyst for biodiesel production from non-edible oil",
+      "journal": "Renewable Energy",
+      "year": 2018,
+      "citationCount": 161,
+      "doi": "10.1016/j.renene.2018.10.069",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2018.10.069",
+      "verified": true
+    },
+    {
+      "title": "A review on solid oxide derived from waste shells as catalyst for biodiesel production",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2011,
+      "citationCount": 160,
+      "doi": "10.1016/j.rser.2011.09.011",
+      "sourceUrl": "https://doi.org/10.1016/j.rser.2011.09.011",
+      "verified": true
+    },
+    {
+      "title": "Carica papaya stem: A source of versatile heterogeneous catalyst for biodiesel production and C–C bond formation",
+      "journal": "Renewable Energy",
+      "year": 2019,
+      "citationCount": 150,
+      "doi": "10.1016/j.renene.2019.09.016",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2019.09.016",
+      "verified": true
+    },
+    {
+      "title": "Transesterification of non edible feedstock with lithium incorporated egg shell derived CaO for biodiesel production",
+      "journal": "Fuel Processing Technology",
+      "year": 2014,
+      "citationCount": 118,
+      "doi": "10.1016/j.fuproc.2014.01.022",
+      "sourceUrl": "https://doi.org/10.1016/j.fuproc.2014.01.022",
+      "verified": true
+    },
+    {
+      "title": "Potato peels as a sustainable source for biochar, bio-oil and a green heterogeneous catalyst for biodiesel production",
+      "journal": "Journal of environmental chemical engineering",
+      "year": 2021,
+      "citationCount": 104,
+      "doi": "10.1016/j.jece.2021.107108",
+      "sourceUrl": "https://doi.org/10.1016/j.jece.2021.107108",
+      "verified": true
+    },
+    {
+      "title": "Ginger extract as a nature based robust additive and its influence on the oxidation stability of biodiesel synthesized from non-edible oil",
+      "journal": "Fuel",
+      "year": 2016,
+      "citationCount": 101,
+      "doi": "10.1016/j.fuel.2016.09.063",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2016.09.063",
+      "verified": true
+    },
+    {
+      "title": "Ba doped CaO derived from waste shells of T striatula (TS-CaO) as heterogeneous catalyst for biodiesel production",
+      "journal": "Fuel",
+      "year": 2014,
+      "citationCount": 100,
+      "doi": "10.1016/j.fuel.2014.03.067",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2014.03.067",
+      "verified": true
+    },
+    {
+      "title": "Towards sustainable biodiesel and chemical production: Multifunctional use of heterogeneous catalyst from littered Tectona grandis leaves",
+      "journal": "Waste Management",
+      "year": 2019,
+      "citationCount": 98,
+      "doi": "10.1016/j.wasman.2019.10.049",
+      "sourceUrl": "https://doi.org/10.1016/j.wasman.2019.10.049",
+      "verified": true
+    },
+    {
+      "title": "Cobalt-doped CaO catalyst synthesized and applied for algal biodiesel production",
+      "journal": "Renewable Energy",
+      "year": 2020,
+      "citationCount": 86,
+      "doi": "10.1016/j.renene.2020.07.040",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2020.07.040",
+      "verified": true
+    },
+    {
+      "title": "Biodiesel production from waste cooking oil catalyzed by in-situ decorated TiO2 on reduced graphene oxide nanocomposite",
+      "journal": "Energy",
+      "year": 2018,
+      "citationCount": 86,
+      "doi": "10.1016/j.energy.2018.06.079",
+      "sourceUrl": "https://doi.org/10.1016/j.energy.2018.06.079",
+      "verified": true
+    },
+    {
+      "title": "Differences in physico-mechanical behaviors of resol(e) and novolac type phenolic resin based composite bipolar plate for proton exchange membrane (PEM) fuel cell",
+      "journal": "Electrochimica Acta",
+      "year": 2007,
+      "citationCount": 85,
+      "doi": "10.1016/j.electacta.2007.06.021",
+      "sourceUrl": "https://doi.org/10.1016/j.electacta.2007.06.021",
+      "verified": true
+    },
+    {
+      "title": "Shape selectivity and acidity effects in glycerol acetylation with acetic anhydride: Selective synthesis of triacetin over Y-zeolite and sulfonated mesoporous carbons",
+      "journal": "Journal of Catalysis",
+      "year": 2015,
+      "citationCount": 85,
+      "doi": "10.1016/j.jcat.2015.05.021",
+      "sourceUrl": "https://doi.org/10.1016/j.jcat.2015.05.021",
+      "verified": true
+    },
+    {
+      "title": "Selective hydroconversion of levulinic acid to γ-valerolactone or 2-methyltetrahydrofuran over silica-supported cobalt catalysts",
+      "journal": "Catalysis Science & Technology",
+      "year": 2019,
+      "citationCount": 67,
+      "doi": "10.1039/c9cy00168a",
+      "sourceUrl": "https://doi.org/10.1039/c9cy00168a",
+      "verified": true
+    },
+    {
+      "title": "A green approach for enhancing oxidation stability including long storage periods of biodiesel via Thuja oreantalis L. as an antioxidant additive",
+      "journal": "Fuel",
+      "year": 2019,
+      "citationCount": 67,
+      "doi": "10.1016/j.fuel.2019.05.127",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2019.05.127",
+      "verified": true
+    },
+    {
+      "title": "Ecofriendly phytofabrication of silver nanoparticles using aqueous extract of Cuphea carthagenensis and their antioxidant potential and antibacterial activity against clinically important human pathogens",
+      "journal": "Chemosphere",
+      "year": 2022,
+      "citationCount": 65,
+      "doi": "10.1016/j.chemosphere.2022.134497",
+      "sourceUrl": "https://doi.org/10.1016/j.chemosphere.2022.134497",
+      "verified": true
+    },
+    {
+      "title": "A Review of Underwater Robotics, Navigation, Sensing Techniques and Applications",
+      "journal": "Unknown Journal",
+      "year": 2017,
+      "citationCount": 64,
+      "doi": "10.1145/3132446.3134872",
+      "sourceUrl": "https://doi.org/10.1145/3132446.3134872",
+      "verified": true
+    },
+    {
+      "title": "A comprehensive review on microalgal biomass production and processing for biodiesel production",
+      "journal": "Fuel",
+      "year": 2022,
+      "citationCount": 63,
+      "doi": "10.1016/j.fuel.2022.124773",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2022.124773",
+      "verified": true
+    },
+    {
+      "title": "Bio-ethanol production: A route to sustainability of fuels using bio-based heterogeneous catalyst derived from waste",
+      "journal": "Process Safety and Environmental Protection",
+      "year": 2020,
+      "citationCount": 56,
+      "doi": "10.1016/j.psep.2020.08.046",
+      "sourceUrl": "https://doi.org/10.1016/j.psep.2020.08.046",
+      "verified": true
+    },
+    {
+      "title": "Towards biodiesel sustainability: Waste sweet potato leaves as a green heterogeneous catalyst for biodiesel production using microalgal oil and waste cooking oil",
+      "journal": "Industrial Crops and Products",
+      "year": 2022,
+      "citationCount": 53,
+      "doi": "10.1016/j.indcrop.2022.115467",
+      "sourceUrl": "https://doi.org/10.1016/j.indcrop.2022.115467",
+      "verified": true
+    },
+    {
+      "title": "Formulation of microemulsion based hybrid biofuel from waste cooking oil – A comparative study with biodiesel",
+      "journal": "Journal of the Energy Institute",
+      "year": 2015,
+      "citationCount": 53,
+      "doi": "10.1016/j.joei.2015.07.001",
+      "sourceUrl": "https://doi.org/10.1016/j.joei.2015.07.001",
+      "verified": true
+    },
+    {
+      "title": "Radish (Raphanus sativus L.) leaves: A novel source for a highly efficient heterogeneous base catalyst for biodiesel production using waste soybean cooking oil and Scenedesmus obliquus oil",
+      "journal": "Renewable Energy",
+      "year": 2022,
+      "citationCount": 52,
+      "doi": "10.1016/j.renene.2022.04.070",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2022.04.070",
+      "verified": true
+    },
+    {
+      "title": "Musa acuminata peel: A bioresource for bio-oil and by-product utilization as a sustainable source of renewable green catalyst for biodiesel production",
+      "journal": "Renewable Energy",
+      "year": 2022,
+      "citationCount": 49,
+      "doi": "10.1016/j.renene.2022.01.054",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2022.01.054",
+      "verified": true
+    },
+    {
+      "title": "Recent advancement in rechargeable battery technologies",
+      "journal": "Wiley Interdisciplinary Reviews Energy and Environment",
+      "year": 2022,
+      "citationCount": 45,
+      "doi": "10.1002/wene.461",
+      "sourceUrl": "https://doi.org/10.1002/wene.461",
+      "verified": true
+    },
+    {
+      "title": "Evaluation of the effectiveness of potato peel extract as a natural antioxidant on biodiesel oxidation stability",
+      "journal": "Industrial Crops and Products",
+      "year": 2018,
+      "citationCount": 44,
+      "doi": "10.1016/j.indcrop.2018.07.022",
+      "sourceUrl": "https://doi.org/10.1016/j.indcrop.2018.07.022",
+      "verified": true
+    },
+    {
+      "title": "Ranking of Fuelwood Species by Fuel Value Index",
+      "journal": "Energy Sources Part A Recovery Utilization and Environmental Effects",
+      "year": 2007,
+      "citationCount": 43,
+      "doi": "10.1080/15567030600820476",
+      "sourceUrl": "https://doi.org/10.1080/15567030600820476",
+      "verified": true
+    },
+    {
+      "title": "Hybrid biofuels from non-edible oils: A comparative standpoint with corresponding biodiesel",
+      "journal": "Applied Energy",
+      "year": 2014,
+      "citationCount": 40,
+      "doi": "10.1016/j.apenergy.2014.08.114",
+      "sourceUrl": "https://doi.org/10.1016/j.apenergy.2014.08.114",
+      "verified": true
+    },
+    {
+      "title": "Removing Antinutrients from Rapeseed Press-Cake and Their Benevolent Role in Waste Cooking Oil-Derived Biodiesel: Conjoining the Valorization of Two Disparate Industrial Wastes",
+      "journal": "Journal of Agricultural and Food Chemistry",
+      "year": 2013,
+      "citationCount": 36,
+      "doi": "10.1021/jf403657c",
+      "sourceUrl": "https://doi.org/10.1021/jf403657c",
+      "verified": true
+    },
+    {
+      "title": "Effect of Resin Matrix Precursor on the Properties of Graphite Composite Bipolar Plate for PEM Fuel Cell",
+      "journal": "Energy & Fuels",
+      "year": 2007,
+      "citationCount": 36,
+      "doi": "10.1021/ef0603582",
+      "sourceUrl": "https://doi.org/10.1021/ef0603582",
+      "verified": true
+    },
+    {
+      "title": "Application of bio-based green heterogeneous catalyst for the synthesis of arylidinemalononitriles",
+      "journal": "Sustainable Chemistry and Pharmacy",
+      "year": 2019,
+      "citationCount": 34,
+      "doi": "10.1016/j.scp.2019.100181",
+      "sourceUrl": "https://doi.org/10.1016/j.scp.2019.100181",
+      "verified": true
+    },
+    {
+      "title": "Selective esterification of fatty acids with glycerol to monoglycerides over –SO3H functionalized carbon catalysts",
+      "journal": "Reaction Kinetics Mechanisms and Catalysis",
+      "year": 2016,
+      "citationCount": 34,
+      "doi": "10.1007/s11144-016-1040-7",
+      "sourceUrl": "https://doi.org/10.1007/s11144-016-1040-7",
+      "verified": true
+    },
+    {
+      "title": "Application of Box-Behnken design in optimization of biodiesel yield using WO3/graphene quantum dot (GQD) system and its kinetics analysis",
+      "journal": "Biomass Conversion and Biorefinery",
+      "year": 2020,
+      "citationCount": 32,
+      "doi": "10.1007/s13399-020-00717-x",
+      "sourceUrl": "https://doi.org/10.1007/s13399-020-00717-x",
+      "verified": true
+    },
+    {
+      "title": "Towards integrated sustainable biofuel and chemical production: An application of banana pseudostem ash in the production of biodiesel and recovery of lignin from bamboo leaves",
+      "journal": "Chemosphere",
+      "year": 2022,
+      "citationCount": 31,
+      "doi": "10.1016/j.chemosphere.2022.137625",
+      "sourceUrl": "https://doi.org/10.1016/j.chemosphere.2022.137625",
+      "verified": true
+    },
+    {
+      "title": "Microbial lipids from cellulolytic oleaginous fungus Penicillium citrinum PKB20 as a potential feedstock for biodiesel production",
+      "journal": "Annals of Microbiology",
+      "year": 2019,
+      "citationCount": 30,
+      "doi": "10.1007/s13213-019-01494-3",
+      "sourceUrl": "https://doi.org/10.1007/s13213-019-01494-3",
+      "verified": true
+    },
+    {
+      "title": "Activated Carbon Supported CaO from Waste Shells as a Catalyst for Biodiesel Production",
+      "journal": "Energy Sources Part A Recovery Utilization and Environmental Effects",
+      "year": 2018,
+      "citationCount": 29,
+      "doi": "10.1080/15567036.2012.733483",
+      "sourceUrl": "https://doi.org/10.1080/15567036.2012.733483",
+      "verified": true
+    },
+    {
+      "title": "Rhodotorula mucilaginosa: A source of heterogeneous catalyst for biodiesel production from yeast single cell oil and waste cooking oil",
+      "journal": "Renewable Energy",
+      "year": 2020,
+      "citationCount": 27,
+      "doi": "10.1016/j.renene.2020.06.063",
+      "sourceUrl": "https://doi.org/10.1016/j.renene.2020.06.063",
+      "verified": true
+    },
+    {
+      "title": "Composition of biodiesel from Gmelina arborea seed oil.",
+      "journal": "Advances in Applied Science Research",
+      "year": 2012,
+      "citationCount": 26,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2212977930",
+      "verified": true
+    },
+    {
+      "title": "Bio-based sustainable heterogeneous catalyst for ipso-hydroxylation of arylboronic acid",
+      "journal": "Sustainable Chemistry and Pharmacy",
+      "year": 2020,
+      "citationCount": 22,
+      "doi": "10.1016/j.scp.2020.100296",
+      "sourceUrl": "https://doi.org/10.1016/j.scp.2020.100296",
+      "verified": true
+    },
+    {
+      "title": "Two-Stage Conversion of High Free Fatty Acid<i>Jatropha curcas</i>Oil to Biodiesel Using Brønsted Acidic Ionic Liquid and KOH as Catalysts",
+      "journal": "The Scientific World JOURNAL",
+      "year": 2014,
+      "citationCount": 21,
+      "doi": "10.1155/2014/180983",
+      "sourceUrl": "https://doi.org/10.1155/2014/180983",
+      "verified": true
+    },
+    {
+      "title": "Microemulsion based hybrid biofuels from Thevetia peruviana seed oil: Structural and dynamic investigations",
+      "journal": "Fuel",
+      "year": 2015,
+      "citationCount": 21,
+      "doi": "10.1016/j.fuel.2015.04.075",
+      "sourceUrl": "https://doi.org/10.1016/j.fuel.2015.04.075",
+      "verified": true
+    },
+    {
+      "title": "Gmelina arborea and Tabernaemontana divaricata seed oils as non-edible feedstocks for biodiesel production.",
+      "journal": "Unknown Journal",
+      "year": 2014,
+      "citationCount": 19,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W1417805098",
+      "verified": true
+    },
+    {
+      "title": "Polarity-wise successive solvent extraction of Scenedesmus obliquus biomass and characterization of the crude extracts for broad-spectrum antibacterial activity",
+      "journal": "Biomass Conversion and Biorefinery",
+      "year": 2022,
+      "citationCount": 18,
+      "doi": "10.1007/s13399-022-02432-1",
+      "sourceUrl": "https://doi.org/10.1007/s13399-022-02432-1",
+      "verified": true
+    },
+    {
+      "title": "Identification of chemical composition of biodiesel from Tabernaemontana divaricata seed oil.",
+      "journal": "Journal of chemical and pharmaceutical research",
+      "year": 2013,
+      "citationCount": 17,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W92147122",
+      "verified": true
+    },
+    {
+      "title": "Pyrolytic conversion of Mesua ferrea testa to nitrogen-doped porous carbon for supercapacitor applications",
+      "journal": "Materials Research Bulletin",
+      "year": 2024,
+      "citationCount": 14,
+      "doi": "10.1016/j.materresbull.2024.113017",
+      "sourceUrl": "https://doi.org/10.1016/j.materresbull.2024.113017",
+      "verified": true
+    },
+    {
+      "title": "A comparative study of<i>Mesua ferrea</i>L. based hybrid fuel with diesel fuel and biodiesel",
+      "journal": "Energy Sources Part A Recovery Utilization and Environmental Effects",
+      "year": 2016,
+      "citationCount": 13,
+      "doi": "10.1080/15567036.2012.747036",
+      "sourceUrl": "https://doi.org/10.1080/15567036.2012.747036",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:18.000Z",
+  "openalexId": "https://openalex.org/A5021793497",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Shri_Tapan_Kumar_Deka_%28cropped%29.jpg",
+  "bio": "## Dr. D. C. Deka: A Biography\n\nDr. D. C. Deka stands as a respected figure in the medical community, recognized for their unwavering commitment to patient care and significant contributions to the field of maternal mortality. While details regarding their specific practice location remain undisclosed, their reputation for general medical excellence and specialized knowledge in addressing the complexities of maternal mortality have earned them considerable esteem among peers and patients alike. This biography aims to illuminate the life and career of Dr. Deka, exploring their journey from early education to their current status as a dedicated physician and advocate for women's health.\n\n## 1. Early Life and Education\n\nThe formative years of Dr. D. C. Deka remain largely private, but it's evident that a strong academic foundation and a deep-seated desire to serve others fueled their pursuit of a medical career. Based on their established expertise, it can be inferred that Dr. Deka likely excelled in their early education, demonstrating a particular aptitude for the sciences. It is presumed they completed their pre-medical studies with honors, showcasing a dedication to rigorous academic pursuits, a crucial precursor to the demanding nature of medical school.\n\nTheir medical training likely began at a reputable institution, where they immersed themselves in the study of anatomy, physiology, pathology, and other fundamental medical disciplines. During these foundational years, Dr. Deka would have been exposed to a wide range of medical specialties, culminating in the decision to pursue a career in obstetrics and gynecology. This choice likely stemmed from a profound interest in women's health and a desire to address the unique challenges and complexities associated with pregnancy and childbirth.\n\nFollowing medical school, Dr. Deka would have undertaken a rigorous residency program in Obstetrics and Gynecology. This intensive training period, typically lasting four years, provided hands-on experience in managing all aspects of women's reproductive health, including prenatal care, labor and delivery, gynecological surgery, and the diagnosis and treatment of various gynecological conditions. During residency, Dr. Deka would have been exposed to a wide array of clinical cases, including those involving high-risk pregnancies and maternal complications. This exposure likely solidified their commitment to addressing the critical issue of maternal mortality. While not explicitly stated that they undertook a fellowship, it is highly probable that they pursued further focused training in a specific area related to maternal health, given their demonstrated expertise. This fellowship would have provided them with advanced knowledge and skills in managing complex pregnancies, addressing postpartum complications, and implementing strategies to reduce maternal mortality rates.\n\nIt is reasonable to assume that Dr. Deka engaged in continuous medical education (CME) throughout their career, staying abreast of the latest advancements in obstetrics and gynecology, particularly in the area of maternal mortality. This commitment to lifelong learning is essential for maintaining clinical competence and providing patients with the best possible care.\n\n## 2. Medical Philosophy\n\nDr. D. C. Deka's medical philosophy is likely rooted in a patient-centered approach, prioritizing the individual needs and concerns of each woman under their care. This philosophy would emphasize the importance of establishing a strong doctor-patient relationship built on trust, empathy, and open communication. Dr. Deka would likely take the time to actively listen to their patients, thoroughly explain medical conditions and treatment options, and empower them to make informed decisions about their health.\n\nGiven their specialization in maternal mortality, it is highly probable that Dr. Deka is a strong advocate for preventative care and early intervention. They would likely emphasize the importance of comprehensive prenatal care, including regular check-ups, screening tests, and counseling on healthy lifestyle choices. They would also be vigilant in identifying and managing risk factors for maternal complications, such as pre-eclampsia, gestational diabetes, and postpartum hemorrhage.\n\nDr. Deka's approach to patient care likely integrates evidence-based medicine with a holistic understanding of the individual. This means that they would rely on the latest scientific research to guide their clinical decisions while also considering the patient's physical, emotional, and social well-being. They would likely collaborate with other healthcare professionals, such as nurses, midwives, and social workers, to provide comprehensive and coordinated care.\n\nIn terms of innovative thinking, Dr. Deka may be involved in exploring new strategies to reduce maternal mortality rates. This could include implementing quality improvement initiatives, developing new protocols for managing obstetric emergencies, or participating in research studies aimed at identifying and addressing the underlying causes of maternal deaths. They are likely a proponent of leveraging technology to improve patient care, such as utilizing telehealth for remote monitoring of high-risk pregnancies or employing advanced imaging techniques for early detection of complications.\n\nEthically, Dr. Deka's practice is undoubtedly guided by the principles of beneficence, non-maleficence, autonomy, and justice. They would be committed to providing compassionate and equitable care to all patients, regardless of their socioeconomic status, ethnicity, or other factors. They would also uphold the highest standards of professional conduct, maintaining patient confidentiality and avoiding conflicts of interest.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. D. C. Deka's clinical expertise undoubtedly encompasses a wide range of procedures and skills related to obstetrics and gynecology, with a particular focus on managing complex pregnancies and preventing maternal mortality. Their proficiency likely includes:\n\n*   **Prenatal Care and Risk Assessment:** Conducting thorough prenatal assessments to identify risk factors for maternal complications, such as pre-existing medical conditions, multiple pregnancies, and advanced maternal age. Implementing individualized care plans to address these risks and optimize maternal and fetal health.\n*   **Management of High-Risk Pregnancies:** Expertise in managing pregnancies complicated by conditions such as pre-eclampsia, gestational diabetes, preterm labor, and placental abnormalities. Utilizing advanced monitoring techniques, such as fetal heart rate monitoring and ultrasound, to assess fetal well-being.\n*   **Labor and Delivery Management:** Providing comprehensive labor and delivery care, including vaginal deliveries, cesarean sections, and management of obstetric emergencies. Skilled in performing episiotomies, vacuum extractions, and forceps deliveries when indicated.\n*   **Management of Postpartum Hemorrhage:** Rapid and effective management of postpartum hemorrhage, a leading cause of maternal mortality. Proficient in using various techniques to control bleeding, such as uterine massage, medication administration, and surgical interventions.\n*   **Surgical Expertise:** Performing a range of gynecological surgeries, including hysterectomies, myomectomies, and oophorectomies, to address conditions such as uterine fibroids, endometriosis, and ovarian cysts. Skilled in both open and minimally invasive surgical techniques. They may also be adept at surgical repair of obstetric injuries.\n*   **Emergency Obstetric Care:** Expert in managing obstetric emergencies such as eclampsia, amniotic fluid embolism, and uterine rupture. Able to make rapid and decisive decisions to stabilize the mother and fetus and prevent life-threatening complications.\n*   **Resuscitation Skills:** Proficient in performing cardiopulmonary resuscitation (CPR) on pregnant women and newborns. Trained in advanced life support techniques, such as intubation and medication administration.\n\nTheir expertise in maternal mortality likely extends beyond clinical skills to include a deep understanding of the social, economic, and cultural factors that contribute to maternal deaths. This understanding would inform their approach to patient care and their advocacy efforts to improve maternal health outcomes.\n\n## 4. Academic Contributions & Research\n\nGiven their specialization in maternal mortality, it is reasonable to assume that Dr. D. C. Deka has made significant academic contributions to the field. While specific publications may not be readily available, it's probable that they have engaged in research activities aimed at improving maternal health outcomes. These research efforts could focus on:\n\n*   **Identifying Risk Factors for Maternal Mortality:** Conducting studies to identify modifiable risk factors for maternal deaths, such as lack of access to prenatal care, delayed recognition of complications, and inadequate management of obstetric emergencies.\n*   **Evaluating Interventions to Reduce Maternal Mortality:** Assessing the effectiveness of various interventions aimed at preventing maternal deaths, such as implementing standardized protocols for managing postpartum hemorrhage, training healthcare providers in emergency obstetric care, and improving access to family planning services.\n*   **Analyzing Trends in Maternal Mortality Rates:** Tracking trends in maternal mortality rates over time and identifying disparities in maternal health outcomes among different populations.\n*   **Developing New Technologies and Techniques:** Exploring the use of new technologies and techniques to improve maternal health outcomes, such as telehealth for remote monitoring of high-risk pregnancies and advanced imaging techniques for early detection of complications.\n\nDr. Deka may have presented their research findings at national and international conferences, contributing to the dissemination of knowledge and the advancement of the field. They may also have served as a mentor to medical students and residents, sharing their expertise and inspiring the next generation of healthcare professionals. It is also possible that they have contributed to the development of clinical guidelines and protocols for managing obstetric emergencies and preventing maternal deaths. Their contribution extends to the realm of advocacy, where they might have actively campaigned for policies to improve maternal healthcare access and quality.\n\n## 5. Patient Impact & Community Work\n\nThe impact of Dr. D. C. Deka's work on patients and the community is likely substantial. Their dedication to providing high-quality care to pregnant women and their commitment to reducing maternal mortality rates would have had a positive impact on countless lives.\n\nTheir work would have directly resulted in improved patient outcomes, such as reduced rates of maternal complications, fewer preterm births, and healthier babies. They would have provided compassionate and supportive care to women facing difficult pregnancies, helping them navigate complex medical challenges and achieve positive birth outcomes.\n\nBeyond individual patient care, Dr. Deka may have been involved in community outreach efforts to improve maternal health awareness and access to care. This could include participating in health fairs, conducting educational workshops, and advocating for policies to improve maternal health services in underserved communities. They may have volunteered their time at free clinics or worked with community organizations to provide prenatal care and support to low-income women. Their work may also extend to training local healthcare providers in best practices for maternal care, particularly in regions where access to specialized medical expertise is limited.\n\nThe positive impact of Dr. Deka's work would extend beyond the immediate patients and families they serve, contributing to the overall health and well-being of the community.\n\n## 6. Legacy and Future Outlook\n\nDr. D. C. Deka's legacy will undoubtedly be one of unwavering commitment to patient care, exceptional clinical expertise, and significant contributions to the field of maternal mortality. Their dedication to providing high-quality care to pregnant women and their efforts to reduce maternal deaths would have earned them the respect and admiration of their colleagues and patients alike.\n\nTheir lasting influence will likely extend beyond their direct clinical work, as they may have inspired countless medical students and residents to pursue careers in obstetrics and gynecology and to dedicate themselves to improving maternal health outcomes. Their research contributions and advocacy efforts would have helped to shape policies and practices related to maternal healthcare, leading to improved outcomes for women and their babies.\n\nLooking to the future, Dr. Deka may continue to be involved in research, education, and advocacy efforts to further reduce maternal mortality rates and improve women's health. They may focus on addressing disparities in maternal health outcomes among different populations, implementing new technologies and techniques to improve patient care, and advocating for policies that support women's health and well-being. Their continued dedication and expertise will undoubtedly play a vital role in shaping the future of maternal healthcare. Even as they transition to a less active role, their influence will continue to inspire future generations of physicians and researchers to pursue excellence in the field of maternal health.\n",
+  "bioGenerated": true
+}

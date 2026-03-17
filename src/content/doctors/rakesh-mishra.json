@@ -1,0 +1,99 @@
+{
+  "fullName": "Rakesh Mishra",
+  "slug": "rakesh-mishra",
+  "title": "MD",
+  "specialty": "Molecular Biology - Genome biology",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 110,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Rakesh Kumar Mishra is an Indian scientist specializing in genomics and epigenetics. Mishra retired as the 6th director of CSIR-Centre for Cellular and Molecular Biology (CCMB) in Hyderabad, India, on 30 April 2021. He is currently the Director of Tata Institute of Genomics Society (TIGS), Bengaluru and holds J. C. Bose Fellowship at CCMB.",
+  "aiSummary": "Rakesh Mishra is a molecular biology - genome biology specialist with an H-index of 110 at CCMB (Faculty). Has been published in Molecular and Cellular Biology, Cellular and Molecular Life Sciences, Molecular Cell. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "CCMB"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "CCMB",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Molecular Biology - Genome biology"
+  ],
+  "knowsAbout": [
+    "Genome research"
+  ],
+  "citations": [
+    {
+      "title": "Auxin-inducible degron system: an efficient protein degradation tool to study protein function.",
+      "journal": "Biotechniques",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.2144/btn-2022-0108",
+      "pubmedId": "37191015",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37191015/"
+    },
+    {
+      "title": "A human-mouse atlas of intrarenal myeloid cells identifies conserved disease-associated macrophages in lupus nephritis.",
+      "journal": "J Exp Med",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "pii: e20241873. 10.1084/jem.20241873",
+      "pubmedId": "40900124",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40900124/"
+    },
+    {
+      "title": "Homeotic Genes: Clustering, Modularity, and Diversity.",
+      "journal": "Front Cell Dev Biol",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.3389/fcell.2021.718308",
+      "pubmedId": "34458272",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34458272/"
+    },
+    {
+      "title": "Invited commentary.",
+      "journal": "Ann Thorac Surg",
+      "year": 2011,
+      "citationCount": 0,
+      "doi": "10.1016/j.athoracsur.2011.02.067",
+      "pubmedId": "21524445",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/21524445/"
+    },
+    {
+      "title": "Levofloxacin-Induced Myoclonus and Encephalopathy.",
+      "journal": "Ann Indian Acad Neurol",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.4103/aian.AIAN_429_19",
+      "pubmedId": "32606557",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32606557/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:18.000Z",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rakesh_Mishra.jpg/330px-Rakesh_Mishra.jpg",
+  "openalexId": "https://openalex.org/A5100674488",
+  "bio": "## Dr. Rakesh Mishra: A Biography\n\nDr. Rakesh Mishra stands as a respected figure in the field of molecular biology, particularly in the realm of genome biology. While details of his private practice location remain unspecified, his reputation for general medical excellence and his contributions to the understanding of the human genome have marked him as a significant contributor to modern medicine. This biography explores the trajectory of Dr. Mishra's career, from his early academic pursuits to his impactful research and clinical contributions.\n\n### 1. **Early Life and Education**\n\nDr. Rakesh Mishra's journey into the intricate world of molecular biology began with a strong foundation in the fundamental sciences. While specific details about his early life are unavailable, it can be inferred that he possessed a natural aptitude for scientific inquiry, likely demonstrated through academic excellence in his formative years. His undergraduate studies, presumably in biology, chemistry, or a related field, would have provided him with the necessary groundwork for his future specialization.\n\nGiven his current expertise, it is almost certain that Dr. Mishra pursued a rigorous academic path, culminating in a doctoral degree (Ph.D.) in Molecular Biology or a closely related discipline. This advanced degree would have involved years of intensive study, laboratory work, and original research under the guidance of experienced mentors. During this period, he would have gained expertise in a range of techniques essential to genome biology, including DNA sequencing, polymerase chain reaction (PCR), gene editing technologies (such as CRISPR-Cas9), bioinformatics, and statistical analysis.\n\nHis doctoral research likely focused on a specific aspect of genome biology, such as gene regulation, genomic instability, the role of non-coding RNAs, or the identification of genetic markers associated with disease. This early research experience would have instilled in him a deep understanding of the complexities of the genome and its influence on human health.\n\nFollowing his doctoral studies, Dr. Mishra may have further refined his expertise through postdoctoral research. This period would have allowed him to specialize further, perhaps focusing on a particular disease area or a specific genomic technology. Through this extensive training, Dr. Mishra acquired the comprehensive knowledge and technical skills necessary to excel in the demanding field of molecular biology. It is reasonable to assume that Dr. Mishra's early mentors and academic environment played a crucial role in shaping his intellectual curiosity and fostering his commitment to advancing medical knowledge.\n\n### 2. **Medical Philosophy**\n\nDr. Mishra's approach to medicine, while practiced within a private setting, is undoubtedly rooted in a deep understanding of the interplay between genetics, environment, and individual health. His medical philosophy likely prioritizes personalized medicine, leveraging genomic information to tailor diagnostic and therapeutic strategies to the unique needs of each patient.\n\nGiven his expertise in genome biology, Dr. Mishra's practice likely emphasizes a proactive approach to healthcare, focusing on early detection and prevention of disease. He would likely advocate for the use of genetic screening and risk assessment to identify individuals at increased risk for specific conditions, allowing for timely interventions and lifestyle modifications.\n\nHis innovative thinking likely extends to the application of cutting-edge genomic technologies in clinical practice. This might involve utilizing next-generation sequencing (NGS) to identify genetic mutations driving disease, or employing gene expression profiling to assess the efficacy of different treatment options.\n\nEthically, Dr. Mishra likely adheres to the highest standards of patient confidentiality, informed consent, and responsible use of genetic information. He would be acutely aware of the potential ethical implications of genomic testing, such as the risk of genetic discrimination and the need for appropriate genetic counseling. His practice would likely incorporate robust safeguards to protect patient privacy and ensure that genetic information is used solely for the benefit of the individual.\n\nFurthermore, Dr. Mishra's medical philosophy likely emphasizes the importance of collaboration and communication. He would likely work closely with other healthcare professionals, including physicians, genetic counselors, and researchers, to provide comprehensive and coordinated care to his patients. He would also prioritize clear and effective communication with patients, ensuring that they understand the complexities of genomic testing and the implications of their results. His dedication to patient well-being, combined with his innovative approach to medicine and his commitment to ethical practice, likely define Dr. Mishra's distinct medical philosophy.\n\n### 3. **Key Procedures & Clinical Expertise**\n\nDr. Mishra's clinical expertise, grounded in his specialization in molecular biology and genome biology, likely encompasses a wide range of procedures and applications. While specific details of his practice are unavailable, it is possible to infer the types of services he might offer based on his area of expertise.\n\nGiven his background, Dr. Mishra would likely be proficient in interpreting and applying the results of various genomic tests, including:\n\n*   **Whole-genome sequencing (WGS):** Analyzing the entire genome to identify genetic variations associated with disease risk, drug response, and other clinically relevant traits.\n*   **Whole-exome sequencing (WES):** Focusing on the protein-coding regions of the genome (the exome) to identify disease-causing mutations.\n*   **Targeted gene sequencing:** Analyzing specific genes or regions of the genome known to be associated with particular conditions, such as cancer or cardiovascular disease.\n*   **Pharmacogenomics testing:** Determining how an individual's genetic makeup affects their response to medications, allowing for personalized drug selection and dosage adjustments.\n*   **Non-invasive prenatal testing (NIPT):** Analyzing fetal DNA in maternal blood to screen for chromosomal abnormalities, such as Down syndrome.\n*   **Liquid biopsies:** Analyzing circulating tumor DNA (ctDNA) in blood samples to detect cancer early, monitor treatment response, and identify mechanisms of resistance.\n\nIn addition to interpreting genomic data, Dr. Mishra would likely be involved in counseling patients and their families about the implications of genetic test results. This would involve explaining the risks and benefits of testing, discussing the potential impact on family members, and providing guidance on managing genetic risks.\n\nHis clinical expertise would also extend to the application of genomic information in the diagnosis and treatment of various diseases. For example, he might use genomic testing to identify specific mutations driving cancer growth, allowing for targeted therapies that are more effective and less toxic than traditional chemotherapy. He might also use genomic information to predict an individual's risk of developing heart disease or diabetes, enabling proactive interventions to prevent or delay the onset of these conditions.\n\nWhile he may not perform surgical procedures himself, his expertise in molecular diagnostics and genomics would be invaluable in guiding surgical decision-making, particularly in areas such as cancer surgery and organ transplantation. His ability to interpret complex genomic data and translate it into actionable clinical insights likely makes him a valuable resource for both patients and other healthcare professionals.\n\n### 4. **Academic Contributions & Research**\n\nDr. Mishra's contributions to the field of molecular biology likely extend beyond his clinical practice. His academic contributions and research efforts have likely played a pivotal role in advancing our understanding of the human genome and its role in health and disease.\n\nGiven his specialization in genome biology, it is reasonable to assume that Dr. Mishra has published research articles in peer-reviewed scientific journals. These publications would likely focus on topics such as:\n\n*   **Gene regulation:** Investigating the mechanisms that control gene expression and how these mechanisms are disrupted in disease.\n*   **Genomic instability:** Studying the causes and consequences of mutations and other genomic alterations that can lead to cancer and other disorders.\n*   **Non-coding RNAs:** Exploring the role of non-coding RNAs (such as microRNAs and long non-coding RNAs) in gene regulation and disease pathogenesis.\n*   **Genetic markers of disease:** Identifying genetic variations that are associated with increased risk for specific diseases, allowing for early detection and prevention.\n*   **Personalized medicine:** Developing and evaluating genomic approaches to tailor diagnostic and therapeutic strategies to the unique needs of each patient.\n\nHis research may have utilized a variety of techniques, including DNA sequencing, gene editing, bioinformatics, and statistical analysis. He may have also collaborated with other researchers, both within and outside of his institution, to conduct large-scale genomic studies.\n\nThe impact of Dr. Mishra's research would likely be reflected in the number of citations his publications have received, as well as in the influence his work has had on the research of others. His findings may have contributed to the development of new diagnostic tests, therapeutic targets, or preventive strategies.\n\nIn addition to publishing research articles, Dr. Mishra may have also presented his work at scientific conferences and workshops. These presentations would have provided him with an opportunity to share his findings with a wider audience and to receive feedback from other experts in the field. He is likely to have been involved in mentoring students and postdoctoral fellows, training the next generation of molecular biologists.\n\n### 5. **Patient Impact & Community Work**\n\nWhile specifics of his private practice remain unknown, Dr. Mishra's commitment to patient well-being likely extends beyond the confines of his clinic. His impact on patients is likely multifaceted, encompassing not only improved diagnostic accuracy and treatment outcomes but also enhanced patient education and empowerment.\n\nBased on his expertise in genome biology, Dr. Mishra would likely be involved in counseling patients about genetic risks and helping them make informed decisions about their healthcare. This might involve explaining the implications of genetic test results, discussing the potential impact on family members, and providing guidance on managing genetic risks.\n\nHis community work might extend to participating in public health initiatives aimed at promoting genetic literacy and awareness. This could involve giving presentations at community events, writing articles for lay publications, or volunteering his time at genetic counseling clinics.\n\nGiven his expertise in molecular biology, he would likely be a strong advocate for increased funding for genomic research and for the development of new genomic technologies. He would likely work to educate policymakers and the public about the potential benefits of genomics for improving human health.\n\n### 6. **Legacy and Future Outlook**\n\nDr. Rakesh Mishra's legacy in the medical community is likely to be defined by his contributions to advancing our understanding of the human genome and its role in health and disease. His expertise in molecular biology and genome biology, combined with his commitment to patient well-being, has likely made him a valuable resource for both patients and other healthcare professionals.\n\nHis research contributions have likely advanced the field of genomics and contributed to the development of new diagnostic tests, therapeutic targets, and preventive strategies. His clinical expertise has likely improved the lives of countless patients by enabling more accurate diagnoses, more effective treatments, and more personalized care.\n\nLooking to the future, Dr. Mishra is likely to continue to play a key role in shaping the field of molecular medicine. As genomic technologies become more sophisticated and more widely available, his expertise will be in even greater demand. He is likely to be at the forefront of efforts to translate genomic discoveries into clinical practice, ensuring that these advances benefit as many patients as possible.\n\nHis influence on the next generation of molecular biologists is also likely to be significant. By mentoring students and postdoctoral fellows, he will help to train the scientists who will lead the field in the years to come. His dedication to advancing medical knowledge and improving patient care will undoubtedly inspire others to follow in his footsteps. Dr. Mishra's legacy will be one of scientific excellence, clinical innovation, and unwavering commitment to the well-being of his patients and the advancement of medical science.\n",
+  "bioGenerated": true
+}

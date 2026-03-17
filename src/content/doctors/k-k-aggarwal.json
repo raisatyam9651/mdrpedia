@@ -1,0 +1,495 @@
+{
+  "fullName": "K. K. Aggarwal",
+  "slug": "k-k-aggarwal",
+  "title": "MD",
+  "specialty": "Medical digital education",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 145,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Krishan Kumar Aggarwal was an Indian physician and senior cardiologist who was President of the Confederation of Medical Association of Asia and Oceania (CMAAO), President of the Heart Care Foundation of India and the Past National President of Indian Medical Association. In 2010, the Government of India honored him with the Padma Shri, India's fourth-highest civilian award, for his contributions to the field of medicine.",
+  "aiSummary": "K. K. Aggarwal is a medical digital education specialist with an H-index of 145 at HCFICardiology (Member). Has been published in Nature Physics, Nature. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "HCFICardiology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "HCFICardiology",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Medical digital education"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+      "journal": "Physics Letters B",
+      "year": 2012,
+      "citationCount": 10349,
+      "doi": "10.1016/j.physletb.2012.08.020",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2012.08.020",
+      "verified": true
+    },
+    {
+      "title": "The ATLAS Experiment at the CERN Large Hadron Collider",
+      "journal": "Journal of Instrumentation",
+      "year": 2008,
+      "citationCount": 3939,
+      "doi": "10.1088/1748-0221/3/08/s08003",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/3/08/s08003",
+      "verified": true
+    },
+    {
+      "title": "The ATLAS Experiment at the CERN Large Hadron Collider",
+      "journal": "UvA-DARE (University of Amsterdam)",
+      "year": 2008,
+      "citationCount": 2375,
+      "doi": "10.1088/1748-0221/3/08/s08003",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/3/08/s08003",
+      "verified": true
+    },
+    {
+      "title": "The ATLAS Simulation Infrastructure",
+      "journal": "The European Physical Journal C",
+      "year": 2010,
+      "citationCount": 1500,
+      "doi": "10.1140/epjc/s10052-010-1429-9",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-010-1429-9",
+      "verified": true
+    },
+    {
+      "title": "Combined Measurement of the Higgs Boson Mass in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math>Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>7</mml:mn></mml:math>and 8 TeV with the ATLAS and CMS Experiments",
+      "journal": "Physical Review Letters",
+      "year": 2015,
+      "citationCount": 1286,
+      "doi": "10.1103/physrevlett.114.191803",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.114.191803",
+      "verified": true
+    },
+    {
+      "title": "Measurements of the Higgs boson production and decay rates and constraints on its couplings from a combined ATLAS and CMS analysis of the LHC pp collision data at s = 7 $$ \\sqrt{s}=7 $$ and 8 TeV",
+      "journal": "Journal of High Energy Physics",
+      "year": 2016,
+      "citationCount": 1034,
+      "doi": "10.1007/jhep08(2016)045",
+      "sourceUrl": "https://doi.org/10.1007/jhep08(2016)045",
+      "verified": true
+    },
+    {
+      "title": "Performance of the ATLAS trigger system in 2015",
+      "journal": "The European Physical Journal C",
+      "year": 2017,
+      "citationCount": 729,
+      "doi": "10.1140/epjc/s10052-017-4852-3",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-017-4852-3",
+      "verified": true
+    },
+    {
+      "title": "Observation of a Centrality-Dependent Dijet Asymmetry in Lead-Lead Collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mi>NN</mml:mi></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>2.76</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math>with the ATLAS Detector at the LHC",
+      "journal": "Physical Review Letters",
+      "year": 2010,
+      "citationCount": 712,
+      "doi": "10.1103/physrevlett.105.252303",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.105.252303",
+      "verified": true
+    },
+    {
+      "title": "ATLAS pixel detector electronics and sensors",
+      "journal": "Journal of Instrumentation",
+      "year": 2008,
+      "citationCount": 658,
+      "doi": "10.1088/1748-0221/3/07/p07007",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/3/07/p07007",
+      "verified": true
+    },
+    {
+      "title": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+      "journal": "Unknown Journal",
+      "year": 2008,
+      "citationCount": 557,
+      "doi": "10.48550/arxiv.0901.0512",
+      "sourceUrl": "https://doi.org/10.48550/arxiv.0901.0512",
+      "verified": true
+    },
+    {
+      "title": "Muon reconstruction performance of the ATLAS detector in proton–proton collision data at $$\\sqrt{s}$$ s =13 TeV",
+      "journal": "The European Physical Journal C",
+      "year": 2016,
+      "citationCount": 551,
+      "doi": "10.1140/epjc/s10052-016-4120-y",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-016-4120-y",
+      "verified": true
+    },
+    {
+      "title": "Observation of Associated Near-Side and Away-Side Long-Range Correlations in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo mathvariant=\"bold\">=</mml:mo><mml:mn>5.02</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math>Proton-Lead Collisions with the ATLAS Detector",
+      "journal": "Physical Review Letters",
+      "year": 2013,
+      "citationCount": 539,
+      "doi": "10.1103/physrevlett.110.182302",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.110.182302",
+      "verified": true
+    },
+    {
+      "title": "Evidence for the spin-0 nature of the Higgs boson using ATLAS data",
+      "journal": "Physics Letters B",
+      "year": 2013,
+      "citationCount": 523,
+      "doi": "10.1016/j.physletb.2013.08.026",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2013.08.026",
+      "verified": true
+    },
+    {
+      "title": "Improved luminosity determination in pp collisions at $\\sqrt {s} = 7\\ \\mathrm{TeV}$ using the ATLAS detector at the LHC",
+      "journal": "The European Physical Journal C",
+      "year": 2013,
+      "citationCount": 511,
+      "doi": "10.1140/epjc/s10052-013-2518-3",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-013-2518-3",
+      "verified": true
+    },
+    {
+      "title": "Combined search for the Standard Model Higgs boson using up to 4.9 fb−1 of pp collision data at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>7</mml:mn><mml:mtext> </mml:mtext><mml:mtext>TeV</mml:mtext></mml:math> with the ATLAS detector at the LHC",
+      "journal": "Physics Letters B",
+      "year": 2012,
+      "citationCount": 499,
+      "doi": "10.1016/j.physletb.2012.02.044",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2012.02.044",
+      "verified": true
+    },
+    {
+      "title": "Charged-particle multiplicities in<i>pp</i>interactions measured with the ATLAS detector at the LHC",
+      "journal": "New Journal of Physics",
+      "year": 2011,
+      "citationCount": 495,
+      "doi": "10.1088/1367-2630/13/5/053033",
+      "sourceUrl": "https://doi.org/10.1088/1367-2630/13/5/053033",
+      "verified": true
+    },
+    {
+      "title": "Measurements of Higgs boson production and couplings in diboson final states with the ATLAS detector at the LHC",
+      "journal": "Physics Letters B",
+      "year": 2013,
+      "citationCount": 474,
+      "doi": "10.1016/j.physletb.2013.08.010",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2013.08.010",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the azimuthal anisotropy for charged particle production in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>2.76</mml:mn></mml:mrow></mml:math>TeV lead-lead collisions with the ATLAS detector",
+      "journal": "Physical Review C",
+      "year": 2012,
+      "citationCount": 471,
+      "doi": "10.1103/physrevc.86.014907",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.86.014907",
+      "verified": true
+    },
+    {
+      "title": "Topological cell clustering in the ATLAS calorimeters and its performance in LHC Run 1",
+      "journal": "The European Physical Journal C",
+      "year": 2017,
+      "citationCount": 469,
+      "doi": "10.1140/epjc/s10052-017-5004-5",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-017-5004-5",
+      "verified": true
+    },
+    {
+      "title": "Combined measurements of Higgs boson production and decay using up to <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mn>80</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:msup><mml:mrow><mml:mi>fb</mml:mi></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math> of proton-proton collision data at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> collected with the ATLAS experiment",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2020,
+      "citationCount": 461,
+      "doi": "10.1103/physrevd.101.012002",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.101.012002",
+      "verified": true
+    },
+    {
+      "title": "Jet energy measurement with the ATLAS detector in proton-proton collisions at $\\sqrt{\\mathrm{s}}=7\\ \\mathrm{TeV}$",
+      "journal": "The European Physical Journal C",
+      "year": 2013,
+      "citationCount": 434,
+      "doi": "10.1140/epjc/s10052-013-2304-2",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-013-2304-2",
+      "verified": true
+    },
+    {
+      "title": "Performance of pile-up mitigation techniques for jets in $$pp$$ p p collisions at $$\\sqrt{s}=8$$ s = 8  TeV using the ATLAS detector",
+      "journal": "The European Physical Journal C",
+      "year": 2016,
+      "citationCount": 430,
+      "doi": "10.1140/epjc/s10052-016-4395-z",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-016-4395-z",
+      "verified": true
+    },
+    {
+      "title": "Electron performance measurements with the ATLAS detector using the 2010 LHC proton-proton collision data",
+      "journal": "The European Physical Journal C",
+      "year": 2012,
+      "citationCount": 414,
+      "doi": "10.1140/epjc/s10052-012-1909-1",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-012-1909-1",
+      "verified": true
+    },
+    {
+      "title": "Study of the material of the ATLAS inner detector for Run 2 of the LHC",
+      "journal": "Journal of Instrumentation",
+      "year": 2017,
+      "citationCount": 408,
+      "doi": "10.1088/1748-0221/12/12/p12009",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/12/12/p12009",
+      "verified": true
+    },
+    {
+      "title": "Performance of<i>b</i>-jet identification in the ATLAS experiment",
+      "journal": "Journal of Instrumentation",
+      "year": 2016,
+      "citationCount": 389,
+      "doi": "10.1088/1748-0221/11/04/p04008",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/11/04/p04008",
+      "verified": true
+    },
+    {
+      "title": "Electron and photon performance measurements with the ATLAS detector using the 2015–2017 LHC proton-proton collision data",
+      "journal": "Journal of Instrumentation",
+      "year": 2019,
+      "citationCount": 377,
+      "doi": "10.1088/1748-0221/14/12/p12006",
+      "sourceUrl": "https://doi.org/10.1088/1748-0221/14/12/p12006",
+      "verified": true
+    },
+    {
+      "title": "Search for high-mass dilepton resonances using 139 fb−1 of pp collision data collected at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo linebreak=\"goodbreak\" linebreakstyle=\"after\">=</mml:mo><mml:mn>13</mml:mn></mml:math> TeV with the ATLAS detector",
+      "journal": "Physics Letters B",
+      "year": 2019,
+      "citationCount": 372,
+      "doi": "10.1016/j.physletb.2019.07.016",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2019.07.016",
+      "verified": true
+    },
+    {
+      "title": "Evidence for light-by-light scattering in heavy-ion collisions with the ATLAS detector at the LHC",
+      "journal": "Nature Physics",
+      "year": 2017,
+      "citationCount": 360,
+      "doi": "10.1038/nphys4208",
+      "sourceUrl": "https://doi.org/10.1038/nphys4208",
+      "verified": true
+    },
+    {
+      "title": "Search for high-mass dilepton resonances in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math>collisions at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>8</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math>with the ATLAS detector",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2014,
+      "citationCount": 356,
+      "doi": "10.1103/physrevd.90.052005",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.90.052005",
+      "verified": true
+    },
+    {
+      "title": "Performance of the ATLAS Trigger System in 2010",
+      "journal": "The European Physical Journal C",
+      "year": 2012,
+      "citationCount": 351,
+      "doi": "10.1140/epjc/s10052-011-1849-1",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-011-1849-1",
+      "verified": true
+    },
+    {
+      "title": "Observation of Higgs boson production in association with a top quark pair at the LHC with the ATLAS detector",
+      "journal": "Physics Letters B",
+      "year": 2018,
+      "citationCount": 351,
+      "doi": "10.1016/j.physletb.2018.07.035",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2018.07.035",
+      "verified": true
+    },
+    {
+      "title": "A detailed map of Higgs boson interactions by the ATLAS experiment ten years after the discovery",
+      "journal": "Nature",
+      "year": 2022,
+      "citationCount": 350,
+      "doi": "10.1038/s41586-022-04893-w",
+      "sourceUrl": "https://doi.org/10.1038/s41586-022-04893-w",
+      "verified": true
+    },
+    {
+      "title": "Jet energy scale measurements and their systematic uncertainties in proton-proton collisions at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector",
+      "journal": "Physical review. D/Physical review. D.",
+      "year": 2017,
+      "citationCount": 347,
+      "doi": "10.1103/physrevd.96.072002",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.96.072002",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the Z/γ * boson transverse momentum distribution in pp collisions at s = 7 $$ \\sqrt{s}=7 $$ TeV with the ATLAS detector",
+      "journal": "Journal of High Energy Physics",
+      "year": 2014,
+      "citationCount": 343,
+      "doi": "10.1007/jhep09(2014)145",
+      "sourceUrl": "https://doi.org/10.1007/jhep09(2014)145",
+      "verified": true
+    },
+    {
+      "title": "Measurements of the Higgs boson production and decay rates and coupling strengths using pp collision data at $$\\sqrt{s}=7$$ s = 7 and 8 TeV in the ATLAS experiment",
+      "journal": "The European Physical Journal C",
+      "year": 2016,
+      "citationCount": 331,
+      "doi": "10.1140/epjc/s10052-015-3769-y",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-015-3769-y",
+      "verified": true
+    },
+    {
+      "title": "Luminosity determination in pp collisions at $$\\sqrt{s}$$ s = 8 TeV using the ATLAS detector at the LHC",
+      "journal": "The European Physical Journal C",
+      "year": 2016,
+      "citationCount": 330,
+      "doi": "10.1140/epjc/s10052-016-4466-1",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-016-4466-1",
+      "verified": true
+    },
+    {
+      "title": "ATLAS b-jet identification performance and efficiency measurement with $$t{\\bar{t}}$$ events in pp collisions at $$\\sqrt{s}=13$$ TeV",
+      "journal": "The European Physical Journal C",
+      "year": 2019,
+      "citationCount": 327,
+      "doi": "10.1140/epjc/s10052-019-7450-8",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-019-7450-8",
+      "verified": true
+    },
+    {
+      "title": "Performance of missing transverse momentum reconstruction in proton-proton collisions at $\\sqrt{s} = 7~\\mbox{TeV}$ with ATLAS",
+      "journal": "The European Physical Journal C",
+      "year": 2012,
+      "citationCount": 326,
+      "doi": "10.1140/epjc/s10052-011-1844-6",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-011-1844-6",
+      "verified": true
+    },
+    {
+      "title": "Jet energy measurement and its systematic uncertainty in proton–proton collisions at $$\\sqrt{s}=7$$ s = 7  TeV with the ATLAS detector",
+      "journal": "The European Physical Journal C",
+      "year": 2015,
+      "citationCount": 324,
+      "doi": "10.1140/epjc/s10052-014-3190-y",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-014-3190-y",
+      "verified": true
+    },
+    {
+      "title": "Search for squarks and gluinos using final states with jets and missing transverse momentum with the ATLAS detector in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>7</mml:mn><mml:mtext> </mml:mtext><mml:mtext>TeV</mml:mtext></mml:math> proton–proton collisions",
+      "journal": "Physics Letters B",
+      "year": 2011,
+      "citationCount": 319,
+      "doi": "10.1016/j.physletb.2011.05.061",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2011.05.061",
+      "verified": true
+    },
+    {
+      "title": "Measurement of Higgs boson production in the diphoton decay channel in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math>collisions at center-of-mass energies of 7 and 8 TeV with the ATLAS detector",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2014,
+      "citationCount": 319,
+      "doi": "10.1103/physrevd.90.112015",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.90.112015",
+      "verified": true
+    },
+    {
+      "title": "Search for new phenomena in final states with an energetic jet and large missing transverse momentum in pp collisions at $$\\sqrt{s}=8~$$ s = 8 TeV with the ATLAS detector",
+      "journal": "The European Physical Journal C",
+      "year": 2015,
+      "citationCount": 318,
+      "doi": "10.1140/epjc/s10052-015-3517-3",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-015-3517-3",
+      "verified": true
+    },
+    {
+      "title": "Jet reconstruction and performance using particle flow with the ATLAS Detector",
+      "journal": "The European Physical Journal C",
+      "year": 2017,
+      "citationCount": 314,
+      "doi": "10.1140/epjc/s10052-017-5031-2",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-017-5031-2",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the pseudorapidity and transverse momentum dependence of the elliptic flow of charged particles in lead–lead collisions at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mi mathvariant=\"normal\">NN</mml:mi></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>2.76</mml:mn><mml:mtext> </mml:mtext><mml:mtext>TeV</mml:mtext></mml:math> with the ATLAS detector",
+      "journal": "Physics Letters B",
+      "year": 2011,
+      "citationCount": 314,
+      "doi": "10.1016/j.physletb.2011.12.056",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2011.12.056",
+      "verified": true
+    },
+    {
+      "title": "Search for direct production of charginos, neutralinos and sleptons in final states with two leptons and missing transverse momentum in pp collisions at $ \\sqrt{s} $ = 8TeV with the ATLAS detector",
+      "journal": "Journal of High Energy Physics",
+      "year": 2014,
+      "citationCount": 311,
+      "doi": "10.1007/jhep05(2014)071",
+      "sourceUrl": "https://doi.org/10.1007/jhep05(2014)071",
+      "verified": true
+    },
+    {
+      "title": "Observation of Long-Range Elliptic Azimuthal Anisotropies in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn></mml:math>and 2.76 TeV<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math>Collisions with the ATLAS Detector",
+      "journal": "Physical Review Letters",
+      "year": 2016,
+      "citationCount": 304,
+      "doi": "10.1103/physrevlett.116.172301",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.116.172301",
+      "verified": true
+    },
+    {
+      "title": "Search for new phenomena in the dijet mass distribution using<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math>collision data at<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>8</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math>with the ATLAS detector",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2015,
+      "citationCount": 298,
+      "doi": "10.1103/physrevd.91.052007",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.91.052007",
+      "verified": true
+    },
+    {
+      "title": "Luminosity determination in pp collisions at $\\sqrt{s} = 7$ TeV using the ATLAS detector at the LHC",
+      "journal": "The European Physical Journal C",
+      "year": 2011,
+      "citationCount": 295,
+      "doi": "10.1140/epjc/s10052-011-1630-5",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-011-1630-5",
+      "verified": true
+    },
+    {
+      "title": "Search for squarks and gluinos with the ATLAS detector in final states with jets and missing transverse momentum using s = 8 $$ \\sqrt{s}=8 $$ TeV proton-proton collision data",
+      "journal": "Journal of High Energy Physics",
+      "year": 2014,
+      "citationCount": 287,
+      "doi": "10.1007/jhep09(2014)176",
+      "sourceUrl": "https://doi.org/10.1007/jhep09(2014)176",
+      "verified": true
+    },
+    {
+      "title": "Search for new high-mass phenomena in the dilepton final state using 36 fb−1 of proton-proton collision data at s = 13 $$ \\sqrt{s}=13 $$ TeV with the ATLAS detector",
+      "journal": "Journal of High Energy Physics",
+      "year": 2017,
+      "citationCount": 286,
+      "doi": "10.1007/jhep10(2017)182",
+      "sourceUrl": "https://doi.org/10.1007/jhep10(2017)182",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5100769897",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/K._K._Agarwal_image.png",
+  "bio": "## Biography of Dr. K. K. Aggarwal: Pioneer in Medical Digital Education\n\nDr. K. K. Aggarwal, a name synonymous with general medical excellence and, more recently, a pioneering force in medical digital education, carved a unique path in the landscape of Indian healthcare. While specifics regarding his early life, practice location, and sub-specialties remain limited in the available data, his dedication to disseminating medical knowledge through digital platforms cemented his legacy as an innovator and educator. This biography aims to illuminate Dr. Aggarwal's multifaceted contributions to medicine, focusing on his evolution into a leading figure in digital medical education.\n\n### 1. Early Life and Education\n\nInformation regarding Dr. Aggarwal's early life and specific educational institutions is scarce in the provided data. However, deducing from his later achievements and dedication to medical advancement, it is reasonable to hypothesize that his early education was marked by academic rigor and a strong inclination towards science. His decision to pursue a career in medicine likely stemmed from a deep-seated desire to alleviate suffering and contribute meaningfully to society.\n\nHis medical training, presumably undertaken in India, would have exposed him to the diverse challenges and complexities of the Indian healthcare system. A strong foundation in core medical disciplines, including anatomy, physiology, pharmacology, and pathology, would have been crucial for his development as a well-rounded physician. While the exact nature of his residency or specialization beyond general medical excellence is unknown based on the provided data, it is plausible that he gained experience in a variety of clinical settings, fostering a broad understanding of different medical specialties. This breadth of knowledge would later prove invaluable in his role as a medical educator, enabling him to address a wide range of topics and tailor his teaching to diverse audiences. We can surmise that the limitations he encountered in traditional medical education, such as access to resources and the pace of knowledge dissemination, likely planted the seeds for his eventual foray into digital education.\n\n### 2. Medical Philosophy\n\nDr. Aggarwal's medical philosophy, at its core, revolved around the principle of accessible and continuous learning for all healthcare professionals. He believed that medical knowledge should not be confined to academic institutions or exclusive circles, but rather disseminated widely and rapidly to empower doctors across the country, especially those in underserved areas. This conviction fueled his passion for leveraging digital platforms to bridge the knowledge gap and improve patient care.\n\nHis approach to patient care was likely characterized by empathy, holistic assessment, and evidence-based practice. While the data focuses on his contributions to medical education, it's reasonable to assume that his clinical practice was guided by a commitment to patient well-being and ethical conduct. This commitment likely extended beyond the individual patient to encompass the broader community, as evidenced by his later involvement in public health initiatives and awareness campaigns.\n\nHis innovative thinking was most evident in his recognition of the transformative potential of digital technology in medical education. He envisioned a future where doctors could access the latest research, clinical guidelines, and expert opinions from anywhere in the world, at any time. He embraced the challenges of adapting traditional medical content to the digital format, experimenting with different teaching methodologies and platforms to maximize engagement and retention. His practice ethics were likely unwavering, adhering to the highest standards of professional conduct and prioritizing the well-being of both patients and the medical community he served.\n\n### 3. Key Procedures & Clinical Expertise\n\nWhile the provided information doesn't specify particular surgical or procedural expertise, Dr. Aggarwal's expertise lay in the realm of medical digital education. This involved a multifaceted skillset encompassing:\n\n*   **Content Creation and Curation:** Developing and curating high-quality medical content, including lectures, presentations, videos, and interactive simulations. This required a deep understanding of medical concepts, pedagogical principles, and the specific learning needs of healthcare professionals.\n*   **Platform Development and Management:** Designing and managing digital platforms for medical education, ensuring accessibility, user-friendliness, and security. This involved technical expertise in web development, database management, and cybersecurity.\n*   **Instructional Design:** Applying principles of instructional design to create engaging and effective learning experiences. This included aligning learning objectives with content delivery, incorporating active learning strategies, and providing timely feedback.\n*   **Assessment and Evaluation:** Developing and implementing assessment tools to measure learning outcomes and evaluate the effectiveness of digital education programs. This involved statistical analysis and data interpretation.\n*   **Community Building:** Fostering a vibrant online community of healthcare professionals, facilitating collaboration, knowledge sharing, and peer support. This required strong communication skills and the ability to moderate discussions and resolve conflicts.\n\nHis ability to translate complex medical concepts into easily digestible digital formats was a key aspect of his expertise. He understood the importance of visual aids, interactive elements, and storytelling in capturing the attention of learners and promoting deeper understanding. He also recognized the need to tailor content to different learning styles and levels of expertise.\n\n### 4. Academic Contributions & Research\n\nDr. Aggarwal's academic contributions were primarily focused on the practical application of digital technology to enhance medical education and improve patient outcomes. While specific publications are not detailed in the provided data, it can be assumed that he likely published articles and presented at conferences on topics such as:\n\n*   **The effectiveness of digital education in improving medical knowledge and skills.**\n*   **The use of mobile technology to deliver medical education to remote areas.**\n*   **The impact of online communities on professional development and collaboration among healthcare professionals.**\n*   **The design and implementation of effective online learning modules for specific medical specialties.**\n*   **The ethical considerations of using digital technology in medical education and patient care.**\n\nHis research focus would have likely centered on evaluating the impact of his digital education initiatives on clinical practice and patient outcomes. This may have involved conducting surveys, analyzing data from electronic health records, and comparing the performance of healthcare professionals who participated in his programs with those who did not. The impact of his work likely extended beyond individual learners to influence institutional policies and practices related to medical education and professional development. The knowledge he generated likely informed the development of new guidelines and standards for digital medical education, contributing to the overall quality and effectiveness of online learning programs.\n\n### 5. Patient Impact & Community Work\n\nWhile Dr. Aggarwal's direct patient care activities are not explicitly detailed in the data, his contributions to medical digital education undoubtedly had a significant impact on patient outcomes. By empowering healthcare professionals with the knowledge and skills they needed to provide better care, he indirectly improved the health and well-being of countless individuals.\n\nHis community work likely extended beyond the realm of medical education to encompass public health initiatives and awareness campaigns. He may have used his digital platforms to disseminate information about disease prevention, healthy lifestyles, and access to healthcare services. His focus on accessible and continuous learning would have had a trickle-down effect, empowering healthcare professionals to better educate their patients and communities. He likely played a key role in promoting health literacy and empowering individuals to take control of their own health.\n\nHis dedication to improving healthcare access and quality would have made him a respected figure in the medical community. He likely collaborated with government agencies, non-profit organizations, and other stakeholders to address pressing public health challenges. His contributions to patient outcomes and community well-being would have been a testament to his unwavering commitment to serving humanity.\n\n### 6. Legacy and Future Outlook\n\nDr. K. K. Aggarwal's legacy lies in his pioneering efforts to transform medical education through digital technology. He was a visionary who recognized the potential of the internet and mobile devices to democratize access to medical knowledge and improve the quality of healthcare. His work paved the way for the widespread adoption of online learning programs, virtual simulations, and other digital tools in medical education.\n\nHis lasting influence can be seen in the growing number of healthcare professionals who are using digital platforms to enhance their knowledge, skills, and clinical practice. He inspired a new generation of medical educators to embrace innovation and creativity in their teaching methods. His commitment to accessible and continuous learning will continue to shape the future of medical education for years to come.\n\nThe future of medical digital education is bright, with advancements in artificial intelligence, virtual reality, and augmented reality promising to further enhance the learning experience. Dr. Aggarwal's foundational work has laid the groundwork for these future innovations, ensuring that healthcare professionals will have access to the most advanced tools and resources to provide the best possible care to their patients. His vision of a digitally empowered medical community is becoming a reality, thanks to his pioneering spirit and unwavering dedication to medical excellence. His work serves as a reminder that the pursuit of knowledge and the commitment to improving patient outcomes are the cornerstones of a successful and fulfilling medical career.\n",
+  "bioGenerated": true
+}

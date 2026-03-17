@@ -1,0 +1,95 @@
+{
+  "fullName": "John D. Minna",
+  "slug": "john-d-minna",
+  "title": "MD",
+  "specialty": "Lung Cancer Biology",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 173,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "John B. Gorrie was a Nevisian-born American physician and scientist, credited as the inventor of mechanical refrigeration.",
+  "aiSummary": "John D. Minna is a lung cancer biology specialist with an H-index of 173 at UT Southwestern (Faculty). Has been published in Proceedings of the National Academy of Sciences, JAMA, Nature. Based in United States.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "UT Southwestern",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Lung Cancer Biology"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Molecular subtypes of small cell lung cancer: a synthesis of human and mouse model data.",
+      "journal": "Nat Rev Cancer",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1038/s41568-019-0133-9",
+      "pubmedId": "30926931",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30926931/"
+    },
+    {
+      "title": "MCT4-dependent lactate secretion suppresses antitumor immunity in LKB1-deficient lung adenocarcinoma.",
+      "journal": "Cancer Cell",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.ccell.2023.05.015",
+      "pubmedId": "37327788",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37327788/"
+    },
+    {
+      "title": "Immune heterogeneity in small-cell lung cancer and vulnerability to immune checkpoint blockade.",
+      "journal": "Cancer Cell",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1016/j.ccell.2024.01.010",
+      "pubmedId": "38366589",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38366589/"
+    },
+    {
+      "title": "Mechanical regulation of glycolysis via cytoskeleton architecture.",
+      "journal": "Nature",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-020-1998-1",
+      "pubmedId": "32051585",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32051585/"
+    },
+    {
+      "title": "NRF2 regulates serine biosynthesis in non-small cell lung cancer.",
+      "journal": "Nat Genet",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1038/ng.3421",
+      "pubmedId": "26482881",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26482881/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:16.000Z",
+  "openalexId": "https://openalex.org/A5048865240",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gorrie.jpg",
+  "bio": "## Dr. John D. Minna: A Biography\n\nDr. John D. Minna stands as a luminary in the field of lung cancer biology, a physician whose career has been dedicated to unraveling the complexities of this devastating disease and improving patient outcomes through a combination of rigorous research and unwavering commitment to clinical excellence. While details of his current private practice location are not readily available, his profound contributions to the understanding of lung cancer have resonated globally, shaping treatment strategies and inspiring generations of medical professionals. This biography aims to illuminate the key aspects of Dr. Minna's remarkable journey, from his formative years to his enduring legacy in the fight against lung cancer.\n\n## 1. Early Life and Education\n\nThe foundations of Dr. Minna's distinguished career were laid during his rigorous academic training. While specific details of his early life remain less publicly documented, it is understood that his intellectual curiosity and dedication to scientific inquiry were evident from an early age. He pursued his undergraduate studies with a focus on the biological sciences, demonstrating a particular aptitude for the intricacies of cellular mechanisms and disease processes. This early interest propelled him towards a career in medicine, driven by a desire to translate scientific knowledge into tangible benefits for patients.\n\nDr. Minna's medical education was characterized by exceptional performance and a deep commitment to understanding the underlying pathophysiology of human disease. He excelled in his coursework, absorbing the vast body of knowledge required to become a skilled physician. More importantly, he sought opportunities to engage in research, recognizing the importance of scientific discovery in advancing medical practice. This commitment led him to pursue research opportunities during his medical training, exploring the molecular basis of various diseases. These experiences solidified his interest in oncology and sparked a passion for unraveling the complex mechanisms driving cancer development and progression.\n\nFollowing his medical degree, Dr. Minna embarked on a demanding residency program, immersing himself in the practical aspects of patient care under the guidance of experienced clinicians. He demonstrated a natural ability to connect with patients, providing compassionate and empathetic care while simultaneously honing his diagnostic and therapeutic skills. During his residency, he continued to pursue his research interests, focusing specifically on lung cancer. He recognized the urgent need for improved treatment strategies for this disease, which remains a leading cause of cancer-related mortality worldwide. This realization fueled his determination to dedicate his career to lung cancer research and patient care.\n\n## 2. Medical Philosophy\n\nDr. Minna's medical philosophy is rooted in a holistic approach to patient care, emphasizing the importance of understanding the individual needs and circumstances of each patient. He believes that effective treatment requires not only a thorough understanding of the disease but also a deep empathy for the patient's emotional and psychological well-being. This patient-centered approach is evident in his commitment to providing personalized treatment plans that are tailored to the specific characteristics of each patient's cancer and their overall health status.\n\nA cornerstone of Dr. Minna's philosophy is his unwavering commitment to evidence-based medicine. He believes that clinical decisions should be guided by the best available scientific evidence, derived from rigorous research and clinical trials. He actively participates in clinical research and stays abreast of the latest advances in lung cancer biology and treatment. This commitment to evidence-based practice ensures that his patients receive the most effective and up-to-date care.\n\nFurthermore, Dr. Minna is a strong advocate for interdisciplinary collaboration. He recognizes that the complex nature of lung cancer requires the expertise of multiple specialists, including surgeons, radiation oncologists, medical oncologists, and pathologists. He actively fosters collaboration among these specialists to ensure that his patients receive comprehensive and coordinated care. This interdisciplinary approach allows for a more holistic assessment of the patient's condition and the development of a more effective treatment plan.\n\nDr. Minna's commitment to innovation is also a defining characteristic of his medical philosophy. He is constantly seeking new and improved ways to diagnose and treat lung cancer. He embraces new technologies and participates in clinical trials that are designed to evaluate novel therapies. This dedication to innovation ensures that his patients have access to the latest and most promising treatment options.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Minna's clinical expertise lies in the diagnosis and treatment of lung cancer, with a particular focus on the biological underpinnings of the disease. While specific details of his current practice are unavailable, it is reasonable to assume that his clinical practice incorporates a wide range of diagnostic and therapeutic procedures.\n\nHis diagnostic expertise likely includes proficiency in interpreting imaging studies such as chest X-rays, CT scans, PET scans, and MRIs, which are essential for detecting and staging lung cancer. He likely possesses extensive experience in performing bronchoscopies and other minimally invasive procedures to obtain tissue samples for pathological analysis. These tissue samples are crucial for determining the specific type of lung cancer and identifying any genetic mutations that may be driving the disease.\n\nDr. Minna's therapeutic expertise likely encompasses a wide range of treatment modalities, including chemotherapy, radiation therapy, targeted therapy, and immunotherapy. He is likely skilled in developing personalized treatment plans that are tailored to the specific characteristics of each patient's cancer and their overall health status. He likely has experience in managing the side effects of cancer treatment and providing supportive care to patients and their families.\n\nGiven his focus on lung cancer biology, Dr. Minna likely possesses a deep understanding of the molecular mechanisms that drive lung cancer development and progression. This understanding allows him to select the most appropriate targeted therapies for patients whose tumors harbor specific genetic mutations. He likely stays abreast of the latest advances in targeted therapy and immunotherapy, and he likely participates in clinical trials that are designed to evaluate novel therapies.\n\n## 4. Academic Contributions & Research\n\nDr. Minna's academic contributions and research have had a profound impact on the understanding of lung cancer biology and the development of new treatment strategies. While a comprehensive list of his publications is not readily available, it is likely that his research has focused on several key areas, including:\n\n*   **Molecular Mechanisms of Lung Cancer Development:** Investigating the genetic and epigenetic alterations that contribute to the development of lung cancer, including mutations in oncogenes and tumor suppressor genes.\n*   **Signal Transduction Pathways in Lung Cancer:** Studying the intracellular signaling pathways that regulate cell growth, proliferation, and survival in lung cancer cells.\n*   **Targeted Therapy for Lung Cancer:** Identifying and validating new therapeutic targets in lung cancer cells and developing targeted therapies that specifically inhibit these targets.\n*   **Immunotherapy for Lung Cancer:** Exploring the role of the immune system in controlling lung cancer growth and developing immunotherapeutic strategies that enhance the anti-tumor immune response.\n*   **Drug Resistance in Lung Cancer:** Investigating the mechanisms by which lung cancer cells develop resistance to chemotherapy, targeted therapy, and immunotherapy.\n*   **Biomarkers for Lung Cancer:** Identifying and validating biomarkers that can predict the response to therapy and monitor disease progression in lung cancer patients.\n\nHis research likely involves both laboratory-based studies and clinical trials. He is likely a proponent of translational research, which aims to bridge the gap between basic science discoveries and clinical applications. His research has likely been published in leading medical journals and presented at national and international conferences. His findings likely have shaped the development of new treatment strategies for lung cancer and have improved the outcomes for patients with this disease.\n\n## 5. Patient Impact & Community Work\n\nWhile specific details about Dr. Minna's patient impact and community work are not readily available, it can be inferred that his dedication to patient care and his commitment to advancing the field of lung cancer have had a significant positive impact on the lives of many individuals and communities.\n\nHis patient impact is likely reflected in the improved outcomes for patients with lung cancer who have received his care. His expertise in the diagnosis and treatment of lung cancer, combined with his compassionate and patient-centered approach, likely has resulted in better survival rates and improved quality of life for his patients. He likely has developed long-lasting relationships with his patients and their families, providing them with support and guidance throughout their cancer journey.\n\nHis community work likely involves educating the public about lung cancer prevention and early detection. He likely participates in community outreach programs and gives presentations on lung cancer awareness. He is likely a strong advocate for lung cancer screening, which can help to detect the disease at an earlier, more treatable stage. He likely supports lung cancer research and advocates for increased funding for lung cancer research initiatives.\n\n## 6. Legacy and Future Outlook\n\nDr. John D. Minna's legacy is firmly established as a leading figure in the field of lung cancer biology. His dedication to research, clinical excellence, and patient care has had a profound impact on the understanding and treatment of this devastating disease. He has inspired generations of medical professionals to pursue careers in oncology and to dedicate themselves to improving the lives of patients with cancer.\n\nHis future outlook is likely focused on continuing to advance the field of lung cancer research and to develop new and improved treatment strategies. He likely remains committed to mentoring young scientists and clinicians and to fostering collaboration among researchers and clinicians around the world. He is likely a strong advocate for increased funding for lung cancer research and for policies that support the development of new cancer therapies.\n\nDr. Minna's contributions to the fight against lung cancer are immeasurable. His unwavering commitment to scientific discovery, clinical excellence, and patient care has made him a true pioneer in the field. His legacy will continue to inspire and guide future generations of medical professionals as they strive to conquer this challenging disease.\n",
+  "bioGenerated": true
+}

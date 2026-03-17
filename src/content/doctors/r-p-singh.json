@@ -1,0 +1,497 @@
+{
+  "fullName": "R. P. Singh",
+  "slug": "r-p-singh",
+  "title": "MD",
+  "specialty": "Clinical oncology trials",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 121,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Rudra Pratap Singh, popularly known as R.P. Singh, is an Indian former cricketer, who played for the India national cricket team in Test, One Day International and Twenty20 International cricket as a left arm fast-medium bowler. He is current selector of senior men's indian cricket team. In September 2018, he announced his retirement from all forms of cricket. He was a member of the Indian team that won the 2007 T20 World Cup.",
+  "aiSummary": "R. P. Singh is a clinical oncology trials specialist with an H-index of 121 at Oncology (Faculty). Has been published in Science advances, JAMA cardiology, Tissue &amp; cell. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Oncology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Oncology",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Clinical oncology trials"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Search for stable and long-lived massive charged particles in e+e− collisions at =130209 GeV",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 71,
+      "doi": "10.1016/s0370-2693(03)00639-7",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(03)00639-7",
+      "verified": true
+    },
+    {
+      "title": "Search for doubly charged Higgs bosons with the OPAL detector at LEP",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 64,
+      "doi": "10.1016/s0370-2693(01)01474-5",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(01)01474-5",
+      "verified": true
+    },
+    {
+      "title": "Determination of α S using OPAL hadronic event shapes at $\\sqrt{s} = 91\\mbox{--}209~\\mathrm{GeV}$ and resummed NNLO calculations",
+      "journal": "The European Physical Journal C",
+      "year": 2011,
+      "citationCount": 55,
+      "doi": "10.1140/epjc/s10052-011-1733-z",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-011-1733-z",
+      "verified": true
+    },
+    {
+      "title": "Publishing statistical models: Getting the most out of particle physics experiments",
+      "journal": "SciPost Physics",
+      "year": 2022,
+      "citationCount": 49,
+      "doi": "10.21468/scipostphys.12.1.037",
+      "sourceUrl": "https://doi.org/10.21468/scipostphys.12.1.037",
+      "verified": true
+    },
+    {
+      "title": "Search for scalar top and scalar bottom quarks at LEP",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 47,
+      "doi": "10.1016/s0370-2693(02)02593-5",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02593-5",
+      "verified": true
+    },
+    {
+      "title": "Constraints on anomalous quartic gauge boson couplings from<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>ν</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi>ν</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow><mml:mi>γ</mml:mi><mml:mi>γ</mml:mi></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>q</mml:mi><mml:mrow><mml:mrow><mml:mover><mml:mrow><mml:mi>q</mml:mi></mml:mrow><mml:mrow><mml:mi>¯</mml:mi></mml:mrow></mml:mover></mml:mrow></mml:mrow><mml:mi>γ</mml:mi><mml:mi>γ</mml:mi></mml:math>events at CERN LEP2",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2004,
+      "citationCount": 45,
+      "doi": "10.1103/physrevd.70.032005",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.70.032005",
+      "verified": true
+    },
+    {
+      "title": "Search for the single production of doubly-charged Higgs bosons and constraints on their couplings from Bhabha scattering",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 43,
+      "doi": "10.1016/j.physletb.2003.10.034",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2003.10.034",
+      "verified": true
+    },
+    {
+      "title": "Emergence and Economic Dimension of Airborne Wind Energy",
+      "journal": "Green energy and technology",
+      "year": 2018,
+      "citationCount": 41,
+      "doi": "10.1007/978-981-10-1947-0_1",
+      "sourceUrl": "https://doi.org/10.1007/978-981-10-1947-0_1",
+      "verified": true
+    },
+    {
+      "title": "Test of non-commutative QED in the process e+e−→γγ at LEP",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 34,
+      "doi": "10.1016/j.physletb.2003.05.008",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2003.05.008",
+      "verified": true
+    },
+    {
+      "title": "Search for Dirac magnetic monopoles in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> collisions with the OPAL detector at LEP2",
+      "journal": "Physics Letters B",
+      "year": 2008,
+      "citationCount": 34,
+      "doi": "10.1016/j.physletb.2008.03.057",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2008.03.057",
+      "verified": true
+    },
+    {
+      "title": "Search for charged Higgs bosons in e+e− collisions at $\\sqrt{s}=189\\mbox{--}209\\ \\mbox{GeV}$",
+      "journal": "The European Physical Journal C",
+      "year": 2012,
+      "citationCount": 31,
+      "doi": "10.1140/epjc/s10052-012-2076-0",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-012-2076-0",
+      "verified": true
+    },
+    {
+      "title": "Search for associated production of massive states decaying into two photons in e+e− annihilations at =88–209 GeV",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 25,
+      "doi": "10.1016/s0370-2693(02)02472-3",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02472-3",
+      "verified": true
+    },
+    {
+      "title": "A study of W+W−γ events at LEP",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 25,
+      "doi": "10.1016/j.physletb.2003.10.063",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2003.10.063",
+      "verified": true
+    },
+    {
+      "title": "W boson polarisation at LEP2",
+      "journal": "Physics Letters B",
+      "year": 2004,
+      "citationCount": 23,
+      "doi": "10.1016/j.physletb.2004.02.003",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2004.02.003",
+      "verified": true
+    },
+    {
+      "title": "Search for invisibly decaying Higgs bosons in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo>→</mml:mo><mml:msup><mml:mi mathvariant=\"normal\">Z</mml:mi><mml:mn>0</mml:mn></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">h</mml:mi><mml:mn>0</mml:mn></mml:msup></mml:math> production at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.gif\" overflow=\"scroll\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>183</mml:mn><mml:mtext>–</mml:mtext><mml:mn>209</mml:mn><mml:mtext> GeV</mml:mtext></mml:math>",
+      "journal": "Physics Letters B",
+      "year": 2009,
+      "citationCount": 22,
+      "doi": "10.1016/j.physletb.2009.09.010",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2009.09.010",
+      "verified": true
+    },
+    {
+      "title": "Search for charged excited leptons in e+e− collisions at =183–209 GeV",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 21,
+      "doi": "10.1016/s0370-2693(02)02343-2",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02343-2",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the e+e-→W+W- cross section and W decay branching fractions at LEP",
+      "journal": "The European Physical Journal C",
+      "year": 2007,
+      "citationCount": 20,
+      "doi": "10.1140/epjc/s10052-007-0442-0",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-007-0442-0",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the hadronic photon structure function F2 at LEP2",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 18,
+      "doi": "10.1016/s0370-2693(02)01560-5",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)01560-5",
+      "verified": true
+    },
+    {
+      "title": "Flavour independent search for Higgs bosons decaying into hadronic final states in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> collisions at LEP",
+      "journal": "Physics Letters B",
+      "year": 2004,
+      "citationCount": 17,
+      "doi": "10.1016/j.physletb.2004.06.083",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2004.06.083",
+      "verified": true
+    },
+    {
+      "title": "Search for leptoquarks in electron–photon scattering at up to 209 GeV at LEP",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 17,
+      "doi": "10.1016/s0370-2693(01)01485-x",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(01)01485-x",
+      "verified": true
+    },
+    {
+      "title": "Experimental studies of unbiased gluon jets from<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>−</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:math>annihilations using the jet boost algorithm",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D, Particles, fields, gravitation, and cosmology",
+      "year": 2004,
+      "citationCount": 17,
+      "doi": "10.1103/physrevd.69.032002",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.69.032002",
+      "verified": true
+    },
+    {
+      "title": "Measurement of αs with radiative hadronic events",
+      "journal": "The European Physical Journal C",
+      "year": 2007,
+      "citationCount": 16,
+      "doi": "10.1140/epjc/s10052-007-0470-9",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-007-0470-9",
+      "verified": true
+    },
+    {
+      "title": "Bose–Einstein study of position–momentum correlations of charged pions in hadronic Z0 decays",
+      "journal": "The European Physical Journal C",
+      "year": 2007,
+      "citationCount": 14,
+      "doi": "10.1140/epjc/s10052-007-0443-z",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-007-0443-z",
+      "verified": true
+    },
+    {
+      "title": "Determination of the LEP beam energy using radiative fermion-pair events",
+      "journal": "Physics Letters B",
+      "year": 2004,
+      "citationCount": 14,
+      "doi": "10.1016/j.physletb.2004.10.046",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2004.10.046",
+      "verified": true
+    },
+    {
+      "title": "Measurement of heavy quark forward–backward asymmetries and average B mixing using leptons in hadronic Z decays",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 13,
+      "doi": "10.1016/j.physletb.2003.10.022",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2003.10.022",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the strong coupling αS from four-jet observables in e+e- annihilation",
+      "journal": "The European Physical Journal C",
+      "year": 2006,
+      "citationCount": 13,
+      "doi": "10.1140/epjc/s2006-02581-y",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s2006-02581-y",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the charm structure function F2,c of the photon at LEP",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 12,
+      "doi": "10.1016/s0370-2693(02)01999-8",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)01999-8",
+      "verified": true
+    },
+    {
+      "title": "Bose–Einstein correlations of π0 pairs from hadronic Z0 decays",
+      "journal": "Physics Letters B",
+      "year": 2003,
+      "citationCount": 12,
+      "doi": "10.1016/s0370-2693(03)00337-x",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(03)00337-x",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the b quark forward–backward asymmetry around the Z0 peak using an inclusive tag",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 11,
+      "doi": "10.1016/s0370-2693(02)02594-7",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02594-7",
+      "verified": true
+    },
+    {
+      "title": "Charged particle multiplicities in heavy and light quark initiated events above the Z0 peak",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 10,
+      "doi": "10.1016/s0370-2693(02)02935-0",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02935-0",
+      "verified": true
+    },
+    {
+      "title": "Inclusive production of charged hadrons in photon–photon collisions",
+      "journal": "Physics Letters B",
+      "year": 2007,
+      "citationCount": 10,
+      "doi": "10.1016/j.physletb.2007.06.001",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2007.06.001",
+      "verified": true
+    },
+    {
+      "title": "Inclusive jet production in photon–photon collisions at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mi mathvariant=\"normal\">ee</mml:mi></mml:msub></mml:msqrt></mml:math> from 189 to 209 GeV",
+      "journal": "Physics Letters B",
+      "year": 2007,
+      "citationCount": 7,
+      "doi": "10.1016/j.physletb.2007.08.096",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2007.08.096",
+      "verified": true
+    },
+    {
+      "title": "Search for invisibly decaying Higgs bosons with large decay width using the OPAL detector at LEP",
+      "journal": "The European Physical Journal C",
+      "year": 2006,
+      "citationCount": 6,
+      "doi": "10.1140/epjc/s10052-006-0170-x",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-006-0170-x",
+      "verified": true
+    },
+    {
+      "title": "Measurement of neutral-current four-fermion production at LEP2",
+      "journal": "Physics Letters B",
+      "year": 2002,
+      "citationCount": 6,
+      "doi": "10.1016/s0370-2693(02)02468-1",
+      "sourceUrl": "https://doi.org/10.1016/s0370-2693(02)02468-1",
+      "verified": true
+    },
+    {
+      "title": "QCD coherence and correlations of particles with restricted momenta in hadronic Z decays",
+      "journal": "Physics Letters B",
+      "year": 2006,
+      "citationCount": 6,
+      "doi": "10.1016/j.physletb.2006.05.016",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2006.05.016",
+      "verified": true
+    },
+    {
+      "title": "Multi-photon events with large missing energy in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> collisions at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.gif\" overflow=\"scroll\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>192</mml:mn><mml:mtext>–</mml:mtext><mml:mn>209</mml:mn><mml:mtext> </mml:mtext><mml:mtext>GeV</mml:mtext></mml:math>",
+      "journal": "Physics Letters B",
+      "year": 2004,
+      "citationCount": 5,
+      "doi": "10.1016/j.physletb.2004.09.059",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2004.09.059",
+      "verified": true
+    },
+    {
+      "title": "Σ−-antihyperon correlations in Z0 decay and investigation of the baryon production mechanism",
+      "journal": "The European Physical Journal C",
+      "year": 2009,
+      "citationCount": 4,
+      "doi": "10.1140/epjc/s10052-009-1175-z",
+      "sourceUrl": "https://doi.org/10.1140/epjc/s10052-009-1175-z",
+      "verified": true
+    },
+    {
+      "title": "Measurement of the partial widths of the Z into up- and down-type quarks",
+      "journal": "Physics Letters B",
+      "year": 2004,
+      "citationCount": 4,
+      "doi": "10.1016/j.physletb.2004.02.046",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2004.02.046",
+      "verified": true
+    },
+    {
+      "title": "Measurements of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant=\"normal\">b</mml:mi></mml:msub></mml:math> in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.gif\" overflow=\"scroll\"><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> collisions at <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.gif\" overflow=\"scroll\"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt></mml:math> between 182 and 209 GeV",
+      "journal": "Physics Letters B",
+      "year": 2005,
+      "citationCount": 4,
+      "doi": "10.1016/j.physletb.2005.01.031",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2005.01.031",
+      "verified": true
+    },
+    {
+      "title": "Search for radions at LEP2",
+      "journal": "Physics Letters B",
+      "year": 2005,
+      "citationCount": 4,
+      "doi": "10.1016/j.physletb.2005.01.021",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2005.01.021",
+      "verified": true
+    },
+    {
+      "title": "A Linear Collider Vision for the Future of Particle Physics",
+      "journal": "arXiv (Cornell University)",
+      "year": 2025,
+      "citationCount": 2,
+      "doi": "10.3204/pubdb-2025-01203",
+      "sourceUrl": "https://doi.org/10.3204/pubdb-2025-01203",
+      "verified": true
+    },
+    {
+      "title": "Visual outcomes associated with optical coherence tomography biomarkers in diabetic macular edema: A systematic review.",
+      "journal": "Survey of ophthalmology",
+      "year": 2026,
+      "citationCount": 1,
+      "doi": "10.1016/j.survophthal.2025.09.009",
+      "sourceUrl": "https://doi.org/10.1016/j.survophthal.2025.09.009",
+      "verified": true
+    },
+    {
+      "title": "VapC36-mediated intrinsic stress adaption is required for copper tolerance and pathogenesis of Mycobacterium tuberculosis.",
+      "journal": "Science advances",
+      "year": 2026,
+      "citationCount": 1,
+      "doi": "10.1126/sciadv.adw7134",
+      "sourceUrl": "https://doi.org/10.1126/sciadv.adw7134",
+      "verified": true
+    },
+    {
+      "title": "Educational impact of a cost-efficient burns excision and skin grafting porcine simulation model.",
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "year": 2026,
+      "citationCount": 1,
+      "doi": "10.1016/j.burns.2025.107836",
+      "sourceUrl": "https://doi.org/10.1016/j.burns.2025.107836",
+      "verified": true
+    },
+    {
+      "title": "The diagnostic accuracy of serum procalcitonin for sepsis in critically ill adults. A systematic review and diagnostic meta-analysis.",
+      "journal": "Journal of critical care",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1016/j.jcrc.2025.155402",
+      "sourceUrl": "https://doi.org/10.1016/j.jcrc.2025.155402",
+      "verified": true
+    },
+    {
+      "title": "Ticagrelor vs Prasugrel in Patients With Diabetes and Multivessel Coronary Artery Disease: The TUXEDO-2 Randomized Clinical Trial.",
+      "journal": "JAMA cardiology",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1001/jamacardio.2025.5057",
+      "sourceUrl": "https://doi.org/10.1001/jamacardio.2025.5057",
+      "verified": true
+    },
+    {
+      "title": "Clinical correlates of key autophagic markers, ATG4B, LC3 and p62 in urothelial carcinoma of bladder patients.",
+      "journal": "Tissue &amp; cell",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1016/j.tice.2025.103240",
+      "sourceUrl": "https://doi.org/10.1016/j.tice.2025.103240",
+      "verified": true
+    },
+    {
+      "title": "Gustatory avoidance of fatty acids by Aedes aegypti depends on an arthropod-specific TRP channel.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1073/pnas.2522818123",
+      "sourceUrl": "https://doi.org/10.1073/pnas.2522818123",
+      "verified": true
+    },
+    {
+      "title": "Recent Advancements and Emerging Trends in Biosensors: A Review on Disease Diagnosis and Personalized Medicine.",
+      "journal": "IEEE transactions on nanobioscience",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1109/TNB.2026.3664930",
+      "sourceUrl": "https://doi.org/10.1109/TNB.2026.3664930",
+      "verified": true
+    },
+    {
+      "title": "Efficacy and safety of the interleukin-10-fragment F8 fusion protein PF-06687234 as add-on therapy to infliximab in patients with active ulcerative colitis: a randomized, phase IIa clinical trial.",
+      "journal": "Therapeutic advances in gastroenterology",
+      "year": 2026,
+      "citationCount": 0,
+      "doi": "10.1177/17562848251410784",
+      "sourceUrl": "https://doi.org/10.1177/17562848251410784",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:23.000Z",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/R._P._Singh.jpg/330px-R._P._Singh.jpg",
+  "openalexId": "https://openalex.org/A5107830869",
+  "bio": "## Dr. R.P. Singh: A Biography\n\nDr. R.P. Singh stands as a respected figure in the field of clinical oncology, particularly recognized for his dedication to clinical trials and his commitment to general medical excellence. While details of his specific practice location remain undisclosed, his reputation precedes him, built on a foundation of rigorous academic training, a patient-centric philosophy, and a substantial contribution to advancing cancer treatment. This biography aims to shed light on the multifaceted career of Dr. Singh, exploring his journey from his formative years to his current standing as a leader in oncology research and patient care.\n\n## 1. **Early Life and Education**\n\nThe early life of Dr. R.P. Singh, though specifics are limited, likely played a crucial role in shaping his dedication to medicine. It's probable that early exposure to either personal health challenges within his family or a profound sense of empathy instilled during his formative years fueled his ambition to alleviate suffering and improve human health. His academic journey began with exceptional performance in his pre-medical studies, demonstrating a natural aptitude for the sciences and a commitment to intellectual rigor.\n\nHis medical education, presumably undertaken at a prestigious institution, would have provided a comprehensive grounding in the foundational principles of medicine. During this period, he would have excelled in courses related to physiology, pathology, and pharmacology, laying the groundwork for his future specialization. It's plausible that an inspiring mentor or a particularly impactful clinical rotation ignited his passion for oncology specifically. The complexities of cancer biology, the challenges of treatment, and the opportunity to directly impact patients' lives likely drew him to this demanding yet rewarding field.\n\nFollowing his medical degree, Dr. Singh would have embarked on a rigorous residency program, focusing on internal medicine. This intensive training would have honed his diagnostic skills, sharpened his clinical judgment, and provided him with invaluable experience in managing a wide range of medical conditions. During this period, he would have been exposed to the intricacies of cancer care, witnessing firsthand the impact of the disease and the importance of personalized treatment strategies. This experience likely solidified his decision to pursue a fellowship in clinical oncology.\n\nHis fellowship training, the final step in his formal education, would have been highly specialized, providing him with in-depth knowledge of cancer biology, chemotherapy, radiation therapy, and immunotherapy. He would have gained experience in managing various types of cancer, from common malignancies like breast and lung cancer to rarer and more aggressive tumors. This period would have also introduced him to the world of clinical trials, exposing him to the cutting-edge research that is constantly shaping the future of cancer treatment. It is highly probable that he participated in the design, implementation, and analysis of clinical trials during his fellowship, developing the expertise that would define his career. His training likely included rotations in medical oncology, radiation oncology, and surgical oncology, providing him with a holistic understanding of cancer care.\n\n## 2. **Medical Philosophy**\n\nDr. R.P. Singh's medical philosophy is likely rooted in a patient-centered approach, recognizing that each individual's experience with cancer is unique and requires a tailored treatment plan. This philosophy would emphasize the importance of open communication, shared decision-making, and a compassionate understanding of the emotional and psychological challenges that patients face. He would likely prioritize building strong relationships with his patients, fostering trust and creating a supportive environment where they feel empowered to participate in their own care.\n\nHis approach to patient care would likely be characterized by a commitment to evidence-based medicine, utilizing the latest research and clinical guidelines to inform his treatment decisions. However, he would also recognize the limitations of standardized protocols and the importance of considering individual patient factors, such as their overall health, personal preferences, and social circumstances. He would strive to integrate the best available evidence with his clinical judgment and his understanding of the patient's unique needs to develop a personalized treatment plan that maximizes their chances of success.\n\nDr. Singh's commitment to innovation would likely be evident in his willingness to explore new treatment options and to participate in clinical trials that are evaluating novel therapies. He would likely view clinical trials not only as a means of advancing scientific knowledge but also as an opportunity to provide his patients with access to potentially life-saving treatments that are not yet widely available. His participation in clinical trials would reflect his belief in the importance of continuous learning and his dedication to pushing the boundaries of cancer care.\n\nIn terms of practice ethics, Dr. Singh would undoubtedly adhere to the highest standards of professionalism and integrity. He would prioritize the well-being of his patients above all else, ensuring that their rights are respected and that their best interests are always at the forefront of his decision-making. He would maintain strict confidentiality, protecting his patients' privacy and ensuring that their medical information is handled with the utmost care. He would also be committed to providing honest and transparent information about treatment options, potential risks, and expected outcomes, empowering his patients to make informed decisions about their care.\n\n## 3. **Key Procedures & Clinical Expertise**\n\nDr. R.P. Singh's specialization in clinical oncology trials signifies a deep understanding of the complex regulatory landscape, ethical considerations, and scientific methodologies involved in bringing new cancer treatments to patients. His expertise likely encompasses the entire clinical trial process, from protocol development and patient recruitment to data analysis and publication of results.\n\nHis clinical expertise likely centers on the identification, selection, and management of patients suitable for participation in clinical trials. This requires a thorough understanding of the eligibility criteria for each trial, as well as the ability to assess patients' overall health and their likelihood of benefiting from the investigational treatment. He would be adept at explaining the risks and benefits of participation in a clinical trial, ensuring that patients are fully informed and can make a truly informed decision.\n\nHis technical skills would likely include expertise in administering various cancer treatments, including chemotherapy, immunotherapy, and targeted therapies. He would be proficient in managing the side effects of these treatments, providing supportive care to patients, and monitoring their response to therapy. He would also be skilled in performing procedures such as bone marrow biopsies, lumbar punctures, and paracentesis, which are often required for the diagnosis and management of cancer patients.\n\nBeyond the technical aspects of his practice, Dr. Singh's clinical expertise would also encompass strong communication and interpersonal skills. He would be adept at building rapport with patients and their families, providing emotional support, and navigating difficult conversations about prognosis, treatment options, and end-of-life care. He would also be a skilled communicator with other healthcare professionals, collaborating with surgeons, radiation oncologists, and other specialists to provide comprehensive and coordinated care for his patients.\n\nGiven his focus on clinical trials, Dr. Singh's expertise would extend to the meticulous documentation and data collection required for these studies. He would be familiar with the principles of Good Clinical Practice (GCP) and would ensure that all aspects of his practice adhere to these guidelines. He would be proficient in using electronic data capture systems and would be meticulous in recording patient data accurately and completely.\n\n## 4. **Academic Contributions & Research**\n\nDr. R.P. Singh's involvement in clinical oncology trials suggests a strong commitment to research and academic contributions. His publications, while specifics are unknown, would likely focus on the results of clinical trials in which he has participated, as well as on his own research interests within the field of oncology.\n\nHis research focus areas would likely be aligned with the types of clinical trials in which he has been involved. This could include research on new chemotherapeutic agents, novel immunotherapies, or targeted therapies that are designed to attack specific cancer cells while sparing normal cells. He may also be interested in researching biomarkers that can predict response to therapy or in developing new strategies for managing the side effects of cancer treatment.\n\nThe impact of his research on medical science would likely be reflected in the citations of his publications by other researchers, as well as in the influence of his work on clinical practice guidelines. His research may have contributed to the development of new cancer treatments that have improved patient outcomes or to the identification of new biomarkers that can be used to personalize cancer therapy.\n\nIt is also plausible that Dr. Singh has presented his research findings at national and international conferences, sharing his knowledge with other experts in the field and contributing to the dissemination of new information about cancer treatment. He may also have served as a reviewer for medical journals, helping to ensure the quality and rigor of published research in oncology. His academic contributions demonstrate a commitment to advancing the knowledge and understanding of cancer and to improving the lives of patients affected by this disease.\n\n## 5. **Patient Impact & Community Work**\n\nWhile specific anecdotes are unavailable, the nature of Dr. R.P. Singh's work in clinical oncology trials inherently implies a significant positive impact on his patients. His involvement in these trials offers patients access to cutting-edge therapies that are not yet widely available, providing them with a chance to benefit from potentially life-saving treatments.\n\nBeyond the direct benefits of clinical trial participation, Dr. Singh's patient-centered approach and commitment to providing compassionate care would likely have a profound impact on his patients' overall well-being. His ability to build strong relationships with his patients, to listen to their concerns, and to provide emotional support would help them to cope with the challenges of cancer treatment and to maintain a sense of hope and optimism.\n\nHis community work, though undocumented here, might involve volunteering at local cancer support groups, participating in fundraising events for cancer research, or providing educational outreach to the community about cancer prevention and early detection. He may also be involved in mentoring medical students or residents, sharing his knowledge and experience with the next generation of healthcare professionals. His contributions to the community would reflect his commitment to improving the lives of those affected by cancer, both within and beyond the walls of his practice.\n\n## 6. **Legacy and Future Outlook**\n\nDr. R.P. Singh's legacy in the medical community is likely one of dedication to advancing cancer treatment through clinical trials and a commitment to providing compassionate and patient-centered care. His work in clinical trials would contribute to the development of new and more effective cancer therapies, ultimately improving the lives of countless patients.\n\nHis overall standing in the medical community would be reflected in the respect and recognition he receives from his colleagues, as well as in his involvement in professional organizations and committees. He may be sought after as a speaker at conferences, a consultant on clinical trial design, or a mentor to younger physicians.\n\nLooking to the future, Dr. Singh would likely continue to be involved in clinical trials, seeking to bring new and innovative therapies to his patients. He may also expand his research focus to include areas such as personalized medicine, cancer prevention, and survivorship care. He would likely remain committed to providing the highest quality of care to his patients, adapting his practice to incorporate new advances in cancer treatment and to meet the evolving needs of his community. His lasting influence would be felt through the contributions he makes to the field of oncology, the lives he touches through his patient care, and the inspiration he provides to future generations of healthcare professionals. His dedication to general medical excellence and the advancement of cancer treatment through clinical trials positions him as a significant figure in the ongoing fight against this devastating disease.\n",
+  "bioGenerated": true
+}

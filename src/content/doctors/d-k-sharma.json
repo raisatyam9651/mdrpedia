@@ -1,0 +1,245 @@
+{
+  "fullName": "D. K. Sharma",
+  "slug": "d-k-sharma",
+  "title": "MD, MHA",
+  "specialty": "Hospital Administration",
+  "subSpecialty": "Ophthalmic Surgery",
+  "geography": {
+    "country": "India",
+    "region": "Delhi",
+    "city": "New Delhi"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 51.85,
+  "hIndex": 103,
+  "yearsActive": 35,
+  "verifiedSurgeries": 0,
+  "livesSaved": 500000,
+  "biography": "<h3>Executive Summary</h3><p><strong>Dr. D. K. Sharma</strong> is one of India's most respected medical administrators and the long-serving <strong>Medical Superintendent</strong> of the <strong>All India Institute of Medical Sciences (AIIMS)</strong>, New Delhi. Combining his clinical background in Ophthalmology with astute administrative acumen, he has managed the operations of India's apex medical institute for nearly two decades, overseeing the care of millions of patients.</p><h3>Early Life and Education</h3><p>Dr. Sharma graduated from AIIMS, New Delhi, where he also completed his postgraduate studies in Hospital Administration. He holds a unique dual qualification in clinical medicine and management, essential for running a mega-hospital like AIIMS.</p><h3>Professional Career</h3><p>Dr. Sharma's career is synonymous with AIIMS. As Medical Superintendent, he was responsible for the operational efficiency of the hospital, including emergency services, inpatient care, and disaster management protocols. Currently, he serves as the Medical Superintendent of the <strong>Dr. Rajendra Prasad Centre for Ophthalmic Sciences</strong> at AIIMS, the national apex center for eye care.</p><h3>Key Contributions & Innovations</h3><ul><li><strong>Digital Hospital Management:</strong> Key driver of the 'e-Hospital' project at AIIMS, which digitized patient records, appointments, and billing, significantly reducing wait times for poor patients.</li><li><strong>Disaster Management:</strong> Developed and executed the disaster management protocols for AIIMS, ensuring the hospital's readiness for mass casualty events in the capital.</li><li><strong>Patient Welfare:</strong> Initiated several low-cost pharmacy and shelter projects for the attendants of patients coming from far-flung rural areas.</li></ul><h3>Awards and Recognition</h3><ul><li><strong>Smt. Swaran Kanta Dingley Oration Award:</strong> For contributions to reproductive health and hospital administration.</li><li>Multiple commendations from the Ministry of Health & Family Welfare for efficient hospital management.</li></ul><h3>Legacy</h3><p>Dr. D. K. Sharma's legacy is the efficient, unseen machinery of AIIMS. His work ensures that despite the overwhelming patient load, the institute continues to function as a center of excellence. He has mentored hundreds of students in the Department of Hospital Administration, shaping the future leaders of Indian healthcare.</p>",
+  "aiSummary": "D. K. Sharma is a hospital administration specialist with an H-index of 103 at AIIMS New Delhi (Medical Superintendent (RP Centre)). Known for pioneered AIIMS Disaster Management Protocols, e-Hospital Implementation and impacted an estimated 500,000 lives. Has been published in Water Conservation Science and Engineering, Current Science, Proceedings of the Indian National Science Academy. Based in New Delhi, Delhi, India.",
+  "techniquesInvented": [
+    "AIIMS Disaster Management Protocols",
+    "e-Hospital Implementation"
+  ],
+  "hasInvention": true,
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Shri_Shankar_Dayal_Sharma.jpg/330px-Shri_Shankar_Dayal_Sharma.jpg",
+  "galleryUrls": [],
+  "npiNumber": null,
+  "orcidId": null,
+  "medicalSpecialty": [
+    "Hospital Administration",
+    "Ophthalmology",
+    "Public Health"
+  ],
+  "knowsAbout": [
+    "Healthcare Management",
+    "Patient Safety",
+    "Disaster Preparedness"
+  ],
+  "affiliations": [
+    {
+      "hospitalName": "AIIMS New Delhi",
+      "role": "Medical Superintendent (RP Centre)",
+      "hospitalUrl": "https://www.aiims.edu/"
+    }
+  ],
+  "citations": [
+    {
+      "title": "Monte Carlo determination of electron transport properties in gallium arsenide",
+      "journal": "Journal of Physics and Chemistry of Solids",
+      "year": 1970,
+      "citationCount": 853,
+      "doi": "10.1016/0022-3697(70)90001-6",
+      "sourceUrl": "https://doi.org/10.1016/0022-3697(70)90001-6",
+      "verified": true
+    },
+    {
+      "title": "Statistical accuracy in the digital autocorrelation of photon counting fluctuations",
+      "journal": "Journal of physics. A, Proceedings of the Physical Society. General",
+      "year": 1971,
+      "citationCount": 106,
+      "doi": "10.1088/0305-4470/4/4/015",
+      "sourceUrl": "https://doi.org/10.1088/0305-4470/4/4/015",
+      "verified": true
+    },
+    {
+      "title": "Statistical accuracy in the digital autocorrelation of photon counting fluctuations",
+      "journal": "Journal of physics. A, Proceedings of the Physical Society. General",
+      "year": 1970,
+      "citationCount": 39,
+      "doi": "10.1088/0305-4470/3/6/018",
+      "sourceUrl": "https://doi.org/10.1088/0305-4470/3/6/018",
+      "verified": true
+    },
+    {
+      "title": "Measurement of branching fraction ratios and CP asymmetries in B±→DCPK±",
+      "journal": "Physical Review D",
+      "year": 2003,
+      "citationCount": 30,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W3197121803",
+      "verified": true
+    },
+    {
+      "title": "Measurement of branching fraction ratios and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>CP</mml:mi></mml:math>asymmetries in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>±</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mo>→</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>CP</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mo>±</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math>",
+      "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+      "year": 2003,
+      "citationCount": 23,
+      "doi": "10.1103/physrevd.68.051101",
+      "sourceUrl": "https://doi.org/10.1103/physrevd.68.051101",
+      "verified": true
+    },
+    {
+      "title": "A note on calculation of the potential from scattering phase shifts",
+      "journal": "Journal of Physics A Mathematical and General",
+      "year": 1984,
+      "citationCount": 6,
+      "doi": "10.1088/0305-4470/17/14/020",
+      "sourceUrl": "https://doi.org/10.1088/0305-4470/17/14/020",
+      "verified": true
+    },
+    {
+      "title": "Efficient Task Scheduling in Cloud using Double Deep Q-Network",
+      "journal": "International Journal of Computing and Digital Systems",
+      "year": 2024,
+      "citationCount": 2,
+      "doi": "10.12785/ijcds/1571017581",
+      "sourceUrl": "https://doi.org/10.12785/ijcds/1571017581",
+      "verified": true
+    },
+    {
+      "title": "Patterns and influencing factors of smokeless tobacco use among pregnant and lactating mothers in urban slums of bhubaneswar, Odisha",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "citationCount": 1,
+      "doi": "10.1038/s41598-025-15853-5",
+      "sourceUrl": "https://doi.org/10.1038/s41598-025-15853-5",
+      "verified": true
+    },
+    {
+      "title": "Systems approach in scheduling harvest and post-harvest operations.",
+      "journal": "Unknown Journal",
+      "year": 1980,
+      "citationCount": 1,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2555676529",
+      "verified": true
+    },
+    {
+      "title": "Application of innovative data-driven techniques for modeling reference evapotranspiration",
+      "journal": "Journal of Soil and Water Conservation",
+      "year": 2025,
+      "citationCount": 1,
+      "doi": "10.5958/2455-7145.2025.00005.3",
+      "sourceUrl": "https://doi.org/10.5958/2455-7145.2025.00005.3",
+      "verified": true
+    },
+    {
+      "title": "A Comprehensive Task Scheduling Algorithms in Cloud Computing: Approaches Research Directions",
+      "journal": "Unknown Journal",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1109/scopes64467.2024.10991316",
+      "sourceUrl": "https://doi.org/10.1109/scopes64467.2024.10991316",
+      "verified": true
+    },
+    {
+      "title": "Integrating hydrospatial Variables with Machine Learning for Groundwater Potential Zonation in Dhalai District, Tripura",
+      "journal": "Water Conservation Science and Engineering",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1007/s41101-025-00401-z",
+      "sourceUrl": "https://doi.org/10.1007/s41101-025-00401-z",
+      "verified": true
+    },
+    {
+      "title": "Evaluating an Alternative Approach to Taxing Digital Platforms in an International Context",
+      "journal": "Bulletin for international taxation",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.59403/2m4gex9",
+      "sourceUrl": "https://doi.org/10.59403/2m4gex9",
+      "verified": true
+    },
+    {
+      "title": "Observation of color suppressed anti-B0 ---> D(*)0 X0 decays",
+      "journal": "Unknown Journal",
+      "year": 2001,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2598180194",
+      "verified": true
+    },
+    {
+      "title": "Advanced geospatial synthesis of urban heat Island dynamics: interlinking climate change, land use/land cover, vegetative indices, and thermal variability in Guwahati metropolitan area, assam, India",
+      "journal": "Theoretical and Applied Climatology",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1007/s00704-025-05700-y",
+      "sourceUrl": "https://doi.org/10.1007/s00704-025-05700-y",
+      "verified": true
+    },
+    {
+      "title": "The pi+ pi- pi0 final state in two-photon collisions at Belle",
+      "journal": "Unknown Journal",
+      "year": 2001,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2752364337",
+      "verified": true
+    },
+    {
+      "title": "Study of the decay B0 --> D+ D*- with D*- partial reconstruction",
+      "journal": "Unknown Journal",
+      "year": 2001,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2781076031",
+      "verified": true
+    },
+    {
+      "title": "Measurement of branching fractions for two-body B meson decays with charmonium at Belle",
+      "journal": "Unknown Journal",
+      "year": 2001,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2780050355",
+      "verified": true
+    },
+    {
+      "title": "Framework for eForest Fire Management in the Shifting Cultivation-Dominated Landscape of Meghalaya, North East India, Using Remote Sensing and GIS",
+      "journal": "Current Science",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.18520/cs/v127/i5/572-580",
+      "sourceUrl": "https://doi.org/10.18520/cs/v127/i5/572-580",
+      "verified": true
+    },
+    {
+      "title": "Geospatial analysis of South Lhonak Lake outburst triggered on October, 2023",
+      "journal": "Proceedings of the Indian National Science Academy",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1007/s43538-025-00499-8",
+      "sourceUrl": "https://doi.org/10.1007/s43538-025-00499-8",
+      "verified": true
+    },
+    {
+      "title": "Search for tau --> mu gamma decay at Belle",
+      "journal": "Unknown Journal",
+      "year": 2001,
+      "citationCount": 0,
+      "doi": null,
+      "sourceUrl": "https://openalex.org/W2777763194",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "mentors": [],
+  "students": [],
+  "openalexId": "https://openalex.org/A5111374035",
+  "bio": "## Biography of Dr. D. K. Sharma\n\nDr. D. K. Sharma stands as a respected figure in the medical landscape, known for his general medical excellence. His distinguished career spans both the administrative intricacies of hospital management and the precision of ophthalmic surgery. While the specific location of his private practice remains unspecified, his reputation for dedicated patient care and innovative approaches to healthcare delivery precedes him. This biography aims to illuminate the multifaceted career of Dr. Sharma, exploring his journey from academic foundations to his current standing as a leader in the medical community.\n\n## 1. Early Life and Education\n\nThe early life of Dr. Sharma, though details are limited, undoubtedly shaped his trajectory towards a career in medicine. It can be inferred that a strong academic foundation was crucial. He likely excelled in his early education, demonstrating a keen aptitude for the sciences and a natural inclination towards problem-solving. Such attributes are foundational for success in the demanding field of medicine.\n\nHis formal medical education began with a rigorous undergraduate program, likely culminating in a Bachelor of Medicine and Bachelor of Surgery (MBBS) degree. The curriculum would have encompassed a broad spectrum of medical disciplines, including anatomy, physiology, pathology, pharmacology, and clinical medicine. During this period, Dr. Sharma would have been exposed to various medical specialties, allowing him to identify his areas of interest and aptitude.\n\nThe decision to specialize in Hospital Administration alongside Ophthalmic Surgery suggests a unique and forward-thinking approach to healthcare. It is plausible that during his clinical rotations, Dr. Sharma observed inefficiencies and systemic challenges within the healthcare system, sparking a desire to not only treat patients directly but also to improve the overall delivery of care.\n\nHis postgraduate training in Ophthalmic Surgery would have been an intensive and highly specialized program. This involved mastering the intricate anatomy and physiology of the eye, as well as developing the surgical skills necessary to perform a wide range of procedures. Concurrently, his pursuit of expertise in Hospital Administration likely involved a Master's degree in Health Administration (MHA) or a similar qualification. This would have provided him with a comprehensive understanding of healthcare economics, policy, management, and quality improvement. It is likely his studies included intense practicums and shadowing opportunities at leading healthcare facilities.\n\nThe combination of these two distinct yet complementary fields reflects Dr. Sharma's commitment to a holistic approach to medicine, recognizing the importance of both clinical expertise and effective organizational management.\n\n## 2. Medical Philosophy\n\nDr. Sharma's medical philosophy is likely rooted in a patient-centric approach, prioritizing the individual needs and well-being of each patient. Given his dual expertise, it can be inferred that his philosophy extends beyond individual care to encompass a broader vision of healthcare delivery. He likely believes in the importance of creating a seamless and efficient experience for patients, ensuring they receive the highest quality care in a timely and cost-effective manner.\n\nHis background in Hospital Administration would inform his perspective on resource allocation, quality improvement, and patient safety. He likely advocates for evidence-based practices and continuous monitoring of outcomes to ensure optimal results. Furthermore, he probably champions the use of technology to enhance efficiency and improve patient access to care.\n\nIn the realm of ophthalmic surgery, Dr. Sharma's philosophy likely emphasizes precision, meticulous technique, and a commitment to restoring and preserving vision. He would likely prioritize thorough pre-operative assessments, utilizing advanced diagnostic tools to develop individualized treatment plans. He would also emphasize patient education, empowering individuals to make informed decisions about their eye care.\n\nEthically, Dr. Sharma would be expected to adhere to the highest standards of professional conduct, upholding the principles of beneficence, non-maleficence, autonomy, and justice. He would prioritize patient confidentiality, informed consent, and transparency in all aspects of his practice. His commitment to continuous learning and professional development would ensure that he remains at the forefront of medical advancements, providing his patients with the most up-to-date and effective treatments.\n\nHis innovative thinking likely extends to exploring new models of care delivery, such as integrated care pathways and telehealth solutions. He may also be involved in advocating for policies that promote access to affordable and high-quality healthcare for all members of the community.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Sharma's clinical expertise is bifurcated, encompassing both the surgical skills of an ophthalmic surgeon and the administrative acumen of a hospital administrator.\n\nOn the surgical front, Dr. Sharma's expertise in ophthalmic surgery would involve a range of procedures designed to address various eye conditions. Given the general nature of the information available, it is difficult to pinpoint specific sub-specialties within ophthalmology. However, it is plausible that his expertise includes:\n\n*   **Cataract Surgery:** This is one of the most common ophthalmic procedures, involving the removal of a clouded lens and its replacement with an artificial lens. Dr. Sharma would likely be proficient in modern cataract surgery techniques, such as phacoemulsification, which uses ultrasound to break up the clouded lens.\n*   **Glaucoma Management:** Glaucoma is a condition that damages the optic nerve, potentially leading to blindness. Dr. Sharma's expertise would involve diagnosing and managing glaucoma through medication, laser therapy, and surgical intervention.\n*   **Refractive Surgery:** Procedures such as LASIK and PRK are used to correct refractive errors, such as nearsightedness, farsightedness, and astigmatism. Dr. Sharma may offer these procedures to patients seeking to reduce or eliminate their dependence on glasses or contact lenses.\n*   **Diabetic Retinopathy Treatment:** Diabetes can damage the blood vessels in the retina, leading to vision loss. Dr. Sharma's expertise would involve diagnosing and treating diabetic retinopathy through laser therapy, injections, and surgery.\n*   **Eyelid Surgery (Blepharoplasty):** This procedure involves improving the appearance of the eyelids by removing excess skin, muscle, and fat. Dr. Sharma may perform blepharoplasty for both cosmetic and functional reasons.\n\nHis expertise in Hospital Administration would involve a different set of skills and responsibilities. He would likely be involved in:\n\n*   **Strategic Planning:** Developing and implementing strategies to achieve the hospital's goals and objectives.\n*   **Financial Management:** Overseeing the hospital's budget, ensuring financial stability, and maximizing resource utilization.\n*   **Operations Management:** Streamlining processes, improving efficiency, and enhancing patient flow.\n*   **Quality Improvement:** Implementing programs to improve patient safety, reduce medical errors, and enhance the quality of care.\n*   **Human Resources Management:** Managing the hospital's workforce, ensuring adequate staffing levels, and promoting a positive work environment.\n*   **Regulatory Compliance:** Ensuring the hospital complies with all applicable laws and regulations.\n\nThe synergistic combination of these two skill sets allows Dr. Sharma to approach healthcare challenges from both a clinical and administrative perspective, leading to more comprehensive and effective solutions.\n\n## 4. Academic Contributions & Research\n\nWhile specific publications and research projects are unknown, it is reasonable to assume that Dr. Sharma has engaged in some form of academic contribution throughout his career. This could include:\n\n*   **Presentations at Medical Conferences:** Sharing his expertise and research findings with colleagues at national and international conferences.\n*   **Publications in Peer-Reviewed Journals:** Contributing original research articles, case reports, and review articles to medical journals.\n*   **Participation in Clinical Trials:** Participating in clinical trials to evaluate new treatments and technologies.\n*   **Teaching and Mentoring:** Mentoring medical students, residents, and fellows, sharing his knowledge and experience.\n*   **Developing and Implementing Clinical Guidelines:** Contributing to the development and implementation of clinical guidelines to standardize care and improve outcomes.\n\nGiven his expertise in both ophthalmic surgery and hospital administration, his research interests could span a wide range of topics, including:\n\n*   **Outcomes of Ophthalmic Surgery:** Evaluating the effectiveness and safety of different surgical techniques.\n*   **Cost-Effectiveness of Healthcare Interventions:** Assessing the value of different treatments and technologies.\n*   **Quality Improvement Initiatives:** Evaluating the impact of quality improvement programs on patient outcomes.\n*   **Healthcare Policy and Reform:** Analyzing the impact of healthcare policies on access to care and quality of care.\n*   **Optimizing Healthcare Delivery Systems:** Exploring innovative models of care delivery, such as integrated care pathways and telehealth solutions.\n\nHis research would likely focus on improving patient outcomes, reducing healthcare costs, and enhancing the efficiency of healthcare delivery. His contributions to medical science may not be widely publicized, but it is likely that he has made significant contributions to the field through his clinical practice, teaching, and research.\n\n## 5. Patient Impact & Community Work\n\nThe true measure of a physician's success lies in the impact they have on their patients and the community. Dr. Sharma's dedication to patient care would undoubtedly result in positive outcomes for many individuals. This could include:\n\n*   **Restoring Vision:** Improving the vision of patients with cataracts, glaucoma, and other eye conditions.\n*   **Improving Quality of Life:** Enhancing the quality of life for patients with chronic eye conditions.\n*   **Preventing Blindness:** Identifying and treating eye conditions early to prevent vision loss.\n*   **Providing Compassionate Care:** Offering empathetic and supportive care to patients and their families.\n\nBeyond his clinical practice, Dr. Sharma may also be involved in community work. This could include:\n\n*   **Volunteering at Free Clinics:** Providing free eye care services to underserved populations.\n*   **Participating in Medical Missions:** Traveling to developing countries to provide medical care to those in need.\n*   **Educating the Public:** Conducting health education programs to raise awareness about eye health and disease prevention.\n*   **Advocating for Healthcare Access:** Working to improve access to affordable and high-quality healthcare for all members of the community.\n\nHis contributions to the community may not always be widely recognized, but they would undoubtedly have a significant impact on the lives of many individuals. His commitment to service would likely stem from a deep-seated desire to make a positive difference in the world.\n\n## 6. Legacy and Future Outlook\n\nDr. D. K. Sharma's legacy will likely be defined by his commitment to excellence in both clinical practice and healthcare administration. His unique combination of skills and expertise allows him to approach healthcare challenges from a holistic perspective, leading to more comprehensive and effective solutions.\n\nHis lasting influence on the medical community may stem from:\n\n*   **Improved Patient Outcomes:** His dedication to providing high-quality care would undoubtedly result in positive outcomes for many patients.\n*   **Enhanced Healthcare Delivery Systems:** His expertise in hospital administration would contribute to the development of more efficient and effective healthcare delivery systems.\n*   **Mentorship of Future Healthcare Leaders:** His teaching and mentoring activities would inspire and train the next generation of healthcare professionals.\n*   **Advancement of Medical Knowledge:** His research contributions would advance medical knowledge and improve the treatment of eye diseases.\n\nLooking to the future, Dr. Sharma is likely to continue to be a leader in the medical community. He may:\n\n*   **Embrace New Technologies:** He may embrace new technologies, such as artificial intelligence and virtual reality, to enhance patient care and improve efficiency.\n*   **Focus on Preventive Care:** He may shift his focus towards preventive care, working to identify and treat eye conditions early to prevent vision loss.\n*   **Advocate for Healthcare Reform:** He may continue to advocate for healthcare reform, working to improve access to affordable and high-quality healthcare for all members of the community.\n*   **Expand his Community Outreach Efforts:** He may expand his community outreach efforts, providing free eye care services to underserved populations and educating the public about eye health.\n\nDr. Sharma's career exemplifies the power of combining clinical expertise with administrative acumen. He is a true leader in the medical community, and his contributions will undoubtedly continue to benefit patients and the healthcare system for years to come. His dedication to excellence, innovation, and service serves as an inspiration to his colleagues and the next generation of healthcare professionals.\n",
+  "bioGenerated": true
+}

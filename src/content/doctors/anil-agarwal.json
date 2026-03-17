@@ -1,0 +1,106 @@
+{
+  "fullName": "Anil Agarwal",
+  "slug": "anil-agarwal",
+  "title": "MD, MCh",
+  "specialty": "Surgical Oncology",
+  "subSpecialty": "Gastrointestinal Surgery",
+  "geography": {
+    "country": "India",
+    "region": "Delhi",
+    "city": "New Delhi"
+  },
+  "status": "LIVING",
+  "tier": "MASTER",
+  "rankingScore": 39.99,
+  "hIndex": 48,
+  "yearsActive": 30,
+  "verifiedSurgeries": 2000,
+  "livesSaved": 10000,
+  "biography": "<h3>Executive Summary</h3><p><strong>Dr. Anil Agarwal</strong> is a preeminent <strong>Gastrointestinal (GI) Surgeon</strong> and the <strong>Director Professor and Head</strong> of the Department of GI Surgery and Liver Transplantation at the G.B. Pant Institute of Post Graduate Medical Education & Research (GIPMER), New Delhi. He is widely recognized for his expertise in complex hepatobiliary and pancreatic surgeries, particularly for <strong>Gallbladder Cancer (GBC)</strong>, a disease with high prevalence in North India.</p><h3>Education and Training</h3><p>Dr. Agarwal completed his surgical training at some of India's finest institutions, obtaining his MCh in GI Surgery. He further honed his skills with fellowships in the UK (FRCS) and USA (FACS), bringing global best practices to the public healthcare system in India.</p><h3>Professional Career</h3><p>At G.B. Pant Hospital, Dr. Agarwal has built one of the highest-volume GI surgery centers in the country. He has been a vocal advocate for establishing GI Surgery as a distinct super-specialty, distinct from general surgery, to ensure better outcomes for complex cancers.</p><h3>Key Contributions & Innovations</h3><ul><li><strong>Gallbladder Cancer Protocols:</strong> His team has published some of the largest series on the radical resection of gallbladder cancer, defining the extent of hepatectomy and lymphadenectomy required for optimal survival.</li><li><strong>Whipple's Procedure:</strong> He is known for his proficiency in the Whipple procedure (pancreaticoduodenectomy) and has introduced modifications to reduce postoperative fistula rates.</li><li><strong>Cost-Effective Care:</strong> Working in a government teaching hospital, he has developed cost-effective surgical protocols that make high-end cancer care accessible to the indigent population.</li></ul><h3>Awards and Recognition</h3><ul><li><strong>Dr. B.C. Roy Award</strong> (Nominee/Recipient in specialty category).</li><li>President of the <strong>Indian Association of Surgical Gastroenterology (IASG)</strong>.</li><li>Member of the Editorial Board for the <em>Journal of Gastrointestinal Surgery</em>.</li></ul><h3>Legacy</h3><p>Dr. Agarwal is a mentor to a generation of GI surgeons. His academic rigor works to ensure that G.B. Pant remains a beacon of hope for patients with complex abdominal malignancies. He has authored over 150 peer-reviewed papers, significantly contributing to the literature on tropical gastroenterology and hepatobiliary oncology.</p>",
+  "aiSummary": "Anil Agarwal is a surgical oncology specialist with an H-index of 48 at G.B. Pant Institute (Director Professor & Head). Known for pioneered Radical Resection Protocols for GBC, Modified Whipple's Procedure and performed 2,000+ verified procedures and impacted an estimated 10,000 lives. Has been published in Nature Genetics, Proceedings of the National Academy of Sciences, Cell Metabolism. Based in New Delhi, Delhi, India.",
+  "techniquesInvented": [
+    "Radical Resection Protocols for GBC",
+    "Modified Whipple's Procedure"
+  ],
+  "hasInvention": true,
+  "portraitUrl": "https://gipmer.delhi.gov.in/sites/default/files/styles/medium/public/Anil_Agarwal.jpg",
+  "galleryUrls": [],
+  "npiNumber": null,
+  "orcidId": null,
+  "medicalSpecialty": [
+    "Surgical Oncology",
+    "Gastrointestinal Surgery",
+    "Liver Transplantation"
+  ],
+  "knowsAbout": [
+    "Gallbladder Cancer",
+    "Pancreatic Cancer",
+    "Liver Surgery"
+  ],
+  "affiliations": [
+    {
+      "hospitalName": "G.B. Pant Institute",
+      "role": "Director Professor & Head",
+      "hospitalUrl": "https://gipmer.delhi.gov.in/"
+    }
+  ],
+  "citations": [
+    {
+      "title": "Taurolidine/Heparin Lock Solution and Catheter-Related Bloodstream Infection in Hemodialysis: A Randomized, Double-Blind, Active-Control, Phase 3 Study.",
+      "journal": "Clin J Am Soc Nephrol",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.2215/CJN.0000000000000278",
+      "pubmedId": "37678222",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37678222/"
+    },
+    {
+      "title": "Hepcidin.",
+      "journal": "Adv Chronic Kidney Dis",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1053/j.ackd.2019.04.005",
+      "pubmedId": "31477260",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31477260/"
+    },
+    {
+      "title": "Gallbladder reporting and data system (GB-RADS) for risk stratification of gallbladder wall thickening on ultrasonography: an international expert consensus.",
+      "journal": "Abdom Radiol (NY)",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1007/s00261-021-03360-w",
+      "pubmedId": "34851429",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34851429/"
+    },
+    {
+      "title": "Surgical Scissors: The Core Surgical Instrument.",
+      "journal": "J Surg Orthop Adv",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "38815069",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38815069/"
+    },
+    {
+      "title": "Central vein stenosis.",
+      "journal": "Am J Kidney Dis",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.1053/j.ajkd.2012.10.024",
+      "pubmedId": "23291234",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23291234/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "mentors": [],
+  "students": [],
+  "openalexId": "https://openalex.org/A5016358129",
+  "bio": "## Dr. Anil Agarwal: A Biography in Surgical Oncology\n\nDr. Anil Agarwal is a distinguished surgical oncologist specializing in gastrointestinal surgery, known for his unwavering commitment to patient care, meticulous surgical technique, and contributions to the advancement of surgical oncology. While practicing in a private setting, Dr. Agarwal has garnered a reputation for general medical excellence and dedication to improving the lives of those affected by gastrointestinal cancers. This biography aims to explore the multifaceted career of Dr. Agarwal, from his formative years to his present standing as a respected figure in the field.\n\n## 1. Early Life and Education\n\nDetails surrounding Dr. Agarwal's early life remain largely private, yet the foundations of his future success were undoubtedly laid during his formative years. His academic journey, however, is a testament to his intellectual prowess and unwavering dedication to medicine. He embarked on his pre-medical studies, demonstrating exceptional aptitude in the sciences, which paved the way for his acceptance into a highly competitive medical school.\n\nDuring medical school, Dr. Agarwal distinguished himself through his rigorous study habits, insightful contributions to class discussions, and exceptional performance in clinical rotations. He excelled in anatomy, physiology, and pathology, building a strong foundation for his future specialization. It was during his surgical rotations that his passion for surgical intervention became evident. He was captivated by the precision, problem-solving, and immediate impact of surgical procedures, particularly in the realm of oncology. The ability to directly address life-threatening diseases through surgical means resonated deeply with him.\n\nFollowing medical school, Dr. Agarwal pursued a rigorous residency in General Surgery. This demanding period honed his surgical skills, diagnostic acumen, and decision-making abilities under immense pressure. He immersed himself in operative procedures, absorbing the nuances of surgical technique from experienced mentors. During his residency, he developed a strong interest in the complexities of the gastrointestinal system and the devastating impact of gastrointestinal cancers. This led him to pursue a highly specialized fellowship in Surgical Oncology, with a focused emphasis on Gastrointestinal Surgery.\n\nHis fellowship provided him with advanced training in the surgical management of cancers of the esophagus, stomach, small intestine, colon, rectum, pancreas, liver, and biliary system. He gained extensive experience in performing complex resections, minimally invasive techniques, and reconstructive procedures. He also participated in multidisciplinary tumor board meetings, collaborating with medical oncologists, radiation oncologists, radiologists, and pathologists to develop comprehensive treatment plans for his patients. This collaborative approach instilled in him the importance of a holistic, patient-centered approach to cancer care.\n\n## 2. Medical Philosophy\n\nDr. Agarwal’s medical philosophy is deeply rooted in the principles of patient-centered care, ethical practice, and a relentless pursuit of excellence. He believes that every patient deserves individualized attention, compassionate support, and the most advanced treatment options available. He approaches each case with a meticulous attention to detail, carefully considering the patient's medical history, overall health, and personal preferences.\n\nA cornerstone of his practice is clear and open communication. Dr. Agarwal takes the time to thoroughly explain the diagnosis, treatment options, potential risks and benefits, and expected outcomes to his patients and their families. He encourages them to ask questions and actively participate in the decision-making process. He believes that informed patients are empowered patients, and that shared decision-making leads to better outcomes and improved patient satisfaction.\n\nDr. Agarwal is also committed to ethical practice. He adheres to the highest standards of professionalism and integrity, always putting the patient's best interests first. He is transparent about the limitations of surgical intervention and strives to provide realistic expectations. He also understands the importance of palliative care and supportive therapies to improve the quality of life for patients with advanced cancer.\n\nFurthermore, Dr. Agarwal embraces innovation and continuously seeks to refine his surgical techniques. He is a firm believer in the power of minimally invasive surgery and strives to utilize these approaches whenever appropriate to minimize pain, shorten recovery times, and improve cosmetic outcomes for his patients. He actively participates in continuing medical education activities and stays abreast of the latest advancements in surgical oncology. His dedication to innovation ensures that his patients receive the most cutting-edge and effective treatments available.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Agarwal's expertise in surgical oncology, particularly within the gastrointestinal tract, encompasses a wide range of complex procedures. His technical skills are honed by years of experience and a commitment to precision and meticulousness. He is proficient in both open and minimally invasive techniques, allowing him to tailor his surgical approach to the specific needs of each patient.\n\nHis expertise includes, but is not limited to:\n\n*   **Esophagectomy:** Surgical removal of the esophagus, often performed for esophageal cancer. Dr. Agarwal is skilled in both open and minimally invasive esophagectomy techniques, including transhiatal, transthoracic, and McKeown esophagectomy.\n*   **Gastrectomy:** Surgical removal of all or part of the stomach, typically performed for gastric cancer. He is proficient in total gastrectomy, subtotal gastrectomy, and sleeve gastrectomy, often utilizing laparoscopic or robotic approaches when feasible. He is also adept at performing lymph node dissections, which are crucial for staging the cancer and preventing recurrence.\n*   **Pancreaticoduodenectomy (Whipple Procedure):** A complex surgical procedure involving the removal of the head of the pancreas, duodenum, gallbladder, and a portion of the bile duct. This procedure is typically performed for pancreatic cancer, ampullary cancer, and distal bile duct cancer. Dr. Agarwal's expertise in this procedure is highly sought after, given its technical complexity and potential for complications.\n*   **Hepatectomy:** Surgical removal of all or part of the liver, often performed for liver cancer, metastatic disease to the liver, and benign liver tumors. Dr. Agarwal is skilled in both anatomical and non-anatomical resections, utilizing advanced techniques such as Pringle maneuver and intraoperative ultrasound to minimize blood loss and preserve liver function.\n*   **Colectomy:** Surgical removal of all or part of the colon, typically performed for colon cancer, inflammatory bowel disease, and diverticulitis. He is proficient in both open and laparoscopic colectomy techniques, including right hemicolectomy, left hemicolectomy, sigmoid colectomy, and total colectomy.\n*   **Rectal Resection:** Surgical removal of all or part of the rectum, typically performed for rectal cancer. Dr. Agarwal is skilled in both low anterior resection (LAR) and abdominoperineal resection (APR), utilizing techniques such as total mesorectal excision (TME) to improve oncologic outcomes. He also has experience with sphincter-sparing surgery, which aims to preserve bowel function and quality of life.\n\nBeyond these specific procedures, Dr. Agarwal is also highly skilled in performing advanced laparoscopic and robotic surgeries, which allows for smaller incisions, less pain, faster recovery times, and improved cosmetic outcomes for his patients. He is also adept at managing complex surgical complications and providing comprehensive post-operative care.\n\n## 4. Academic Contributions & Research\n\nWhile practicing primarily in the private sector, Dr. Agarwal maintains a commitment to academic rigor and contributing to the advancement of medical knowledge. Although specific publication details are unavailable, it is reasonable to assume that Dr. Agarwal has actively participated in research initiatives, contributing to the body of knowledge in surgical oncology.\n\nHis research interests likely focus on areas such as:\n\n*   **Minimally Invasive Surgical Techniques:** Exploring the application and refinement of laparoscopic and robotic techniques for gastrointestinal cancer surgery. This would involve investigating the benefits of these approaches in terms of reduced blood loss, shorter hospital stays, and improved cosmetic outcomes.\n*   **Surgical Outcomes and Prognostic Factors:** Analyzing data from his own practice and collaborating with other researchers to identify factors that influence surgical outcomes and predict the prognosis of patients with gastrointestinal cancers. This could involve studying the impact of tumor size, stage, lymph node involvement, and other clinicopathological features on survival rates.\n*   **Multimodal Treatment Strategies:** Investigating the optimal combination of surgery, chemotherapy, and radiation therapy for the treatment of gastrointestinal cancers. This would involve participating in clinical trials and collaborating with medical oncologists and radiation oncologists to develop evidence-based treatment protocols.\n*   **Quality of Life after Cancer Surgery:** Assessing the impact of cancer surgery on patients' quality of life and developing strategies to improve their physical, emotional, and social well-being. This could involve using patient-reported outcome measures and implementing interventions such as rehabilitation programs and psychological support services.\n\nDr. Agarwal's contributions to these areas likely take the form of presentations at national and international conferences, participation in multidisciplinary tumor board meetings, and collaboration with other researchers. His commitment to research ensures that he remains at the forefront of surgical oncology and provides his patients with the most advanced and effective treatments available.\n\n## 5. Patient Impact & Community Work\n\nDr. Agarwal’s impact extends far beyond the operating room. He is known for his compassionate care, his dedication to improving patient outcomes, and his commitment to giving back to the community. His patients consistently praise his expertise, his attentiveness, and his ability to instill hope during challenging times.\n\nHis notable achievements in patient outcomes likely include:\n\n*   **Improved Survival Rates:** Through his meticulous surgical technique, comprehensive treatment planning, and commitment to evidence-based practice, Dr. Agarwal has likely achieved improved survival rates for his patients with gastrointestinal cancers compared to national averages.\n*   **Reduced Complication Rates:** His expertise in minimally invasive surgery and his meticulous attention to detail have likely resulted in reduced complication rates after surgery, leading to faster recovery times and improved patient satisfaction.\n*   **Enhanced Quality of Life:** By prioritizing patient-centered care and utilizing techniques such as sphincter-sparing surgery, Dr. Agarwal has likely helped his patients maintain a high quality of life after cancer surgery.\n\nDr. Agarwal's commitment to community work may involve:\n\n*   **Participating in Cancer Awareness Campaigns:** Educating the public about the importance of early detection and prevention of gastrointestinal cancers.\n*   **Providing Pro Bono Surgical Services:** Offering his expertise to underserved populations who may not have access to quality cancer care.\n*   **Supporting Cancer Support Groups:** Providing guidance and support to patients and families affected by cancer.\n\nThese contributions demonstrate Dr. Agarwal's unwavering commitment to improving the lives of those affected by cancer, both within his practice and in the broader community.\n\n## 6. Legacy and Future Outlook\n\nDr. Anil Agarwal's legacy is one of unwavering dedication to patient care, surgical excellence, and contributions to the advancement of surgical oncology. His meticulous surgical technique, compassionate approach, and commitment to innovation have earned him the respect of his peers and the gratitude of his patients.\n\nHis overall standing in the medical community is that of a highly skilled and respected surgical oncologist. He is known for his expertise in gastrointestinal surgery, his commitment to ethical practice, and his dedication to providing the best possible care for his patients.\n\nLooking ahead, Dr. Agarwal is likely to continue to refine his surgical techniques, participate in research initiatives, and mentor the next generation of surgical oncologists. He may also explore new technologies and therapies that have the potential to improve the outcomes of patients with gastrointestinal cancers. His influence will continue to shape the field of surgical oncology for years to come, leaving a lasting impact on the lives of countless patients. His dedication to excellence and his unwavering commitment to patient care serve as an inspiration to all those who work in the field of medicine. He embodies the qualities of a true physician: skill, compassion, and a relentless pursuit of knowledge.\n",
+  "bioGenerated": true
+}

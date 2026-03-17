@@ -1,0 +1,97 @@
+{
+  "fullName": "Edvard Moser",
+  "slug": "edvard-moser",
+  "title": "MD",
+  "specialty": "Nobel Prize in Physiology or Medicine",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 27.52,
+  "hIndex": 92,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Edvard Ingjald Moser is a Norwegian psychologist and neuroscientist, who as of May 2024 is a professor at the Norwegian University of Science and Technology (NTNU) in Trondheim.",
+  "aiSummary": "Edvard Moser is a nobel prize in physiology or medicine specialist with an H-index of 92 at NTNUNeuroscience (Member). Has been published in Nature, Nature reviews. Neuroscience, Annual Review of Neuroscience. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "NTNUNeuroscience"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "NTNUNeuroscience",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Nobel Prize in Physiology or Medicine"
+  ],
+  "knowsAbout": [
+    "Neural positioning system"
+  ],
+  "citations": [
+    {
+      "title": "Place cells, grid cells, and the brain's spatial representation system.",
+      "journal": "Annu Rev Neurosci",
+      "year": 2008,
+      "citationCount": 0,
+      "doi": "10.1146/annurev.neuro.31.061307.090723",
+      "pubmedId": "18284371",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/18284371/"
+    },
+    {
+      "title": "Large-scale two-photon calcium imaging in freely moving mice.",
+      "journal": "Cell",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2022.02.017",
+      "pubmedId": "35305313",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35305313/"
+    },
+    {
+      "title": "Functional organization of the hippocampal longitudinal axis.",
+      "journal": "Nat Rev Neurosci",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.1038/nrn3785",
+      "pubmedId": "25234264",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25234264/"
+    },
+    {
+      "title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings.",
+      "journal": "Science",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1126/science.abf4588",
+      "pubmedId": "33859006",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33859006/"
+    },
+    {
+      "title": "Microstructure of a spatial map in the entorhinal cortex.",
+      "journal": "Nature",
+      "year": 2005,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "15965463",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15965463/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5086289649",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Edvard_Moser_2015.jpg/330px-Edvard_Moser_2015.jpg",
+  "bio": "## Dr. Edvard Moser: A Biography\n\nDr. Edvard Moser stands as a towering figure in the world of neuroscience, his contributions profoundly shaping our understanding of the brain's intricate navigation system. While details of a traditional private medical practice are not applicable to his career, his work has far-reaching implications for understanding and potentially treating neurological disorders. This biography will explore his groundbreaking research, academic contributions, and the legacy he is building in the field of brain science.\n\n### 1. Early Life and Education\n\nEdvard Moser was born in Ålesund, Norway, in 1962. He displayed an early aptitude for science, a curiosity that would ultimately lead him to unravel some of the brain's most fundamental mechanisms. His academic journey began at the University of Oslo, where he initially pursued mathematics, statistics, and computer programming. This diverse foundation proved crucial, providing him with the analytical tools necessary to tackle the complexities of the brain.\n\nIt was during his undergraduate studies that Moser's interest shifted decisively towards neuroscience. He recognized the potential to apply his quantitative skills to understanding the biological basis of behavior and cognition. This realization led him to pursue a degree in psychology, with a focus on neurobiology.\n\nHe quickly distinguished himself as a promising researcher, impressing his professors with his intellectual rigor and dedication. In 1990, he earned his Cand. Psychol. (equivalent to a Master's degree) in neuropsychology from the University of Oslo. He then embarked on his doctoral studies under the supervision of Per Andersen, a renowned neurophysiologist who had previously worked with the Nobel laureate John Eccles. Andersen's laboratory at the University of Oslo was a hub for research on synaptic plasticity and the hippocampus, a brain region known to be critical for memory and spatial navigation.\n\nMoser's doctoral research, completed in 1995, focused on the role of the hippocampus in spatial learning and memory. He investigated the electrophysiological properties of hippocampal neurons, seeking to understand how these cells encode spatial information. This early work laid the groundwork for his later discoveries, demonstrating his keen interest in the neural underpinnings of spatial cognition.\n\nAfter obtaining his Ph.D., Moser and his wife, May-Britt Moser, embarked on postdoctoral training, first at the University of Edinburgh with Richard Morris, a leading researcher in spatial memory, and then at University College London with John O'Keefe, who would later share the Nobel Prize with the Mosers. These experiences exposed them to different perspectives and techniques in the field of spatial neuroscience, further honing their skills and expanding their scientific network.\n\n### 2. Medical Philosophy\n\nWhile Dr. Moser's work doesn't directly involve patient care in a traditional clinical setting, his research embodies a profound medical philosophy centered on understanding the fundamental mechanisms of brain function to ultimately improve human health. His approach is characterized by:\n\n*   **Mechanism-Oriented Research:** Dr. Moser's primary focus is on elucidating the underlying neural circuitry responsible for spatial cognition. He firmly believes that a deep understanding of these mechanisms is essential for developing effective treatments for neurological disorders that affect spatial abilities, such as Alzheimer's disease and other forms of dementia.\n\n*   **Interdisciplinary Collaboration:** Dr. Moser understands that tackling the complexities of the brain requires a collaborative effort. He actively engages with researchers from diverse disciplines, including neurophysiology, computational neuroscience, and psychology, to gain a comprehensive understanding of the neural systems he studies.\n\n*   **Rigorous Methodology:** Dr. Moser is committed to employing rigorous experimental designs and sophisticated analytical techniques in his research. He prioritizes accuracy, reproducibility, and statistical validity to ensure the reliability of his findings.\n\n*   **Translational Potential:** While Dr. Moser's research is primarily basic science, he is acutely aware of its potential translational implications. He actively seeks opportunities to translate his findings into clinically relevant applications, such as developing new diagnostic tools and therapeutic interventions for neurological disorders.\n\n*   **Ethical Considerations:** Dr. Moser is committed to conducting his research in an ethical and responsible manner. He adheres to the highest standards of animal welfare and ensures that his research is conducted in compliance with all applicable regulations.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Moser's expertise lies not in traditional medical procedures but in the meticulous application of neurophysiological techniques to study the neural basis of spatial cognition. His key skills and technical expertise include:\n\n*   **Electrophysiology:** Dr. Moser is a master of electrophysiological techniques, including single-cell and multi-unit recordings. He uses these techniques to measure the electrical activity of neurons in freely behaving animals, allowing him to study how these cells encode information about space.\n\n*   **Stereotaxic Surgery:** Dr. Moser is skilled in performing stereotaxic surgery on rodents, allowing him to precisely target specific brain regions for electrode implantation.\n\n*   **Behavioral Neuroscience:** Dr. Moser has extensive experience in designing and conducting behavioral experiments to assess spatial learning and memory in rodents. He uses a variety of behavioral tasks, such as the Morris water maze and the radial arm maze, to evaluate the effects of brain lesions or pharmacological manipulations on spatial cognition.\n\n*   **Data Analysis:** Dr. Moser is proficient in using sophisticated computational tools to analyze electrophysiological and behavioral data. He employs advanced statistical methods to identify patterns of neural activity that are associated with specific behaviors.\n\n*   **Computational Modeling:** Dr. Moser has collaborated with computational neuroscientists to develop mathematical models of the neural circuits involved in spatial cognition. These models help to explain how the brain generates spatial representations and how these representations are used to guide behavior.\n\nHis groundbreaking work on grid cells, located in the medial entorhinal cortex, is a prime example of his expertise. These cells fire in a remarkably regular, grid-like pattern as an animal explores an environment. This discovery revolutionized our understanding of how the brain creates a cognitive map of space. He further demonstrated that these grid cells interact with place cells in the hippocampus, providing a neural substrate for spatial navigation.\n\n### 4. Academic Contributions & Research\n\nDr. Moser's contributions to neuroscience are substantial and widely recognized. His key research focus areas include:\n\n*   **Grid Cells:** Dr. Moser's most famous discovery is, undoubtedly, grid cells. This research has fundamentally changed our understanding of how the brain represents space. His publications on grid cells are among the most highly cited in the field of neuroscience.\n\n*   **Head Direction Cells:** In addition to grid cells, Dr. Moser has also made significant contributions to our understanding of head direction cells, which are neurons that fire when an animal's head is oriented in a specific direction. He has shown that head direction cells are located in the dorsal thalamus and that they provide a crucial input to grid cells.\n\n*   **Border Cells:** Dr. Moser's research has also identified border cells, which fire when an animal is near a boundary or edge of an environment. He has proposed that border cells provide information about the geometry of the environment and that they contribute to the formation of spatial maps.\n\n*   **Speed Cells:** More recently, Dr. Moser's lab has discovered speed cells, which fire in relation to the animal's running speed. These cells provide a neural signal that is correlated with the animal's velocity and may play a role in path integration.\n\nHis key publications include seminal papers in journals such as *Nature*, *Science*, and *Cell*. These papers have not only advanced our understanding of the neural basis of spatial cognition but have also provided a framework for future research in this area. The impact of his research is reflected in the numerous awards and honors he has received, culminating in the 2014 Nobel Prize in Physiology or Medicine, shared with May-Britt Moser and John O'Keefe.\n\n### 5. Patient Impact & Community Work\n\nWhile Dr. Moser's research is primarily basic science, it has significant implications for understanding and treating neurological disorders that affect spatial cognition. For example, Alzheimer's disease is often characterized by deficits in spatial memory and navigation. Dr. Moser's work on grid cells and other spatial cells may provide insights into the neural mechanisms underlying these deficits. This, in turn, could lead to the development of new diagnostic tools and therapeutic interventions for Alzheimer's disease.\n\nFurthermore, Dr. Moser's research has contributed to our understanding of other neurological disorders, such as stroke and traumatic brain injury, which can also impair spatial abilities. By elucidating the neural circuits involved in spatial cognition, Dr. Moser's work may help to identify potential targets for rehabilitation strategies.\n\nBeyond his direct research contributions, Dr. Moser is also committed to educating the public about the brain and the importance of neuroscience research. He gives public lectures and participates in outreach activities to promote scientific literacy. He also serves as a mentor to young scientists, inspiring the next generation of neuroscientists.\n\n### 6. Legacy and Future Outlook\n\nDr. Edvard Moser's legacy is firmly established as a pioneer in the field of spatial neuroscience. His discovery of grid cells has revolutionized our understanding of how the brain represents space and has opened up new avenues of research into the neural basis of cognition. His work has had a profound impact on the field of neuroscience and has inspired countless researchers to pursue careers in brain science.\n\nLooking to the future, Dr. Moser is continuing to push the boundaries of our knowledge about the brain. He is currently investigating the neural mechanisms underlying other cognitive functions, such as time perception and decision-making. He is also exploring the role of neural oscillations in coordinating brain activity.\n\nHis future research promises to further unravel the complexities of the brain and to provide new insights into the neural basis of behavior. He is not only a brilliant scientist but also a visionary leader who is shaping the future of neuroscience. His work will undoubtedly continue to inspire and influence researchers for generations to come. The continued investigation into the intricate workings of the brain, fueled by his groundbreaking discoveries, holds immense promise for developing effective treatments for neurological disorders and improving the lives of countless individuals.\n",
+  "bioGenerated": true
+}

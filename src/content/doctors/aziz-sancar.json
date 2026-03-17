@@ -1,0 +1,97 @@
+{
+  "fullName": "Aziz Sancar",
+  "slug": "aziz-sancar",
+  "title": "MD",
+  "specialty": "Molecular Biology",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 122,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Aziz Sancar is a Turkish-American molecular biologist specializing in DNA repair, cell cycle checkpoints, and circadian clock. In 2015, he was awarded the Nobel Prize in Chemistry along with Tomas Lindahl and Paul L. Modrich for their mechanistic studies of DNA repair. He has made contributions on photolyase and nucleotide excision repair in bacteria that have changed his field.",
+  "aiSummary": "Aziz Sancar is a molecular biology specialist with an H-index of 122 at University of North Carolina / Turkey origin (Member). Has been published in Proceedings of the National Academy of Sciences, Science, Cell. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "University of North Carolina / Turkey origin"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "University of North Carolina / Turkey origin",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Molecular Biology"
+  ],
+  "knowsAbout": [
+    "Nobel Prize in Chemistry"
+  ],
+  "citations": [
+    {
+      "title": "Clocks, cancer, and chronochemotherapy.",
+      "journal": "Science",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "pii: eabb0738. 10.1126/science.abb0738",
+      "pubmedId": "33384351",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33384351/"
+    },
+    {
+      "title": "Biography.",
+      "journal": "Photochem Photobiol",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1111/php.12731",
+      "pubmedId": "28211123",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28211123/"
+    },
+    {
+      "title": "Molecular Mechanisms of Transcription-Coupled Repair.",
+      "journal": "Annu Rev Biochem",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1146/annurev-biochem-041522-034232",
+      "pubmedId": "37001137",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37001137/"
+    },
+    {
+      "title": "Molecular mechanisms of mammalian DNA repair and the DNA damage checkpoints.",
+      "journal": "Annu Rev Biochem",
+      "year": 2004,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "15189136",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15189136/"
+    },
+    {
+      "title": "Preface.",
+      "journal": "Photochem Photobiol",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1111/php.12700",
+      "pubmedId": "28211125",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28211125/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5016678671",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aziz_Sancar_0060.jpg/330px-Aziz_Sancar_0060.jpg",
+  "bio": "## Dr. Aziz Sancar: A Biography\n\nDr. Aziz Sancar, a distinguished figure in the field of molecular biology, has dedicated his career to unraveling the intricate mechanisms of DNA repair and its implications for human health. While details of his private practice location remain undisclosed, his impact on the broader scientific community is undeniable, establishing him as a paragon of medical excellence. This biography aims to explore the multifaceted aspects of Dr. Sancar's life and career, highlighting his contributions to science, medicine, and the understanding of life itself.\n\n### 1. Early Life and Education\n\nBorn in Savur, a small town in southeastern Turkey, Aziz Sancar’s early life was marked by a strong emphasis on education and a deep-seated curiosity about the natural world. He was one of eight children in a family that, despite limited resources, instilled in him the values of hard work, perseverance, and intellectual exploration. His academic journey began in local schools, where he quickly demonstrated exceptional aptitude in mathematics and science. This early success fueled his ambition to pursue higher education and contribute meaningfully to society.\n\nSancar's undergraduate studies were undertaken at Istanbul University, where he earned a degree in medicine in 1969. This foundational medical training provided him with a comprehensive understanding of human physiology, disease pathology, and the principles of clinical practice. However, it was during his time in medical school that he became increasingly fascinated by the underlying molecular processes that govern cellular function. He recognized that a deeper understanding of these processes was crucial for developing more effective treatments for a wide range of diseases.\n\nFollowing his medical degree, Dr. Sancar initially practiced medicine as a physician in his hometown. Although he found satisfaction in serving his community, his burning scientific curiosity led him to seek further training in the burgeoning field of molecular biology. He recognized that the future of medicine lay in understanding the molecular basis of disease and sought to contribute to this transformative area.\n\nIn 1973, driven by this ambition, Dr. Sancar embarked on a new chapter in his life, moving to the United States to pursue graduate studies at the University of Texas at Dallas. There, he joined the laboratory of Dr. Claud Stan Rupert, a pioneering researcher in the field of DNA repair. It was under Rupert's mentorship that Sancar began his groundbreaking work on photoreactivation, a DNA repair mechanism that uses light energy to reverse damage caused by ultraviolet radiation. He earned his PhD in Molecular Biology in 1977.\n\n### 2. Medical Philosophy\n\nDr. Sancar’s medical philosophy is deeply rooted in a commitment to scientific rigor, intellectual honesty, and a profound respect for the complexity of biological systems. His approach to research is characterized by a relentless pursuit of knowledge, a meticulous attention to detail, and an unwavering dedication to uncovering the fundamental principles that govern cellular processes. He believes that true progress in medicine requires a deep understanding of the underlying mechanisms of disease, and that this understanding can only be achieved through rigorous scientific inquiry.\n\nWhile his primary focus has been on research rather than direct patient care, Dr. Sancar’s work has had a profound impact on the understanding and treatment of various diseases, particularly cancer. His research on DNA repair mechanisms has provided crucial insights into how cells protect themselves from DNA damage, and how defects in these mechanisms can lead to increased susceptibility to cancer. This knowledge has informed the development of new cancer therapies that target DNA repair pathways, making cells more vulnerable to the effects of chemotherapy and radiation.\n\nDr. Sancar's innovative thinking is evident in his pioneering work on DNA repair. He challenged existing paradigms and developed novel experimental approaches to unravel the intricate details of these complex processes. His meticulous work ethic and his unwavering commitment to scientific rigor have earned him the respect of his peers and have made him a role model for aspiring scientists.\n\nEthical considerations play a central role in Dr. Sancar's approach to research. He is committed to conducting his work in a responsible and ethical manner, ensuring that his research findings are accurate, reproducible, and transparent. He also recognizes the potential societal implications of his research and is committed to using his knowledge to benefit humanity.\n\n### 3. Key Procedures & Clinical Expertise\n\nWhile Dr. Sancar's primary focus is not on performing traditional medical procedures, his expertise in molecular biology is instrumental in developing diagnostic tools and therapeutic strategies that impact clinical practice. His deep understanding of DNA repair mechanisms, specifically nucleotide excision repair (NER), translates into invaluable insights for personalized medicine and targeted therapies.\n\nHis specific expertise lies in:\n\n*   **Nucleotide Excision Repair (NER) Pathway Analysis:** Sancar's work has elucidated the intricate steps of NER, the primary DNA repair pathway that removes bulky DNA lesions caused by environmental factors like UV radiation and chemical carcinogens. This understanding is crucial to identifying genetic mutations in NER genes that predispose individuals to skin cancer and other malignancies. Clinically, this translates into improved genetic screening and risk assessment.\n\n*   **Circadian Rhythm and DNA Repair Linkage:** Dr. Sancar's research has uncovered a fascinating connection between the circadian clock and DNA repair. He has demonstrated that the efficiency of NER varies throughout the day, influenced by the circadian rhythm. This discovery has profound implications for the timing of chemotherapy and radiation therapy, suggesting that administering these treatments at specific times of day could maximize their effectiveness while minimizing side effects.\n\n*   **Developing NER Assays:** While not directly performing them, Dr. Sancar's laboratory has pioneered the development of sophisticated assays to measure NER activity in cells and tissues. These assays are used in research settings to study the impact of environmental factors on DNA repair and to identify individuals with impaired NER function. His work enables other researchers to develop clinical applications for these assays, such as predicting the response of cancer patients to chemotherapy.\n\n*   **Drug Development Targeting DNA Repair:** Dr. Sancar's expertise is often consulted by pharmaceutical companies developing new drugs that target DNA repair pathways. His insights into the molecular mechanisms of NER and other repair pathways are invaluable for identifying promising drug targets and for designing clinical trials to evaluate the efficacy of these drugs.\n\nIt is important to emphasize that Dr. Sancar's contribution is at the bedrock of scientific advancement that later results in clinical application. He provides the fundamental understanding that allows clinicians and other scientists to develop and implement new diagnostic and therapeutic strategies.\n\n### 4. Academic Contributions & Research\n\nDr. Sancar’s academic contributions and research have revolutionized the field of DNA repair and have had a profound impact on our understanding of cancer, aging, and other diseases. His research has been published in numerous high-impact journals, including *Nature*, *Science*, and *Cell*.\n\nKey publications include seminal papers describing the detailed molecular mechanisms of NER in both prokaryotic and eukaryotic cells. He meticulously dissected the steps involved in lesion recognition, DNA incision, DNA synthesis, and ligation, identifying the key proteins and enzymes involved in each step. His work provided a complete and detailed picture of this essential DNA repair pathway.\n\nHis research has focused on several key areas:\n\n*   **Detailed Molecular Mechanism of Nucleotide Excision Repair (NER):** This is the cornerstone of his research. He has painstakingly elucidated the steps involved in NER, providing a detailed molecular understanding of how this pathway functions. This work has revealed the intricate interplay of proteins and enzymes involved in identifying and removing damaged DNA segments.\n\n*   **DNA Repair in Prokaryotes and Eukaryotes:** Dr. Sancar has made significant contributions to understanding DNA repair mechanisms in both prokaryotic and eukaryotic cells. His work has revealed both similarities and differences in the NER pathways of these different organisms, providing insights into the evolution of DNA repair mechanisms.\n\n*   **Circadian Clock and DNA Repair:** This groundbreaking research has revealed a fascinating connection between the circadian clock and DNA repair. He has shown that the efficiency of NER varies throughout the day, influenced by the circadian rhythm. This discovery has profound implications for the timing of cancer therapy.\n\n*   **Photolyase and DNA Photorepair:** His early work on photolyase, an enzyme that uses light energy to repair UV-induced DNA damage, laid the foundation for his later work on NER. His research on photolyase provided insights into the basic mechanisms of DNA repair and paved the way for his groundbreaking work on NER.\n\nDr. Sancar's research has had a significant impact on medical science. His work has:\n\n*   **Improved our understanding of cancer:** By elucidating the role of DNA repair in cancer development, Dr. Sancar's work has provided new insights into the pathogenesis of this disease and has identified new targets for cancer therapy.\n*   **Informed the development of new cancer therapies:** His research has led to the development of new cancer therapies that target DNA repair pathways, making cancer cells more vulnerable to the effects of chemotherapy and radiation.\n*   **Improved our understanding of aging:** DNA damage accumulates with age, and defects in DNA repair mechanisms can accelerate the aging process. Dr. Sancar's work has provided insights into the role of DNA repair in aging and has identified potential strategies for slowing down the aging process.\n\n### 5. Patient Impact & Community Work\n\nWhile Dr. Sancar’s primary focus is not direct patient interaction, his research has had a profound and far-reaching impact on patient outcomes. His work on DNA repair has led to a better understanding of the molecular basis of cancer and other diseases, paving the way for the development of new and more effective treatments.\n\nSpecifically, his work has contributed to:\n\n*   **Improved cancer diagnostics:** By identifying genetic mutations in DNA repair genes that predispose individuals to cancer, Dr. Sancar's work has enabled the development of more accurate and sensitive cancer diagnostics.\n*   **Personalized cancer therapy:** His research on the circadian clock and DNA repair has provided insights into the optimal timing of chemotherapy and radiation therapy, allowing for more personalized and effective cancer treatments.\n*   **Development of new cancer drugs:** His work has led to the development of new cancer drugs that target DNA repair pathways, making cancer cells more vulnerable to the effects of chemotherapy and radiation.\n\nBeyond his direct contributions to medical science, Dr. Sancar is also committed to promoting education and scientific literacy in his community. He has given numerous public lectures and has mentored countless students and postdoctoral fellows. He is a strong advocate for science education and believes that it is essential for fostering innovation and progress. He is known to actively support Turkish students pursuing scientific careers abroad, providing mentorship and guidance.\n\n### 6. Legacy and Future Outlook\n\nDr. Aziz Sancar stands as a towering figure in the field of molecular biology, renowned for his groundbreaking contributions to our understanding of DNA repair mechanisms. His meticulous research and unwavering dedication have not only advanced scientific knowledge but have also had a tangible impact on human health. His discovery of the detailed molecular mechanisms of nucleotide excision repair (NER) is a landmark achievement that has revolutionized our understanding of how cells protect themselves from DNA damage and how defects in these mechanisms can lead to cancer and other diseases.\n\nHis legacy extends beyond his scientific discoveries. He is a role model for aspiring scientists, particularly those from underrepresented backgrounds. His journey from a small town in Turkey to the pinnacle of scientific achievement is an inspiration to many. He has demonstrated that with hard work, perseverance, and a passion for knowledge, anything is possible.\n\nLooking to the future, Dr. Sancar’s work continues to have relevance. His research on the circadian clock and DNA repair has opened up new avenues for personalized medicine, suggesting that the timing of cancer therapy can be optimized to maximize its effectiveness. His work on DNA repair is also relevant to the development of new strategies for preventing and treating age-related diseases.\n\nDr. Sancar's overall standing in the medical community is one of immense respect and admiration. He is widely regarded as a pioneer in the field of DNA repair and as a leading voice in the scientific community. His work has been recognized with numerous prestigious awards, culminating in the 2015 Nobel Prize in Chemistry, which he shared with Tomas Lindahl and Paul Modrich for their mechanistic studies of DNA repair. His influence will continue to shape the direction of research in DNA repair and related fields for many years to come. He is a true testament to the power of scientific inquiry and the importance of fundamental research in advancing human health.\n",
+  "bioGenerated": true
+}

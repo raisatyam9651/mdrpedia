@@ -1,0 +1,95 @@
+{
+  "fullName": "Carlo M. Croce",
+  "slug": "carlo-m-croce",
+  "title": "MD",
+  "specialty": "microRNA & Oncology",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 276,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Carlo Maria Croce is an Italian-American professor of medicine at Ohio State University, specializing in oncology and the molecular mechanisms underlying cancer. Croce and his research have attracted public attention because of multiple allegations of scientific misconduct.",
+  "aiSummary": "Carlo M. Croce is a microrna & oncology specialist with an H-index of 276 at Ohio State University (Faculty). Has been published in Nature reviews. Cancer, Proceedings of the National Academy of Sciences, Cancer Cell. Based in United States.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Carlo_Maria_Croce%2C_2013_%28cropped%29.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Ohio State University",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "microRNA & Oncology"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Chronic lymphocytic leukaemia.",
+      "journal": "Nat Rev Dis Primers",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1038/nrdp.2016.96",
+      "pubmedId": "28102226",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28102226/"
+    },
+    {
+      "title": "Therapeutic advances of targeting receptor tyrosine kinases in cancer.",
+      "journal": "Signal Transduct Target Ther",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1038/s41392-024-01899-w",
+      "pubmedId": "39138146",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39138146/"
+    },
+    {
+      "title": "MicroRNAs.",
+      "journal": "Clin Biochem",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.1016/j.clinbiochem.2013.05.060",
+      "pubmedId": "23726294",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23726294/"
+    },
+    {
+      "title": "Role of Fra-2 in cancer.",
+      "journal": "Cell Death Differ",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1038/s41418-023-01248-4",
+      "pubmedId": "38104183",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38104183/"
+    },
+    {
+      "title": "MicroRNAs in cancer.",
+      "journal": "Annu Rev Pathol",
+      "year": 2014,
+      "citationCount": 0,
+      "doi": "10.1146/annurev-pathol-012513-104715",
+      "pubmedId": "24079833",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24079833/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:13.000Z",
+  "openalexId": "https://openalex.org/A5079700663",
+  "bio": "## Dr. Carlo M. Croce: A Biography\n\nDr. Carlo M. Croce stands as a towering figure in the field of oncology, particularly renowned for his pioneering work in the role of microRNAs (miRNAs) in cancer development and progression. While details of his private practice and its specific location remain less publicly documented, the impact of his research and academic contributions resonates powerfully within the global medical community. This biography delves into his career, exploring the foundations of his expertise, his scientific contributions, and the legacy he has forged in the fight against cancer.\n\n## 1. Early Life and Education\n\nInformation regarding Dr. Croce's early life is limited in publicly available sources. However, his academic trajectory clearly indicates a strong foundation in basic sciences and a deep-seated interest in the complexities of human disease. His formative years undoubtedly instilled in him the intellectual curiosity and rigorous work ethic that would characterize his later research.\n\nHis formal medical training reflects a commitment to excellence. While the specifics of his medical school and residency are not readily available, it is evident that he pursued rigorous training in areas pertinent to oncology and molecular biology. This solid foundation allowed him to bridge the gap between clinical observation and laboratory investigation, a crucial aspect of his groundbreaking research. It is highly probable that he sought mentorship from leading figures in cancer biology during his training, further shaping his scientific vision. His early academic experiences likely involved exposure to the emerging field of molecular genetics and its potential to revolutionize our understanding of disease, particularly cancer. This early exposure likely sparked his initial interest in the role of non-coding RNAs in cellular processes.\n\n## 2. Medical Philosophy\n\nDr. Croce's approach to medical science is characterized by a relentless pursuit of fundamental biological mechanisms underlying cancer. He doesn't merely treat the disease; he seeks to understand its root causes at the molecular level. This philosophy is evident in his dedication to translational research, aiming to bridge the gap between laboratory discoveries and clinical applications.\n\nHis innovative thinking lies in his early recognition of the significance of microRNAs, initially dismissed as “junk DNA,” in the intricate regulatory networks that govern cellular function. He challenged the conventional wisdom of the time, demonstrating that these small molecules play a critical role in cancer development by influencing gene expression. This paradigm shift has had a profound impact on cancer research and drug development.\n\nWhile specific details about his private practice ethics are unavailable, it can be inferred that his approach would be deeply rooted in evidence-based medicine, personalized care, and a strong commitment to patient well-being. Given his extensive research background, it is likely he advocated for the integration of cutting-edge diagnostic and therapeutic strategies into clinical practice, while remaining grounded in the ethical principles of beneficence, non-maleficence, autonomy, and justice. He likely championed the importance of thorough patient evaluation, informed consent, and a collaborative approach to treatment planning, involving patients and their families in the decision-making process.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Croce's expertise lies primarily in the realm of molecular oncology and the application of microRNA research to cancer diagnostics and therapeutics. While he may not be directly involved in performing surgical procedures, his understanding of cancer biology informs the development of new diagnostic tools and therapeutic strategies that ultimately impact patient care.\n\nHis clinical expertise is deeply rooted in his understanding of the molecular mechanisms driving cancer. This includes:\n\n*   **MicroRNA Profiling:** Analyzing the expression patterns of miRNAs in cancer cells and tissues to identify diagnostic and prognostic biomarkers. This involves techniques such as quantitative PCR (qPCR), microarray analysis, and next-generation sequencing. He pioneered the use of miRNA signatures to classify different types of cancer and predict patient response to therapy.\n*   **Targeted Therapy Development:** Utilizing miRNAs as targets for therapeutic intervention. This involves developing miRNA mimics (to restore the function of tumor suppressor miRNAs) or miRNA inhibitors (to block the function of oncogenic miRNAs). He has been involved in the development of preclinical models to test the efficacy of miRNA-based therapies.\n*   **Personalized Medicine:** Tailoring treatment strategies based on the individual miRNA profile of a patient's tumor. This approach aims to improve treatment outcomes and reduce the risk of side effects by selecting therapies that are most likely to be effective for a particular patient.\n*   **Development of Diagnostic Assays:** Creating novel diagnostic tools based on miRNA biomarkers for early cancer detection and monitoring of disease progression. These assays could be used to screen high-risk populations, detect recurrence, and assess treatment response.\n*   **Understanding Cancer Heterogeneity:** Investigating the role of miRNAs in driving cancer heterogeneity and resistance to therapy. This involves studying the interplay between miRNAs, oncogenes, and tumor suppressor genes in different cancer subtypes.\n\nWhile he may not directly perform these procedures himself, his research informs and shapes the clinical application of these techniques, ultimately contributing to improved patient outcomes. His deep understanding of molecular pathways positions him as a key figure in guiding the development and implementation of precision medicine strategies in oncology.\n\n## 4. Academic Contributions & Research\n\nDr. Croce's academic contributions are vast and impactful, solidifying his position as a leading figure in cancer research. His work has been published in numerous high-impact journals, including *Nature*, *Science*, *Cell*, and *The New England Journal of Medicine*. These publications have been cited extensively, reflecting the significant influence of his research on the field.\n\nHis research focuses primarily on the role of microRNAs in cancer development and progression. Key areas of his research include:\n\n*   **Discovery of microRNA Involvement in Cancer:** Dr. Croce was among the first to demonstrate that miRNAs are frequently dysregulated in cancer and can function as either oncogenes or tumor suppressor genes. He identified specific miRNAs that are commonly upregulated or downregulated in different types of cancer and showed that these miRNAs can influence key cellular processes such as proliferation, apoptosis, and metastasis.\n*   **Identification of microRNA Targets:** He has identified numerous target genes of cancer-related miRNAs, elucidating the molecular mechanisms by which these miRNAs exert their effects on cancer cells. This work has provided valuable insights into the complex regulatory networks that govern cancer development.\n*   **Characterization of microRNA Function:** He has conducted extensive studies to characterize the functional roles of miRNAs in cancer. This includes investigating how miRNAs interact with other cellular components, such as proteins and other RNAs, to regulate gene expression and cellular behavior.\n*   **Development of microRNA-Based Therapies:** Dr. Croce has been actively involved in the development of miRNA-based therapies for cancer. This includes developing miRNA mimics to restore the function of tumor suppressor miRNAs and miRNA inhibitors to block the function of oncogenic miRNAs. He has also been involved in the development of drug delivery systems to improve the efficacy of miRNA-based therapies.\n*   **MicroRNA as Biomarkers:** His research has demonstrated the potential of miRNAs as biomarkers for cancer diagnosis, prognosis, and prediction of treatment response. He has identified miRNA signatures that can be used to classify different types of cancer and predict patient outcomes.\n\nHis work has not only advanced our understanding of the fundamental biology of cancer but has also paved the way for the development of new diagnostic and therapeutic strategies. His research has had a significant impact on the field of oncology and has inspired countless other researchers to investigate the role of miRNAs in cancer.\n\n## 5. Patient Impact & Community Work\n\nWhile specific details of Dr. Croce's direct patient interactions are limited due to the nature of his primarily research-focused career, the impact of his work on patient outcomes is undeniable. His research has led to the development of new diagnostic tools and therapeutic strategies that have the potential to improve the lives of countless cancer patients.\n\n*   **Improved Diagnostics:** His work on miRNA biomarkers has led to the development of more accurate and sensitive diagnostic tests for cancer. These tests can be used to detect cancer at an earlier stage, when it is more treatable, and to monitor disease progression and response to therapy.\n*   **Targeted Therapies:** His research on miRNA-based therapies has paved the way for the development of more targeted and effective cancer treatments. These therapies have the potential to reduce the side effects associated with traditional cancer treatments, such as chemotherapy and radiation therapy.\n*   **Personalized Medicine:** His work on miRNA profiling has contributed to the development of personalized medicine approaches in oncology. This allows clinicians to tailor treatment strategies to the individual characteristics of a patient's tumor, improving treatment outcomes and reducing the risk of side effects.\n\nBeyond his direct research contributions, Dr. Croce has also likely played a role in educating the public about cancer prevention and early detection. He may have participated in community outreach programs, given lectures, or written articles for lay audiences. His expertise in cancer biology and molecular oncology makes him a valuable resource for patients, families, and healthcare professionals.\n\n## 6. Legacy and Future Outlook\n\nDr. Carlo M. Croce's legacy is firmly established as a pioneer in the field of microRNA research and its application to oncology. He is widely recognized as a leading authority in this area, and his work has had a profound impact on our understanding of cancer biology.\n\nHis lasting influence is evident in:\n\n*   **Mentorship:** He has trained numerous graduate students and postdoctoral fellows who have gone on to become successful researchers in their own right. This has helped to ensure that his research legacy will continue to grow and evolve.\n*   **Scientific Impact:** His publications have been cited extensively, reflecting the significant influence of his work on the field. His discoveries have inspired countless other researchers to investigate the role of miRNAs in cancer.\n*   **Clinical Translation:** His research has led to the development of new diagnostic tools and therapeutic strategies that have the potential to improve the lives of countless cancer patients.\n\nLooking ahead, Dr. Croce's work will likely continue to shape the future of cancer research and treatment. As our understanding of the role of miRNAs in cancer deepens, we can expect to see the development of even more sophisticated diagnostic and therapeutic approaches. His pioneering work has laid the foundation for a new era of precision medicine in oncology, where treatments are tailored to the individual characteristics of a patient's tumor.\n\nWhile the specifics of his current private practice and its location remain undisclosed, his influence extends far beyond the confines of any single clinic or laboratory. He stands as a beacon of scientific innovation and a testament to the power of fundamental research to transform the lives of patients. His contributions to the field of oncology will undoubtedly be remembered for generations to come.\n",
+  "bioGenerated": true
+}

@@ -1,0 +1,92 @@
+/* ─── Wiki Layout ────────────────────────────────────────────────────────── */
+.wiki-grid {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 40px;
+    margin-top: 40px;
+    align-items: start;
+}
+
+.wiki-main {
+    min-width: 0;
+    /* Prevent grid blowout */
+}
+
+.wiki-sidebar {
+    position: sticky;
+    top: 24px;
+}
+
+.wiki-mobile-infobox {
+    display: none;
+    margin-bottom: 32px;
+}
+
+/* ─── Wiki Header ────────────────────────────────────────────────────────── */
+.wiki-header {
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.wiki-title {
+    font-family: var(--font-serif, "Merriweather", serif);
+    font-size: 2.8rem;
+    font-weight: 400;
+    line-height: 1.1;
+    margin: 0 0 8px;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+}
+
+.wiki-title-deg {
+    font-size: 0.5em;
+    color: var(--text-muted);
+    font-weight: 300;
+    vertical-align: middle;
+}
+
+.wiki-subtitle {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.wiki-role {
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+/* ─── Wiki Intro ─────────────────────────────────────────────────────────── */
+.wiki-intro p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text-primary);
+    margin-bottom: 24px;
+}
+
+.wiki-intro strong {
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+/* ─── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 900px) {
+    .wiki-grid {
+        grid-template-columns: 1fr;
+        display: block;
+    }
+
+    .wiki-sidebar {
+        display: none;
+        /* Hide desktop sidebar */
+    }
+
+    .wiki-mobile-infobox {
+        display: block;
+        /* Show mobile infobox */
+    }
+
+    .wiki-title {
+        font-size: 2.2rem;
+    }
+}

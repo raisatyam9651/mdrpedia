@@ -1,0 +1,97 @@
+{
+  "fullName": "Oswaldo Cruz",
+  "slug": "oswaldo-cruz",
+  "title": "MD",
+  "specialty": "Public Health",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 128,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Oswaldo Gonçalves Cruz, was a Brazilian physician, pioneer bacteriologist, epidemiologist and public health officer and the founder of the Oswaldo Cruz Institute.",
+  "aiSummary": "Oswaldo Cruz is a public health specialist with an H-index of 128 at Oswaldo Cruz Foundation (Member). Has been published in New England Journal of Medicine, Nature, JAMA. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Oswaldo Cruz Foundation"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Oswaldo Cruz Foundation",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Public Health"
+  ],
+  "knowsAbout": [
+    "National Science Honors"
+  ],
+  "citations": [
+    {
+      "title": "The expansion of chikungunya in Brazil.",
+      "journal": "Lancet Reg Health Am",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.lana.2023.100571",
+      "pubmedId": "37638140",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37638140/"
+    },
+    {
+      "title": "Fast expansion of dengue in Brazil.",
+      "journal": "Lancet Reg Health Am",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/j.lana.2022.100274",
+      "pubmedId": "36776428",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36776428/"
+    },
+    {
+      "title": "Cochlear-Facial Dehiscence Detected After Cochlear Implant.",
+      "journal": "Otol Neurotol",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1097/MAO.0000000000002536",
+      "pubmedId": "31868783",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31868783/"
+    },
+    {
+      "title": "Surgery for congenital choanal atresia.",
+      "journal": "Cochrane Database Syst Rev",
+      "year": 2012,
+      "citationCount": 0,
+      "doi": "10.1002/14651858.CD008993.pub2",
+      "pubmedId": "22336856",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22336856/"
+    },
+    {
+      "title": "The physician and the world of technology.",
+      "journal": "Braz J Otorhinolaryngol",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1016/j.bjorl.2015.07.001",
+      "pubmedId": "26248965",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26248965/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5038689387",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Oswaldo_cruz.jpg/330px-Oswaldo_cruz.jpg",
+  "bio": "## Dr. Oswaldo Cruz: A Biography\n\nDr. Oswaldo Cruz, a name synonymous with public health reform in Brazil, left an indelible mark on the nation's medical landscape. While details of his private practice remain scarce, his monumental contributions to epidemiology, bacteriology, and sanitation are undeniable. This biography delves into the life and work of Dr. Cruz, exploring his formative years, his revolutionary medical philosophy, his groundbreaking research, and his enduring legacy.\n\n### 1. Early Life and Education\n\nOswaldo Gonçalves Cruz was born on August 5, 1872, in São Luiz do Paraitinga, São Paulo, Brazil. His father, Bento Gonçalves Cruz, was a physician, a profession that undoubtedly influenced the young Oswaldo. From an early age, he demonstrated a keen interest in science and medicine, nurtured by a family environment that valued intellectual pursuits.\n\nCruz's formal education began at the Ginásio Culto à Ciência in São Paulo, where he excelled in his studies. He displayed a particular aptitude for natural sciences, laying the groundwork for his future medical endeavors. In 1887, at the remarkably young age of 15, he enrolled in the Faculty of Medicine of Rio de Janeiro, a prestigious institution that would shape his medical training and career trajectory.\n\nDuring his time at the Faculty of Medicine, Cruz distinguished himself as a diligent and inquisitive student. He immersed himself in the study of anatomy, physiology, and pathology, absorbing the knowledge imparted by his professors. He also developed a strong interest in bacteriology, a relatively new field at the time. This fascination led him to conduct independent research, exploring the microscopic world and its implications for human health.\n\nCruz's medical training was further enhanced by his exposure to the prevailing scientific debates of the late 19th century. The discoveries of Louis Pasteur and Robert Koch, particularly their germ theory of disease, were revolutionizing medical thought. Cruz embraced these new ideas, recognizing their potential to transform public health practices. He graduated from the Faculty of Medicine in 1892, at the age of 20, earning his medical degree and embarking on a career dedicated to combating disease and improving public health.\n\nThe years immediately following his graduation were a period of further learning and professional development. He initially pursued private practice, likely gaining valuable clinical experience. However, his growing interest in bacteriology and public health eventually led him to seek opportunities for advanced training abroad.\n\nIn 1897, Cruz traveled to Paris, France, a center of scientific innovation and medical excellence. He entered the Pasteur Institute, a world-renowned institution dedicated to the study of infectious diseases. There, he studied under some of the leading bacteriologists of the time, including Émile Roux and Élie Metchnikoff. He mastered the latest techniques in microbiology, immunology, and vaccine production, acquiring the skills and knowledge that would be crucial to his future work in Brazil. His time at the Pasteur Institute was a pivotal experience, transforming him from a promising young physician into a highly skilled and knowledgeable bacteriologist, ready to tackle the public health challenges facing his nation.\n\n### 2. Medical Philosophy\n\nDr. Cruz's medical philosophy was deeply rooted in the principles of scientific rigor and public service. He believed that medical practice should be guided by evidence-based principles and that the primary goal of medicine should be the prevention of disease. He was a staunch advocate for public health interventions, recognizing that these measures were essential for protecting the health of the population as a whole.\n\nCruz's approach to patient care was characterized by a holistic perspective. He recognized that disease was not simply a biological phenomenon but was also influenced by social, economic, and environmental factors. He therefore believed that effective treatment required addressing these underlying determinants of health. This perspective led him to advocate for improvements in sanitation, housing, and education, recognizing that these factors played a crucial role in preventing disease.\n\nCruz was also a strong believer in the importance of innovation and experimentation. He was not afraid to challenge conventional wisdom and to explore new approaches to disease control. His willingness to experiment led him to develop innovative strategies for combating yellow fever, plague, and other infectious diseases. This innovative spirit, combined with his commitment to scientific rigor, made him a highly effective public health leader.\n\nHis practice ethics were unwavering. He prioritized the public good above all else, even when faced with political opposition or public resistance. He was willing to make difficult decisions, such as implementing mandatory vaccination campaigns, in order to protect the health of the population. His commitment to ethical principles earned him the respect and admiration of his colleagues and the public.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Cruz's expertise lay not in individual patient care, but in the realm of public health interventions. His key procedures and clinical expertise were centered around the control and eradication of infectious diseases, particularly yellow fever, plague, and smallpox.\n\nHis work on yellow fever was particularly groundbreaking. At the time, yellow fever was a major public health problem in Brazil, causing widespread illness and death. Cruz recognized that traditional methods of controlling the disease, such as quarantine and fumigation, were ineffective. He embraced the newly discovered theory that yellow fever was transmitted by mosquitoes, a theory championed by Carlos Finlay and further validated by the Walter Reed Commission in Cuba.\n\nBased on this understanding, Cruz implemented a comprehensive mosquito control program in Rio de Janeiro. This program involved draining stagnant water sources, spraying insecticides, and educating the public about the importance of mosquito control. The program was initially met with resistance from the public, who were skeptical of the mosquito theory and resented the intrusion of public health officials into their homes. However, Cruz persevered, demonstrating the effectiveness of the program through scientific evidence and public education campaigns. As a result of his efforts, yellow fever was effectively eradicated from Rio de Janeiro, a monumental achievement that transformed the city's reputation and paved the way for economic development.\n\nHis work on plague was similarly impactful. Plague, another devastating infectious disease, was also a major public health problem in Brazil. Cruz recognized that plague was primarily a disease of rodents and that controlling the rodent population was essential for preventing outbreaks. He implemented a comprehensive rodent control program in Rio de Janeiro, which involved trapping and killing rodents, improving sanitation to reduce rodent harborage, and educating the public about the importance of rodent control. This program, combined with vaccination efforts, effectively controlled plague outbreaks in the city.\n\nFurthermore, Cruz played a key role in the mandatory vaccination campaign against smallpox. While highly effective, the campaign was met with widespread resistance, culminating in the \"Vaccine Revolt\" of 1904. Despite the social unrest, Cruz remained steadfast in his commitment to vaccination, recognizing its crucial role in eradicating smallpox. He used scientific evidence and public education to address public concerns and ultimately succeeded in implementing a successful vaccination program.\n\nWhile Cruz's direct involvement in private practice is limited in historical records, it's reasonable to infer that his medical training provided him with a solid foundation in general medical principles. This understanding of basic clinical medicine would have been essential for his work in public health, allowing him to effectively diagnose and treat infectious diseases, as well as to understand the broader health needs of the population. His expertise lay not in individual patient management, but in the application of medical and scientific knowledge to protect the health of entire communities.\n\n### 4. Academic Contributions & Research\n\nDr. Cruz's academic contributions and research were instrumental in shaping the field of public health in Brazil. He established the Manguinhos Institute (later renamed the Oswaldo Cruz Foundation – Fiocruz) in 1900, which became a leading center for biomedical research and vaccine production in Latin America. This institute served as a hub for scientific innovation and played a crucial role in controlling infectious diseases in Brazil.\n\nCruz's research focused primarily on the epidemiology, etiology, and control of infectious diseases. He conducted extensive studies on yellow fever, plague, smallpox, and other diseases, publishing numerous articles in scientific journals. His work on yellow fever, in particular, was groundbreaking, providing critical evidence for the mosquito transmission theory and demonstrating the effectiveness of mosquito control measures.\n\nHe also made significant contributions to the development of vaccines. Under his direction, the Manguinhos Institute became a major producer of vaccines against smallpox, yellow fever, and other diseases. These vaccines were essential for controlling outbreaks and protecting the health of the Brazilian population.\n\nCruz's research also extended to the study of other infectious diseases, such as Chagas disease and leishmaniasis. He recognized the importance of understanding the ecology and transmission dynamics of these diseases in order to develop effective control strategies. His work laid the foundation for future research on these neglected tropical diseases.\n\nHis publications were crucial in disseminating his research findings to the scientific community. These publications not only advanced scientific knowledge but also served as a guide for public health officials in Brazil and other countries. His research was characterized by a rigorous scientific approach, a commitment to innovation, and a focus on practical solutions to public health problems. He emphasized the importance of translating research findings into effective public health interventions.\n\n### 5. Patient Impact & Community Work\n\nWhile Dr. Cruz wasn't directly involved in extensive individualized patient care, his impact on the health and well-being of the Brazilian population was profound. His work in controlling infectious diseases directly saved countless lives and improved the quality of life for millions of people.\n\nThe eradication of yellow fever from Rio de Janeiro was a major achievement that had a significant impact on the city's economy and social development. Prior to Cruz's efforts, yellow fever epidemics had crippled the city, causing widespread fear and disruption. By eliminating the disease, Cruz transformed Rio de Janeiro into a safer and more attractive place to live and work.\n\nHis work on plague control also had a significant impact on public health. Plague outbreaks had caused widespread death and suffering in Brazil. By implementing effective rodent control measures, Cruz prevented future outbreaks and protected the population from this deadly disease.\n\nThe mandatory vaccination campaign against smallpox, despite the initial resistance, ultimately led to the eradication of smallpox from Brazil. This achievement was a testament to Cruz's commitment to public health and his willingness to make difficult decisions for the common good.\n\nBeyond disease control, Cruz also worked to improve sanitation and living conditions in Brazil. He recognized that poverty and poor sanitation were major contributors to disease and that addressing these issues was essential for improving public health. He advocated for improvements in housing, water supply, and sewage disposal, recognizing that these measures were crucial for preventing the spread of infectious diseases.\n\nHis community work also extended to educating the public about health issues. He believed that public education was essential for promoting healthy behaviors and preventing disease. He launched public health campaigns to educate people about the importance of hygiene, sanitation, and vaccination. He also worked to train public health workers, equipping them with the skills and knowledge needed to implement effective disease control programs.\n\n### 6. Legacy and Future Outlook\n\nDr. Oswaldo Cruz's legacy is firmly cemented as one of Brazil's most important scientists and public health leaders. His contributions to the control and eradication of infectious diseases transformed the health landscape of Brazil and had a lasting impact on public health practices worldwide.\n\nThe Oswaldo Cruz Foundation (Fiocruz), which he founded, continues to be a leading center for biomedical research and public health in Latin America. The institute plays a crucial role in developing new vaccines, diagnostics, and treatments for infectious diseases. It also provides training for public health professionals and conducts research on a wide range of health issues.\n\nCruz's emphasis on scientific rigor, innovation, and public service continues to inspire public health professionals in Brazil and around the world. His work serves as a reminder of the importance of investing in public health infrastructure and research, and of the need to address the social and economic determinants of health.\n\nHis life and work are a testament to the power of science to improve human health and well-being. His legacy serves as a beacon for future generations of scientists and public health leaders, inspiring them to dedicate their lives to combating disease and improving the health of communities. His name remains synonymous with public health excellence in Brazil, and his contributions continue to shape the field to this day.\n",
+  "bioGenerated": true
+}

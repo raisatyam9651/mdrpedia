@@ -1,0 +1,198 @@
+---
+/**
+ * MDRPedia — Enhanced JSON-LD Structured Data Component
+ * Generates Physician + FAQ + BreadcrumbList + Video + Image schemas for GEO/AI optimization
+ */
+import {
+  generatePhysicianSchema,
+  generateFAQSchema,
+  generateBreadcrumbSchema,
+} from "../lib/geo-schema";
+
+interface Props {
+  fullName: string;
+  specialty: string;
+  subSpecialty?: string;
+  biography?: string;
+  portraitUrl?: string;
+  geography: { country: string; region?: string; city?: string };
+  citations?: {
+    doi?: string;
+    title: string;
+    journal?: string;
+    year?: number;
+  }[];
+  tier: string;
+  hIndex: number;
+  yearsActive: number;
+  url: string;
+  // GEO-enhanced fields
+  npiNumber?: string;
+  orcidId?: string;
+  medicalSpecialty?: string[];
+  knowsAbout?: string[];
+  affiliations?: {
+    hospitalName: string;
+    role?: string;
+    hospitalUrl?: string;
+  }[];
+  aiSummary?: string;
+  dateOfBirth?: string;
+  dateOfDeath?: string;
+  mentors?: { name: string; id?: string; title?: string }[];
+  students?: { name: string; id?: string; title?: string }[];
+  media?: {
+    type: string;
+    url: string;
+    title?: string | null;
+    description?: string | null;
+    thumbnail?: string | null;
+  }[];
+}
+
+const props = Astro.props;
+
+const geoData = {
+  ...props,
+  status: props.dateOfDeath ? "HISTORICAL" : "LIVING",
+  mentors: props.mentors,
+};
+
+const physicianSchema = generatePhysicianSchema(geoData);
+const faqSchema = generateFAQSchema(geoData);
+const breadcrumbSchema = generateBreadcrumbSchema(geoData);
+
+// Speakable Schema for Voice Assistants (targeting AI Summary)
+const speakableSchema = {
+  "@context": "https://schema.org",
+  "@type": "SpeakableSpecification",
+  cssSelector: ["#ai-summary-content", ".wiki-intro", ".profile-section h2"],
+};
+
+// ProfilePage Schema for enhanced SEO
+const profilePageSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "dateCreated": new Date().toISOString(),
+  "dateModified": new Date().toISOString(),
+  "mainEntity": {
+    "@type": "Person",
+    "name": props.fullName,
+    "description": props.aiSummary || props.biography?.slice(0, 300),
+  }
+};
+
+// Video Schema (if videos exist)
+const videos = props.media?.filter(m => m.type === 'VIDEO') || [];
+const videoSchemas = videos.slice(0, 5).map(video => ({
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": video.title || `${props.fullName} - Medical Professional Video`,
+  "description": video.description || `Video featuring ${props.fullName}, ${props.specialty} specialist`,
+  "thumbnailUrl": video.thumbnail,
+  "contentUrl": video.url,
+  "uploadDate": new Date().toISOString(),
+}));
+
+// ImageObject Schema for portrait
+const imageSchema = props.portraitUrl && !props.portraitUrl.startsWith('data:') ? {
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "name": `Portrait of ${props.fullName}`,
+  "description": `Professional portrait of ${props.fullName}, ${props.specialty} specialist`,
+  "contentUrl": props.portraitUrl,
+  "author": {
+    "@type": "Organization",
+    "name": "MDRPedia"
+  }
+} : null;
+
+// Knowledge Graph hints for AI crawlers
+const knowledgeHints = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": `${props.fullName} - MDRPedia Profile`,
+  "description": props.aiSummary || `Comprehensive profile of ${props.fullName}, a ${props.specialty} specialist`,
+  "url": props.url,
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "MDRPedia",
+    "url": "https://mdrpedia.com"
+  },
+  "about": {
+    "@type": "Person",
+    "name": props.fullName,
+    "jobTitle": props.specialty,
+    "description": props.aiSummary
+  },
+  "keywords": [
+    props.fullName,
+    props.specialty,
+    props.subSpecialty,
+    ...(props.knowsAbout || []),
+    props.geography.country,
+    props.geography.city,
+    "doctor",
+    "physician",
+    "medical specialist"
+  ].filter(Boolean).join(", "),
+  "specialty": props.specialty,
+  "mentions": props.citations?.slice(0, 10).map(c => ({
+    "@type": "ScholarlyArticle",
+    "name": c.title,
+    "identifier": c.doi
+  }))
+};
+---
+
+<!-- Physician Schema -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(physicianSchema, null, 2)}
+/>
+
+<!-- FAQ Schema -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(faqSchema, null, 2)}
+/>
+
+<!-- Breadcrumb Schema -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(breadcrumbSchema, null, 2)}
+/>
+
+<!-- Speakable Schema -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(speakableSchema, null, 2)}
+/>
+
+<!-- ProfilePage Schema -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(profilePageSchema, null, 2)}
+/>
+
+<!-- Knowledge Graph Hints -->
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(knowledgeHints, null, 2)}
+/>
+
+<!-- Image Schema -->
+{imageSchema && (
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify(imageSchema, null, 2)}
+  />
+)}
+
+<!-- Video Schemas -->
+{videoSchemas.map(vs => (
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify(vs, null, 2)}
+  />
+))}

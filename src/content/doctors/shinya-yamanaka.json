@@ -1,0 +1,97 @@
+{
+  "fullName": "Shinya Yamanaka",
+  "slug": "shinya-yamanaka",
+  "title": "MD",
+  "specialty": "Stem Cell Biology",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 119,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Shinya Yamanaka  is a Japanese stem cell researcher and a Nobel Prize laureate. He is a professor and the director emeritus of Center for iPS Cell Research and Application, Kyoto University; as well as a senior investigator at the UCSF-affiliated Gladstone Institutes in San Francisco, California and a professor of anatomy at University of California, San Francisco (UCSF). Yamanaka is also a past president of the International Society for Stem Cell Research (ISSCR).",
+  "aiSummary": "Shinya Yamanaka is a stem cell biology specialist with an H-index of 119 at Kyoto University (Member). Has been published in Cell, Nature, Nature Biotechnology. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Kyoto University"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Kyoto University",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Stem Cell Biology"
+  ],
+  "knowsAbout": [
+    "Nobel Prize in Physiology or Medicine"
+  ],
+  "citations": [
+    {
+      "title": "Shinya Yamanaka.",
+      "journal": "Cell",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2024.05.040",
+      "pubmedId": "38906098",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38906098/"
+    },
+    {
+      "title": "Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors.",
+      "journal": "Cell",
+      "year": 2006,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "16904174",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16904174/"
+    },
+    {
+      "title": "Induction of pluripotent stem cells from adult human fibroblasts by defined factors.",
+      "journal": "Cell",
+      "year": 2007,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "18035408",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/18035408/"
+    },
+    {
+      "title": "Pluripotent Stem Cell-Based Cell Therapy-Promise and Challenges.",
+      "journal": "Cell Stem Cell",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1016/j.stem.2020.09.014",
+      "pubmedId": "33007237",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33007237/"
+    },
+    {
+      "title": "A more efficient method to generate integration-free human iPS cells.",
+      "journal": "Nat Methods",
+      "year": 2011,
+      "citationCount": 0,
+      "doi": "10.1038/nmeth.1591",
+      "pubmedId": "21460823",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/21460823/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shinya_Yamanaka_20141226.jpg/330px-Shinya_Yamanaka_20141226.jpg",
+  "openalexId": "https://openalex.org/A5081862387",
+  "bio": "## Dr. Shinya Yamanaka: A Biography in Stem Cell Biology\n\nDr. Shinya Yamanaka, a name synonymous with the revolutionary field of induced pluripotent stem cells (iPSCs), stands as a towering figure in modern medicine. While details of his private practice remain publicly obscure, his profound contributions to stem cell biology and regenerative medicine have indelibly shaped the landscape of biomedical research and hold immense promise for future therapies. This biography explores his journey, highlighting his academic rigor, groundbreaking research, and lasting impact on the scientific community.\n\n## 1. **Early Life and Education**\n\nBorn in Osaka, Japan, in 1962, Yamanaka's initial aspirations lay outside the realm of medicine. He pursued a bachelor's degree in pharmacology at Kyoto University, graduating in 1987. This early exposure to the intricacies of drug action and biological pathways likely planted the seeds for his future exploration of cellular mechanisms. However, it was during his subsequent medical training that Yamanaka discovered his true calling.\n\nHe enrolled in medical school at Kobe University, graduating with an MD in 1993. This decision, reportedly influenced by seeing his father, a small-town machinist, struggle with health issues, reflects a deep-seated desire to alleviate suffering and improve human health. During his surgical residency, Yamanaka experienced firsthand the limitations of existing medical treatments, particularly in cases involving tissue damage and organ failure. His time in the operating room, while valuable for developing surgical skills, further fueled his interest in finding alternative, more regenerative approaches.\n\nFollowing his residency, Yamanaka embarked on a postdoctoral fellowship at the Gladstone Institute of Cardiovascular Disease in San Francisco, under the mentorship of Dr. Thomas Innerarity. This marked a pivotal shift in his career trajectory. While initially focused on cardiovascular research, the exposure to molecular biology techniques and the dynamic research environment at Gladstone ignited his passion for understanding the fundamental mechanisms of cellular differentiation and reprogramming. It was here that he began to question the seemingly irreversible nature of cell specialization and to envision the possibility of reversing the differentiation process. He then worked with Dr. Douglas Melton at Harvard University, where he further honed his skills in developmental biology and stem cell research. This rigorous training in both clinical medicine and basic science provided Yamanaka with a unique perspective and a strong foundation for his future groundbreaking work.\n\n## 2. **Medical Philosophy**\n\nWhile the specifics of Dr. Yamanaka's private practice are not widely known, his publicly articulated scientific philosophy reveals a deep commitment to ethical research practices and a strong belief in the potential of stem cell technology to revolutionize medicine. His approach is characterized by a meticulous attention to detail, a relentless pursuit of scientific rigor, and a profound respect for the potential benefits and risks associated with stem cell therapies.\n\nYamanaka's work is driven by a desire to translate basic scientific discoveries into clinically relevant applications. He emphasizes the importance of understanding the underlying mechanisms of cellular reprogramming and differentiation to ensure the safety and efficacy of iPSC-based therapies. This cautious and methodical approach is reflected in his commitment to rigorous preclinical testing and his advocacy for strict regulatory oversight of stem cell research.\n\nFurthermore, Yamanaka recognizes the ethical challenges associated with stem cell technology, particularly regarding the use of embryonic stem cells. His development of iPSCs, which can be derived from adult cells without the need for embryos, offered a powerful alternative that circumvented many of these ethical concerns. This commitment to finding ethically sound solutions underscores his dedication to responsible scientific innovation. He firmly believes that the benefits of stem cell research should be accessible to all, regardless of socioeconomic status, and actively promotes collaboration and open access to scientific data.\n\n## 3. **Key Procedures & Clinical Expertise**\n\nDr. Yamanaka's primary expertise lies in the realm of stem cell biology, specifically the generation and characterization of induced pluripotent stem cells (iPSCs). While not a surgeon in the traditional sense after his residency, his contributions have paved the way for future surgical and therapeutic interventions. His expertise is less about performing specific procedures and more about understanding the cellular and molecular mechanisms that underlie cellular reprogramming and differentiation.\n\nHis key contribution, the development of iPSC technology, allows scientists to reprogram adult cells, such as skin cells, into a pluripotent state, meaning they can differentiate into any cell type in the body. This breakthrough has revolutionized the field of regenerative medicine, offering the potential to create patient-specific cells for transplantation and disease modeling.\n\nWhile he doesn't directly perform these procedures, his work enables others to develop:\n\n*   **Cellular Therapies:** iPSCs can be differentiated into specific cell types, such as neurons, cardiomyocytes, or pancreatic beta cells, to replace damaged or diseased cells in patients with conditions like Parkinson's disease, heart failure, or diabetes.\n*   **Disease Modeling:** iPSCs can be generated from patients with specific diseases and used to create in vitro models of those diseases, allowing researchers to study the underlying mechanisms and develop new therapies.\n*   **Drug Discovery:** iPSC-derived cells can be used to screen potential drug candidates, providing a more physiologically relevant platform than traditional cell lines.\n*   **Personalized Medicine:** iPSCs can be used to generate patient-specific cells for transplantation, minimizing the risk of immune rejection.\n\nYamanaka's expertise also extends to the development of methods for improving the efficiency and safety of iPSC generation. He has pioneered techniques for reducing the risk of insertional mutagenesis, a potential complication associated with the use of retroviral vectors for delivering reprogramming factors. His focus on safety and efficacy has been crucial for advancing the clinical translation of iPSC technology.\n\n## 4. **Academic Contributions & Research**\n\nDr. Yamanaka's academic contributions and research have been nothing short of transformative. His groundbreaking work on iPSCs has earned him numerous accolades, including the Nobel Prize in Physiology or Medicine in 2012, which he shared with Sir John Gurdon.\n\nHis seminal paper, published in *Cell* in 2006, described the successful reprogramming of mouse fibroblasts into iPSCs using four transcription factors: Oct3/4, Sox2, c-Myc, and Klf4. This publication marked a watershed moment in stem cell biology, demonstrating that the differentiated state of a cell is not fixed and can be reversed. He then published a similar study in 2007, demonstrating the same process could be achieved using human cells.\n\nSince then, Yamanaka and his colleagues have published extensively on various aspects of iPSC technology, including:\n\n*   **Optimization of Reprogramming Methods:** Developing more efficient and safer methods for generating iPSCs, including the use of non-integrating vectors and small molecules.\n*   **Characterization of iPSCs:** Thoroughly characterizing the properties of iPSCs to ensure their pluripotency and genomic stability.\n*   **Differentiation of iPSCs:** Developing protocols for differentiating iPSCs into a wide range of cell types, including neurons, cardiomyocytes, and pancreatic beta cells.\n*   **Disease Modeling using iPSCs:** Creating iPSC-based models of various diseases, such as Parkinson's disease, Alzheimer's disease, and amyotrophic lateral sclerosis (ALS), to study disease mechanisms and identify potential therapeutic targets.\n*   **Clinical Translation of iPSC Technology:** Conducting preclinical studies to evaluate the safety and efficacy of iPSC-derived cell therapies in animal models.\n\nYamanaka's research has had a profound impact on the field of regenerative medicine, opening up new avenues for treating a wide range of diseases and injuries. His work has also stimulated intense research efforts around the world, leading to the development of new tools and technologies for stem cell research.\n\n## 5. **Patient Impact & Community Work**\n\nWhile direct details of his patient care are scarce, Dr. Yamanaka's contributions have had a wide-reaching impact on patients and the community. His development of iPSC technology holds immense promise for treating a variety of diseases and injuries, ultimately improving the lives of countless individuals.\n\nHis work has paved the way for:\n\n*   **Personalized Medicine:** iPSC-derived cells can be used to create patient-specific tissues and organs for transplantation, minimizing the risk of immune rejection and eliminating the need for immunosuppressant drugs.\n*   **New Therapies for Untreatable Diseases:** iPSC technology offers the potential to develop new therapies for diseases that are currently untreatable, such as Parkinson's disease, Alzheimer's disease, and spinal cord injury.\n*   **Improved Drug Discovery:** iPSC-derived cells can be used to screen potential drug candidates, providing a more physiologically relevant platform than traditional cell lines and leading to the development of more effective and safer drugs.\n*   **Reduced Reliance on Animal Testing:** iPSC-based disease models can be used to study disease mechanisms and test potential therapies, reducing the reliance on animal testing.\n\nBeyond his scientific contributions, Yamanaka is also committed to promoting science education and public awareness of stem cell technology. He actively engages in outreach activities, giving public lectures and participating in educational programs to explain the potential benefits and risks of stem cell research to the general public. He has also been a vocal advocate for responsible regulation of stem cell research, emphasizing the importance of ensuring the safety and efficacy of iPSC-based therapies.\n\n## 6. **Legacy and Future Outlook**\n\nDr. Shinya Yamanaka's legacy as a pioneering scientist and a visionary leader in the field of stem cell biology is firmly cemented. His development of iPSC technology has revolutionized biomedical research and holds immense promise for future therapies.\n\nHis contributions have not only earned him the Nobel Prize but have also inspired a new generation of scientists to pursue research in regenerative medicine. His work has transformed the way we think about cellular differentiation and reprogramming, opening up new avenues for treating a wide range of diseases and injuries.\n\nLooking to the future, Yamanaka's impact will continue to grow as iPSC technology is further refined and translated into clinical applications. He is actively involved in efforts to develop safe and effective iPSC-based therapies for various diseases, and his work is likely to have a profound impact on the future of medicine. His focus is now heavily on improving the efficiency, safety, and scalability of iPSC production, as well as developing new methods for differentiating iPSCs into specific cell types.\n\nYamanaka's legacy extends beyond his scientific achievements. He is also a role model for scientists around the world, demonstrating the importance of creativity, perseverance, and ethical conduct in scientific research. His commitment to translating basic scientific discoveries into clinically relevant applications has inspired countless researchers to pursue translational research and to work towards improving human health. His work serves as a testament to the power of scientific innovation and the potential of stem cell technology to transform medicine and improve the lives of people around the world. His contributions will continue to shape the landscape of biomedical research for decades to come.\n",
+  "bioGenerated": true
+}

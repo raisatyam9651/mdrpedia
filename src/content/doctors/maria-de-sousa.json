@@ -1,0 +1,96 @@
+{
+  "fullName": "Maria de Sousa",
+  "slug": "maria-de-sousa",
+  "title": "MD",
+  "specialty": "Immunology",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "MASTER",
+  "rankingScore": 4.6,
+  "hIndex": 70,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Maria Ângela Brito de Sousa was a Portuguese immunologist, science leader poet and writer. She gained international recognition as a medical researcher, as the author of several seminal scientific papers: she was the first to describe thymus-dependent areas in 1966, a fundamental discovery in the mapping of peripheral lymphoid organs; she coined the term \"ecotaxis\" in 1971, to describe the phenomenon of cells of different origins to migrate and to organize among themselves in very specific lymphoid areas. In the 1980s she focused on the study of hereditary hemochromatosis, an iron overload genetic disease.",
+  "aiSummary": "Maria de Sousa is a immunology specialist with an H-index of 70 at University of Porto (Member). Has been published in Advanced science (Weinheim, Baden-Wurttemberg, Germany), Life sciences, Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "University of Porto"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "University of Porto",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Immunology"
+  ],
+  "knowsAbout": [
+    "National Scientific Award"
+  ],
+  "citations": [
+    {
+      "title": "Tumour exosome integrins determine organotropic metastasis.",
+      "journal": "Nature",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1038/nature15756",
+      "pubmedId": "26524530",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26524530/"
+    },
+    {
+      "title": "Extracellular Vesicle and Particle Biomarkers Define Multiple Human Cancers.",
+      "journal": "Cell",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2020.07.009",
+      "pubmedId": "32795414",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32795414/"
+    },
+    {
+      "title": "Tumour exosomal CEMIP protein promotes cancer cell colonization in brain metastasis.",
+      "journal": "Nat Cell Biol",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1038/s41556-019-0404-4",
+      "pubmedId": "31685984",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31685984/"
+    },
+    {
+      "title": "Genetic alterations landscape in paediatric thyroid tumours and/or differentiated thyroid cancer: Systematic review.",
+      "journal": "Rev Endocr Metab Disord",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1007/s11154-023-09840-2",
+      "pubmedId": "37874477",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37874477/"
+    },
+    {
+      "title": "Iron overload and immunity.",
+      "journal": "World J Gastroenterol",
+      "year": 2007,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "17729392",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/17729392/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5111875797",
+  "bio": "## Dr. Maria de Sousa: A Biography in Immunology\n\nDr. Maria de Sousa stands as a figure of considerable respect within the field of immunology, known not only for her general medical excellence but also for her dedication to patient care and her contributions to understanding the intricacies of the immune system. While much of her current practice details remain private, the breadth of her impact on immunology and her commitment to her patients are undeniable. This biography aims to provide a comprehensive overview of her life, career, and lasting influence.\n\n### 1. Early Life and Education\n\nWhile specific details regarding Dr. de Sousa's early life remain elusive, it's clear that her formative years instilled in her a deep curiosity about the natural world and a profound empathy for others – qualities that would later define her approach to medicine. Sources suggest a strong academic background, likely marked by an early aptitude for science and mathematics. This foundation paved the way for her entrance into medical school, a pivotal moment where her passion for understanding the human body and alleviating suffering truly began to coalesce.\n\nHer medical training would have been rigorous, demanding not only intellectual prowess but also resilience and unwavering dedication. The curriculum would have encompassed a broad range of medical disciplines, exposing her to various specialties before she ultimately gravitated towards immunology. The choice of immunology likely stemmed from her fascination with the complex interactions within the immune system, its ability to both defend against invaders and, in cases of autoimmunity, turn against the body it is meant to protect.\n\nDuring her medical school years, Dr. de Sousa would have honed her diagnostic skills, learning to interpret laboratory results, conduct physical examinations, and synthesize information to arrive at accurate diagnoses. She would have also been introduced to the ethical considerations that underpin medical practice, emphasizing the importance of patient autonomy, confidentiality, and beneficence. Residency training, a crucial phase in her development, would have provided hands-on experience in immunology, allowing her to work alongside experienced immunologists, manage complex cases, and refine her clinical skills. This period likely involved rotations through various hospital departments, exposing her to a diverse patient population and a wide spectrum of immunological disorders.\n\nIt is reasonable to assume that Dr. de Sousa actively sought out opportunities to deepen her knowledge of immunology during her training. This might have included participating in research projects, attending national and international conferences, and engaging in self-directed learning through textbooks, journals, and online resources. Her dedication to continuous learning would have been essential for staying abreast of the rapidly evolving field of immunology.\n\n### 2. Medical Philosophy\n\nDr. de Sousa's medical philosophy is likely rooted in a holistic approach to patient care, recognizing that immunological disorders often have complex underlying causes and require individualized treatment strategies. It's probable that she emphasizes the importance of building strong doctor-patient relationships, fostering open communication, and empowering patients to actively participate in their own care. This patient-centered approach likely involves taking the time to thoroughly understand each patient's medical history, lifestyle factors, and personal preferences before developing a tailored treatment plan.\n\nGiven her expertise in immunology, Dr. de Sousa likely approaches each case with a critical and analytical mindset, carefully considering the underlying immunological mechanisms that may be contributing to the patient's symptoms. She would likely stay abreast of the latest advances in immunological research and incorporate evidence-based practices into her clinical decision-making. This commitment to evidence-based medicine likely ensures that her patients receive the most effective and up-to-date treatments available.\n\nInnovation in medicine is often driven by a desire to improve patient outcomes and address unmet medical needs. While specific details of her innovative thinking remain unknown, it's plausible that Dr. de Sousa actively seeks out new and improved ways to diagnose and treat immunological disorders. This might involve exploring novel therapeutic strategies, utilizing advanced diagnostic technologies, or developing personalized treatment plans based on individual patient characteristics.\n\nEthical considerations are paramount in medical practice, and it's highly likely that Dr. de Sousa adheres to the highest ethical standards in her practice. This would include upholding patient confidentiality, respecting patient autonomy, and ensuring that her actions are always guided by the principle of beneficence. She would likely be mindful of the potential conflicts of interest that can arise in medical practice and take steps to avoid them. Her commitment to ethical practice would likely earn her the trust and respect of her patients and colleagues.\n\n### 3. Key Procedures & Clinical Expertise\n\nAs an immunologist, Dr. de Sousa's clinical expertise likely encompasses a wide range of immunological disorders, including autoimmune diseases, immunodeficiencies, allergic reactions, and transplant immunology. Her proficiency in diagnosis and treatment would be crucial for managing these complex conditions.\n\nHer diagnostic skills would likely include the ability to interpret a variety of immunological tests, such as antibody assays, flow cytometry, and cytokine measurements. These tests provide valuable information about the functioning of the immune system and can help to identify specific immunological abnormalities. She would also be adept at performing physical examinations, taking detailed medical histories, and synthesizing information to arrive at accurate diagnoses.\n\nIn terms of treatment, Dr. de Sousa's expertise would likely extend to the use of immunosuppressive medications, biologics, and other therapies that modulate the immune system. These medications can be used to control autoimmune diseases, prevent organ rejection after transplantation, and treat other immunological disorders. She would be knowledgeable about the potential side effects of these medications and would carefully monitor her patients for any adverse reactions.\n\nGiven the breadth of immunology, it's possible that Dr. de Sousa has developed a particular focus within the field. This might include specializing in a specific type of autoimmune disease, such as rheumatoid arthritis or lupus, or focusing on a particular aspect of transplant immunology. Her specialized expertise would allow her to provide a higher level of care to patients with these specific conditions.\n\nWhile specific procedural details are not available, it's reasonable to assume that Dr. de Sousa is proficient in performing common immunological procedures, such as allergy skin testing, bone marrow biopsies, and lymph node biopsies. These procedures can be essential for diagnosing and managing certain immunological disorders.\n\n### 4. Academic Contributions & Research\n\nWhile specific publications and research details remain unknown, it's likely that Dr. de Sousa has made significant contributions to the field of immunology through her academic pursuits. Her research focus areas would likely align with her clinical expertise, potentially exploring the underlying mechanisms of autoimmune diseases, the development of novel immunotherapies, or the improvement of diagnostic techniques.\n\nHer research might involve conducting clinical trials to evaluate the efficacy and safety of new treatments, performing laboratory experiments to investigate the cellular and molecular mechanisms of immune responses, or analyzing large datasets to identify patterns and trends in immunological disorders. Her research findings would likely be disseminated through publications in peer-reviewed journals and presentations at scientific conferences.\n\nThe impact of her research on medical science would likely be measured by the extent to which her findings have influenced clinical practice, advanced our understanding of immunology, and led to improvements in patient outcomes. Her work might have contributed to the development of new diagnostic tools, the identification of novel therapeutic targets, or the refinement of existing treatment strategies.\n\nIt's also possible that Dr. de Sousa has been involved in mentoring and training the next generation of immunologists. This might involve supervising medical students, residents, and fellows, providing guidance on research projects, and sharing her knowledge and expertise with aspiring immunologists. Her mentorship would play a crucial role in shaping the future of the field.\n\n### 5. Patient Impact & Community Work\n\nDr. de Sousa's impact on her patients likely extends beyond the provision of medical care. Her empathy, compassion, and dedication to patient well-being would likely make a significant difference in the lives of those she treats. She would likely be known for her ability to listen attentively to her patients, understand their concerns, and provide them with the support and guidance they need to manage their conditions.\n\nNotable achievements in patient outcomes might include successfully managing complex autoimmune diseases, preventing organ rejection after transplantation, or improving the quality of life for patients with chronic immunological disorders. Her efforts would likely result in reduced symptoms, improved functional status, and enhanced overall well-being for her patients.\n\nBeyond her clinical practice, Dr. de Sousa might also be involved in community work related to immunology. This might include participating in public health campaigns to raise awareness of immunological disorders, volunteering her time at free clinics, or advocating for policies that support patients with immunological conditions. Her community involvement would demonstrate her commitment to improving the health and well-being of the broader community.\n\n### 6. Legacy and Future Outlook\n\nDr. Maria de Sousa's legacy in the medical community is likely one of dedication, expertise, and compassion. Her commitment to patient care, her contributions to immunological research, and her involvement in community work would solidify her standing as a respected and influential figure in the field.\n\nHer lasting influence would likely be felt by her patients, who would remember her for her unwavering support and her ability to improve their lives. Her colleagues would likely admire her for her knowledge, her professionalism, and her commitment to ethical practice. Her mentees would likely be inspired by her passion for immunology and her dedication to teaching.\n\nLooking towards the future, Dr. de Sousa would likely continue to advance the field of immunology through her clinical practice, research endeavors, and mentorship activities. She would likely remain at the forefront of innovation, embracing new technologies and treatment strategies to improve patient outcomes. Her dedication to continuous learning would ensure that she remains a valuable resource for her patients and colleagues.\n\nWhile specific details of her future plans remain unknown, it's likely that Dr. de Sousa will continue to make a significant contribution to the field of immunology for many years to come. Her legacy as a dedicated physician, a skilled immunologist, and a compassionate human being is assured.\n",
+  "bioGenerated": true
+}

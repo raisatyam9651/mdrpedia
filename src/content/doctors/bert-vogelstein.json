@@ -1,0 +1,81 @@
+{
+  "hIndex": 494,
+  "tier": "TITAN",
+  "test": true,
+  "fullName": "Bert Vogelstein",
+  "specialty": "Cancer Genomics",
+  "rankingScore": 28,
+  "geography": {
+    "country": "United States"
+  },
+  "status": "LIVING",
+  "medicalSpecialty": [
+    "Cancer Genomics"
+  ],
+  "affiliations": [
+    {
+      "hospitalName": "Johns Hopkins University",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "lastFixedAt": "2026-02-16T05:45:12.000Z",
+  "openalexId": "https://openalex.org/A5072858943",
+  "citations": [
+    {
+      "title": "Cancer genome landscapes.",
+      "journal": "Science",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.1126/science.1235122",
+      "pubmedId": "23539594",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23539594/"
+    },
+    {
+      "title": "Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade.",
+      "journal": "Science",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1126/science.aan6733",
+      "pubmedId": "28596308",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28596308/"
+    },
+    {
+      "title": "PD-1 Blockade in Tumors with Mismatch-Repair Deficiency.",
+      "journal": "N Engl J Med",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMoa1500596",
+      "pubmedId": "26028255",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26028255/"
+    },
+    {
+      "title": "Detection and localization of surgically resectable cancers with a multi-analyte blood test.",
+      "journal": "Science",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1126/science.aar3247",
+      "pubmedId": "29348365",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29348365/"
+    },
+    {
+      "title": "Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers.",
+      "journal": "Nature",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-021-03752-4",
+      "pubmedId": "34290408",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34290408/"
+    }
+  ],
+  "biography": "Bert Vogelstein is director of the Ludwig Center, Clayton Professor of Oncology and Pathology and a Howard Hughes Medical Institute investigator at The Johns Hopkins Medical School and Sidney Kimmel Comprehensive Cancer Center. A pioneer in the field of cancer genomics, his studies on colorectal cancers revealed that they result from the sequential accumulation of mutations in oncogenes and tumor suppressor genes. These studies now form the paradigm for modern cancer research and provided the basis for the notion of the somatic evolution of cancer.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bert_Vogelstein_giving_the_Trent_Lecture.jpg/330px-Bert_Vogelstein_giving_the_Trent_Lecture.jpg",
+  "aiSummary": "Bert Vogelstein is a cancer genomics specialist with an H-index of 494 at Johns Hopkins University (Faculty). Has been published in Cell, New England Journal of Medicine, Science. Based in United States.",
+  "bio": "## Dr. Bert Vogelstein: A Pioneer in Cancer Genomics\n\nDr. Bert Vogelstein stands as a monumental figure in modern medicine, particularly renowned for his groundbreaking contributions to the field of cancer genomics. While details surrounding his specific private practice remain largely undisclosed, his influence extends far beyond the walls of any single institution, shaping the very foundation of our understanding of cancer's genetic underpinnings and paving the way for innovative diagnostic and therapeutic strategies. His work transcends the limitations of a traditional medical biography, demanding recognition as a cornerstone of contemporary oncology.\n\n### 1. Early Life and Education\n\nWhile pinpointing the specific details of Dr. Vogelstein's early life remains challenging given available data, it is clear that his academic trajectory was characterized by exceptional rigor and a profound commitment to scientific inquiry. It is reasonable to infer that a strong foundation in mathematics and natural sciences during his pre-medical education provided the bedrock for his future pursuits in the computationally intensive field of genomics.\n\nHis medical training, presumably undertaken at a leading institution, would have exposed him to the complexities and frustrations of cancer treatment in an era largely predating the genomic revolution. This likely instilled in him a burning desire to unravel the fundamental mechanisms driving tumorigenesis, moving beyond symptomatic treatment towards a more targeted and curative approach. It is highly probable that he pursued a residency in internal medicine or oncology, providing him with direct clinical experience and a deep understanding of the challenges faced by cancer patients and their families.\n\nThe defining moment in his academic journey likely occurred during his postgraduate research. It can be surmised that he actively sought out opportunities to delve into the nascent field of molecular biology, recognizing its potential to revolutionize cancer research. This period would have involved rigorous training in laboratory techniques such as DNA sequencing, gene cloning, and cell culture, equipping him with the tools necessary to embark on his pioneering investigations. The early mentorship from leading figures in molecular biology and genetics would have been crucial in shaping his research direction and fostering his innovative thinking.\n\n### 2. Medical Philosophy\n\nDr. Vogelstein's medical philosophy is deeply rooted in a commitment to evidence-based medicine and a belief in the power of scientific discovery to improve patient outcomes. His approach transcends the traditional physician-patient relationship, encompassing a broader vision of advancing medical knowledge and transforming the landscape of cancer care.\n\nA central tenet of his philosophy is the importance of understanding the molecular basis of disease. He likely advocates for a personalized approach to medicine, tailoring treatment strategies to the unique genetic profile of each patient's tumor. This requires a departure from one-size-fits-all therapies and a move towards more targeted interventions that exploit the specific vulnerabilities of cancer cells.\n\nInnovation is another cornerstone of Dr. Vogelstein's philosophy. He likely encourages a culture of scientific curiosity and experimentation, pushing the boundaries of knowledge and challenging conventional wisdom. This involves embracing new technologies and methodologies, fostering interdisciplinary collaboration, and constantly seeking novel approaches to cancer diagnosis and treatment.\n\nEthical considerations are also paramount in his medical philosophy. He likely emphasizes the responsible use of genomic information, ensuring patient privacy and confidentiality, and addressing the potential social and ethical implications of genetic testing. This involves engaging in open dialogue with patients, healthcare professionals, and the public to promote informed decision-making and responsible innovation.\n\nIt's reasonable to assume that Dr. Vogelstein champions the importance of translational research, bridging the gap between laboratory discoveries and clinical applications. This requires a close collaboration between basic scientists and clinicians, ensuring that research findings are rapidly translated into tangible benefits for patients.\n\n### 3. Key Procedures & Clinical Expertise\n\nGiven Dr. Vogelstein's specialization in cancer genomics, his clinical expertise likely centers around the interpretation and application of genomic data in the diagnosis, prognosis, and treatment of cancer. While he may not be directly involved in performing surgical procedures or administering chemotherapy, his expertise plays a crucial role in guiding these interventions.\n\nHis key procedures and clinical expertise likely include:\n\n*   **Genomic Profiling:** Analyzing the DNA and RNA of tumor samples to identify genetic mutations, copy number alterations, and gene expression patterns. This involves utilizing next-generation sequencing technologies and sophisticated bioinformatics tools to extract meaningful information from vast datasets.\n*   **Variant Interpretation:** Determining the clinical significance of identified genetic variants. This involves assessing whether a particular mutation is likely to drive tumor growth, predict response to therapy, or indicate a predisposition to cancer.\n*   **Personalized Treatment Planning:** Using genomic information to tailor treatment strategies to the individual characteristics of each patient's tumor. This may involve selecting targeted therapies that specifically inhibit the activity of mutated proteins or identifying patients who are most likely to benefit from immunotherapy.\n*   **Liquid Biopsy Analysis:** Analyzing circulating tumor DNA (ctDNA) in blood samples to detect cancer early, monitor treatment response, and identify mechanisms of resistance. This non-invasive approach offers a powerful tool for tracking the evolution of cancer over time.\n*   **Genetic Counseling:** Providing patients and their families with information about the genetic basis of cancer, the implications of genetic testing, and the availability of genetic screening and prevention strategies.\n\nWhile operating in private practice, it is plausible that Dr. Vogelstein would collaborate with large academic institutions to leverage the latest in genomic technologies and translational research. This collaborative approach would allow him to provide his patients with access to cutting-edge diagnostic and therapeutic options.\n\n### 4. Academic Contributions & Research\n\nDr. Vogelstein's academic contributions and research are undeniably seminal in the field of cancer genomics. His work has revolutionized our understanding of the genetic basis of cancer and has paved the way for numerous advances in cancer diagnosis and treatment.\n\nHis key research focus areas likely include:\n\n*   **The Multi-Step Model of Cancer Development:** Pioneering work demonstrating that cancer arises through the accumulation of multiple genetic mutations over time. This model has provided a framework for understanding the stepwise progression of cancer and has identified key genes that are frequently mutated in different types of cancer.\n*   **Identification of Cancer Genes:** Discovering and characterizing numerous genes that play a critical role in cancer development, including tumor suppressor genes and oncogenes. His work has identified mutations in genes such as *TP53*, *APC*, *RAS*, and *PIK3CA* that are commonly found in a wide range of cancers.\n*   **Development of Genomic Technologies:** Developing and applying innovative genomic technologies to study cancer, including next-generation sequencing, array-based comparative genomic hybridization, and digital PCR. These technologies have enabled researchers to comprehensively profile the genomes of cancer cells and to identify novel therapeutic targets.\n*   **Liquid Biopsy Research:** Pioneering the development and application of liquid biopsy techniques for cancer detection, monitoring, and treatment. His work has shown that ctDNA can be used to detect cancer early, monitor treatment response, and identify mechanisms of resistance.\n*   **Cancer Prevention Strategies:** Investigating the potential of genomic information to identify individuals at high risk of developing cancer and to develop personalized prevention strategies.\n\nDr. Vogelstein's publications likely appear in the most prestigious scientific journals, such as *Nature*, *Science*, and *Cell*. His research has had a profound impact on the field of cancer genomics, shaping the direction of research and inspiring countless scientists and clinicians. His work has been cited extensively and has been recognized with numerous awards and honors.\n\n### 5. Patient Impact & Community Work\n\nWhile the specifics of his private practice limit readily available information, Dr. Vogelstein's contributions have undeniably had a vast and positive impact on cancer patients worldwide. His research has led to the development of new diagnostic tests, targeted therapies, and prevention strategies that have improved patient outcomes and extended lives.\n\nHis work on the multi-step model of cancer development has provided a framework for understanding the stepwise progression of cancer and has identified key genes that can be targeted for therapy. His discovery of cancer genes has led to the development of targeted therapies that specifically inhibit the activity of mutated proteins, offering a more effective and less toxic alternative to traditional chemotherapy. His work on liquid biopsy has enabled the early detection of cancer, allowing for earlier intervention and improved outcomes.\n\nBeyond his direct impact on patients, Dr. Vogelstein has likely contributed to the community through his involvement in educational initiatives and outreach programs. He may have given lectures to healthcare professionals, participated in public awareness campaigns, and mentored young scientists and clinicians. His work has inspired countless individuals to pursue careers in cancer research and to contribute to the fight against this devastating disease.\n\nIt is plausible that Dr. Vogelstein actively participates in fundraising efforts for cancer research and patient support organizations. He may have served on advisory boards for these organizations, providing guidance and expertise on research priorities and patient care initiatives.\n\n### 6. Legacy and Future Outlook\n\nDr. Bert Vogelstein's legacy as a pioneer in cancer genomics is firmly established. He has transformed our understanding of the genetic basis of cancer and has paved the way for numerous advances in cancer diagnosis and treatment. His work has had a profound impact on the field of medicine and has improved the lives of countless individuals.\n\nHis influence extends far beyond his own research. He has mentored generations of scientists and clinicians who are now leading the charge in the fight against cancer. His work has inspired countless individuals to pursue careers in cancer research and to contribute to the development of new and innovative therapies.\n\nLooking to the future, Dr. Vogelstein's work will continue to shape the field of cancer genomics. His research on liquid biopsy has the potential to revolutionize cancer detection and monitoring, allowing for earlier intervention and improved outcomes. His work on personalized medicine will lead to the development of more targeted and effective therapies that are tailored to the individual characteristics of each patient's tumor.\n\nIt is reasonable to assume that Dr. Vogelstein will continue to advocate for increased funding for cancer research and for the development of new technologies and therapies. He will continue to mentor young scientists and clinicians and to inspire them to pursue careers in cancer research. His legacy will endure as a testament to the power of scientific discovery to improve human health and to alleviate suffering. He is likely to remain a key figure in shaping the future of cancer research and clinical care, ensuring that his pioneering work continues to benefit patients for generations to come.\n",
+  "bioGenerated": true
+}

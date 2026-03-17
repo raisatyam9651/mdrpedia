@@ -1,0 +1,135 @@
+{
+  "fullName": "Magdi Yacoub",
+  "slug": "magdi-yacoub",
+  "title": "MD",
+  "specialty": "Cardiac Surgery",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 32.42,
+  "hIndex": 109,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Sir Magdi Yacoub is a Professor of Cardiothoracic Surgery at Imperial College London and a pioneering heart transplant surgeon. He performed the UK's first combined heart and lung transplant and is the founder of the Chain of Hope charity and the Magdi Yacoub Heart Foundation.",
+  "aiSummary": "Magdi Yacoub is a Elite-tier (top 1%) cardiac surgery specialist with an H-index of 109 at Imperial College London (Professor of Cardiothoracic Surgery). Has been published in Global Cardiology Science and Practice, New England Journal of Medicine, Nature and recipient of the Knight Bachelor (1991). Based in Unknown, Unknown, Global.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Magdi_Yacoub.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "MB BCh, Cairo University",
+    "Fellowship, Royal College of Surgeons",
+    "DSc (Hon), University of London"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Imperial College London",
+      "role": "Professor of Cardiothoracic Surgery",
+      "hospitalUrl": "https://www.imperial.ac.uk/"
+    },
+    {
+      "hospitalName": "Aswan Heart Centre",
+      "role": "Founder and Director",
+      "hospitalUrl": "https://www.myf-egypt.org/"
+    },
+    {
+      "hospitalName": "Arezzo Hospital",
+      "role": "Consultant Surgeon",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Cardiothoracic Surgery",
+    "Heart Transplantation",
+    "Congenital Heart Surgery"
+  ],
+  "knowsAbout": [
+    "Heart Transplantation",
+    "Ross Procedure",
+    "Pediatric heart surgery",
+    "Global health equity"
+  ],
+  "citations": [
+    {
+      "title": "Global Burden of Cardiovascular Diseases and Risk Factors, 1990-2019: Update From the GBD 2019 Study.",
+      "journal": "J Am Coll Cardiol",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1016/j.jacc.2020.11.010",
+      "pubmedId": "33309175",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33309175/"
+    },
+    {
+      "title": "The penetrance of rare variants in cardiomyopathy-associated genes: A cross-sectional approach to estimating penetrance for secondary findings.",
+      "journal": "Am J Hum Genet",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.ajhg.2023.08.003",
+      "pubmedId": "37652022",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37652022/"
+    },
+    {
+      "title": "Integrated allelic, transcriptional, and phenomic dissection of the cardiac effects of titin truncations in health and disease.",
+      "journal": "Sci Transl Med",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1126/scitranslmed.3010134",
+      "pubmedId": "25589632",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25589632/"
+    },
+    {
+      "title": "Physiological basis for xenotransplantation from genetically modified pigs to humans.",
+      "journal": "Physiol Rev",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1152/physrev.00041.2023",
+      "pubmedId": "38517040",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38517040/"
+    },
+    {
+      "title": "Editor's page.",
+      "journal": "Glob Cardiol Sci Pract",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.21542/gcsp.2025.34",
+      "pubmedId": "41346646",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41346646/"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Knight Bachelor",
+      "year": 1991,
+      "issuingBody": "UK Crown"
+    },
+    {
+      "name": "Nile Collar",
+      "year": 2011,
+      "issuingBody": "Government of Egypt"
+    },
+    {
+      "name": "Order of Merit (OM)",
+      "year": 2014,
+      "issuingBody": "UK Crown"
+    },
+    {
+      "name": "Lister Medal",
+      "year": 2015,
+      "issuingBody": "Royal College of Surgeons of England"
+    }
+  ],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5011158638",
+  "bio": "## Biography of Dr. Magdi Yacoub\n\nDr. Magdi Yacoub stands as a towering figure in the field of cardiac surgery, renowned globally for his unparalleled skill, unwavering dedication to patient care, and pioneering contributions to the advancement of heart transplantation and complex cardiac repairs. His career, spanning decades, is marked by groundbreaking surgical techniques, extensive research initiatives, and a profound commitment to improving cardiac health, particularly in underserved populations. While specifics about his private practice location remain intentionally obscured (as per the provided data), his impact on the world of medicine is undeniably immense and widely celebrated.\n\n## 1. Early Life and Education\n\nBorn in Bilbeis, Egypt, on November 16, 1935, Magdi Habib Yacoub's early life was profoundly shaped by the loss of his aunt to rheumatic fever, a tragedy that ignited his lifelong passion for cardiology and his determination to combat heart disease. This personal experience became a powerful catalyst, fueling his academic pursuits and shaping his future career trajectory.\n\nYacoub received his primary and secondary education in Egypt, demonstrating exceptional academic aptitude from a young age. He then pursued his medical degree at Cairo University, graduating in 1957 with honors. During his time at Cairo University, he was deeply influenced by the prevailing medical challenges in Egypt, particularly the high incidence of rheumatic heart disease, further solidifying his resolve to specialize in cardiac surgery. He witnessed firsthand the devastating impact of preventable heart conditions on individuals and communities, which underscored the urgent need for advanced cardiac care.\n\nFollowing his graduation, Yacoub embarked on a rigorous postgraduate training program, initially in Cairo, where he gained foundational experience in general surgery. Recognizing the need for specialized training in cardiac surgery, he ventured to the United Kingdom in the early 1960s. He pursued further surgical training at various prestigious institutions, including the National Heart Hospital and the Brompton Hospital in London. These formative years exposed him to cutting-edge surgical techniques and provided him with invaluable mentorship from leading cardiac surgeons of the time. His dedication and exceptional surgical skills quickly became apparent, earning him the respect of his colleagues and mentors.\n\nHe honed his skills in valve repair and replacement, congenital heart surgery, and coronary artery bypass grafting. This comprehensive training laid the groundwork for his future innovations in heart transplantation and complex cardiac repairs. His commitment to continuous learning and his relentless pursuit of excellence were evident even in these early stages of his career, positioning him as a rising star in the field of cardiac surgery.\n\n## 2. Medical Philosophy\n\nDr. Yacoub's medical philosophy is deeply rooted in a holistic approach to patient care, emphasizing not only technical expertise but also compassion, empathy, and a profound respect for the individual. He views each patient as a unique human being, deserving of personalized treatment and unwavering support. This patient-centric approach is a cornerstone of his practice, guiding his decisions and shaping his interactions with patients and their families.\n\nHe is a strong advocate for preventative cardiology, believing that early detection and intervention are crucial in mitigating the impact of heart disease. He champions public health initiatives aimed at promoting heart-healthy lifestyles and reducing risk factors for cardiovascular conditions. His commitment to preventative measures reflects his understanding that addressing the root causes of heart disease is essential for long-term patient well-being.\n\nYacoub's innovative thinking is evident in his pioneering surgical techniques and his relentless pursuit of advancements in cardiac surgery. He is not afraid to challenge conventional wisdom and explore new approaches to complex cardiac problems. His willingness to embrace innovation has led to significant breakthroughs in heart transplantation and other areas of cardiac surgery, benefiting countless patients worldwide.\n\nHis practice ethics are characterized by the highest standards of professionalism, integrity, and ethical conduct. He is committed to providing patients with accurate and unbiased information, empowering them to make informed decisions about their treatment options. He believes in transparency and open communication, fostering trust and collaboration between patients, their families, and the medical team.\n\nFurthermore, Dr. Yacoub is a strong believer in the power of collaboration and teamwork. He recognizes that complex cardiac surgery requires a multidisciplinary approach, involving surgeons, cardiologists, nurses, and other healthcare professionals working together seamlessly. He fosters a collaborative environment in his practice, encouraging open communication and mutual respect among team members.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Yacoub's technical skills in cardiac surgery are widely regarded as exceptional, and he has mastered a wide range of complex procedures. However, he is particularly renowned for his groundbreaking work in heart transplantation. He was one of the first surgeons to successfully perform heart transplants in the United Kingdom, and he has played a pivotal role in advancing the field of transplantation worldwide.\n\nHis expertise extends beyond heart transplantation to encompass a broad spectrum of cardiac surgery, including:\n\n*   **Valve Repair and Replacement:** He is highly skilled in repairing and replacing damaged heart valves, utilizing both traditional surgical techniques and minimally invasive approaches.\n*   **Congenital Heart Surgery:** He has extensive experience in correcting congenital heart defects in infants and children, often performing complex reconstructive surgeries to restore normal heart function.\n*   **Coronary Artery Bypass Grafting (CABG):** He is proficient in performing CABG, a procedure that restores blood flow to the heart muscle by bypassing blocked coronary arteries.\n*   **Aortic Surgery:** He has expertise in repairing and replacing diseased or damaged aortas, the largest artery in the body.\n*   **Heart Failure Surgery:** He is involved in advanced heart failure therapies, including ventricular assist devices (VADs) and total artificial hearts.\n\nHis specialization lies in complex cardiac repairs, particularly in cases where conventional surgical approaches are not feasible. He is known for his ability to develop innovative surgical solutions for challenging cardiac problems, often pushing the boundaries of what is considered possible. His meticulous surgical technique, combined with his deep understanding of cardiac anatomy and physiology, allows him to achieve exceptional outcomes in even the most complex cases.\n\nDr. Yacoub’s meticulous approach to surgery, coupled with his deep understanding of cardiac physiology, enables him to achieve exceptional results, even in the most challenging cases. He is known for his ability to adapt and innovate during surgery, making real-time decisions that optimize patient outcomes.\n\n## 4. Academic Contributions & Research\n\nDr. Yacoub's contributions to medical science extend far beyond the operating room. He is a prolific researcher and author, having published extensively in leading medical journals. His research has focused on a wide range of topics, including:\n\n*   **Heart Transplantation:** He has conducted extensive research on the immunology of heart transplantation, exploring ways to improve graft survival and reduce the risk of rejection.\n*   **Myocardial Protection:** He has investigated methods to protect the heart muscle during surgery, minimizing damage and improving postoperative outcomes.\n*   **Tissue Engineering:** He has been involved in pioneering research on tissue engineering, exploring the potential to create functional heart tissue for transplantation.\n*   **Stem Cell Therapy:** He has studied the use of stem cells to repair damaged heart muscle, offering hope for patients with heart failure.\n\nHis key publications have had a significant impact on the field of cardiac surgery, shaping clinical practice and inspiring further research. He has served on the editorial boards of several prestigious medical journals and has been invited to lecture at conferences around the world. His research findings have been instrumental in advancing our understanding of heart disease and improving the outcomes of cardiac surgery.\n\nDr. Yacoub established the Harefield Heart Science Centre, a renowned research facility dedicated to advancing the understanding and treatment of heart disease. The centre serves as a hub for collaborative research, bringing together scientists and clinicians from diverse backgrounds to tackle complex cardiac problems. He has also mentored numerous young researchers, fostering the next generation of cardiac surgeons and scientists.\n\n## 5. Patient Impact & Community Work\n\nDr. Yacoub's impact on patient outcomes is immeasurable. He has performed thousands of cardiac surgeries throughout his career, saving countless lives and improving the quality of life for patients with heart disease. His dedication to patient care extends beyond the operating room, as he is deeply committed to providing ongoing support and guidance to his patients and their families.\n\nHe is particularly passionate about improving cardiac health in underserved populations. He founded the Chain of Hope charity, which provides life-saving cardiac surgery to children in developing countries. Through Chain of Hope, he has organized medical missions to countries around the world, providing free cardiac surgery to children who would otherwise not have access to such care.\n\nHis community work also includes raising awareness about heart disease and promoting heart-healthy lifestyles. He has been a vocal advocate for public health initiatives aimed at preventing heart disease and improving access to cardiac care. His commitment to social responsibility is evident in his tireless efforts to improve cardiac health for all, regardless of their socioeconomic status or geographic location.\n\nThe Aswan Heart Centre, established by Dr. Yacoub in Egypt, stands as a testament to his commitment to providing world-class cardiac care to the people of Egypt and the surrounding region. The centre offers a comprehensive range of cardiac services, including surgery, cardiology, and rehabilitation, and serves as a training center for medical professionals.\n\n## 6. Legacy and Future Outlook\n\nDr. Magdi Yacoub's legacy as a pioneering cardiac surgeon, dedicated researcher, and compassionate humanitarian is firmly cemented in the annals of medical history. His groundbreaking surgical techniques, extensive research contributions, and unwavering commitment to patient care have had a profound impact on the field of cardiac surgery and have improved the lives of countless individuals.\n\nHe is widely regarded as one of the most influential cardiac surgeons of our time, and his work continues to inspire generations of medical professionals. His legacy extends beyond his individual achievements, as he has fostered a culture of innovation, collaboration, and social responsibility within the medical community.\n\nLooking to the future, Dr. Yacoub remains actively involved in research and education, continuing to push the boundaries of cardiac surgery and mentoring the next generation of medical leaders. His vision for the future of cardiac care includes greater emphasis on preventative measures, personalized medicine, and the development of novel therapies for heart disease.\n\nHis lasting influence is evident in the numerous awards and honors he has received throughout his career, including a knighthood from Queen Elizabeth II. However, his greatest reward remains the knowledge that his work has made a tangible difference in the lives of his patients and has contributed to the advancement of medical science. Dr. Magdi Yacoub's name will forever be synonymous with excellence, compassion, and innovation in the field of cardiac surgery.\n",
+  "bioGenerated": true
+}

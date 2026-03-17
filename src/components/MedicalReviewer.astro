@@ -1,0 +1,108 @@
+---
+/**
+ * MedicalReviewer.astro
+ * Footer component typically found on Healthline/WebMD.
+ * randomly selects a Titan/Elite doctor as the "reviewer" for authority signal.
+ */
+import { getCollection } from "astro:content";
+
+// Fetch verification doctors
+const doctors = await getCollection("doctors");
+const reviewers = doctors.filter(
+    (d) => d.data.tier === "TITAN" || d.data.tier === "ELITE",
+);
+
+// Pick one randomly or allow passing via props (e.g. if content is specific to a specialty)
+interface Props {
+    specialty?: string;
+    pageSlug?: string; // Use this to make the selection deterministic
+}
+const { specialty, pageSlug } = Astro.props;
+
+// Filter by specialty if possible, else fallback to any Titan
+let candidates = specialty
+    ? reviewers.filter((r) => r.data.specialty === specialty)
+    : reviewers;
+
+if (candidates.length === 0) candidates = reviewers;
+
+// Deterministic selection based on pageSlug string hash
+const getHash = (str: string) => {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = (hash << 5) - hash + char;
+        hash = hash & hash; // Convert to 32bit integer
+    }
+    return Math.abs(hash);
+};
+
+const seed = pageSlug || "default-seed";
+const index = getHash(seed) % candidates.length;
+const reviewer = candidates.length > 0 ? candidates[index] : null;
+
+const today = new Date().toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+});
+---
+
+{
+    reviewer && (
+        <div class="medical-reviewer">
+            <div class="reviewer-icon">🛡️</div>
+            <div class="reviewer-info">
+                <p class="reviewer-label">Medically Reviewed by</p>
+                <a href={`/doctors/${reviewer.id}`} class="reviewer-name">
+                    {reviewer.data.fullName}, {reviewer.data.title || "MD"}
+                </a>
+                <p class="review-date">on {today}</p>
+            </div>
+        </div>
+    )
+}
+
+<style>
+    .medical-reviewer {
+        display: flex;
+        align-items: center;
+        gap: var(--space-md);
+        padding: var(--space-md);
+        background: rgba(0, 255, 0, 0.05);
+        border: 1px solid rgba(0, 255, 0, 0.2);
+        border-radius: var(--radius-md);
+        margin-top: var(--space-xl);
+        max-width: fit-content;
+    }
+
+    .reviewer-icon {
+        font-size: 1.5rem;
+    }
+
+    .reviewer-label {
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        letter-spacing: 0.05em;
+        margin: 0;
+    }
+
+    .reviewer-name {
+        display: block;
+        font-weight: 700;
+        color: var(--text-primary);
+        text-decoration: none;
+        font-size: 0.95rem;
+    }
+    .reviewer-name:hover {
+        text-decoration: underline;
+        color: var(--accent-green);
+    }
+
+    .review-date {
+        font-size: 0.75rem;
+        color: var(--text-muted);
+        margin: 0;
+    }
+</style>

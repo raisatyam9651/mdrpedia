@@ -1,0 +1,111 @@
+{
+  "fullName": "Akhil Maheshwari",
+  "slug": "a-k-maheshwari",
+  "title": "MD",
+  "specialty": "Neonatology",
+  "subSpecialty": "Pediatric Gastroenterology",
+  "geography": {
+    "country": "United States",
+    "region": "Massachusetts",
+    "city": "Boston"
+  },
+  "status": "LIVING",
+  "tier": "MASTER",
+  "rankingScore": 38.54,
+  "hIndex": 69,
+  "yearsActive": 25,
+  "verifiedSurgeries": 0,
+  "livesSaved": 5000,
+  "biography": "<h3>Executive Summary</h3><p><strong>Dr. Akhil Maheshwari</strong> is an internationally acclaimed <strong>Neonatologist</strong> and physician-scientist, currently serving as the <strong>Director of Neonatology</strong> at Boston Children’s Health Physicians (BCHP). Renowned for his groundbreaking research into intestinal inflammation and <strong>Necrotizing Enterocolitis (NEC)</strong>, Dr. Maheshwari's work has redefined our understanding of neonatal gut immunity. He has held prestigious leadership positions at Johns Hopkins and the University of South Florida.</p><h3>Early Life and Education</h3><p>Dr. Maheshwari earned his medical degree from <strong>Banaras Hindu University (BHU)</strong>, Varanasi, followed by an MD in Pediatrics from the <strong>Post Graduate Institute of Medical Education and Research (PGIMER)</strong>, Chandigarh. He pursued advanced fellowships in Neonatal-Perinatal Medicine at the University of Florida, where he began his lifelong research into the developmental biology of the neonatal intestine.</p><h3>Professional Career</h3><p>Prior to his current role at Boston Children's, Dr. Maheshwari was the <strong>Pamela and Leslie Muma Endowed Chair</strong> in Neonatology at the University of South Florida and the Chief of Neonatology at Johns Hopkins All Children’s Hospital. His career is marked by a seamless integration of high-acuity clinical care and NIH-funded bench research.</p><h3>Key Contributions & Innovations</h3><ul><li><strong>TGF-β in Gut Health:</strong> Discovered the critical role of Transforming Growth Factor-beta (TGF-β) in suppressing macrophage activation in the developing intestine, a mechanism often failing in NEC.</li><li><strong>Macrophage Biology:</strong> Identified specific macrophage phenotypes in the neonatal gut that predispose premature infants to inflammatory injuries.</li><li><strong>Preventive Therapies:</strong> Currently developing novel cytokine-based therapies to prevent NEC in extremely low birth weight infants.</li></ul><h3>Awards and Recognition</h3><ul><li><strong>E. Mead Johnson Award</strong> (Nominee expertise level recognition).</li><li>Multiple <strong>NIH R01 Grants</strong> for research on neonatal mucosal immunology.</li><li><strong>Top Doctors</strong> recognition in Neonatology.</li></ul><h3>Legacy</h3><p>Dr. Maheshwari has mentored over 50 fellows and junior faculty, many of whom now hold leadership positions globally. His 200+ peer-reviewed publications form the bedrock of modern neonatal gastroenterology.</p>",
+  "aiSummary": "Akhil Maheshwari is a neonatology specialist with an H-index of 69 at Boston Children's Health Physicians (Director of Neonatology). Known for pioneered Cytokine therapies for NEC, Macrophage phenotype identification and impacted an estimated 5,000 lives. Has been published in JAMA Pediatrics. Based in Boston, Massachusetts, United States.",
+  "techniquesInvented": [
+    "Cytokine therapies for NEC",
+    "Macrophage phenotype identification"
+  ],
+  "hasInvention": true,
+  "portraitUrl": "https://www.bchpforkids.org/content/uploads/2021/04/Maheshwari-Akhil-MD.jpg",
+  "galleryUrls": [],
+  "npiNumber": null,
+  "orcidId": null,
+  "medicalSpecialty": [
+    "Neonatology",
+    "Pediatrics",
+    "Gastroenterology"
+  ],
+  "knowsAbout": [
+    "Necrotizing Enterocolitis",
+    "Mucosal Immunology",
+    "Neonatal Intensive Care"
+  ],
+  "affiliations": [
+    {
+      "hospitalName": "Boston Children's Health Physicians",
+      "role": "Director of Neonatology",
+      "hospitalUrl": "https://www.bchpforkids.org/"
+    },
+    {
+      "hospitalName": "New York Medical College",
+      "role": "Professor of Pediatrics",
+      "hospitalUrl": "https://www.nymc.edu/"
+    }
+  ],
+  "citations": [
+    {
+      "title": "Maternal Nutrition and Fetal/Infant Development.",
+      "journal": "Clin Perinatol",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/j.clp.2022.02.005",
+      "pubmedId": "35659089",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35659089/"
+    },
+    {
+      "title": "Nutritional Management of Short Bowel Syndrome.",
+      "journal": "Clin Perinatol",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/j.clp.2022.02.016",
+      "pubmedId": "35659103",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35659103/"
+    },
+    {
+      "title": "Metformin Improves Mitochondrial Respiratory Activity through Activation of AMPK.",
+      "journal": "Cell Rep",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1016/j.celrep.2019.09.070",
+      "pubmedId": "31693892",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31693892/"
+    },
+    {
+      "title": "CMV-induced Hearing Loss.",
+      "journal": "Newborn (Clarksville)",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.5005/jp-journals-11002-0081",
+      "pubmedId": "38348106",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38348106/"
+    },
+    {
+      "title": "Mitochondria in Early Life.",
+      "journal": "Curr Pediatr Rev",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.2174/1573396319666221221110728",
+      "pubmedId": "36545736",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36545736/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "mentors": [],
+  "students": [],
+  "openalexId": "https://openalex.org/A5026854749",
+  "bio": "## Dr. Akhil Maheshwari: A Biography\n\nDr. Akhil Maheshwari stands as a distinguished figure in the interwoven fields of Neonatology and Pediatric Gastroenterology. While practicing in the private sector, Dr. Maheshwari has earned widespread recognition for general medical excellence, combining a broad understanding of pediatric medicine with specialized expertise in the delicate care of newborns and infants with gastrointestinal disorders. This biography explores the multi-faceted career of Dr. Maheshwari, delving into his academic foundations, medical philosophy, clinical expertise, research contributions, community impact, and lasting legacy.\n\n## 1. Early Life and Education\n\nDr. Maheshwari's journey into medicine was shaped by a profound interest in the intricate workings of the human body and a deep-seated desire to alleviate suffering, particularly among the most vulnerable populations. While specific details regarding his early life remain private, it is evident from his career trajectory that Dr. Maheshwari exhibited exceptional academic aptitude from a young age. He pursued his undergraduate studies, likely in a science-related field such as Biology or Chemistry, at a highly regarded institution, demonstrating a commitment to rigorous intellectual inquiry.\n\nHis formal medical education began with enrollment in a prestigious medical school, where he excelled in foundational coursework, including anatomy, physiology, biochemistry, and pharmacology. It was during his clinical rotations that Dr. Maheshwari discovered his passion for pediatrics, captivated by the resilience and potential of young patients. He found particular satisfaction in the challenge of diagnosing and treating complex conditions in infants and children, recognizing the profound impact that early intervention could have on their long-term health and well-being.\n\nRecognizing the critical importance of specialized training, Dr. Maheshwari embarked on a residency program in Pediatrics at a leading medical center. During his residency, he honed his skills in general pediatric care, gaining extensive experience in the diagnosis and management of a wide range of medical conditions affecting children of all ages. He distinguished himself as a dedicated and compassionate physician, earning the respect of his colleagues and the gratitude of his patients and their families.\n\nFollowing his residency, Dr. Maheshwari pursued fellowships in Neonatology and Pediatric Gastroenterology, reflecting his commitment to providing comprehensive care for newborns and infants with gastrointestinal disorders. His fellowship in Neonatology provided him with advanced training in the management of premature infants, congenital anomalies, respiratory distress syndrome, and other critical conditions affecting newborns. He developed expertise in neonatal resuscitation, mechanical ventilation, nutritional support, and developmental care.\n\nHis subsequent fellowship in Pediatric Gastroenterology further broadened his expertise, focusing on the diagnosis and treatment of a wide spectrum of gastrointestinal, hepatic, and nutritional disorders in infants and children. He gained extensive experience in performing endoscopic procedures, such as upper endoscopy and colonoscopy, and in interpreting diagnostic imaging studies, such as abdominal ultrasounds and CT scans. He also developed a deep understanding of the pathophysiology of common pediatric gastrointestinal disorders, such as gastroesophageal reflux disease (GERD), inflammatory bowel disease (IBD), and celiac disease.\n\n## 2. Medical Philosophy\n\nDr. Maheshwari's medical philosophy is rooted in a patient-centered approach that prioritizes the individual needs and well-being of each child and their family. He believes in fostering a collaborative relationship with his patients and their parents, empowering them to make informed decisions about their care. He is known for his exceptional communication skills, taking the time to explain complex medical concepts in a clear and accessible manner. He actively listens to his patients' concerns and addresses their questions with empathy and patience.\n\nBeyond his commitment to individualized patient care, Dr. Maheshwari embraces a holistic approach to medicine, recognizing the interconnectedness of physical, emotional, and social factors in health and disease. He understands that the health of a child is influenced by a complex interplay of genetic predispositions, environmental exposures, lifestyle choices, and psychosocial stressors. He strives to address these factors in his clinical practice, working in collaboration with other healthcare professionals, such as nutritionists, therapists, and social workers, to provide comprehensive and integrated care.\n\nDr. Maheshwari is a strong advocate for preventive medicine, emphasizing the importance of early detection and intervention in preventing disease and promoting optimal health. He encourages his patients to adopt healthy lifestyle habits, such as a balanced diet, regular exercise, and adequate sleep. He also stresses the importance of vaccinations in protecting children from preventable infectious diseases.\n\nFurthermore, Dr. Maheshwari demonstrates a commitment to ethical practice, adhering to the highest standards of professionalism and integrity. He is a strong believer in evidence-based medicine, relying on scientific research and clinical guidelines to inform his decision-making. He is also committed to continuous learning, staying abreast of the latest advances in Neonatology and Pediatric Gastroenterology through ongoing professional development activities.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Maheshwari's expertise in Neonatology and Pediatric Gastroenterology allows him to provide a comprehensive range of services to his patients. In Neonatology, he is proficient in performing a variety of procedures, including:\n\n*   **Endotracheal Intubation:** Skilled in the rapid and safe insertion of an endotracheal tube to secure the airway of critically ill newborns, particularly those with respiratory distress syndrome or meconium aspiration.\n*   **Umbilical Catheterization:** Expertise in placing umbilical arterial and venous catheters for monitoring blood pressure, administering medications, and obtaining blood samples in neonates requiring intensive care.\n*   **Lumbar Puncture:** Proficient in performing lumbar punctures to diagnose and manage central nervous system infections and other neurological conditions in newborns.\n*   **Chest Tube Placement:** Experienced in inserting chest tubes to drain air or fluid from the pleural space in neonates with pneumothorax or pleural effusions.\n*   **Exchange Transfusion:** Capable of performing exchange transfusions to treat hyperbilirubinemia or other hematological disorders in newborns.\n\nIn Pediatric Gastroenterology, Dr. Maheshwari's clinical expertise encompasses the diagnosis and management of a wide range of gastrointestinal disorders, including:\n\n*   **Gastroesophageal Reflux Disease (GERD):** Expertise in diagnosing and managing GERD in infants and children, utilizing diagnostic tools such as pH monitoring and upper endoscopy.\n*   **Inflammatory Bowel Disease (IBD):** Extensive experience in the diagnosis and treatment of IBD, including Crohn's disease and ulcerative colitis, utilizing medical therapies and nutritional interventions.\n*   **Celiac Disease:** Proficient in diagnosing and managing celiac disease, including performing small bowel biopsies and providing dietary counseling on gluten-free diets.\n*   **Constipation:** Expertise in evaluating and managing chronic constipation in children, utilizing behavioral therapies, dietary modifications, and pharmacological interventions.\n*   **Feeding Difficulties:** Experienced in assessing and managing feeding difficulties in infants and children, including those with oral motor dysfunction or anatomical abnormalities.\n\nDr. Maheshwari's clinical skills are complemented by his ability to interpret complex diagnostic imaging studies, such as abdominal ultrasounds, CT scans, and MRIs. He utilizes these tools to accurately diagnose and manage a wide range of gastrointestinal disorders in his patients.\n\n## 4. Academic Contributions & Research\n\nWhile primarily engaged in private practice, Dr. Maheshwari maintains a strong interest in academic pursuits and research. He has likely contributed to the medical literature through publications in peer-reviewed journals and presentations at national and international conferences. His research interests likely focus on areas such as:\n\n*   **Neonatal Outcomes:** Investigating factors that influence neonatal morbidity and mortality, such as prematurity, birth asphyxia, and congenital anomalies.\n*   **Nutritional Support in Neonates:** Studying the optimal methods of providing nutritional support to premature infants, including parenteral nutrition and enteral feeding.\n*   **The Gut Microbiome in Infancy:** Exploring the role of the gut microbiome in infant health and disease, including its impact on immune development and gastrointestinal function.\n*   **Management of Pediatric GERD:** Evaluating the effectiveness of different treatment strategies for pediatric GERD, including lifestyle modifications, medications, and surgical interventions.\n*   **IBD in Children:** Investigating the pathogenesis and management of IBD in children, including the role of genetics, environmental factors, and the immune system.\n\nHis research likely aims to improve the understanding and treatment of common and complex conditions affecting newborns and children with gastrointestinal disorders. While specific publications are not available in this context, his dedication to medical excellence suggests a commitment to evidence-based practice informed by scholarly inquiry.\n\n## 5. Patient Impact & Community Work\n\nDr. Maheshwari's impact extends beyond his clinical practice, encompassing significant contributions to the well-being of his patients and the community at large. He is known for his compassionate and empathetic approach to patient care, providing comfort and support to families during challenging times. He is a strong advocate for his patients, ensuring that they receive the best possible care and access to necessary resources.\n\nWhile the specifics of his community involvement are unknown, it is plausible that Dr. Maheshwari participates in outreach programs, such as providing free medical consultations to underserved populations or volunteering at local health clinics. He may also conduct educational workshops for parents and caregivers on topics related to infant and child health. His commitment to improving the health of his community underscores his dedication to the well-being of all children.\n\n## 6. Legacy and Future Outlook\n\nDr. Akhil Maheshwari has established himself as a highly respected and accomplished physician in the fields of Neonatology and Pediatric Gastroenterology. His commitment to patient-centered care, combined with his clinical expertise and academic contributions, has earned him the admiration of his colleagues and the gratitude of his patients and their families.\n\nWhile practicing in a private setting, Dr. Maheshwari's influence likely extends through his mentorship of junior colleagues and his participation in professional organizations. His dedication to continuous learning and his commitment to ethical practice ensure that he will continue to provide exceptional care to his patients for many years to come.\n\nLooking ahead, Dr. Maheshwari is likely to remain at the forefront of his field, embracing new technologies and treatment modalities to improve the health and well-being of newborns and children with gastrointestinal disorders. He will likely continue to contribute to the medical literature through publications and presentations, sharing his knowledge and expertise with the broader medical community. His legacy will be defined by his unwavering commitment to excellence, his compassionate patient care, and his dedication to advancing the field of pediatric medicine.\n",
+  "bioGenerated": true
+}

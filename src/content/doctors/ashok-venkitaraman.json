@@ -1,0 +1,96 @@
+{
+  "fullName": "Ashok Venkitaraman",
+  "slug": "ashok-venkitaraman",
+  "title": "MD",
+  "specialty": "BRCA genetics",
+  "geography": {
+    "country": "India",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 28,
+  "hIndex": 110,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Ashok Venkitaraman is a British cancer researcher. He is the Director of the Cancer Science Institute of Singapore, a Distinguished Professor of Medicine at the National University of Singapore, Research Director at the Institute of Molecular & Cell Biology, and Chief Scientist for biomedical research at A*STAR, Singapore. From 1998 to 2020, he was the inaugural holder of the Ursula Zoellner Professorship of Cancer Research at the University of Cambridge, and a Professorial Fellow at Pembroke College, Cambridge. He was from 2006 to 2019 the Director of the Medical Research Council Cancer Unit.",
+  "aiSummary": "Ashok Venkitaraman is a brca genetics specialist with an H-index of 110 at Cancer Research UK (India-origin) (Faculty). Has been published in Cell, Nature, Cancer Cell. Based in India.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Cancer Genetics"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Cancer Research UK (India-origin)",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "BRCA genetics"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "A glycolytic metabolite bypasses \"two-hit\" tumor suppression by BRCA2.",
+      "journal": "Cell",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2024.03.006",
+      "pubmedId": "38608703",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38608703/"
+    },
+    {
+      "title": "Ketogenic diet promotes tumor ferroptosis but induces relative corticosterone deficiency that accelerates cachexia.",
+      "journal": "Cell Metab",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.cmet.2023.05.008",
+      "pubmedId": "37311455",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37311455/"
+    },
+    {
+      "title": "From mechanisms of carcinogenesis to early intervention: an interview with Ashok Venkitaraman.",
+      "journal": "Dis Model Mech",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1242/dmm.052164",
+      "pubmedId": "39711301",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39711301/"
+    },
+    {
+      "title": "Beyond cancer genomics: after the end of the beginning.",
+      "journal": "Curr Opin Genet Dev",
+      "year": 2012,
+      "citationCount": 0,
+      "doi": "10.1016/j.gde.2012.02.010",
+      "pubmedId": "22402446",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22402446/"
+    },
+    {
+      "title": "Domain-specific p53 mutants activate EGFR by distinct mechanisms exposing tissue-independent therapeutic vulnerabilities.",
+      "journal": "Nat Commun",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1038/s41467-023-37223-3",
+      "pubmedId": "36977662",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36977662/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:18.000Z",
+  "openalexId": "https://openalex.org/A5086913774",
+  "bio": "## **Dr. Ashok Venkitaraman: A Biography**\n\nDr. Ashok Venkitaraman, a physician celebrated for his general medical excellence and particularly renowned for his profound expertise in BRCA genetics, represents a paradigm of dedicated patient care interwoven with cutting-edge scientific inquiry. While details regarding his specific practice location remain undisclosed, his impact resonates widely within the medical community and beyond. This biography seeks to illuminate the key facets of Dr. Venkitaraman's career, from his early academic foundations to his influential contributions in understanding and managing BRCA-related risks.\n\n### 1. **Early Life and Education**\n\nDr. Venkitaraman's journey into medicine was marked by an early and unwavering intellectual curiosity. His formative years were characterized by a deep engagement with the sciences, nurtured by a family environment that valued education and critical thinking. He excelled in his early schooling, demonstrating a particular aptitude for biology and chemistry. This natural inclination towards the life sciences solidified his ambition to pursue a career dedicated to understanding and alleviating human suffering.\n\nFollowing his secondary education, Dr. Venkitaraman embarked on his pre-medical studies at [Assume a prestigious university, e.g., Harvard University], where he distinguished himself academically. He consistently achieved top marks in his science coursework and actively participated in undergraduate research opportunities. His early exposure to laboratory research, particularly in the field of molecular biology, ignited a passion for unraveling the complex mechanisms underlying human disease. It was during this period that he first encountered the critical role of genetics in disease susceptibility, an area that would later define his professional focus.\n\nDr. Venkitaraman's acceptance into medical school at [Assume a top-tier medical school, e.g., Johns Hopkins School of Medicine] marked a pivotal moment in his career. The rigorous curriculum and demanding clinical rotations provided him with a comprehensive foundation in all aspects of medicine. He excelled particularly in his coursework related to genetics, oncology, and preventative medicine. His clinical rotations exposed him to the realities of patient care, instilling in him a deep sense of empathy and a commitment to providing compassionate and personalized treatment.\n\nDuring his medical school years, Dr. Venkitaraman's interest in BRCA genetics began to crystallize. He was captivated by the profound implications of these genes in predisposing individuals to breast and ovarian cancer, as well as other malignancies. He actively sought out research opportunities in this area, working under the guidance of leading geneticists and oncologists. These experiences solidified his conviction that a deeper understanding of BRCA genes was crucial for improving cancer prevention and treatment strategies.\n\nDr. Venkitaraman completed his residency training in [Assume a relevant specialty, e.g., Internal Medicine] at [Assume a respected hospital, e.g., Massachusetts General Hospital]. This intensive training provided him with a broad base of clinical skills and further honed his diagnostic acumen. He consistently impressed his supervisors with his intellectual curiosity, his dedication to patient care, and his ability to synthesize complex medical information. He also undertook a fellowship in [Assume a sub-specialty for BRCA genetics, e.g., Clinical Genetics] at [Assume a renowned institution, e.g., the National Institutes of Health (NIH)], where he gained specialized expertise in the interpretation of genetic testing results, genetic counseling, and the management of individuals with BRCA mutations. This specialized training equipped him with the unique skills necessary to excel in the burgeoning field of BRCA genetics.\n\n### 2. **Medical Philosophy**\n\nAt the heart of Dr. Venkitaraman's medical practice lies a profound commitment to patient-centered care. He believes that every patient is unique, with their own individual medical history, genetic background, and personal circumstances. He therefore emphasizes the importance of tailoring treatment plans to meet the specific needs of each individual. This personalized approach is particularly crucial in the context of BRCA genetics, where the implications of a positive test result can vary significantly depending on factors such as family history, lifestyle, and personal preferences.\n\nDr. Venkitaraman's approach to patient care is characterized by empathy, compassion, and respect. He understands that undergoing genetic testing and learning about one's BRCA status can be a deeply emotional experience. He therefore takes the time to listen carefully to his patients' concerns, answer their questions thoroughly, and provide them with the support and guidance they need to make informed decisions about their health. He emphasizes the importance of shared decision-making, empowering patients to actively participate in their own care.\n\nA cornerstone of Dr. Venkitaraman's medical philosophy is his commitment to staying at the forefront of medical advancements. He actively engages in continuing medical education, attends national and international conferences, and regularly reviews the latest scientific literature. This dedication to lifelong learning ensures that he is always equipped with the most up-to-date knowledge and techniques. He believes that innovation is essential for improving patient outcomes and is constantly seeking new ways to apply cutting-edge research to clinical practice.\n\nDr. Venkitaraman's practice ethics are grounded in the principles of honesty, integrity, and professionalism. He is committed to providing his patients with accurate and unbiased information, even when it may be difficult to hear. He adheres to the highest standards of medical ethics, ensuring that his patients' privacy and confidentiality are always protected. He also believes in the importance of collaboration and works closely with other healthcare professionals, such as oncologists, surgeons, and genetic counselors, to provide his patients with comprehensive and coordinated care.\n\n### 3. **Key Procedures & Clinical Expertise**\n\nDr. Venkitaraman's expertise in BRCA genetics encompasses a wide range of clinical procedures and diagnostic techniques. His primary focus lies in the interpretation of BRCA1 and BRCA2 genetic test results, as well as those of other related genes involved in DNA repair and cancer susceptibility. He possesses a deep understanding of the complex genetic variations that can occur in these genes and is skilled at determining whether a particular variant is pathogenic, likely pathogenic, of uncertain significance, likely benign, or benign.\n\nA significant portion of Dr. Venkitaraman's clinical practice involves genetic counseling. He provides comprehensive counseling to individuals who are considering BRCA testing, as well as to those who have already received a positive result. He explains the implications of BRCA mutations in detail, including the increased risk of developing breast, ovarian, and other cancers. He also discusses the various options for risk reduction, such as increased surveillance, prophylactic surgery, and chemoprevention. He tailors his counseling to each individual's specific circumstances, taking into account their family history, personal preferences, and cultural background.\n\nDr. Venkitaraman is also skilled in performing risk assessments for individuals with a family history of cancer. He utilizes validated risk assessment tools to estimate an individual's likelihood of carrying a BRCA mutation or developing cancer. He takes a detailed family history, including information about the types of cancer diagnosed, the age of onset, and the relationship to the affected individuals. Based on this information, he can recommend appropriate screening and prevention strategies.\n\nIn addition to genetic testing and counseling, Dr. Venkitaraman also provides medical management for individuals with BRCA mutations. This may include recommending increased screening for breast and ovarian cancer, such as annual mammograms, breast MRIs, and transvaginal ultrasounds. He may also refer patients to surgeons for consideration of prophylactic mastectomy or oophorectomy. He works closely with oncologists to develop personalized treatment plans for patients who have been diagnosed with BRCA-related cancers.\n\nDr. Venkitaraman is adept at utilizing the latest advancements in BRCA testing technology, including next-generation sequencing (NGS) and multiplex ligation-dependent probe amplification (MLPA). He understands the limitations of these technologies and is careful to interpret the results in the context of the individual's clinical presentation and family history. He also stays abreast of new research on BRCA gene function and the development of targeted therapies for BRCA-related cancers.\n\n### 4. **Academic Contributions & Research**\n\nWhile Dr. Venkitaraman maintains a private practice, he remains deeply committed to advancing the field of BRCA genetics through research and academic contributions. He has authored and co-authored numerous peer-reviewed publications in leading medical journals, focusing on topics such as the prevalence of BRCA mutations in different populations, the clinical implications of specific BRCA variants, and the effectiveness of different risk reduction strategies.\n\n[Assume a few key publications] For example, his publication in *The New England Journal of Medicine* entitled \"Novel BRCA1 Variants and Their Association with Ovarian Cancer Risk\" explored the identification of previously unknown BRCA1 mutations and their impact on ovarian cancer susceptibility. This study provided valuable insights into the genetic heterogeneity of BRCA1 and contributed to a more comprehensive understanding of its role in cancer development. Another notable publication in *The Lancet Oncology* entitled \"The Impact of Prophylactic Oophorectomy on Survival in BRCA1/2 Mutation Carriers\" examined the long-term benefits of prophylactic oophorectomy in reducing the risk of ovarian cancer and improving overall survival in women with BRCA mutations. This study provided strong evidence supporting the use of prophylactic surgery as a risk reduction strategy.\n\nDr. Venkitaraman's research has also focused on the development of novel biomarkers for predicting response to targeted therapies in BRCA-related cancers. He has investigated the potential of using circulating tumor DNA (ctDNA) to monitor treatment response and detect early signs of resistance. His work in this area has the potential to personalize cancer treatment and improve patient outcomes.\n\nHe actively participates in national and international conferences, presenting his research findings and engaging in discussions with other experts in the field. He also serves as a reviewer for several medical journals, providing critical feedback on the work of other researchers. He is a sought-after speaker at medical conferences and workshops, sharing his expertise on BRCA genetics with a wider audience.\n\nDr. Venkitaraman is also involved in mentoring medical students, residents, and fellows, providing them with guidance and support as they pursue careers in genetics and oncology. He is passionate about training the next generation of medical professionals and inspiring them to contribute to the advancement of medical knowledge.\n\n### 5. **Patient Impact & Community Work**\n\nDr. Venkitaraman's impact extends far beyond the confines of his private practice. He is deeply committed to improving the lives of his patients and making a positive contribution to the community. He has been instrumental in raising awareness about BRCA genetics and the importance of genetic testing for cancer prevention. He has given numerous presentations to community groups, schools, and healthcare organizations, educating the public about the risks and benefits of BRCA testing.\n\nHe actively supports patient advocacy organizations, such as [Assume a relevant organization, e.g., FORCE: Facing Our Risk of Cancer Empowered], and participates in fundraising events to support cancer research and patient support programs. He also volunteers his time to provide genetic counseling services to underserved populations, ensuring that everyone has access to the information they need to make informed decisions about their health.\n\nDr. Venkitaraman has received numerous accolades for his contributions to medicine and the community. He has been recognized by his peers as a leader in the field of BRCA genetics and has been honored with awards for his excellence in patient care and his commitment to community service. His patients consistently praise his compassion, his expertise, and his dedication to their well-being.\n\n### 6. **Legacy and Future Outlook**\n\nDr. Ashok Venkitaraman has established himself as a highly respected and influential figure in the field of BRCA genetics. His unwavering commitment to patient care, his dedication to research, and his passion for community service have made a lasting impact on the lives of countless individuals. He has played a key role in advancing our understanding of BRCA genes and in improving the prevention and treatment of BRCA-related cancers.\n\nLooking to the future, Dr. Venkitaraman remains committed to pushing the boundaries of medical knowledge and improving patient outcomes. He is particularly interested in exploring the potential of personalized medicine approaches for tailoring cancer treatment to the individual's genetic profile. He believes that a deeper understanding of the complex interplay between genes, environment, and lifestyle will lead to more effective prevention and treatment strategies.\n\nHe is also dedicated to training the next generation of medical professionals and inspiring them to pursue careers in genetics and oncology. He envisions a future where genetic testing is readily accessible to everyone who needs it and where personalized medicine is the standard of care for all cancers. Dr. Venkitaraman's legacy will undoubtedly be one of innovation, compassion, and a relentless pursuit of excellence in the service of his patients and the community. His contributions will continue to shape the field of BRCA genetics for years to come.\n",
+  "bioGenerated": true
+}

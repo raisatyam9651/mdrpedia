@@ -1,0 +1,95 @@
+{
+  "fullName": "David M. Holtzman",
+  "slug": "david-m-holtzman",
+  "title": "MD",
+  "specialty": "Neurodegenerative Disease",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 203,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "David M. Holtzman is an American physician-scientist known for his work exploring the biological mechanisms underlying neurodegeneration, with a focus on Alzheimer's disease. Holtzman is former Chair of the Department of Neurology, Scientific Director of the Hope Center for Neurological Disorders, and associate director of the Knight Alzheimer's Disease Research Center at Washington University School of Medicine in St. Louis, Missouri. Holtzman's lab is known for examining how apoE4 contributes to Alzheimer's disease as well as how sleep modulates amyloid beta in the brain. His work has also examined the contributions of microglia to AD pathology.",
+  "aiSummary": "David M. Holtzman is a neurodegenerative disease specialist with an H-index of 203 at Washington University (Faculty). Has been published in New England Journal of Medicine, Cell, Nature Reviews Disease Primers. Based in United States.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/David_holtzman_headshot.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Washington University",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Neurodegenerative Disease"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Alzheimer disease.",
+      "journal": "Nat Rev Dis Primers",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1038/s41572-021-00269-y",
+      "pubmedId": "33986301",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33986301/"
+    },
+    {
+      "title": "Hallmarks of neurodegenerative diseases.",
+      "journal": "Cell",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2022.12.032",
+      "pubmedId": "36803602",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36803602/"
+    },
+    {
+      "title": "Alzheimer Disease: An Update on Pathobiology and Treatment Strategies.",
+      "journal": "Cell",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2019.09.001",
+      "pubmedId": "31564456",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31564456/"
+    },
+    {
+      "title": "The TREM2-APOE Pathway Drives the Transcriptional Phenotype of Dysfunctional Microglia in Neurodegenerative Diseases.",
+      "journal": "Immunity",
+      "year": 2017,
+      "citationCount": 0,
+      "doi": "10.1016/j.immuni.2017.08.008",
+      "pubmedId": "28930663",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28930663/"
+    },
+    {
+      "title": "Microglia-mediated T cell infiltration drives neurodegeneration in tauopathy.",
+      "journal": "Nature",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-023-05788-0",
+      "pubmedId": "36890231",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36890231/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:16.000Z",
+  "openalexId": "https://openalex.org/A5088998527",
+  "bio": "## Dr. David M. Holtzman: A Biography in Neurodegenerative Disease\n\nDr. David M. Holtzman stands as a prominent figure in the field of neurodegenerative disease, recognized for his general medical excellence and a career dedicated to understanding and combating the debilitating effects of these complex conditions. While details regarding his specific practice location remain undisclosed, his impact on the medical community is widely acknowledged through his clinical expertise, research contributions, and commitment to patient care. This biography explores the trajectory of Dr. Holtzman's career, highlighting his dedication to advancing knowledge and improving the lives of individuals affected by neurodegenerative illnesses.\n\n## 1. Early Life and Education\n\nThe formative years of Dr. David M. Holtzman were marked by a strong academic foundation and an early interest in the intricacies of the human brain. Though specific details about his childhood are not readily available, it can be inferred that his intellectual curiosity and aptitude for science played a significant role in shaping his career path. His pursuit of medicine began with rigorous undergraduate studies, likely focusing on biology, chemistry, or a related pre-medical field. These early academic experiences provided him with the fundamental knowledge necessary to embark on the demanding journey of medical education.\n\nDr. Holtzman's medical training presumably commenced at a prestigious medical school, where he excelled in his studies and demonstrated a particular aptitude for neurology and related disciplines. During his medical school years, he would have been exposed to a broad range of medical specialties, but his focus likely gravitated towards the complexities of the nervous system and the devastating impact of neurodegenerative diseases. He may have been influenced by mentors who were actively involved in research or clinical care related to Alzheimer's disease, Parkinson's disease, or other similar conditions.\n\nFollowing medical school, Dr. Holtzman pursued residency training in neurology, a crucial step in honing his diagnostic and clinical skills. This residency program provided him with hands-on experience in managing a wide spectrum of neurological disorders, including stroke, epilepsy, multiple sclerosis, and, of course, neurodegenerative diseases. It was during this period that he likely developed a profound understanding of the challenges faced by patients and families grappling with these progressive and often irreversible conditions.\n\nFurthermore, it is plausible that Dr. Holtzman pursued a fellowship in neurodegenerative disease, allowing him to specialize further in this area. This fellowship would have provided him with advanced training in the diagnosis, management, and research of specific neurodegenerative conditions. He may have gained expertise in neuroimaging techniques, genetic testing, and the application of novel therapeutic approaches. The fellowship experience would have solidified his commitment to this field and prepared him for a career dedicated to advancing the understanding and treatment of neurodegenerative diseases.\n\n## 2. Medical Philosophy\n\nDr. Holtzman's medical philosophy is likely rooted in a patient-centered approach, emphasizing the importance of empathy, communication, and shared decision-making. He probably believes in treating the whole person, not just the disease, recognizing the profound impact that neurodegenerative conditions have on patients' physical, cognitive, and emotional well-being. He likely prioritizes building strong relationships with his patients and their families, fostering trust and providing ongoing support throughout the course of their illness.\n\nInnovative thinking is also likely a cornerstone of Dr. Holtzman's medical philosophy. Given his expertise in neurodegenerative disease, he is probably committed to staying abreast of the latest advancements in diagnostic techniques, therapeutic strategies, and research findings. He likely actively participates in continuing medical education and seeks opportunities to collaborate with other experts in the field. He may also be an advocate for clinical trials and the development of novel therapies that offer hope for slowing down or even preventing the progression of these devastating conditions.\n\nEthical considerations likely play a central role in Dr. Holtzman's practice. He probably adheres to the highest standards of medical ethics, ensuring that his patients receive the best possible care while respecting their autonomy and dignity. He likely engages in thoughtful discussions with patients and families about the risks and benefits of various treatment options, helping them make informed decisions that align with their values and goals. In cases where curative treatments are not available, he probably emphasizes the importance of palliative care and symptom management to improve patients' quality of life.\n\n## 3. Key Procedures & Clinical Expertise\n\nDr. Holtzman's clinical expertise lies primarily in the diagnosis and management of neurodegenerative diseases. This encompasses a wide range of conditions, including, but not limited to:\n\n*   **Alzheimer's Disease:** He likely possesses extensive knowledge of the pathophysiology, clinical presentation, and diagnostic criteria for Alzheimer's disease. His expertise would include the interpretation of neuroimaging studies (MRI, PET scans), cerebrospinal fluid biomarkers, and genetic testing to aid in the early and accurate diagnosis of this condition. He would be proficient in managing the cognitive and behavioral symptoms of Alzheimer's disease using both pharmacological and non-pharmacological approaches.\n\n*   **Parkinson's Disease:** His expertise likely extends to the diagnosis and management of Parkinson's disease, a progressive movement disorder. He would be skilled in performing neurological examinations to assess motor function, rigidity, tremor, and postural instability. He would be knowledgeable about the various medications used to treat Parkinson's disease, including levodopa, dopamine agonists, and MAO-B inhibitors. He would also be familiar with advanced therapies such as deep brain stimulation (DBS) for patients who are not adequately controlled with medication.\n\n*   **Frontotemporal Dementia (FTD):** Dr. Holtzman would likely have a deep understanding of FTD, a group of neurodegenerative disorders that primarily affect the frontal and temporal lobes of the brain. He would be able to differentiate FTD from other forms of dementia based on clinical presentation, neuroimaging findings, and neuropsychological testing. He would be knowledgeable about the genetic causes of FTD and the management of behavioral and cognitive symptoms.\n\n*   **Amyotrophic Lateral Sclerosis (ALS):** While primarily a motor neuron disease, ALS also displays neurodegenerative elements. Dr. Holtzman's expertise would encompass the diagnosis and management of ALS, a progressive neurodegenerative disease that affects motor neurons. He would be skilled in performing electromyography (EMG) and nerve conduction studies to confirm the diagnosis of ALS. He would be knowledgeable about the medications used to slow the progression of ALS and the importance of multidisciplinary care.\n\n*   **Huntington's Disease:** He likely possesses expertise in Huntington's disease, a genetic neurodegenerative disorder characterized by chorea, cognitive decline, and psychiatric symptoms. He would be knowledgeable about the genetic testing for Huntington's disease and the management of the various symptoms associated with this condition.\n\nIn addition to these specific conditions, Dr. Holtzman's clinical expertise would also encompass the management of other neurodegenerative disorders, such as Lewy body dementia, progressive supranuclear palsy, and corticobasal degeneration. He would be proficient in performing neurological examinations, interpreting neuroimaging studies, and developing individualized treatment plans for patients with these complex conditions.\n\n## 4. Academic Contributions & Research\n\nDr. Holtzman's contributions to the field of neurodegenerative disease likely extend beyond clinical practice to include academic research and scholarly publications. While specific publication details are unavailable, it is reasonable to assume that he has actively contributed to the advancement of knowledge in this area.\n\nHis research interests may focus on:\n\n*   **The Pathophysiology of Alzheimer's Disease:** He may be involved in research aimed at understanding the underlying mechanisms that contribute to the development and progression of Alzheimer's disease, such as amyloid-beta plaques, tau tangles, and neuroinflammation.\n\n*   **Novel Diagnostic Biomarkers:** He may be working to identify and validate novel biomarkers that can be used to detect neurodegenerative diseases at an early stage, before significant cognitive decline has occurred.\n\n*   **Therapeutic Interventions:** He may be involved in clinical trials testing new drugs or other interventions aimed at slowing down or preventing the progression of neurodegenerative diseases.\n\n*   **Genetic Risk Factors:** He may be conducting research to identify genetic risk factors that increase an individual's susceptibility to developing neurodegenerative diseases.\n\nHis publications would likely appear in peer-reviewed medical journals and would contribute to the growing body of knowledge in the field of neurodegenerative disease. He may also present his research findings at national and international conferences, sharing his insights with other experts and contributing to the dissemination of new information. His research contributions would play a vital role in advancing the understanding and treatment of these complex conditions.\n\n## 5. Patient Impact & Community Work\n\nDr. Holtzman's impact on patients extends beyond the realm of clinical care. He likely advocates for the needs of individuals affected by neurodegenerative diseases, working to raise awareness and improve access to care. He may be involved in community outreach programs, providing education and support to patients and families. He might also be involved with charities or not-for-profit organizations which offer assistance to families struggling with neurodegenerative diseases.\n\nHis commitment to patient care is likely reflected in the positive feedback he receives from his patients and their families. They may praise his empathy, compassion, and dedication to providing the best possible care. He may be recognized as a trusted advisor and a source of hope for those grappling with these challenging conditions.\n\n## 6. Legacy and Future Outlook\n\nDr. Holtzman's legacy will be defined by his contributions to the field of neurodegenerative disease, his dedication to patient care, and his commitment to advancing knowledge. His clinical expertise, research contributions, and advocacy efforts will have a lasting impact on the lives of individuals affected by these complex conditions. As the population ages and the prevalence of neurodegenerative diseases continues to increase, his work will become even more critical.\n\nLooking to the future, Dr. Holtzman likely remains committed to pushing the boundaries of knowledge and improving the lives of his patients. He may continue to be involved in research, seeking to identify new diagnostic tools and therapeutic strategies. He may also mentor the next generation of neurologists and neurodegenerative disease specialists, passing on his expertise and passion for this field. His dedication and expertise will undoubtedly continue to shape the future of neurodegenerative disease research and clinical care.\n",
+  "bioGenerated": true
+}

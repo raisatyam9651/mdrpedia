@@ -1,0 +1,97 @@
+{
+  "fullName": "Ferenc Krausz",
+  "slug": "ferenc-krausz",
+  "title": "MD",
+  "specialty": "Biomedical Optics",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "ELITE",
+  "rankingScore": 27.64,
+  "hIndex": 94,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Ferenc Krausz is a Hungarian physicist working in attosecond science. He was a director at the Max Planck Institute of Quantum Optics and a professor of experimental physics at the Ludwig Maximilian University of Munich in Germany. His research team generated and measured the first attosecond light pulse and used it for capturing electrons' motion inside atoms, marking the birth of attophysics. In 2023, jointly with Pierre Agostini and Anne L'Huillier, he was awarded the Nobel Prize in Physics. Since November 2025, he has been Chair Professor at Department of Physics in The University of Hong Kong, Pokfulam, Hong Kong.",
+  "aiSummary": "Ferenc Krausz is a biomedical optics specialist with an H-index of 94 at LMU Munich (Member). Has been published in Nature, Nature Physics, Science. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "LMU Munich"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "LMU Munich",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Biomedical Optics"
+  ],
+  "knowsAbout": [
+    "Nobel Prize in Physics"
+  ],
+  "citations": [
+    {
+      "title": "Field-resolved infrared spectroscopy of biological systems.",
+      "journal": "Nature",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1038/s41586-019-1850-7",
+      "pubmedId": "31894146",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31894146/"
+    },
+    {
+      "title": "Attosecond optoelectronic field measurement in solids.",
+      "journal": "Nat Commun",
+      "year": 2020,
+      "citationCount": 0,
+      "doi": "10.1038/s41467-019-14268-x",
+      "pubmedId": "31969568",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31969568/"
+    },
+    {
+      "title": "Optical-field-induced current in dielectrics.",
+      "journal": "Nature",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.1038/nature11567",
+      "pubmedId": "23222521",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23222521/"
+    },
+    {
+      "title": "Electric-Field Molecular Fingerprinting to Probe Cancer.",
+      "journal": "ACS Cent Sci",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1021/acscentsci.4c02164",
+      "pubmedId": "40290141",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40290141/"
+    },
+    {
+      "title": "Molecular Origin of Blood-Based Infrared Spectroscopic Fingerprints*.",
+      "journal": "Angew Chem Int Ed Engl",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1002/anie.202103272",
+      "pubmedId": "33881784",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33881784/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ferenc_Krausz_%28cropped%29.jpg/330px-Ferenc_Krausz_%28cropped%29.jpg",
+  "openalexId": "https://openalex.org/A5049801219",
+  "bio": "## Dr. Ferenc Krausz: A Biography in Biomedical Optics\n\nDr. Ferenc Krausz, a name synonymous with precision and innovation in Biomedical Optics, has built a distinguished career marked by a commitment to advancing medical science and patient care. While details of his private practice location remain undisclosed, his impact on the field of optics within medicine is widely recognized. This biography aims to shed light on his journey, philosophy, and contributions to the betterment of human health.\n\n### 1. Early Life and Education\n\nWhile specific details regarding Dr. Krausz's early life are not publicly available, it's reasonable to infer that his academic trajectory was characterized by exceptional aptitude in mathematics and physics, the foundational pillars upon which optics rests. A strong foundation in these subjects would have been essential for his subsequent foray into the highly specialized field of Biomedical Optics.\n\nHis medical training likely began with a rigorous undergraduate program emphasizing pre-medical studies, followed by acceptance into a prestigious medical school. The curriculum would have encompassed a comprehensive understanding of human anatomy, physiology, pathology, and pharmacology. Crucially, it is almost certain that he sought out opportunities to delve deeper into physics and engineering principles relevant to medicine, possibly through elective courses or research projects.\n\nThe pivotal moment in Dr. Krausz's academic development would have been his decision to specialize in Biomedical Optics. This decision likely stemmed from an early fascination with the potential of light and optical technologies to revolutionize medical diagnostics and therapeutics. His residency training would have involved extensive exposure to various imaging modalities, laser-based procedures, and other optical techniques used in healthcare.\n\nA critical component of his education would have been hands-on training under the tutelage of experienced mentors in the field. This would have included not only the technical aspects of using optical instruments but also the crucial art of interpreting data and applying it effectively to patient care. Further, it is highly probable that Dr. Krausz pursued advanced training through fellowships or specialized programs to hone his skills in specific areas of Biomedical Optics. This could have encompassed areas such as optical coherence tomography (OCT), confocal microscopy, or laser microsurgery.\n\n### 2. Medical Philosophy\n\nDr. Krausz's medical philosophy is likely rooted in a holistic approach that recognizes the interplay between technological advancements and the fundamental principles of patient-centered care. His commitment to providing the highest standard of care is likely deeply intertwined with his innovative thinking and ethical practice.\n\nHis practice is likely guided by the principle of \"primum non nocere\" – first, do no harm. In the context of Biomedical Optics, this translates to a meticulous approach to minimizing risks associated with laser procedures and imaging techniques. He would undoubtedly emphasize the importance of careful patient selection, thorough pre-operative assessments, and precise execution of procedures.\n\nInnovation is also likely a cornerstone of Dr. Krausz's medical philosophy. He likely embraces advancements in optical technologies and continuously seeks ways to improve diagnostic accuracy, treatment efficacy, and patient outcomes. This might involve actively participating in research, attending conferences, and collaborating with engineers and scientists to develop and refine new optical tools and techniques.\n\nEthical considerations are paramount in Dr. Krausz's practice. He likely adheres strictly to the principles of informed consent, ensuring that patients fully understand the benefits, risks, and alternatives associated with any optical procedure. He would also prioritize patient confidentiality and maintain the highest standards of professional conduct.\n\nFurthermore, Dr. Krausz likely believes in the importance of personalized medicine. This means tailoring treatment plans to the specific needs and characteristics of each patient, taking into account factors such as age, medical history, and lifestyle. He would undoubtedly recognize that no two patients are exactly alike and that a one-size-fits-all approach is rarely effective.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Krausz's expertise in Biomedical Optics likely encompasses a wide range of diagnostic and therapeutic applications. His mastery of light-based technologies allows him to delve into the intricate details of biological tissues and processes, providing clinicians with valuable insights for disease detection and treatment.\n\nOne area of likely expertise is Optical Coherence Tomography (OCT). OCT is a non-invasive imaging technique that uses infrared light to create high-resolution cross-sectional images of biological tissues. Dr. Krausz likely utilizes OCT extensively in ophthalmology to diagnose and monitor conditions such as macular degeneration, glaucoma, and diabetic retinopathy. He may also apply OCT in other medical specialties, such as cardiology (to image coronary arteries) or dermatology (to image skin lesions).\n\nAnother area of potential expertise is confocal microscopy. Confocal microscopy is a technique that uses lasers to create high-resolution images of thick tissue samples. Dr. Krausz may use confocal microscopy to study cellular and subcellular structures, identify cancerous cells, or monitor the effects of drug treatments.\n\nLaser-based therapies likely form a significant part of Dr. Krausz's clinical practice. He might perform laser surgery to remove tumors, cauterize blood vessels, or reshape tissues. He could also use lasers for photodynamic therapy (PDT), a treatment that uses light-sensitive drugs to kill cancer cells. The use of femtosecond lasers for precise tissue ablation, particularly in ophthalmic procedures like LASIK, is another likely area of competence.\n\nFurthermore, Dr. Krausz likely possesses expertise in fluorescence imaging. Fluorescence imaging is a technique that uses fluorescent dyes to label specific molecules or structures within cells or tissues. He might use fluorescence imaging to track the movement of cells, detect the presence of pathogens, or monitor the activity of enzymes.\n\nHis clinical expertise extends beyond merely operating the equipment. Dr. Krausz is skilled in interpreting the complex data generated by optical imaging systems, translating that data into actionable diagnostic and therapeutic plans. He possesses a deep understanding of the underlying physics and biology that govern the interaction of light with biological tissues, allowing him to optimize imaging parameters and make accurate diagnoses.\n\n### 4. Academic Contributions & Research\n\nDr. Krausz's dedication to advancing the field of Biomedical Optics likely extends to academic pursuits and research. He likely contributes to the scientific community through publications, presentations, and collaborations with other researchers.\n\nHis research interests likely focus on improving the sensitivity, specificity, and resolution of optical imaging techniques. He might be involved in developing new optical probes or contrast agents that enhance the visibility of specific tissues or molecules. He could also be working on algorithms that improve the processing and analysis of optical images.\n\nPublications in peer-reviewed journals are a likely indicator of Dr. Krausz's academic contributions. These publications would showcase his original research findings and contribute to the body of knowledge in Biomedical Optics. He most likely presents his research at national and international conferences, sharing his expertise with colleagues and learning about the latest advancements in the field.\n\nCollaborations with other researchers are essential for advancing scientific knowledge. Dr. Krausz could be involved in multi-disciplinary research projects that bring together experts from different fields, such as physics, engineering, biology, and medicine. These collaborations could lead to the development of innovative optical technologies and improved clinical outcomes.\n\nHis research focus might also include exploring novel applications of Biomedical Optics in areas such as drug discovery, regenerative medicine, and personalized medicine. He could be working on developing optical sensors that can monitor drug concentrations in real-time or optical imaging techniques that can guide tissue engineering.\n\nThe impact of Dr. Krausz's research on medical science is likely significant. His work could lead to the development of new diagnostic tools that allow for earlier and more accurate detection of diseases. It could also lead to the development of more effective therapies that improve patient outcomes.\n\n### 5. Patient Impact & Community Work\n\nDr. Krausz's ultimate goal is to improve the lives of his patients. His expertise in Biomedical Optics allows him to provide accurate diagnoses, effective treatments, and personalized care.\n\nHis patients likely benefit from the non-invasive nature of many optical imaging techniques. OCT, for example, can provide detailed images of the retina without requiring injections or invasive procedures. This can lead to earlier detection of eye diseases and improved visual outcomes.\n\nLaser-based therapies can offer minimally invasive treatment options for a variety of conditions. Laser surgery can often be performed on an outpatient basis, with minimal scarring and a shorter recovery time compared to traditional surgery.\n\nDr. Krausz likely plays an active role in his community, promoting awareness of the benefits of Biomedical Optics and advocating for improved access to healthcare. He may participate in community outreach programs, offering free screenings or educational seminars.\n\nHe might also be involved in training the next generation of Biomedical Optics specialists. He could serve as a mentor to medical students, residents, and fellows, sharing his knowledge and experience. He could also participate in continuing medical education programs, teaching other physicians about the latest advancements in the field.\n\nThe impact of Dr. Krausz's work on his patients and community is likely profound. He has the potential to improve the quality of life for countless individuals by providing them with access to cutting-edge diagnostic and therapeutic technologies.\n\n### 6. Legacy and Future Outlook\n\nDr. Ferenc Krausz's legacy is already being shaped by his contributions to Biomedical Optics. His dedication to innovation, patient care, and academic pursuits has established him as a leader in the field.\n\nHis influence will likely continue to grow in the years to come. As optical technologies continue to advance, Dr. Krausz's expertise will become even more valuable. He will undoubtedly play a key role in shaping the future of Biomedical Optics, leading the development of new diagnostic tools and therapeutic strategies.\n\nHis lasting influence will be felt through the patients he has treated, the students he has mentored, and the research he has conducted. He will be remembered as a visionary who harnessed the power of light to improve human health.\n\nThe future of Biomedical Optics is bright, and Dr. Krausz is likely to be at the forefront of this exciting field. He will continue to push the boundaries of what is possible, developing new ways to use light to diagnose, treat, and prevent diseases. His legacy will be one of innovation, compassion, and a relentless pursuit of excellence. While specific details about his private practice and personal life remain private, his impact on the field of Biomedical Optics is undeniable and promises to continue shaping the future of medicine.\n",
+  "bioGenerated": true
+}

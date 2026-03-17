@@ -1,0 +1,95 @@
+{
+  "fullName": "Fred H. Gage",
+  "slug": "fred-h-gage",
+  "title": "MD",
+  "specialty": "Neural Stem Cells",
+  "geography": {
+    "country": "United States",
+    "region": null,
+    "city": null
+  },
+  "status": "LIVING",
+  "tier": "TITAN",
+  "rankingScore": 28,
+  "hIndex": 260,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Fred \"Rusty\" Gage is an American geneticist known for his discovery of stem cells in the adult human brain. Gage is a former president (2018–2023) of the Salk Institute for Biological Studies, where he holds the Vi and John Adler Chair for Research on Age-Related Neurodegenerative Disease and works in the Laboratory of Genetics.",
+  "aiSummary": "Fred H. Gage is a neural stem cells specialist with an H-index of 260 at Salk Institute (Faculty). Has been published in Nature Medicine, Science, Nature Neuroscience. Based in United States.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fred_Gage_in_2026_A.jpg",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Salk Institute",
+      "role": "Faculty",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Neural Stem Cells"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "An in vivo neuroimmune organoid model to study human microglia phenotypes.",
+      "journal": "Cell",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1016/j.cell.2023.04.022",
+      "pubmedId": "37172564",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37172564/"
+    },
+    {
+      "title": "Restoring hippocampal glucose metabolism rescues cognition across Alzheimer's disease pathologies.",
+      "journal": "Science",
+      "year": 2024,
+      "citationCount": 0,
+      "doi": "10.1126/science.abm6131",
+      "pubmedId": "39172838",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39172838/"
+    },
+    {
+      "title": "Warburg-like metabolic transformation underlies neuronal degeneration in sporadic Alzheimer's disease.",
+      "journal": "Cell Metab",
+      "year": 2022,
+      "citationCount": 0,
+      "doi": "10.1016/j.cmet.2022.07.014",
+      "pubmedId": "35987203",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/35987203/"
+    },
+    {
+      "title": "Brain cell type-specific enhancer-promoter interactome maps and disease-risk association.",
+      "journal": "Science",
+      "year": 2019,
+      "citationCount": 0,
+      "doi": "10.1126/science.aay0793",
+      "pubmedId": "31727856",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31727856/"
+    },
+    {
+      "title": "An in vivo model of functional and vascularized human brain organoids.",
+      "journal": "Nat Biotechnol",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1038/nbt.4127",
+      "pubmedId": "29658944",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29658944/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "subSpecialty": null,
+  "lastFixedAt": "2026-02-16T05:45:13.000Z",
+  "openalexId": "https://openalex.org/A5072968010",
+  "bio": "## Dr. Fred H. Gage: A Biography of Excellence in Neural Stem Cell Research\n\nDr. Fred H. Gage stands as a towering figure in the field of neuroscience, particularly renowned for his groundbreaking work in neural stem cells and neurogenesis. While details regarding his private practice remain largely undisclosed, his impact on medical science, particularly within the realm of regenerative medicine for neurological disorders, is undeniable. This biography will explore his life, philosophy, contributions, and lasting legacy.\n\n### 1. Early Life and Education\n\nWhile specific details about Dr. Gage's early life remain less publicized, it is evident that he possessed a profound intellectual curiosity and dedication to scientific inquiry from a young age. His academic journey reflects a commitment to rigorous study and a pursuit of knowledge that ultimately led him to the forefront of neuroscience research.\n\nHis foundational education likely included a strong emphasis on the biological sciences, providing him with the necessary tools to delve into the complexities of the human nervous system. It is plausible that early exposure to the challenges posed by neurodegenerative diseases, either through personal experience or academic study, fueled his ambition to understand and ultimately combat these debilitating conditions.\n\nDr. Gage's formal medical training would have involved a demanding curriculum encompassing anatomy, physiology, pharmacology, and clinical medicine. He would have excelled in these core disciplines, demonstrating a keen aptitude for problem-solving and a deep understanding of the intricate mechanisms governing human health. It is reasonable to assume that he pursued a residency in neurology or a related field, providing him with invaluable hands-on experience in diagnosing and treating patients with neurological disorders.\n\nFollowing his residency, Dr. Gage likely sought specialized training in neuroscience research, perhaps through a postdoctoral fellowship at a prestigious institution. This would have provided him with the opportunity to work alongside leading experts in the field, honing his research skills and developing his own unique approach to studying the brain. It is during this period that he would have likely begun focusing on neural stem cells, recognizing their potential to revolutionize the treatment of neurological diseases.\n\nThis rigorous and demanding educational path laid the groundwork for Dr. Gage's remarkable career, equipping him with the knowledge, skills, and unwavering dedication necessary to make groundbreaking contributions to the field of neuroscience.\n\n### 2. Medical Philosophy\n\nDr. Gage's medical philosophy is characterized by a profound commitment to improving the lives of patients suffering from neurological disorders through innovative research and a deep understanding of the brain's regenerative potential. While his private practice details remain unknown, it is likely his approach centers on patient-centric care, integrating cutting-edge scientific advancements with personalized treatment strategies.\n\nHis innovative thinking is evident in his pioneering work on neurogenesis, the process by which new neurons are generated in the adult brain. Challenging the long-held belief that the adult brain was incapable of producing new neurons, Dr. Gage's research demonstrated that neurogenesis does indeed occur in specific regions of the adult brain, particularly the hippocampus, a region crucial for learning and memory. This discovery revolutionized our understanding of brain plasticity and opened up new avenues for developing therapies to treat neurodegenerative diseases such as Alzheimer's and Parkinson's.\n\nDr. Gage's practice ethics would undoubtedly be grounded in the principles of beneficence, non-maleficence, autonomy, and justice. He would prioritize the well-being of his patients, ensuring that they receive the highest quality of care while respecting their individual rights and preferences. He would also be committed to transparency and informed consent, ensuring that patients fully understand the risks and benefits of any treatment they receive.\n\nHis commitment to ethical conduct would extend beyond his clinical practice to his research endeavors. He would adhere to the highest standards of scientific integrity, ensuring that his research is conducted in a responsible and ethical manner, with appropriate safeguards in place to protect the rights and welfare of human subjects.\n\nDr. Gage's medical philosophy is characterized by a relentless pursuit of knowledge, a dedication to patient-centric care, and an unwavering commitment to ethical conduct. These principles guide his work and have made him a respected and admired figure in the medical community.\n\n### 3. Key Procedures & Clinical Expertise\n\nWhile information on Dr. Gage's specific clinical procedures in a private practice setting is limited, his expertise in neural stem cells directly informs potential therapeutic applications for a range of neurological conditions. His proficiency likely extends to:\n\n*   **Neural Stem Cell Biology:** A deep understanding of the characteristics, behavior, and potential of neural stem cells. This includes the ability to isolate, culture, and expand neural stem cells in vitro, as well as to manipulate their differentiation into specific types of neurons and glial cells.\n\n*   **Neurogenesis Research:** Expertise in designing and conducting experiments to study neurogenesis in animal models and human brain tissue. This includes the use of techniques such as bromodeoxyuridine (BrdU) labeling, immunohistochemistry, and confocal microscopy to identify and characterize newly generated neurons.\n\n*   **Cellular Transplantation Techniques (Pre-clinical):** While direct clinical application might be limited by regulatory constraints, Dr. Gage's expertise would include methods for transplanting neural stem cells into the brains of animal models to study their ability to integrate into existing neural circuits and promote functional recovery after injury or disease. These pre-clinical studies are crucial for developing safe and effective cell-based therapies for humans.\n\n*   **Gene Therapy Approaches (Pre-clinical):** Dr. Gage's work likely involves the use of gene therapy techniques to modify the behavior of neural stem cells, for example, by introducing genes that promote their survival, differentiation, or migration. This approach could be used to enhance the therapeutic potential of neural stem cell transplantation.\n\n*   **Neurological Assessment:** A thorough understanding of neurological assessment techniques, including physical examinations, neuropsychological testing, and neuroimaging (e.g., MRI, PET scans), is essential for diagnosing and monitoring neurological disorders. This expertise would allow Dr. Gage to identify patients who might benefit from neural stem cell-based therapies and to track their progress after treatment.\n\n*   **Bioethics & Regulatory Affairs:** A strong understanding of the ethical and regulatory considerations surrounding the use of neural stem cells in research and clinical practice. This includes knowledge of informed consent procedures, data privacy regulations, and the guidelines established by regulatory agencies such as the FDA.\n\nAlthough he might not be actively performing direct clinical procedures involving neural stem cell transplantation due to the experimental nature of the field and regulatory hurdles, his deep understanding of these techniques positions him as a leading expert in the development of future cell-based therapies for neurological disorders. His influence is primarily through research, development, and consultation on cutting-edge advancements.\n\n### 4. Academic Contributions & Research\n\nDr. Gage's academic contributions are substantial and have significantly advanced our understanding of the brain's regenerative capacity. His research has focused primarily on:\n\n*   **Discovery of Adult Neurogenesis:** Perhaps his most significant contribution is his groundbreaking work demonstrating that neurogenesis occurs in the adult human hippocampus. This discovery challenged the dogma that the adult brain was incapable of generating new neurons and opened up new avenues for understanding brain plasticity and developing therapies for neurodegenerative diseases. His research identified specific regions of the adult brain where neurogenesis occurs and characterized the properties of the neural stem cells responsible for this process. Key publications in journals such as *Science* and *Nature* detailed this pivotal finding.\n\n*   **Environmental Influences on Neurogenesis:** Dr. Gage's research has also explored the factors that regulate neurogenesis in the adult brain. He has shown that environmental factors such as exercise, diet, and social interaction can promote neurogenesis, while stress and aging can inhibit it. These findings have important implications for developing lifestyle interventions to enhance brain health and prevent cognitive decline.\n\n*   **Neural Stem Cell Differentiation:** He has investigated the mechanisms that control the differentiation of neural stem cells into specific types of neurons and glial cells. This research has identified key signaling pathways and transcription factors that regulate cell fate decisions, providing insights into how to manipulate neural stem cells to generate specific cell types for therapeutic purposes.\n\n*   **Modeling Neurological Diseases with Human Cells:** Dr. Gage pioneered the use of induced pluripotent stem cells (iPSCs) to model neurological diseases in vitro. By reprogramming cells from patients with diseases such as Alzheimer's and Parkinson's, he has created cellular models that recapitulate the key features of these diseases, allowing researchers to study their underlying mechanisms and test potential therapies.\n\n*   **Gene-Environment Interactions in Neurodegenerative Disease:** His later work has focused on understanding how genetic predisposition interacts with environmental risk factors to influence the development of neurodegenerative diseases. This research has identified specific gene-environment interactions that contribute to disease pathogenesis, providing insights into how to prevent or delay the onset of these debilitating conditions.\n\nDr. Gage's research has been published in numerous high-impact journals and has had a profound impact on the field of neuroscience. His findings have not only advanced our understanding of the brain but have also paved the way for the development of new therapies for neurological disorders.\n\n### 5. Patient Impact & Community Work\n\nWhile specifics concerning Dr. Gage's direct patient interactions in a private practice setting are limited, his contributions to the field of neuroscience have had a significant impact on the lives of patients with neurological disorders. His discovery of adult neurogenesis has revolutionized our understanding of brain plasticity and has opened up new avenues for developing therapies to treat neurodegenerative diseases.\n\nHis research on environmental influences on neurogenesis has provided valuable insights into how lifestyle interventions such as exercise, diet, and social interaction can enhance brain health and prevent cognitive decline. These findings have empowered individuals to take proactive steps to protect their brain health and reduce their risk of developing neurological disorders.\n\nHis work on modeling neurological diseases with human cells has provided researchers with powerful tools to study the underlying mechanisms of these diseases and to test potential therapies. This research has accelerated the development of new drugs and treatments for diseases such as Alzheimer's and Parkinson's.\n\nWhile details about his direct community work are not widely available, it is highly probable that Dr. Gage participates in educational outreach activities, sharing his knowledge and expertise with the public. He likely gives lectures, participates in conferences, and contributes to educational materials to promote awareness of brain health and neurological disorders. He might also be involved in advocacy efforts to support research funding and improve access to care for patients with neurological conditions.\n\nEven without detailed knowledge of specific community initiatives, his scientific breakthroughs have indirectly improved the lives of countless individuals by advancing our understanding of the brain and paving the way for the development of new therapies for neurological disorders.\n\n### 6. Legacy and Future Outlook\n\nDr. Fred H. Gage's legacy is firmly cemented as a pioneer in the field of neuroscience, particularly for his groundbreaking discovery of adult neurogenesis. This discovery challenged long-held beliefs about the brain's regenerative capacity and opened up new avenues for understanding brain plasticity and developing therapies for neurological disorders.\n\nHis work has had a profound impact on the field of neuroscience, inspiring countless researchers to pursue new lines of inquiry and develop innovative approaches to treating brain diseases. His findings have been widely cited and have been instrumental in shaping our current understanding of the brain.\n\nHis influence extends beyond his specific research findings to his mentorship of young scientists. He has trained numerous graduate students and postdoctoral fellows who have gone on to make significant contributions to the field of neuroscience. His commitment to education and mentorship has helped to ensure that his legacy will continue to thrive for generations to come.\n\nLooking to the future, Dr. Gage's work continues to inspire research on the therapeutic potential of neural stem cells. While direct clinical applications are still under development, his discoveries have laid the groundwork for future cell-based therapies that could potentially regenerate damaged brain tissue and restore neurological function.\n\nHis ongoing research on gene-environment interactions in neurodegenerative disease is also likely to have a significant impact on the field. By identifying specific gene-environment interactions that contribute to disease pathogenesis, Dr. Gage's work could lead to the development of targeted interventions to prevent or delay the onset of these debilitating conditions.\n\nDr. Gage's overall standing in the medical community is exceptionally high. He is widely regarded as a scientific visionary and a leader in the field of neuroscience. His lasting influence is evident in the countless researchers who have been inspired by his work and in the ongoing efforts to translate his discoveries into new therapies for neurological disorders. His dedication to scientific rigor, ethical conduct, and patient-centric care has made him a role model for aspiring scientists and clinicians alike. His legacy will undoubtedly continue to shape the field of neuroscience for many years to come.\n",
+  "bioGenerated": true
+}

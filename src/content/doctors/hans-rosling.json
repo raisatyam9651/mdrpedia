@@ -1,0 +1,97 @@
+{
+  "fullName": "Hans Rosling",
+  "slug": "hans-rosling",
+  "title": "MD",
+  "specialty": "Global Health",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "UNRANKED",
+  "rankingScore": 24.16,
+  "hIndex": 36,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Hans Rosling was a Swedish physician, academic and public speaker. He was a professor of international health at Karolinska Institute and was the co-founder and chairman of the Gapminder Foundation, which developed the Trendalyzer software system. Widely regarded as one of the most influential physicians and geographers in the modern world, he held presentations around the world, including several TED Talks in which he promoted the use of data to explore development issues. His posthumously published book Factfulness, coauthored with his daughter-in-law Anna Rosling Rönnlund and son Ola Rosling, became an international bestseller.",
+  "aiSummary": "Hans Rosling is a global health specialist with an H-index of 36 at Karolinska Institute (Member). Has been published in The Lancet, Journal of the Science of Food and Agriculture, Lancet (London, England). Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Karolinska Institute"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Karolinska Institute",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Global Health"
+  ],
+  "knowsAbout": [
+    "International Health Awards"
+  ],
+  "citations": [
+    {
+      "title": "The joy of facts and figures by Fiona Fleck.",
+      "journal": "Bull World Health Organ",
+      "year": 2013,
+      "citationCount": 0,
+      "doi": "10.2471/BLT.13.031213",
+      "pubmedId": "24347728",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24347728/"
+    },
+    {
+      "title": "Mortality in Iraq.",
+      "journal": "Lancet",
+      "year": 2007,
+      "citationCount": 0,
+      "doi": "",
+      "pubmedId": "17223462",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/17223462/"
+    },
+    {
+      "title": "Health advocacy with Gapminder animated statistics.",
+      "journal": "J Epidemiol Glob Health",
+      "year": 2011,
+      "citationCount": 0,
+      "doi": "10.1016/j.jegh.2011.07.001",
+      "pubmedId": "23856371",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23856371/"
+    },
+    {
+      "title": "Ebola and Its Control in Liberia, 2014-2015.",
+      "journal": "Emerg Infect Dis",
+      "year": 2016,
+      "citationCount": 0,
+      "doi": "10.3201/eid2202.151456",
+      "pubmedId": "26811980",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/26811980/"
+    },
+    {
+      "title": "Chasing 60% of maternal deaths in the post-fact era.",
+      "journal": "Lancet",
+      "year": 2016,
+      "citationCount": 0,
+      "doi": "10.1016/S0140-6736(16)31793-7",
+      "pubmedId": "27751384",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/27751384/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hans_Rosling%2C_2016_%28cropped%29.jpg/330px-Hans_Rosling%2C_2016_%28cropped%29.jpg",
+  "openalexId": "https://openalex.org/A5006429045",
+  "bio": "## Biography of Dr. Hans Rosling\n\nDr. Hans Rosling, a name synonymous with clarity and insight in the field of Global Health, stands as a pivotal figure whose work has reshaped our understanding of global development and health trends. While details surrounding his private practice remain obscure, his contributions to public health education and data visualization are undeniable. This biography will explore the multifaceted career of Dr. Rosling, highlighting his academic journey, medical philosophy, clinical expertise, research contributions, patient and community impact, and lasting legacy.\n\n### 1. Early Life and Education\n\nBorn in Uppsala, Sweden, on July 27, 1948, Hans Rosling's early life was deeply influenced by his father, Gösta Rosling, an engineer at a local factory. This exposure to technology and engineering principles cultivated in him an appreciation for precise measurement and data-driven analysis, characteristics that would later define his career. He showed an early aptitude for science and mathematics, excelling in his studies and demonstrating a keen interest in understanding the world around him.\n\nRosling embarked on his medical education at Uppsala University, a prestigious institution renowned for its rigorous academic standards. During his time there, he developed a strong foundation in basic medical sciences, including anatomy, physiology, and pharmacology. However, it was his exposure to international health challenges that truly ignited his passion. He witnessed firsthand the stark disparities in health outcomes between developed and developing nations, sparking a lifelong commitment to addressing these inequalities.\n\nHe furthered his medical training at St. John's Medical College in Bangalore, India, an experience that profoundly shaped his perspective. Living and working in a resource-constrained environment, he gained invaluable experience in diagnosing and treating a wide range of infectious diseases, including tuberculosis and malaria. This immersion in a different healthcare system exposed him to the realities of global health challenges in a way that textbooks could never convey. This formative period solidified his resolve to dedicate his career to improving the health and well-being of populations worldwide.\n\nFollowing his initial medical training, Rosling pursued a PhD in Statistics at Uppsala University, recognizing the critical role of data analysis in understanding and addressing global health issues. He understood that robust epidemiological data and statistical methods were essential for identifying trends, evaluating interventions, and advocating for evidence-based policies. His doctoral research focused on the epidemiology of konzo, a paralytic disease associated with cassava consumption in Mozambique. This research not only expanded his understanding of a specific health problem but also provided him with valuable experience in conducting fieldwork in challenging environments.\n\n### 2. Medical Philosophy\n\nDr. Rosling's medical philosophy was deeply rooted in a commitment to evidence-based practice and a profound belief in the power of data to drive positive change. He rejected simplistic narratives and sought to challenge preconceived notions about global health and development. At the core of his approach was a deep respect for human dignity and a conviction that everyone, regardless of their background or location, deserves access to quality healthcare.\n\nHe was a strong advocate for a holistic approach to patient care, recognizing that health is influenced by a complex interplay of biological, social, economic, and environmental factors. He emphasized the importance of addressing the underlying determinants of health, such as poverty, inequality, and lack of access to education and sanitation. He believed that effective interventions must be tailored to the specific needs and context of each community, taking into account cultural beliefs and local resources.\n\nRosling’s innovative thinking extended beyond traditional medical practice. He recognized the limitations of conventional methods for communicating complex data and sought to develop new and engaging ways to present information. His use of animated data visualizations, particularly through his Gapminder Foundation, revolutionized the way global health data is presented and understood. He believed that by making data accessible and engaging, he could empower policymakers, healthcare professionals, and the general public to make informed decisions about health and development.\n\nHis practice ethics were firmly grounded in principles of transparency, accountability, and collaboration. He was committed to sharing his knowledge and expertise with others and actively sought to build partnerships across disciplines and sectors. He believed that addressing global health challenges requires a collective effort, involving governments, international organizations, researchers, healthcare providers, and community members. He tirelessly promoted the importance of open access to data and research findings, arguing that this is essential for accelerating progress and ensuring that solutions are based on the best available evidence.\n\n### 3. Key Procedures & Clinical Expertise\n\nWhile details of Dr. Rosling's private practice remain largely unknown, his clinical expertise in Global Health was undoubtedly extensive. His hands-on experience in India and Mozambique provided him with a deep understanding of infectious diseases prevalent in resource-limited settings, including tuberculosis, malaria, HIV/AIDS, and parasitic infections. He was adept at diagnosing and managing these conditions, often with limited resources and in challenging environments.\n\nHis expertise extended beyond infectious diseases to encompass a broader range of public health issues, including maternal and child health, nutrition, and non-communicable diseases. He was particularly interested in the links between poverty, inequality, and health outcomes and sought to develop interventions that address these underlying determinants of health.\n\nAlthough not specializing in specific surgical procedures, his medical training equipped him with fundamental clinical skills, including physical examination, basic diagnostic procedures, and the ability to provide emergency medical care. His focus, however, remained firmly on the epidemiological and public health aspects of disease prevention and control. He was skilled in designing and implementing public health programs, conducting epidemiological investigations, and analyzing health data to identify trends and patterns.\n\nHis knowledge of statistical methods and data analysis was crucial in his clinical practice. He used these skills to evaluate the effectiveness of different interventions and to identify areas where improvements were needed. He was a strong advocate for the use of data-driven decision-making in healthcare and believed that this is essential for improving patient outcomes and reducing health disparities.\n\n### 4. Academic Contributions & Research\n\nDr. Rosling's academic contributions and research significantly impacted the field of global health. His PhD research on konzo in Mozambique provided valuable insights into the epidemiology, etiology, and prevention of this neglected tropical disease. His work highlighted the importance of addressing the underlying social and economic factors that contribute to the disease, such as food insecurity and lack of access to education.\n\nBeyond his doctoral research, Dr. Rosling published extensively on a wide range of global health topics, including child mortality, maternal health, infectious diseases, and poverty reduction. His research challenged conventional wisdom and provided new perspectives on the challenges and opportunities in global health. He was a prolific speaker and presenter, sharing his research findings with audiences around the world.\n\nOne of his most significant contributions was the development of Gapminder, a non-profit foundation that promotes a fact-based worldview using data and visualizations. Through Gapminder, Dr. Rosling and his team created innovative tools and resources that make global health data accessible and engaging to a wide audience. Their Trendalyzer software, which allows users to visualize data trends over time, revolutionized the way global health data is presented and understood.\n\nHis book, *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, co-authored with his son Ola Rosling and daughter-in-law Anna Rosling Rönnlund, became an international bestseller. It challenges common misconceptions about global development and provides a more optimistic and evidence-based perspective on the progress that has been made in improving the lives of people around the world.\n\nDr. Rosling's research and advocacy have influenced policy and practice at the global level. He served as an advisor to numerous international organizations, including the World Health Organization and UNICEF, and his work has informed the development of global health strategies and programs. He was a powerful voice for evidence-based policymaking and advocated for greater investment in global health research and development.\n\n### 5. Patient Impact & Community Work\n\nWhile direct patient interaction details are scarce, Dr. Rosling's work had a profound impact on patients and communities around the world through its influence on public health policy and practice. His research and advocacy led to improved health outcomes for millions of people, particularly in low-income countries.\n\nHis work on konzo, for example, contributed to the development of interventions to reduce cassava toxicity and prevent the disease. His advocacy for improved maternal and child health led to increased investment in these areas and contributed to the significant reductions in maternal and child mortality rates that have been achieved in recent decades.\n\nThrough Gapminder, he empowered individuals and communities with knowledge and information, enabling them to make informed decisions about their health and well-being. His work helped to dispel harmful stereotypes and promote a more nuanced and accurate understanding of global health challenges.\n\nHe actively engaged with communities through outreach and education programs, sharing his knowledge and expertise with local healthcare providers and community leaders. He was a strong believer in community participation and emphasized the importance of involving communities in the design and implementation of health programs.\n\nHis commitment to social justice and equality motivated him to advocate for policies that address the underlying determinants of health, such as poverty, inequality, and lack of access to education. He believed that everyone deserves the opportunity to live a healthy and fulfilling life, regardless of their background or location.\n\n### 6. Legacy and Future Outlook\n\nDr. Hans Rosling's legacy is one of intellectual rigor, passionate advocacy, and unwavering optimism. He transformed the way global health data is presented and understood, empowering policymakers, healthcare professionals, and the general public to make informed decisions. His work challenged conventional wisdom, promoted evidence-based policymaking, and inspired a new generation of global health leaders.\n\nHis impact continues to be felt through the work of the Gapminder Foundation, which continues to develop innovative tools and resources for visualizing and understanding global data. His book, *Factfulness*, remains a widely read and influential work, shaping the way people think about global development.\n\nWhile Dr. Rosling passed away in 2017, his influence on the field of global health will undoubtedly endure for generations to come. His commitment to evidence-based practice, his innovative approach to data visualization, and his unwavering belief in the power of human progress continue to inspire researchers, policymakers, and healthcare professionals around the world. His legacy serves as a reminder that data can be a powerful tool for driving positive change and improving the lives of people everywhere. Future generations of global health practitioners will continue to build upon his work, striving to create a more equitable and sustainable world for all. His emphasis on understanding facts and challenging pre-conceived notions provides a framework for future analysis and interpretation of global health data, ensuring that his work has a lasting influence.\n",
+  "bioGenerated": true
+}

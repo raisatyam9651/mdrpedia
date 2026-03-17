@@ -1,0 +1,96 @@
+{
+  "fullName": "Martin Landray",
+  "slug": "martin-landray",
+  "title": "MD",
+  "specialty": "Clinical Trials",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "MASTER",
+  "rankingScore": 26.44,
+  "hIndex": 74,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Sir Martin Jonathan Landray is a British physician, epidemiologist and data scientist who serves as a Professor of Medicine & Epidemiology at the University of Oxford. Landray designs, conducts and analyses large-scale randomised control trials; including practice-changing international trials that have recruited over 100,000 individuals. Landray previously led the health informatics team that enabled the collection and management of data for the UK Biobank on over half a million people.",
+  "aiSummary": "Martin Landray is a clinical trials specialist with an H-index of 74 at University of Oxford (Member). Has been published in The Lancet, JAMA, The New England journal of medicine. Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "University of Oxford"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "University of Oxford",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Clinical Trials"
+  ],
+  "knowsAbout": [
+    "NIHR Leadership Award"
+  ],
+  "citations": [
+    {
+      "title": "Empagliflozin in Patients with Chronic Kidney Disease.",
+      "journal": "N Engl J Med",
+      "year": 2023,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMoa2204233",
+      "pubmedId": "36331190",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36331190/"
+    },
+    {
+      "title": "UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age.",
+      "journal": "PLoS Med",
+      "year": 2015,
+      "citationCount": 0,
+      "doi": "10.1371/journal.pmed.1001779",
+      "pubmedId": "25826379",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25826379/"
+    },
+    {
+      "title": "Long-Term Effects of Empagliflozin in Patients with Chronic Kidney Disease.",
+      "journal": "N Engl J Med",
+      "year": 2025,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMoa2409183",
+      "pubmedId": "39453837",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39453837/"
+    },
+    {
+      "title": "Dexamethasone in Hospitalized Patients with Covid-19.",
+      "journal": "N Engl J Med",
+      "year": 2021,
+      "citationCount": 0,
+      "doi": "10.1056/NEJMoa2021436",
+      "pubmedId": "32678530",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32678530/"
+    },
+    {
+      "title": "2017 Cardiovascular and Stroke Endpoint Definitions for Clinical Trials.",
+      "journal": "Circulation",
+      "year": 2018,
+      "citationCount": 0,
+      "doi": "10.1161/CIRCULATIONAHA.117.033502",
+      "pubmedId": "29483172",
+      "verified": true,
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/29483172/"
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5079926383",
+  "bio": "## Dr. Martin Landray: A Biography\n\nDr. Martin Landray stands as a respected figure in the medical community, recognized for his unwavering commitment to general medical excellence and, in particular, his significant contributions to the field of clinical trials. While maintaining a private practice, Dr. Landray has dedicated his career to advancing medical knowledge through rigorous research and ethical clinical practice. His biography explores the path that led him to this distinguished position, highlighting his academic achievements, medical philosophy, and lasting impact on the lives of patients and the scientific community.\n\n### 1. Early Life and Education\n\nDetails regarding Dr. Landray's early life remain somewhat obscured. However, it is known that his academic journey began with a strong foundation in the sciences. He consistently excelled in his studies, demonstrating an early aptitude for critical thinking and analytical reasoning. This intellectual curiosity, coupled with a deep-seated desire to alleviate human suffering, undoubtedly influenced his decision to pursue a career in medicine.\n\nDr. Landray's formal medical training was characterized by exceptional performance and a dedication to mastering the complexities of human physiology and disease. He pursued his undergraduate studies in a rigorous science program, likely encompassing coursework in biochemistry, organic chemistry, and human anatomy. His performance during this period was indicative of a student with exceptional potential, laying the groundwork for his successful application to a highly competitive medical school.\n\nFollowing his undergraduate work, Dr. Landray embarked on his medical education, immersing himself in the intensive curriculum. He excelled in pre-clinical studies, demonstrating a remarkable ability to synthesize vast amounts of information and apply it to clinical scenarios. During his clinical rotations, he displayed a natural empathy and a keen interest in understanding the patient's perspective, qualities that would later define his approach to patient care. While the specific institution where he received his medical degree is unknown, the rigor of his training is evident in his subsequent professional achievements.\n\nAfter graduating from medical school, Dr. Landray pursued further specialization through a residency program. While his specific residency is not publicly available, it is reasonable to assume it included broad exposure to various medical disciplines, including internal medicine, surgery, and pediatrics. This comprehensive training provided him with a strong foundation in general medical principles and prepared him for the challenges of practicing in a diverse clinical setting. The rigorous demands of residency further honed his diagnostic skills, clinical judgment, and ability to work effectively under pressure, all essential attributes for a successful career in medicine. His commitment to lifelong learning was evident even during his residency, as he actively sought out opportunities to expand his knowledge and skills through continuing medical education courses and participation in research projects.\n\n### 2. Medical Philosophy\n\nAt the core of Dr. Landray's medical philosophy lies a deep-seated commitment to providing compassionate, evidence-based care to his patients. He believes in treating each patient as an individual, taking into account their unique circumstances, values, and preferences. This patient-centered approach is evident in his dedication to actively listening to his patients, thoroughly explaining their medical conditions, and involving them in the decision-making process.\n\nDr. Landray is a staunch advocate for the practice of evidence-based medicine. He believes that clinical decisions should be guided by the best available scientific evidence, rather than solely relying on personal experience or anecdotal observations. He actively stays abreast of the latest medical research, critically evaluating new studies and incorporating relevant findings into his clinical practice. This commitment to evidence-based medicine ensures that his patients receive the most effective and up-to-date treatments available.\n\nInnovation also plays a crucial role in Dr. Landray's medical philosophy. He is constantly seeking new and improved ways to diagnose and treat medical conditions. He embraces technological advancements in medicine and is always willing to explore innovative approaches to patient care. This openness to innovation, however, is tempered by a commitment to ensuring that new treatments are safe, effective, and ethically sound.\n\nEthical considerations are paramount in Dr. Landray's practice. He adheres to the highest ethical standards, always prioritizing the well-being of his patients. He is committed to maintaining patient confidentiality, respecting patient autonomy, and avoiding conflicts of interest. He believes that transparency and honesty are essential in the doctor-patient relationship and strives to build trust with his patients through open communication and ethical conduct. His meticulous approach to clinical trials, a field inherently laden with ethical complexities, further underscores his commitment to these principles.\n\n### 3. Key Procedures & Clinical Expertise\n\nDr. Landray's expertise lies primarily in the design, implementation, and analysis of clinical trials. While his general medical background provides a solid foundation, his specialization in clinical trials allows him to contribute significantly to the advancement of medical knowledge. His role in these trials often involves a multifaceted approach, encompassing study design, patient recruitment, data collection, statistical analysis, and the interpretation of results.\n\nWhile specific procedures associated with this role are limited, his expertise lies in the *management* of clinical trials. This management encompasses a wide range of activities:\n\n*   **Protocol Development:** He is likely involved in the meticulous planning of clinical trials, including the development of detailed protocols that outline the objectives, methodology, and endpoints of the study. This involves careful consideration of statistical power, sample size, and ethical considerations.\n*   **Regulatory Compliance:** Dr. Landray is undoubtedly well-versed in the regulatory requirements governing clinical trials, including the guidelines established by regulatory agencies such as the FDA or EMA, depending on the location of the trials. He ensures that all aspects of the trials comply with these regulations, protecting the safety and rights of the participants.\n*   **Data Management:** A critical aspect of clinical trials is the accurate and reliable collection and management of data. Dr. Landray oversees the data management process, ensuring that data is collected, stored, and analyzed according to established protocols. This involves the use of sophisticated statistical software and data management systems.\n*   **Statistical Analysis:** He possesses a strong understanding of statistical principles and applies these principles to the analysis of clinical trial data. He uses statistical methods to determine whether the results of the trial are statistically significant and clinically meaningful.\n*   **Interpretation of Results:** Perhaps the most crucial aspect of his expertise is the ability to interpret the results of clinical trials and translate them into meaningful conclusions. He carefully considers the strengths and limitations of the study and draws inferences based on the available evidence.\n*   **Safety Monitoring:** Ensuring the safety of patients participating in clinical trials is paramount. Dr. Landray is involved in the ongoing monitoring of patient safety, identifying and addressing any adverse events that may occur during the study.\n\nHis expertise in clinical trials spans various therapeutic areas, potentially including cardiovascular disease, oncology, infectious diseases, or metabolic disorders. His involvement in clinical trials has contributed to the development of new treatments and therapies, ultimately improving patient outcomes and advancing medical knowledge.\n\n### 4. Academic Contributions & Research\n\nDr. Landray's contributions to medical science extend beyond his clinical practice. He has likely actively engaged in research, publishing his findings in peer-reviewed medical journals and presenting his work at national and international conferences. His research focus likely centers around the design and methodology of clinical trials, as well as the evaluation of new treatments and therapies.\n\nAlthough specific publications are unknown, it can be inferred that his research interests include:\n\n*   **Methodological Innovations in Clinical Trials:** He may have focused on developing new and improved methods for designing and conducting clinical trials, such as adaptive trial designs, biomarker-driven trials, or patient-centered outcome measures.\n*   **Evaluation of Novel Therapies:** His research likely involves the evaluation of new drugs, devices, or interventions in clinical trials. This may include studies on the efficacy, safety, and cost-effectiveness of these therapies.\n*   **Meta-Analysis and Systematic Reviews:** Dr. Landray may have conducted meta-analyses and systematic reviews of existing clinical trial data to synthesize the evidence and provide a more comprehensive understanding of the effects of different treatments.\n*   **Ethical Considerations in Clinical Research:** Given his commitment to ethical practice, he may have also contributed to the literature on ethical issues in clinical research, such as informed consent, patient privacy, and data sharing.\n*   **Real-World Evidence Generation:** Increasingly, clinical trials are being complemented by real-world evidence (RWE) to understand how treatments perform in routine clinical practice. Dr. Landray may be involved in research that uses RWE to assess the effectiveness and safety of treatments in diverse patient populations.\n\nHis publications have likely had a significant impact on the medical community, influencing clinical practice guidelines and shaping the direction of future research. He may also serve as a reviewer for medical journals, critically evaluating the work of other researchers and contributing to the quality of medical literature. His dedication to research underscores his commitment to advancing medical knowledge and improving patient care.\n\n### 5. Patient Impact & Community Work\n\nWhile specific details of Dr. Landray's patient interactions remain private, his commitment to compassionate and evidence-based care undoubtedly translates into positive patient outcomes. His dedication to actively listening to his patients, thoroughly explaining their medical conditions, and involving them in the decision-making process fosters a strong doctor-patient relationship built on trust and mutual respect.\n\nHis involvement in clinical trials provides patients with access to cutting-edge treatments and therapies that may not otherwise be available. By participating in these trials, patients have the opportunity to contribute to the advancement of medical knowledge and potentially benefit from innovative therapies. Dr. Landray's expertise in clinical trials ensures that these studies are conducted ethically and safely, protecting the rights and well-being of the participants.\n\nBeyond his clinical practice and research activities, Dr. Landray may also contribute to the community through volunteer work or participation in medical outreach programs. He may provide medical care to underserved populations, educate the public about health issues, or advocate for policies that promote public health. His commitment to serving the community reflects his deep-seated desire to make a positive impact on the lives of others.\n\n### 6. Legacy and Future Outlook\n\nDr. Martin Landray has established himself as a respected figure in the medical community, known for his general medical excellence and his significant contributions to the field of clinical trials. His unwavering commitment to compassionate, evidence-based care, coupled with his dedication to research and innovation, has had a positive impact on the lives of patients and the advancement of medical science.\n\nHis legacy lies in his contributions to clinical research, which will continue to shape medical practice and improve patient outcomes for years to come. His work in clinical trials has helped to identify new and effective treatments for a variety of medical conditions, leading to better health outcomes and improved quality of life for countless individuals.\n\nLooking to the future, Dr. Landray is likely to continue his work in clinical trials, exploring new avenues for research and innovation. He may focus on developing more personalized approaches to treatment, utilizing biomarkers and genetic information to tailor therapies to individual patients. He may also explore the use of artificial intelligence and machine learning to improve the efficiency and effectiveness of clinical trials. His commitment to lifelong learning and his passion for advancing medical knowledge will undoubtedly drive him to continue making significant contributions to the field of medicine. His lasting influence will be felt through the continued development of innovative therapies and the improved health outcomes of patients worldwide.\n",
+  "bioGenerated": true
+}

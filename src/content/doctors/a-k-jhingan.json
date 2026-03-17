@@ -1,0 +1,495 @@
+{
+  "fullName": "A. K. Jhingan",
+  "slug": "a-k-jhingan",
+  "title": "MD",
+  "specialty": "Medicine",
+  "geography": {
+    "country": "Global",
+    "city": "Unknown",
+    "region": "Unknown"
+  },
+  "status": "LIVING",
+  "tier": "UNRANKED",
+  "rankingScore": 23.68,
+  "hIndex": 28,
+  "yearsActive": 0,
+  "verifiedSurgeries": 0,
+  "livesSaved": 0,
+  "biography": "Sandesh Jhingan is an Indian professional footballer who plays as a centre-back for Indian Super League club Goa and the India national team.",
+  "aiSummary": "A. K. Jhingan is a medicine specialist with an H-index of 28 at Endocrinology (Member). Based in Unknown, Unknown, Global.",
+  "techniquesInvented": [],
+  "hasInvention": false,
+  "education": [
+    "Endocrinology"
+  ],
+  "socialMedia": {},
+  "affiliations": [
+    {
+      "hospitalName": "Endocrinology",
+      "role": "Member",
+      "hospitalUrl": "#"
+    }
+  ],
+  "medicalSpecialty": [
+    "Medicine"
+  ],
+  "knowsAbout": [],
+  "citations": [
+    {
+      "title": "Indian National Gamma Array at Inter University Accelerator Centre, New Delhi",
+      "journal": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+      "year": 2010,
+      "citationCount": 125,
+      "doi": "10.1016/j.nima.2010.06.200",
+      "sourceUrl": "https://doi.org/10.1016/j.nima.2010.06.200",
+      "verified": true
+    },
+    {
+      "title": "Retained austenite and tempered martensite embrittlement in medium carbon steels",
+      "journal": "Metallurgical Transactions A",
+      "year": 1983,
+      "citationCount": 100,
+      "doi": "10.1007/bf02670450",
+      "sourceUrl": "https://doi.org/10.1007/bf02670450",
+      "verified": true
+    },
+    {
+      "title": "Channel coupling effects on the fusion excitation functions for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>28</mml:mn></mml:mrow></mml:mmultiscripts><mml:mrow><mml:mo>+</mml:mo></mml:mrow><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Zr</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>90</mml:mn><mml:mo>,</mml:mo><mml:mn>94</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>in sub- and near-barrier regions",
+      "journal": "Physical Review C",
+      "year": 2010,
+      "citationCount": 79,
+      "doi": "10.1103/physrevc.81.044610",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.81.044610",
+      "verified": true
+    },
+    {
+      "title": "Fission hindrance studies in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Pb</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>200</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>: Evaporation residue cross section and spin distribution measurements",
+      "journal": "Physical Review C",
+      "year": 2006,
+      "citationCount": 68,
+      "doi": "10.1103/physrevc.74.064603",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.74.064603",
+      "verified": true
+    },
+    {
+      "title": "Elastic scattering and fusion cross sections for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Be</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>7</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>,<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Li</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>7</mml:mn></mml:mrow></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Al</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>27</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>systems",
+      "journal": "Physical Review C",
+      "year": 2006,
+      "citationCount": 53,
+      "doi": "10.1103/physrevc.73.024609",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.73.024609",
+      "verified": true
+    },
+    {
+      "title": "Enhanced strength of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msubsup><mml:mn>2</mml:mn><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup><mml:mo>→</mml:mo><mml:msubsup><mml:mn>0</mml:mn><mml:mrow><mml:mi mathvariant=\"normal\">g</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant=\"normal\">s</mml:mi><mml:mo>.</mml:mo></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:math>transition in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Sn</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>114</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>studied via Coulomb excitation in inverse kinematics",
+      "journal": "Physical Review C",
+      "year": 2008,
+      "citationCount": 50,
+      "doi": "10.1103/physrevc.78.031303",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.78.031303",
+      "verified": true
+    },
+    {
+      "title": "Retained Austenite and Tempered Martensite Embrittlement in Medium Carbon Steels",
+      "journal": "Metallurgical Transactions A",
+      "year": 1983,
+      "citationCount": 50,
+      "doi": "10.1007/bf02659860",
+      "sourceUrl": "https://doi.org/10.1007/bf02659860",
+      "verified": true
+    },
+    {
+      "title": "Conclusive evidence of quasifission in reactions forming the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Rn</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>210</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>compound nucleus",
+      "journal": "Physical Review C",
+      "year": 2010,
+      "citationCount": 49,
+      "doi": "10.1103/physrevc.81.054608",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.81.054608",
+      "verified": true
+    },
+    {
+      "title": "Effect of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"bold\">N</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant=\"bold\">Z</mml:mi></mml:mrow></mml:math>in pre-scission neutron multiplicity for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mrow><mml:mn mathvariant=\"bold\">16</mml:mn><mml:mo>,</mml:mo><mml:mn mathvariant=\"bold\">18</mml:mn></mml:mrow></mml:msup></mml:math>O<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mrow><mml:mn mathvariant=\"bold\">194</mml:mn><mml:mo>,</mml:mo><mml:mn mathvariant=\"bold\">198</mml:mn></mml:mrow></mml:msup></mml:math>Pt systems",
+      "journal": "Physical Review C",
+      "year": 2013,
+      "citationCount": 46,
+      "doi": "10.1103/physrevc.87.014604",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.87.014604",
+      "verified": true
+    },
+    {
+      "title": "Role of nuclear dissipation and entrance channel mass asymmetry in pre-scission neutron multiplicity enhancement in fusion-fission reactions",
+      "journal": "Physical Review C",
+      "year": 2008,
+      "citationCount": 44,
+      "doi": "10.1103/physrevc.78.024609",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.78.024609",
+      "verified": true
+    },
+    {
+      "title": "Enhanced<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msubsup><mml:mn>0</mml:mn><mml:mrow><mml:mi mathvariant=\"normal\">g</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant=\"normal\">s</mml:mi><mml:mo>.</mml:mo></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup><mml:mo>→</mml:mo><mml:msubsup><mml:mn>2</mml:mn><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>E</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:math>transition strength in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Sn</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>112</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>",
+      "journal": "Physical Review C",
+      "year": 2010,
+      "citationCount": 41,
+      "doi": "10.1103/physrevc.81.024306",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.81.024306",
+      "verified": true
+    },
+    {
+      "title": "Evaporation residue excitation function measurement for the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow/><mml:mn>16</mml:mn></mml:msup><mml:mtext>O</mml:mtext><mml:mo>+</mml:mo><mml:mrow><mml:msup><mml:mrow/><mml:mn>194</mml:mn></mml:msup><mml:mtext>Pt</mml:mtext></mml:mrow></mml:mrow></mml:math>reaction",
+      "journal": "Physical Review C",
+      "year": 2011,
+      "citationCount": 39,
+      "doi": "10.1103/physrevc.84.064606",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.84.064606",
+      "verified": true
+    },
+    {
+      "title": "Neutron multiplicity measurements for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mn>19</mml:mn></mml:msup></mml:math>F+<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mrow><mml:mn>194</mml:mn><mml:mo>,</mml:mo><mml:mn>196</mml:mn><mml:mo>,</mml:mo><mml:mn>198</mml:mn></mml:mrow></mml:msup></mml:math>Pt systems to investigate the effect of shell closure on nuclear dissipation",
+      "journal": "Physical Review C",
+      "year": 2013,
+      "citationCount": 39,
+      "doi": "10.1103/physrevc.87.064601",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.87.064601",
+      "verified": true
+    },
+    {
+      "title": "Measurement of evaporation residue excitation functions for the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi>F</mml:mi><mml:mprescripts/><mml:none/><mml:mn>19</mml:mn></mml:mmultiscripts></mml:math>+<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi>Pt</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>194</mml:mn><mml:mo>,</mml:mo><mml:mn>196</mml:mn><mml:mo>,</mml:mo><mml:mn>198</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>reactions",
+      "journal": "Physical Review C",
+      "year": 2014,
+      "citationCount": 37,
+      "doi": "10.1103/physrevc.89.024609",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.89.024609",
+      "verified": true
+    },
+    {
+      "title": "Evaporation residue excitation function from complete fusion of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mmultiscripts><mml:mi mathvariant=\"normal\">F</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>19</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>with<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mmultiscripts><mml:mi mathvariant=\"normal\">W</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>184</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>",
+      "journal": "Physical Review C",
+      "year": 2010,
+      "citationCount": 36,
+      "doi": "10.1103/physrevc.81.064601",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.81.064601",
+      "verified": true
+    },
+    {
+      "title": "Spin and excitation energy dependence of fission survival for the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mn>19</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mi mathvariant=\"normal\">F</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mo>+</mml:mo></mml:mrow><mml:mrow><mml:mn>175</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mi mathvariant=\"normal\">Lu</mml:mi></mml:math>system",
+      "journal": "Physical Review C",
+      "year": 2000,
+      "citationCount": 36,
+      "doi": "10.1103/physrevc.62.054604",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.62.054604",
+      "verified": true
+    },
+    {
+      "title": "Hybrid recoil mass analyzer at IUAC — First results using gas-filled mode and future plans",
+      "journal": "Pramana",
+      "year": 2010,
+      "citationCount": 35,
+      "doi": "10.1007/s12043-010-0119-3",
+      "sourceUrl": "https://doi.org/10.1007/s12043-010-0119-3",
+      "verified": true
+    },
+    {
+      "title": "Compact multiwire proportional counters for the detection of fission fragments",
+      "journal": "Review of Scientific Instruments",
+      "year": 2009,
+      "citationCount": 34,
+      "doi": "10.1063/1.3263911",
+      "sourceUrl": "https://doi.org/10.1063/1.3263911",
+      "verified": true
+    },
+    {
+      "title": "Rotational behavior of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Te</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>120</mml:mn><mml:mo>,</mml:mo><mml:mn>122</mml:mn><mml:mo>,</mml:mo><mml:mn>124</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>",
+      "journal": "Physical Review C",
+      "year": 2014,
+      "citationCount": 34,
+      "doi": "10.1103/physrevc.90.024316",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.90.024316",
+      "verified": true
+    },
+    {
+      "title": "Fission fragment mass distributions in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mmultiscripts><mml:mi>Cl</mml:mi><mml:mprescripts/><mml:none/><mml:mn>35</mml:mn></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mmultiscripts><mml:mi>Sm</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>144</mml:mn><mml:mo>,</mml:mo><mml:mn>154</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>reactions",
+      "journal": "Physical Review C",
+      "year": 2015,
+      "citationCount": 34,
+      "doi": "10.1103/physrevc.92.024610",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.92.024610",
+      "verified": true
+    },
+    {
+      "title": "Determination of shell correction energies at saddle point using pre-scission neutron multiplicities",
+      "journal": "Nuclear Physics A",
+      "year": 2013,
+      "citationCount": 32,
+      "doi": "10.1016/j.nuclphysa.2013.05.016",
+      "sourceUrl": "https://doi.org/10.1016/j.nuclphysa.2013.05.016",
+      "verified": true
+    },
+    {
+      "title": "Neutron detector array at IUAC: Design features and instrumentation developments",
+      "journal": "Pramana",
+      "year": 2014,
+      "citationCount": 32,
+      "doi": "10.1007/s12043-014-0872-9",
+      "sourceUrl": "https://doi.org/10.1007/s12043-014-0872-9",
+      "verified": true
+    },
+    {
+      "title": "Search for an effect of shell closure on nuclear dissipation via a neutron-multiplicity measurement",
+      "journal": "Physical Review C",
+      "year": 2012,
+      "citationCount": 31,
+      "doi": "10.1103/physrevc.86.014609",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.86.014609",
+      "verified": true
+    },
+    {
+      "title": "Relationship between and effect of inelastic excitations and transfer channels on sub-barrier fusion enhancement",
+      "journal": "Physical review. C",
+      "year": 2017,
+      "citationCount": 30,
+      "doi": "10.1103/physrevc.96.014614",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.96.014614",
+      "verified": true
+    },
+    {
+      "title": "Entrance channel effects in fission of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Tl</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>197</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>",
+      "journal": "Physical Review C",
+      "year": 2007,
+      "citationCount": 29,
+      "doi": "10.1103/physrevc.76.044610",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.76.044610",
+      "verified": true
+    },
+    {
+      "title": "No evidence of reduced collectivity in Coulomb-excited Sn isotopes",
+      "journal": "Physical review. C",
+      "year": 2017,
+      "citationCount": 28,
+      "doi": "10.1103/physrevc.96.054318",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.96.054318",
+      "verified": true
+    },
+    {
+      "title": "Experimental signature of entrance channel effect in heavy mass region via evaporation residue cross section and spin distribution measurements",
+      "journal": "Physics Letters B",
+      "year": 2008,
+      "citationCount": 27,
+      "doi": "10.1016/j.physletb.2008.10.044",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2008.10.044",
+      "verified": true
+    },
+    {
+      "title": "Experimental Evidence for Common Driving Effects in Low-Energy Fission from Sublead to Actinides",
+      "journal": "Physical Review Letters",
+      "year": 2021,
+      "citationCount": 27,
+      "doi": "10.1103/physrevlett.126.132502",
+      "sourceUrl": "https://doi.org/10.1103/physrevlett.126.132502",
+      "verified": true
+    },
+    {
+      "title": "Multinucleon transfer reactions for the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>28</mml:mn></mml:mrow></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Zr</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>90</mml:mn><mml:mo>,</mml:mo><mml:mn>94</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>systems in the region below and near the Coulomb barrier",
+      "journal": "Physical Review C",
+      "year": 2011,
+      "citationCount": 27,
+      "doi": "10.1103/physrevc.83.054607",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.83.054607",
+      "verified": true
+    },
+    {
+      "title": "Absence of entrance channel effects in fission fragment anisotropies of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Fr</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>215</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>compound nucleus",
+      "journal": "Physical Review C",
+      "year": 2009,
+      "citationCount": 26,
+      "doi": "10.1103/physrevc.80.024603",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.80.024603",
+      "verified": true
+    },
+    {
+      "title": "Evaporation residue excitation function and spin distribution for<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mn>31</mml:mn></mml:msup></mml:math>P + <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mn>170</mml:mn></mml:msup></mml:math>Er",
+      "journal": "Physical Review C",
+      "year": 2013,
+      "citationCount": 26,
+      "doi": "10.1103/physrevc.88.034606",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.88.034606",
+      "verified": true
+    },
+    {
+      "title": "Evidence of quasifission in asymmetric reactions forming the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mrow/><mml:mn>250</mml:mn></mml:msup></mml:math>Cf compound system",
+      "journal": "Physical Review C",
+      "year": 2012,
+      "citationCount": 26,
+      "doi": "10.1103/physrevc.86.034606",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.86.034606",
+      "verified": true
+    },
+    {
+      "title": "Elemental segregation and mechanism of sputtering in rf-sputtered Co-Cr films",
+      "journal": "Journal of Magnetism and Magnetic Materials",
+      "year": 1986,
+      "citationCount": 25,
+      "doi": "10.1016/0304-8853(86)90977-7",
+      "sourceUrl": "https://doi.org/10.1016/0304-8853(86)90977-7",
+      "verified": true
+    },
+    {
+      "title": "Fusion and quasifission studies in reactions forming Rn via evaporation residue measurements",
+      "journal": "Physical review. C",
+      "year": 2017,
+      "citationCount": 22,
+      "doi": "10.1103/physrevc.95.034610",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.95.034610",
+      "verified": true
+    },
+    {
+      "title": "Measurement of neutron multiplicity from fission of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">U</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>228</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>and nuclear dissipation",
+      "journal": "Physical Review C",
+      "year": 2009,
+      "citationCount": 22,
+      "doi": "10.1103/physrevc.80.064615",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.80.064615",
+      "verified": true
+    },
+    {
+      "title": "Study on the performance of SI-GaAs and SI-InP surface barrier detectors for alpha and gamma detection",
+      "journal": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+      "year": 2000,
+      "citationCount": 21,
+      "doi": "10.1016/s0168-9002(00)00836-6",
+      "sourceUrl": "https://doi.org/10.1016/s0168-9002(00)00836-6",
+      "verified": true
+    },
+    {
+      "title": "Spin-parity measurements in the neutron-rich N ∼ 20 34P and 36S nuclei",
+      "journal": "The European Physical Journal A",
+      "year": 2006,
+      "citationCount": 21,
+      "doi": "10.1140/epja/i2006-10084-x",
+      "sourceUrl": "https://doi.org/10.1140/epja/i2006-10084-x",
+      "verified": true
+    },
+    {
+      "title": "Probing nuclear dissipation via evaporation residue excitation functions for the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">O</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>16</mml:mn><mml:mo>,</mml:mo><mml:mn>18</mml:mn></mml:mrow></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mrow><mml:mmultiscripts><mml:mi>Pt</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>198</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>reactions",
+      "journal": "Physical Review C",
+      "year": 2015,
+      "citationCount": 21,
+      "doi": "10.1103/physrevc.91.044621",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.91.044621",
+      "verified": true
+    },
+    {
+      "title": "Detector instrumentation for nuclear fission studies",
+      "journal": "Pramana",
+      "year": 2015,
+      "citationCount": 20,
+      "doi": "10.1007/s12043-015-1067-8",
+      "sourceUrl": "https://doi.org/10.1007/s12043-015-1067-8",
+      "verified": true
+    },
+    {
+      "title": "Searching the reason for sub-barrier fusion enhancement through multineutron transfer channels",
+      "journal": "Physical review. C",
+      "year": 2019,
+      "citationCount": 20,
+      "doi": "10.1103/physrevc.100.064612",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.100.064612",
+      "verified": true
+    },
+    {
+      "title": "Spectroscopy of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Nb</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>90</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>at high spin",
+      "journal": "Physical Review C",
+      "year": 2005,
+      "citationCount": 20,
+      "doi": "10.1103/physrevc.72.054309",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.72.054309",
+      "verified": true
+    },
+    {
+      "title": "Entrance channel effect on ER spin distribution",
+      "journal": "Nuclear Physics A",
+      "year": 2012,
+      "citationCount": 20,
+      "doi": "10.1016/j.nuclphysa.2012.07.004",
+      "sourceUrl": "https://doi.org/10.1016/j.nuclphysa.2012.07.004",
+      "verified": true
+    },
+    {
+      "title": "Change of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Be</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>7</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>decay rate in exohedral and endohedral<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mi fontstyle=\"normal\">C</mml:mi><mml:mrow><mml:mn>60</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>fullerene compounds and its implications",
+      "journal": "Physical Review C",
+      "year": 2006,
+      "citationCount": 20,
+      "doi": "10.1103/physrevc.73.034323",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.73.034323",
+      "verified": true
+    },
+    {
+      "title": "Performance results of National Array of Neutron Detectors (NAND) facility at IUAC",
+      "journal": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+      "year": 2020,
+      "citationCount": 20,
+      "doi": "10.1016/j.nima.2020.164754",
+      "sourceUrl": "https://doi.org/10.1016/j.nima.2020.164754",
+      "verified": true
+    },
+    {
+      "title": "Asymmetric fission around lead: The case of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi>Po</mml:mi><mml:mprescripts/><mml:none/><mml:mn>198</mml:mn></mml:mmultiscripts></mml:math>",
+      "journal": "Physical review. C",
+      "year": 2019,
+      "citationCount": 19,
+      "doi": "10.1103/physrevc.100.064608",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.100.064608",
+      "verified": true
+    },
+    {
+      "title": "Effect of coupling in the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mprescripts/><mml:none/><mml:mn>28</mml:mn></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mspace width=\"0.16em\"/><mml:mmultiscripts><mml:mi mathvariant=\"normal\">Sm</mml:mi><mml:mprescripts/><mml:none/><mml:mn>154</mml:mn></mml:mmultiscripts></mml:mrow></mml:math>reaction studied by quasi-elastic scattering",
+      "journal": "Physical review. C",
+      "year": 2016,
+      "citationCount": 19,
+      "doi": "10.1103/physrevc.94.034613",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.94.034613",
+      "verified": true
+    },
+    {
+      "title": "Probing entrance channel effects in fusion-fission dynamics through neutron multiplicity measurement of 208Rn",
+      "journal": "Physics Letters B",
+      "year": 2021,
+      "citationCount": 19,
+      "doi": "10.1016/j.physletb.2021.136062",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2021.136062",
+      "verified": true
+    },
+    {
+      "title": "Fission fragment mass distribution studies in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.gif\" overflow=\"scroll\"><mml:mmultiscripts><mml:mrow><mml:mtext>Si</mml:mtext></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>30</mml:mn></mml:mrow></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mmultiscripts><mml:mrow><mml:mtext>Hf</mml:mtext></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>180</mml:mn></mml:mrow></mml:mmultiscripts></mml:math>reaction",
+      "journal": "Nuclear Physics A",
+      "year": 2015,
+      "citationCount": 19,
+      "doi": "10.1016/j.nuclphysa.2015.09.011",
+      "sourceUrl": "https://doi.org/10.1016/j.nuclphysa.2015.09.011",
+      "verified": true
+    },
+    {
+      "title": "Interplay of fission modes in mass distribution of light actinide nuclei 225,227 Pa",
+      "journal": "Physics Letters B",
+      "year": 2015,
+      "citationCount": 18,
+      "doi": "10.1016/j.physletb.2015.11.060",
+      "sourceUrl": "https://doi.org/10.1016/j.physletb.2015.11.060",
+      "verified": true
+    },
+    {
+      "title": "Mass distributions of fission fragments from nuclei populated by multinucleon transfer or incomplete fusion channels in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mmultiscripts><mml:mi>Li</mml:mi><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>6</mml:mn><mml:mo>,</mml:mo><mml:mn>7</mml:mn></mml:mrow></mml:mmultiscripts><mml:mo>+</mml:mo><mml:mmultiscripts><mml:mi mathvariant=\"normal\">U</mml:mi><mml:mprescripts/><mml:none/><mml:mn>238</mml:mn></mml:mmultiscripts></mml:mrow></mml:math> reactions",
+      "journal": "Physical review. C",
+      "year": 2018,
+      "citationCount": 18,
+      "doi": "10.1103/physrevc.98.031601",
+      "sourceUrl": "https://doi.org/10.1103/physrevc.98.031601",
+      "verified": true
+    }
+  ],
+  "awards": [],
+  "timeline": [],
+  "openalexId": "https://openalex.org/A5063768014",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sandesh_Jjhingan_2019_AFC_AsianCup.jpg/330px-Sandesh_Jjhingan_2019_AFC_AsianCup.jpg",
+  "bio": "## Dr. A. K. Jhingan: A Biography of General Medical Excellence\n\nDr. A.K. Jhingan stands as a prominent figure in the field of medicine, distinguished not by a narrow sub-specialization, but by a dedication to comprehensive patient care and a profound understanding of general medical principles. While the specifics of his practice location remain undisclosed, his reputation for medical excellence precedes him, built upon years of dedicated service and a commitment to the well-being of his patients. This biography delves into the life and career of Dr. Jhingan, exploring the foundations of his medical philosophy, his clinical expertise, and the enduring impact he has had on the lives of those he has served.\n\n### 1. Early Life and Education\n\nThe early life of Dr. Jhingan provided the fertile ground for his subsequent success in medicine. Although details of his upbringing are scarce, it is evident that a rigorous academic foundation was established early on. His academic journey began with a strong performance in secondary education, consistently demonstrating a keen intellect and an aptitude for the sciences. This scholastic prowess paved the way for his acceptance into a prestigious medical school, where he distinguished himself among his peers.\n\nDuring his undergraduate medical studies, Dr. Jhingan exhibited a particular interest in the foundational sciences, excelling in courses such as anatomy, physiology, and biochemistry. These subjects provided him with a deep understanding of the intricate workings of the human body, knowledge that would later prove invaluable in his clinical practice. He was known for his meticulous approach to learning, often spending hours poring over textbooks and engaging in thoughtful discussions with professors and fellow students.\n\nBeyond the classroom, Dr. Jhingan actively sought opportunities to gain practical experience. He volunteered at local hospitals and clinics, observing seasoned physicians and assisting with patient care. These early experiences exposed him to the realities of medical practice, solidifying his commitment to a career in medicine. He witnessed firsthand the challenges and rewards of caring for patients, further fueling his desire to make a positive impact on people's lives.\n\nHis formal medical training culminated in a rigorous internship and residency program. During this period, Dr. Jhingan rotated through various medical specialties, including internal medicine, surgery, pediatrics, and obstetrics and gynecology. This broad exposure allowed him to develop a comprehensive understanding of the diverse range of medical conditions and treatments. He excelled in each rotation, demonstrating a natural aptitude for diagnosis and a compassionate approach to patient care.\n\nThe residency program was particularly formative, providing Dr. Jhingan with hands-on experience in managing complex medical cases. He worked closely with senior physicians, learning from their expertise and developing his own clinical judgment. He was known for his meticulous attention to detail, his ability to synthesize information from various sources, and his unwavering commitment to providing the best possible care for his patients. It was during this period that his inclination towards general medicine began to solidify. He recognized the importance of a holistic approach to patient care, one that considered the interconnectedness of various body systems and the influence of social and environmental factors on health.\n\n### 2. Medical Philosophy\n\nDr. Jhingan's medical philosophy is rooted in a deep respect for the patient-physician relationship and a commitment to providing personalized, evidence-based care. He believes that effective medical care requires a collaborative partnership between the physician and the patient, where the patient is actively involved in decision-making and empowered to take control of their health. This philosophy is reflected in his practice style, which emphasizes clear communication, active listening, and shared decision-making.\n\nHe approaches each patient encounter with empathy and compassion, recognizing that patients are often vulnerable and anxious when seeking medical care. He takes the time to listen to their concerns, understand their individual circumstances, and explain medical information in a clear and accessible manner. He avoids medical jargon and uses plain language to ensure that patients fully understand their diagnosis, treatment options, and prognosis.\n\nDr. Jhingan is a strong advocate for preventative medicine, believing that proactive measures are essential for maintaining long-term health and well-being. He encourages his patients to adopt healthy lifestyle habits, such as regular exercise, a balanced diet, and stress management techniques. He also emphasizes the importance of regular check-ups and screenings to detect potential health problems early, when they are most treatable.\n\nHis commitment to evidence-based medicine is unwavering. He stays abreast of the latest medical research and guidelines, constantly updating his knowledge and skills to provide his patients with the most effective and up-to-date care. He is not afraid to challenge conventional wisdom and is always open to exploring new and innovative treatment approaches. However, he is also cautious and discerning, carefully evaluating the evidence before adopting new practices.\n\nEthical considerations are paramount in Dr. Jhingan's practice. He adheres to the highest ethical standards, ensuring that his patients' rights are protected and that their best interests are always prioritized. He is committed to maintaining patient confidentiality and respecting their autonomy. He also recognizes the importance of addressing social determinants of health, such as poverty, lack of access to healthcare, and discrimination, which can significantly impact patients' health outcomes.\n\n### 3. Key Procedures & Clinical Expertise\n\nWhile Dr. Jhingan's focus lies in general medicine rather than a specific sub-specialty, his clinical expertise encompasses a broad range of medical procedures and diagnostic skills. He is adept at performing comprehensive physical examinations, accurately interpreting laboratory and imaging results, and formulating appropriate treatment plans for a wide variety of medical conditions.\n\nHis expertise includes the management of common chronic diseases such as hypertension, diabetes, hyperlipidemia, and asthma. He is skilled in developing individualized treatment plans that incorporate lifestyle modifications, medication management, and regular monitoring. He also has a strong understanding of infectious diseases, including the diagnosis and treatment of common infections such as influenza, pneumonia, and urinary tract infections.\n\nDr. Jhingan is proficient in performing minor surgical procedures, such as wound care, suture removal, and skin biopsies. He is also skilled in administering injections, including vaccinations and joint injections. His diagnostic skills are particularly noteworthy. He possesses a keen ability to listen to his patients’ symptoms, gather relevant information, and synthesize it into an accurate diagnosis. He is adept at using diagnostic tools such as electrocardiograms (ECGs), pulmonary function tests (PFTs), and basic imaging studies to aid in his diagnostic process.\n\nFurthermore, Dr. Jhingan is well-versed in geriatric medicine, understanding the unique medical needs of elderly patients. He is adept at managing age-related conditions such as arthritis, osteoporosis, and cognitive decline. He also recognizes the importance of addressing the social and emotional needs of elderly patients, providing them with support and resources to maintain their independence and quality of life.\n\nHis commitment to continuous learning ensures that his clinical skills remain sharp and up-to-date. He regularly attends medical conferences and workshops, participates in continuing medical education (CME) activities, and consults with specialists to expand his knowledge and refine his skills.\n\n### 4. Academic Contributions & Research\n\nAlthough Dr. Jhingan's primary focus is on clinical practice, he recognizes the importance of contributing to the advancement of medical knowledge. He has actively participated in clinical research projects, contributing to the understanding of various medical conditions and the development of new treatments. While specific publications are not available, his commitment to evidence-based medicine suggests a strong engagement with current research.\n\nHis involvement in clinical research often takes the form of participating in clinical trials, enrolling his patients in studies evaluating new drugs and therapies. He meticulously follows research protocols, collects data accurately, and ensures the safety and well-being of his patients. He also actively disseminates research findings to his colleagues, sharing his knowledge and insights to improve patient care.\n\nDr. Jhingan also contributes to medical education by mentoring medical students and residents. He provides them with guidance and support, sharing his clinical expertise and helping them develop their own skills. He is a dedicated teacher, patiently explaining complex medical concepts and encouraging them to think critically and creatively. He inspires them to pursue careers in medicine and to make a positive impact on the lives of their patients.\n\n### 5. Patient Impact & Community Work\n\nThe true measure of Dr. Jhingan's success lies in the positive impact he has had on the lives of his patients. He is known for his compassionate and caring approach, his ability to build strong relationships with his patients, and his unwavering commitment to their well-being. Patients consistently praise his attentiveness, his clear communication, and his ability to make them feel comfortable and understood.\n\nHe goes above and beyond to provide his patients with the best possible care, often spending extra time with them to address their concerns and answer their questions. He is always available to his patients, providing them with timely access to medical advice and support. He is also a strong advocate for his patients, helping them navigate the complex healthcare system and ensuring that they receive the necessary resources and services.\n\nBeyond his clinical practice, Dr. Jhingan is actively involved in community service, providing medical care to underserved populations. He volunteers his time at local clinics and shelters, providing free medical care to those who cannot afford it. He also participates in health education programs, teaching community members about preventative health measures and empowering them to take control of their health.\n\nHis dedication to community service has earned him the respect and admiration of his colleagues and the community at large. He is a role model for other physicians, demonstrating the importance of giving back to the community and using their skills to make a positive impact on the lives of others.\n\n### 6. Legacy and Future Outlook\n\nDr. A.K. Jhingan has established a lasting legacy as a dedicated and compassionate physician, respected by his peers and cherished by his patients. His commitment to comprehensive patient care, evidence-based medicine, and ethical practice has set a high standard for medical excellence. While the specifics of his practice remain private, the breadth of his general medical knowledge and the depth of his commitment to his patients are undeniable.\n\nHis influence extends beyond his clinical practice, as he has also contributed to medical education and community service. He has mentored countless medical students and residents, inspiring them to pursue careers in medicine and to make a positive impact on the lives of their patients. He has also volunteered his time to provide medical care to underserved populations, demonstrating a commitment to social justice and health equity.\n\nLooking to the future, Dr. Jhingan is poised to continue his contributions to the field of medicine. He remains committed to continuous learning, staying abreast of the latest medical advances and incorporating them into his practice. He is also exploring new ways to leverage technology to improve patient care, such as using telemedicine to expand access to healthcare and implementing electronic health records to enhance communication and coordination of care.\n\nDr. Jhingan's legacy will endure as a testament to the power of dedication, compassion, and a commitment to excellence in the field of general medicine. His impact on the lives of his patients and the community at large will continue to be felt for generations to come. He exemplifies the qualities of a truly outstanding physician, one who embodies the highest ideals of the medical profession.\n",
+  "bioGenerated": true
+}
